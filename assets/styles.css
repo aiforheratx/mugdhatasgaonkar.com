@@ -166,6 +166,56 @@ section { padding: clamp(3.5rem, 8vw, 5.5rem) 0; position: relative; }
 @keyframes drift2 { to { transform: translate(-5rem, 5rem) scale(0.92); } }
 
 .hero-copy { position: relative; z-index: 1; }
+
+.hero-grid {
+  display: grid; gap: 2.5rem; align-items: center;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 56rem) { .hero-grid { grid-template-columns: 1.25fr 0.75fr; gap: 3rem; } }
+
+/* portrait in a slowly-turning gradient ring, floating over the canvas */
+.portrait {
+  position: relative; z-index: 1;
+  width: min(62vw, 240px); aspect-ratio: 1;
+  margin: 0 auto;
+  animation: floaty 7s ease-in-out infinite;
+}
+@media (min-width: 56rem) { .portrait { width: min(30vw, 360px); margin: 0; justify-self: end; } }
+.portrait .ring {
+  position: absolute; inset: 0; border-radius: 50%;
+  background: conic-gradient(from 0deg, var(--accent), var(--accent2), var(--accent3), var(--accent));
+  animation: ringspin 9s linear infinite;
+  filter: drop-shadow(0 0 26px rgba(96,165,250,0.35));
+}
+.portrait img {
+  position: absolute; inset: 5px; width: calc(100% - 10px); height: calc(100% - 10px);
+  border-radius: 50%; object-fit: cover; object-position: 50% 18%;
+  border: 4px solid var(--bg);
+}
+@keyframes ringspin { to { transform: rotate(360deg); } }
+@keyframes floaty { 50% { transform: translateY(-9px); } }
+
+/* round avatar (about page hero) */
+.avatar-lg {
+  width: clamp(10rem, 24vw, 15rem); height: auto; aspect-ratio: 1;
+  border-radius: 50%; object-fit: cover;
+  border: 3px solid var(--line);
+  box-shadow: 0 14px 50px -14px rgba(59,130,246,0.45);
+  justify-self: center;
+}
+@media (min-width: 60rem) { .avatar-lg { justify-self: end; } }
+
+/* image row inside recognition / case studies */
+.figure {
+  margin: 1.5rem 0 0; max-width: 26rem;
+  border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line);
+}
+.figure img { display: block; width: 100%; height: auto; }
+
+.logo-chip {
+  width: 52px; height: 52px; border-radius: 12px; object-fit: cover;
+  border: 1px solid var(--line); margin-bottom: 0.9rem;
+}
 .hero-copy .role {
   margin: 0 0 1.5rem; font-size: clamp(1.125rem, 2.6vw, 1.45rem); color: var(--muted);
   min-height: 1.6em;
