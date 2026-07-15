@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mbrain — Mugdha Tasgaonkar</title>
+<meta name="description" content="Mbrain — a command centre over a fleet of AI agents: live registry, status detection, connectors, and a neural map. Built by Mugdha Tasgaonkar.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
+<link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="../../">Mugdha Tasgaonkar</a>
+    <nav class="main" aria-label="Main">
+      <a href="../../">Home</a>
+      <a href="../" aria-current="page">Work</a>
+      <a href="../../about/">About</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="wrap">
+
+    <section class="hero">
+      <a class="back" href="../">← All work</a>
+      <p class="eyebrow"><span class="dot"></span>Platform · The brain</p>
+      <h1>Mbrain</h1>
+      <p class="lede">
+        Once you're running eight AI agents, the agents stop being the hard part. Knowing what
+        they're all doing becomes the hard part. Mbrain is the answer to that.
+      </p>
+    </section>
+
+    <section class="prose" data-reveal>
+      <h2>The problem</h2>
+      <p>
+        I build a lot of agents. A nonprofit's marketing fleet. A research pipeline. A coach. A
+        set of native apps. Individually each one works. Collectively they became a fog — I
+        couldn't tell you which were running, which had quietly died, which token was about to
+        expire and take a publishing pipeline down with it.
+      </p>
+      <p>
+        Every agent had its own conventions, its own credentials, its own idea of where it kept
+        state. The fleet had grown past what I could hold in my head, which is exactly the point
+        at which most side-project sprawl starts rotting.
+      </p>
+
+      <h2>What it is</h2>
+      <p>
+        A single source of truth for the whole fleet, plus the machinery to keep it honest.
+      </p>
+      <ul>
+        <li><strong>A registry</strong> — one canonical record of every agent: what it is, where
+            it lives, how it runs.</li>
+        <li><strong>Live status detection</strong> — probes what's actually running right now
+            rather than trusting what a config file claims.</li>
+        <li><strong>A neural command centre</strong> — a brain-hub map of every agent and
+            connector, with a live reporting console.</li>
+        <li><strong>Connectors</strong> — Gmail, LinkedIn, and Instagram wired once, centrally,
+            instead of re-solved per project.</li>
+        <li><strong>A credential vault and expiry monitor</strong> — a daily job that re-probes
+            every token against its provider and emails me before anything expires.</li>
+        <li><strong>A self-updating profile</strong> — a weekly headless job that re-reads my own
+            history and rewrites the brain's picture of what I'm working on.</li>
+      </ul>
+
+      <h2>The idea underneath</h2>
+      <p>
+        The credential monitor is the part I'd point at. It doesn't read a stored expiry date and
+        trust it — it asks each provider directly, every morning, and tells me seven days out.
+        The difference matters: stored state drifts, and the failure mode of a silently-expired
+        token is a publishing pipeline that looks healthy and posts nothing.
+      </p>
+      <p>
+        That's the whole philosophy in miniature. <strong>Probe reality, don't trust the
+        record.</strong> Live status detection over declared status. Verified tokens over
+        remembered ones. It's the same instinct that governance work in healthcare teaches you:
+        the system that says it's fine is not the same as the system that is fine.
+      </p>
+
+      <div class="note">
+        <p>
+          <strong>Meta note:</strong> this website is itself an Mbrain artefact — its source lives
+          in the registry alongside the agents, and it publishes from there.
+        </p>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© 2026 Mugdha Tasgaonkar · Austin, Texas</span>
+    <span class="footer-links">
+      <a href="../">Work</a>
+      <a href="../../about/">About</a>
+      <a href="https://www.linkedin.com/in/mugdhatasgaonkar" rel="me noopener">LinkedIn</a>
+    </span>
+  </div>
+</footer>
+
+<script src="../../assets/motion.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MindPulse — Mugdha Tasgaonkar</title>
+<meta name="description" content="MindPulse — a privacy-first iOS companion for women's mental health, using on-device AI, HealthKit, and a learned cycle-prediction engine.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
+<link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="../../">Mugdha Tasgaonkar</a>
+    <nav class="main" aria-label="Main">
+      <a href="../../">Home</a>
+      <a href="../" aria-current="page">Work</a>
+      <a href="../../about/">About</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="wrap">
+
+    <section class="hero">
+      <a class="back" href="../">← All work</a>
+      <p class="eyebrow"><span class="dot"></span>Product · In development</p>
+      <h1>MindPulse</h1>
+      <p class="lede">
+        An iOS companion for women's mental health, covering the conditions consumer health apps
+        tend to skip — PMDD, perimenopause, fertility, and the way they tangle with anxiety,
+        depression, ADHD, and autism.
+      </p>
+    </section>
+
+    <section class="prose" data-reveal>
+      <h2>Why this one</h2>
+      <p>
+        Women's health has a data problem that's really a priorities problem. The conditions that
+        shape daily life for millions of women are the ones with the thinnest tooling, the
+        vaguest guidance, and the least research behind them. PMDD is a good example: it's
+        debilitating, it's diagnosable only through prospective daily ratings across cycles, and
+        almost nothing helps you actually collect those ratings.
+      </p>
+      <p>
+        This is also the seam I know professionally. I spend my working life on clinical AI in a
+        regulated environment. MindPulse is what happens when I point that at a problem I'd
+        actually use.
+      </p>
+
+      <h2>How it's built</h2>
+      <ul>
+        <li><strong>SwiftUI, native.</strong> A health companion that stutters is a health
+            companion you stop opening.</li>
+        <li><strong>On-device AI first.</strong> Apple's FoundationModels run locally, so the
+            most sensitive category of data anyone has doesn't leave the phone to be useful.</li>
+        <li><strong>HealthKit, plus wearables.</strong> HealthKit-first for Apple Watch and
+            RingConn, with Oura available behind a config gate.</li>
+        <li><strong>A learned cycle-prediction engine</strong> that adapts to the person rather
+            than assuming a textbook 28 days.</li>
+        <li><strong>Clinician PDF export</strong> — prospective PMDD ratings in the form a doctor
+            can actually use in an appointment.</li>
+      </ul>
+
+      <h2>Privacy as architecture</h2>
+      <p>
+        The privacy posture isn't a policy page, it's a build decision. On-device inference means
+        there's no server-side pile of women's mental-health and fertility data to breach,
+        subpoena, or quietly monetise — because it doesn't exist. You can't leak what you never
+        collected.
+      </p>
+      <p>
+        The app also carries hard medical guardrails. It's a companion for tracking and
+        self-knowledge. It doesn't diagnose, and it's careful never to imply that it does.
+      </p>
+
+      <div class="note">
+        <p>
+          <strong>Status:</strong> in development, approaching market readiness, with a full unit
+          test suite green. Not yet released, and not a medical device. If you work in women's
+          health and want to talk about it,
+          <a href="mailto:mugdha.tasgaonkar@gmail.com">I'd like to hear from you</a>.
+        </p>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© 2026 Mugdha Tasgaonkar · Austin, Texas</span>
+    <span class="footer-links">
+      <a href="../">Work</a>
+      <a href="../../about/">About</a>
+      <a href="https://www.linkedin.com/in/mugdhatasgaonkar" rel="me noopener">LinkedIn</a>
+    </span>
+  </div>
+</footer>
+
+<script src="../../assets/motion.js" defer></script>
+</body>
+</html>

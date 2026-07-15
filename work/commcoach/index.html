@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CommCoach — Mugdha Tasgaonkar</title>
+<meta name="description" content="CommCoach — turns documents into audiobooks and coaches spoken delivery, running a local LLM so nothing leaves the machine.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
+<link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="../../">Mugdha Tasgaonkar</a>
+    <nav class="main" aria-label="Main">
+      <a href="../../">Home</a>
+      <a href="../" aria-current="page">Work</a>
+      <a href="../../about/">About</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="wrap">
+
+    <section class="hero">
+      <a class="back" href="../">← All work</a>
+      <p class="eyebrow"><span class="dot"></span>Tool · Voice &amp; audio</p>
+      <h1>CommCoach</h1>
+      <p class="lede">
+        A communication coach in two halves: it turns the documents you're supposed to have read
+        into audiobooks, and it listens back while you practise saying things out loud.
+      </p>
+    </section>
+
+    <section class="prose" data-reveal>
+      <h2>The problem</h2>
+      <p>
+        Two things I could never make time for. The reading pile — papers and books that stay
+        unread because sitting down with them competes with everything else. And spoken delivery,
+        which is the one skill that only improves by doing it badly first, ideally where nobody
+        is watching.
+      </p>
+
+      <h2>What it does</h2>
+      <ul>
+        <li><strong>PDF → audiobook.</strong> A FastAPI service that watches a folder in iCloud
+            and turns what lands there into something I can listen to while walking.</li>
+        <li><strong>A native iOS app</strong> with Siri integration, so starting a session is one
+            sentence rather than a navigation exercise.</li>
+        <li><strong>Recording and coaching</strong> — capture a run-through, get feedback on the
+            delivery.</li>
+        <li><strong>A local LLM via Ollama</strong> — no API key, no per-call cost, no audio of
+            me practising leaving the machine.</li>
+      </ul>
+
+      <h2>Why local</h2>
+      <p>
+        Practice recordings are unflattering by design — that's the point of them. Shipping that
+        audio to someone else's server so it can be transcribed and possibly retained was never
+        a trade I wanted to make. Running the model locally removed the question entirely, and
+        as a side effect made the thing free to use as often as I like.
+      </p>
+      <p>
+        There's a broader lesson I keep relearning: the cost model shapes the behaviour. When
+        every run costs a fraction of a cent, you ration yourself without noticing. When it costs
+        nothing, you actually practise.
+      </p>
+    </section>
+
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© 2026 Mugdha Tasgaonkar · Austin, Texas</span>
+    <span class="footer-links">
+      <a href="../">Work</a>
+      <a href="../../about/">About</a>
+      <a href="https://www.linkedin.com/in/mugdhatasgaonkar" rel="me noopener">LinkedIn</a>
+    </span>
+  </div>
+</footer>
+
+<script src="../../assets/motion.js" defer></script>
+</body>
+</html>
