@@ -410,6 +410,150 @@ footer.site a { color: var(--muted); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
 .footer-links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
 
+/* ---------- work detail pages (sci-fi HUD) ----------
+   Each project page sets its own --accent/--accent2 inline on <body>,
+   so links, dots, buttons, and canvas scenes all inherit the project hue. */
+
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+/* full-bleed hero with a per-project canvas scene behind the copy */
+.work-hero {
+  position: relative;
+  min-height: min(78svh, 44rem);
+  display: flex; align-items: center;
+  padding: 3.5rem 0 4rem;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+.work-hero .scene {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  z-index: 0; pointer-events: none;
+}
+.work-hero .wrap { position: relative; z-index: 1; }
+.work-hero .lede { max-width: 34rem; }
+
+/* faint blueprint grid + scanline wash over hero scenes */
+.gridbg::before {
+  content: ""; position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background:
+    linear-gradient(color-mix(in srgb, var(--accent) 7%, transparent) 1px, transparent 1px),
+    linear-gradient(90deg, color-mix(in srgb, var(--accent) 7%, transparent) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(75% 90% at 50% 40%, #000 30%, transparent 85%);
+  -webkit-mask-image: radial-gradient(75% 90% at 50% 40%, #000 30%, transparent 85%);
+}
+.scanline::after {
+  content: ""; position: absolute; inset: 0; z-index: 2; pointer-events: none; opacity: 0.5;
+  background: repeating-linear-gradient(0deg, transparent 0 3px, rgba(0,0,0,0.14) 3px 4px);
+}
+
+/* HUD corner brackets + status readout */
+.hud-corner { position: absolute; width: 22px; height: 22px; z-index: 2; opacity: 0.75; }
+.hud-corner i { position: absolute; background: var(--accent); }
+.hud-corner i:first-child { width: 100%; height: 2px; }
+.hud-corner i:last-child { width: 2px; height: 100%; }
+.hud-corner.tl { top: 14px; left: 14px; }
+.hud-corner.tr { top: 14px; right: 14px; transform: rotate(90deg); }
+.hud-corner.bl { bottom: 14px; left: 14px; transform: rotate(-90deg); }
+.hud-corner.br { bottom: 14px; right: 14px; transform: rotate(180deg); }
+.hud-readout {
+  position: absolute; top: 20px; right: 46px; z-index: 2;
+  color: color-mix(in srgb, var(--accent) 75%, var(--muted));
+  font-size: 0.6875rem; letter-spacing: 0.12em; text-transform: uppercase;
+  text-align: right; line-height: 1.7;
+}
+@media (max-width: 40rem) {
+  .hud-readout { display: none; }
+  /* on phones the copy sits on top of the scene — keep the scene as texture */
+  .work-hero .scene { opacity: 0.3; }
+}
+
+/* ---------- workflow pipeline ---------- */
+
+.pipeline { list-style: none; margin: 2rem 0 0; padding: 0; counter-reset: step;
+  display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr)); }
+.pipeline li {
+  position: relative; counter-increment: step;
+  padding: 1.2rem 1.1rem 1.1rem;
+  border: 1px solid var(--line); border-radius: var(--radius);
+  background: linear-gradient(180deg, var(--surface), color-mix(in srgb, var(--surface) 55%, var(--bg)));
+}
+.pipeline li::before {
+  content: "0" counter(step);
+  display: block; margin-bottom: 0.6rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.75rem; letter-spacing: 0.14em;
+  color: var(--accent);
+}
+.pipeline li::after {          /* connector arrow between steps */
+  content: ""; position: absolute; top: 50%; right: -1rem; width: 1rem; height: 2px;
+  background: linear-gradient(90deg, var(--accent), transparent);
+  opacity: 0.7;
+}
+.pipeline li:last-child::after { display: none; }
+.pipeline h3 { margin: 0 0 0.3rem; font-size: 1rem; }
+.pipeline p { margin: 0; color: var(--muted); font-size: 0.875rem; }
+.pipeline .who {
+  display: inline-block; margin-top: 0.7rem; padding: 0.14rem 0.5rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, var(--line));
+  border-radius: 999px; color: var(--accent); font-size: 0.6875rem;
+  letter-spacing: 0.08em; text-transform: uppercase;
+}
+
+/* ---------- architecture / chart panels ---------- */
+
+.panel .arch, .panel .chart { display: block; width: 100%; }
+.panel-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  padding: 0.7rem 1rem; border-bottom: 1px solid var(--line);
+  color: var(--faint); font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase;
+}
+.panel-head .live { color: var(--accent3); }
+
+/* legend for multi-series charts */
+.legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.1rem; padding: 0.6rem 1rem 0.9rem;
+  color: var(--muted); font-size: 0.8125rem; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px;
+  margin-right: 0.4rem; vertical-align: -1px; }
+
+/* accessible table alternative under each chart */
+details.data-alt { border-top: 1px solid var(--line); }
+details.data-alt summary { padding: 0.6rem 1rem; color: var(--faint); font-size: 0.8125rem;
+  cursor: pointer; list-style: none; }
+details.data-alt summary::before { content: "▸ "; color: var(--accent); }
+details.data-alt[open] summary::before { content: "▾ "; }
+details.data-alt table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+details.data-alt th, details.data-alt td { padding: 0.45rem 1rem; text-align: left;
+  border-top: 1px solid var(--line); color: var(--muted); }
+details.data-alt th { color: var(--text); font-weight: 600; }
+
+/* ---------- "how Claude is used" band ---------- */
+
+.claude-band {
+  border: 1px solid transparent; border-radius: var(--radius);
+  padding: 1.6rem 1.5rem;
+  background:
+    linear-gradient(var(--bg2), var(--bg2)) padding-box,
+    linear-gradient(120deg, color-mix(in srgb, var(--accent) 55%, transparent),
+                            color-mix(in srgb, var(--accent2) 40%, transparent) 55%,
+                            transparent) border-box;
+}
+.claude-band .rows li { border-color: color-mix(in srgb, var(--line) 80%, transparent); }
+.claude-band .when { width: 11rem; color: var(--accent); font-size: 0.8125rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.02em; }
+
+/* ---------- spec sheet (what is used) ---------- */
+
+.spec { list-style: none; margin: 1.5rem 0 0; padding: 0; max-width: 44rem; }
+.spec li { display: flex; flex-wrap: wrap; gap: 0.2rem 1.25rem; padding: 0.8rem 0;
+  border-top: 1px solid var(--line); }
+.spec li:first-child { border-top: 0; }
+.spec .k { flex: none; width: 10.5rem; color: var(--accent);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.8125rem; letter-spacing: 0.04em; padding-top: 0.15rem; }
+.spec .v { flex: 1 1 16rem; color: var(--muted); font-size: 0.9375rem; }
+.spec .v strong { color: var(--text); }
+
 /* ---------- reduced motion: static, but everything visible ---------- */
 
 @media (prefers-reduced-motion: reduce) {

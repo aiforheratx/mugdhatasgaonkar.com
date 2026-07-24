@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AgentPulse &amp; usagetracker — Mugdha Tasgaonkar</title>
-<meta name="description" content="Two native Swift macOS menu-bar apps — live AI agent status, and real-time AI usage against rolling limits.">
+<meta name="description" content="Two native Swift macOS menu-bar apps — live AI agent fleet status at a glance, and real-time AI usage against rolling limits.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#FBBF24; --accent2:#FB923C">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,9 +24,15 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="menubar" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://MENUBAR<br>SWIFT NATIVE · ALWAYS ON</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Native · macOS</p>
       <h1>AgentPulse &amp; usagetracker</h1>
@@ -34,38 +40,122 @@
         Two small Swift menu-bar apps. Neither is ambitious. Both get used every single day, which
         is more than I can say for some things I've spent months on.
       </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="2">2</b><span>native Swift apps, zero web views</span></div>
+        <div class="stat"><b data-count="8">8</b><span>agents watched from the menu bar</span></div>
+        <div class="stat"><b class="txt">5h·7d</b><span>rolling usage windows metered live</span></div>
+        <div class="stat"><b class="txt">1 glance</b><span>to answer "is the fleet up?"</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
+    <section class="prose hairline" data-reveal>
       <h2>AgentPulse</h2>
       <p>
         The desktop face of <a href="../mbrain/">Mbrain</a>'s registry: every agent and whether
-        it's actually alive, sitting in the menu bar. It answers "is the fleet up?" in a glance
-        instead of a terminal session.
+        it's actually alive, sitting in the menu bar. A dashboard you have to deliberately open
+        is a dashboard you check when you're already worried. Putting it in the menu bar means
+        noticing a dead agent on the way to doing something else — which is when you'd actually
+        want to know.
       </p>
-      <p>
-        A dashboard you have to deliberately open is a dashboard you check when you're already
-        worried. Putting it in the menu bar means noticing a dead agent on the way to doing
-        something else — which is when you'd actually want to know.
-      </p>
-
       <h2>usagetracker</h2>
       <p>
         Real-time AI usage against the rolling 5-hour and 7-day windows. Built because hitting a
         limit mid-task is disruptive in a way that's entirely preventable if you can see it
         coming.
       </p>
+    </section>
 
+    <section class="hairline" data-reveal>
+      <h2>How they work</h2>
+      <ol class="pipeline">
+        <li>
+          <h3>Poll</h3>
+          <p>AgentPulse reads Mbrain's registry and probes the same ports the fleet answers on —
+             live truth, not cached status.</p>
+          <span class="who">AgentPulse</span>
+        </li>
+        <li>
+          <h3>Meter</h3>
+          <p>usagetracker reads AI usage and holds it against the rolling 5-hour and 7-day
+             limits.</p>
+          <span class="who">usagetracker</span>
+        </li>
+        <li>
+          <h3>Surface</h3>
+          <p>Both render into the one surface that's always visible without being in the way:
+             the macOS menu bar.</p>
+          <span class="who">Menu bar</span>
+        </li>
+        <li>
+          <h3>Warn early</h3>
+          <p>Amber before the cap bites, red when something's down — the whole point is knowing
+             before it costs you.</p>
+          <span class="who">You</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>Architecture</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>MENUBAR · SYSTEM MAP</span><span class="live">● RESIDENT</span></div>
+        <canvas class="arch" data-spec="nt-arch" style="aspect-ratio: 100/50" aria-label="Architecture diagram: Mbrain's registry and live port probes feed AgentPulse; usage data feeds usagetracker; both apps render into the macOS menu bar."></canvas>
+        <div class="panel-cap"><span>The tool that's always in front of you wins.</span><span class="mono">swift · appkit</span></div>
+      </div>
+      <script type="application/json" id="nt-arch">
+      {
+        "vw": 100, "vh": 50,
+        "groups": [
+          { "label": "menu bar", "x": 66, "y": 6, "w": 32, "h": 38 }
+        ],
+        "nodes": [
+          { "id": "reg",   "label": "MBRAIN REGISTRY", "sub": "agents.json", "x": 4,  "y": 8,  "w": 26, "h": 9 },
+          { "id": "ports", "label": "LIVE PORTS",      "sub": "the fleet",   "x": 4,  "y": 24, "w": 26, "h": 9 },
+          { "id": "usage", "label": "USAGE DATA",      "sub": "rolling windows", "x": 4, "y": 39, "w": 26, "h": 9, "dim": true },
+          { "id": "ap",    "label": "AGENTPULSE",      "sub": "fleet dots",  "x": 70, "y": 10, "w": 24, "h": 10 },
+          { "id": "ut",    "label": "USAGETRACKER",    "sub": "limit gauge", "x": 70, "y": 30, "w": 24, "h": 10 }
+        ],
+        "edges": [
+          { "from": "reg",   "to": "ap" },
+          { "from": "ports", "to": "ap" },
+          { "from": "usage", "to": "ut" }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How Claude is used</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">built_with</span><span class="what">Both apps were built with Claude Code — real Swift and AppKit, not a wrapped web view, because reaching the menu bar properly demands it.</span></li>
+          <li><span class="when">watching_itself</span><span class="what">usagetracker exists to watch Claude usage — the tool watches the tool, so a coding session never dies mid-thought at a rate limit.</span></li>
+          <li><span class="when">fleet_glue</span><span class="what">AgentPulse is the menu-bar face of an agent fleet that's operated through Claude — the same registry Claude reads is the one the app renders.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">LANGUAGE</span><span class="v"><strong>Swift</strong> — native macOS, AppKit menu-bar apps</span></li>
+        <li><span class="k">DATA</span><span class="v">Mbrain's <code>agents.json</code> registry · live port probes · usage telemetry</span></li>
+        <li><span class="k">SURFACE</span><span class="v">macOS menu bar — always visible, never in the way</span></li>
+      </ul>
+    </section>
+
+    <section class="prose hairline" data-reveal>
       <h2>Why native, for something this small</h2>
       <p>
-        Both could have been scripts. Neither would have been used. The menu bar is the only
-        surface that's always visible without being in the way, and reaching it means writing
-        actual Swift rather than wrapping a web view.
-      </p>
-      <p>
-        These are the smallest things on this site and they make a case I believe in: the tool
-        that's always in front of you beats the better tool you have to go and open. Ambition is
-        not the same as usefulness.
+        Both could have been scripts. Neither would have been used. These are the smallest things
+        on this site and they make a case I believe in: the tool that's always in front of you
+        beats the better tool you have to go and open. Ambition is not the same as usefulness.
       </p>
     </section>
 
@@ -84,5 +174,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>

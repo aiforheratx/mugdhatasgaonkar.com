@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Women &amp; AI in Healthcare R&amp;D — Mugdha Tasgaonkar</title>
-<meta name="description" content="Ongoing research into how women are represented in healthcare AI — as the people building it and as the data it learns from.">
+<meta name="description" content="A scheduled research agent publishing a citation-backed report every Monday on women in AI — 17 reports and 13 white papers so far, powered by Claude.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#22D3EE; --accent2:#60A5FA">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,9 +24,15 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="knowledge" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://WAI-RESEARCH<br>CADENCE WEEKLY · CITED</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Research · Ongoing</p>
       <h1>Women &amp; AI in Healthcare R&amp;D</h1>
@@ -34,48 +40,138 @@
         A standing research pipeline on a two-sided question: who builds healthcare AI, and whose
         bodies is it trained on? The two problems turn out to be the same problem.
       </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="17">17</b><span>deep-research reports published</span></div>
+        <div class="stat"><b data-count="13">13</b><span>white papers in the durable track</span></div>
+        <div class="stat"><b data-count="1">1</b><span>report every Monday, 09:00 CST</span></div>
+        <div class="stat"><b class="txt">100%</b><span>citation-backed — no claim without a source</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
+    <section class="prose hairline" data-reveal>
       <h2>The question</h2>
       <p>
         Healthcare AI inherits the gaps in the research beneath it. Where women have been
         under-represented in trials and datasets, models learn a version of medicine that fits
-        them less well — and the people best placed to notice that are frequently not in the room
+        them less well — and the people best placed to notice are frequently not in the room
         where the model gets signed off.
       </p>
       <p>
         Representation among builders and representation in data aren't two separate diversity
         talking points. They're one feedback loop, and it runs in both directions.
       </p>
+    </section>
 
-      <h2>How it runs</h2>
-      <p>
-        It's an agent pipeline rather than a reading list. It runs on a schedule, pulls current
-        research and industry signal, and produces a weekly report and a white-paper track — so
-        the work compounds instead of restarting every time I get a free weekend.
-      </p>
-      <ul>
-        <li><strong>Scheduled cloud agents</strong> doing the collection, so it continues without
-            me.</li>
-        <li><strong>A weekly report</strong> landing by email, plus a Monday dashboard summary.</li>
-        <li><strong>A white-paper track</strong> — the durable output, aimed at people who can act
-            on it.</li>
+    <section class="hairline" data-reveal>
+      <h2>Every Monday, without me</h2>
+      <ol class="pipeline">
+        <li>
+          <h3>Wake</h3>
+          <p>Cron fires Monday 09:00 CST. No human in the loop — the schedule is the discipline.</p>
+          <span class="who">cron</span>
+        </li>
+        <li>
+          <h3>Research</h3>
+          <p>Claude runs a deep-research sweep on a rotating aspect of women in AI, with a
+             featured track on healthcare R&amp;D.</p>
+          <span class="who">Claude CLI</span>
+        </li>
+        <li>
+          <h3>Cite</h3>
+          <p>Every claim keeps its source. A report that can't show its citations doesn't ship.</p>
+          <span class="who">Pipeline rule</span>
+        </li>
+        <li>
+          <h3>Publish</h3>
+          <p>A markdown deep analysis lands in <code>reports/</code>, HTML white papers in
+             <code>whitepapers/</code>, and the live dashboard refreshes.</p>
+          <span class="who">Outputs</span>
+        </li>
+        <li>
+          <h3>Deliver</h3>
+          <p>The report arrives by email — so the research meets me in my inbox, not the other
+             way round.</p>
+          <span class="who">send_report</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>Architecture</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>WAI · SYSTEM MAP</span><span class="live">● SCHEDULED</span></div>
+        <canvas class="arch" data-spec="wai-arch" style="aspect-ratio: 100/60" aria-label="Architecture diagram: cron triggers a Claude-powered research agent that reads public research and industry sources, then writes reports, white papers, and a dashboard, and emails the weekly report."></canvas>
+        <div class="panel-cap"><span>The work compounds instead of restarting.</span><span class="mono">every Monday 09:00 CST</span></div>
+      </div>
+      <script type="application/json" id="wai-arch">
+      {
+        "vw": 100, "vh": 60,
+        "groups": [
+          { "label": "outputs", "x": 64, "y": 5, "w": 34, "h": 50 }
+        ],
+        "nodes": [
+          { "id": "cron",   "label": "CRON",         "sub": "mon 09:00",       "x": 4,  "y": 24, "w": 16, "h": 9 },
+          { "id": "agent",  "label": "RESEARCH AGENT", "sub": "Claude CLI",    "x": 27, "y": 24, "w": 26, "h": 10 },
+          { "id": "src",    "label": "SOURCES",      "sub": "papers · industry", "x": 27, "y": 5, "w": 26, "h": 9, "dim": true },
+          { "id": "rep",    "label": "REPORTS/",     "sub": "17 markdown",     "x": 68, "y": 9,  "w": 26, "h": 9 },
+          { "id": "wp",     "label": "WHITEPAPERS/", "sub": "13 html",         "x": 68, "y": 25, "w": 26, "h": 9 },
+          { "id": "dashm",  "label": "DASHBOARD",    "sub": "live refresh",    "x": 68, "y": 41, "w": 26, "h": 9 },
+          { "id": "mail",   "label": "EMAIL",        "sub": "monday delivery", "x": 27, "y": 45, "w": 26, "h": 9 }
+        ],
+        "edges": [
+          { "from": "cron",  "to": "agent" },
+          { "from": "src",   "to": "agent", "dashed": true, "label": "evidence" },
+          { "from": "agent", "to": "rep" },
+          { "from": "agent", "to": "wp" },
+          { "from": "agent", "to": "dashm" },
+          { "from": "agent", "to": "mail" }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How Claude is used</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">deep_research</span><span class="what">Claude is the analyst: each Monday run sweeps current research and industry signal on the week's topic and synthesises it into a long-form, structured report.</span></li>
+          <li><span class="when">citations</span><span class="what">The pipeline's rule is that Claude must keep receipts — claims arrive with their sources, so the output is checkable rather than persuasive.</span></li>
+          <li><span class="when">compounding</span><span class="what">Because the agent runs headless on a schedule, the knowledge base grows every week whether I have a free weekend or not — 30 documents and counting.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">RUNTIME</span><span class="v"><strong>Python</strong> pipeline, headless</span></li>
+        <li><span class="k">AI</span><span class="v"><strong>Claude CLI</strong> — scheduled deep research, synthesis, and writing</span></li>
+        <li><span class="k">SCHEDULE</span><span class="v"><strong>Cron</strong> — Mondays 09:00 CST, no human trigger</span></li>
+        <li><span class="k">OUTPUTS</span><span class="v">Markdown reports · HTML white papers · live dashboard · email delivery</span></li>
       </ul>
+    </section>
 
+    <section class="prose hairline" data-reveal>
       <h2>Why I keep it running</h2>
       <p>
         It feeds everything else. It's the evidence base behind
         <a href="../ai-for-her-atx/">AI for Her ATX</a>'s argument that sponsorship — not another
-        mentorship programme — is the intervention that moves the number. It's the reason
+        mentorship programme — is the intervention that moves the number, and it's the research
+        the nonprofit's LinkedIn content draws on. It's the reason
         <a href="../mindpulse/">MindPulse</a> targets the conditions it does. Conviction without
         evidence is just a strongly-held opinion.
       </p>
-
       <div class="note">
         <p>
-          <strong>Status:</strong> ongoing, with the white-paper track in progress. Nothing
-          published yet — when the first paper lands, it'll be linked here.
+          <strong>Status:</strong> ongoing — 17 reports and 13 white papers so far, with the
+          public white-paper track in progress. When the first one publishes externally, it'll be
+          linked here.
         </p>
       </div>
     </section>
@@ -95,5 +191,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>

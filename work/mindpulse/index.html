@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MindPulse — Mugdha Tasgaonkar</title>
-<meta name="description" content="MindPulse — a privacy-first iOS companion for women's mental health, using on-device AI, HealthKit, and a learned cycle-prediction engine.">
+<meta name="description" content="MindPulse — a privacy-first iOS companion for women's mental health: on-device AI, HealthKit, a learned cycle-prediction engine, and clinician-ready exports.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#F472B6; --accent2:#A78BFA">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,9 +24,15 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="pulse" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://MINDPULSE<br>ON-DEVICE · 0 CALLS OUT</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Product · In development</p>
       <h1>MindPulse</h1>
@@ -35,55 +41,151 @@
         tend to skip — PMDD, perimenopause, fertility, and the way they tangle with anxiety,
         depression, ADHD, and autism.
       </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="7">7</b><span>conditions covered, women's-health-first</span></div>
+        <div class="stat"><b class="txt">100%</b><span>of AI inference runs on the phone</span></div>
+        <div class="stat"><b data-count="0">0</b><span>API keys, servers, or network calls</span></div>
+        <div class="stat"><b class="txt">PDF</b><span>clinician export a doctor can actually use</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
-      <h2>Why this one</h2>
+    <section class="prose hairline" data-reveal>
+      <h2>The women's health problem</h2>
       <p>
-        Women's health has a data problem that's really a priorities problem. The conditions that
-        shape daily life for millions of women are the ones with the thinnest tooling, the
-        vaguest guidance, and the least research behind them. PMDD is a good example: it's
-        debilitating, it's diagnosable only through prospective daily ratings across cycles, and
-        almost nothing helps you actually collect those ratings.
+        Women's health has a data problem that's really a priorities problem. Women were excluded
+        from most clinical research for decades, so the conditions that shape daily life for
+        millions of women — PMDD, perimenopause, the mental-health side of fertility treatment —
+        arrive with the thinnest tooling, the vaguest guidance, and the least research behind
+        them. PMDD is the sharpest example: it's debilitating, it's diagnosable only through
+        prospective daily ratings across multiple cycles, and almost nothing helps you actually
+        collect those ratings.
       </p>
       <p>
         This is also the seam I know professionally. I spend my working life on clinical AI in a
         regulated environment. MindPulse is what happens when I point that at a problem I'd
         actually use.
       </p>
+      <div class="note">
+        <p>
+          <strong>The same argument, made in public:</strong> this conviction doesn't just live in
+          an app. <a href="../ai-for-her-atx/">AI for Her ATX</a> — the nonprofit I founded —
+          publishes LinkedIn posts on women's health and AI: the research gap, cycle-aware care,
+          and why privacy matters most for exactly this data. Its agent fleet drafts those posts
+          with Claude and a human approves every one before it ships. MindPulse is the product
+          side of the same argument the nonprofit makes in words.
+        </p>
+      </div>
+    </section>
 
-      <h2>How it's built</h2>
-      <ul>
-        <li><strong>SwiftUI, native.</strong> A health companion that stutters is a health
-            companion you stop opening.</li>
-        <li><strong>On-device AI first.</strong> Apple's FoundationModels run locally, so the
-            most sensitive category of data anyone has doesn't leave the phone to be useful.</li>
-        <li><strong>HealthKit, plus wearables.</strong> HealthKit-first for Apple Watch and
-            RingConn, with Oura available behind a config gate.</li>
-        <li><strong>A learned cycle-prediction engine</strong> that adapts to the person rather
-            than assuming a textbook 28 days.</li>
-        <li><strong>Clinician PDF export</strong> — prospective PMDD ratings in the form a doctor
-            can actually use in an appointment.</li>
+    <section class="hairline" data-reveal>
+      <h2>How a day flows through it</h2>
+      <ol class="pipeline">
+        <li>
+          <h3>Track</h3>
+          <p>Daily mood and symptom ratings, medication stack, plus signals from HealthKit —
+             Apple Watch and RingConn, Oura behind a config gate.</p>
+          <span class="who">You + sensors</span>
+        </li>
+        <li>
+          <h3>Ground</h3>
+          <p>A curated women's-health knowledge base grounds the AI through RAG — so answers come
+             from vetted material, not model vibes.</p>
+          <span class="who">On-device RAG</span>
+        </li>
+        <li>
+          <h3>Reason</h3>
+          <p>Apple FoundationModels run locally with a persona and hard medical guardrails. It
+             tracks and explains; it never diagnoses.</p>
+          <span class="who">On-device AI</span>
+        </li>
+        <li>
+          <h3>Predict</h3>
+          <p>A learned cycle engine adapts to your actual cycle instead of assuming a textbook
+             28 days — and flags the phase where symptoms cluster.</p>
+          <span class="who">Cycle engine</span>
+        </li>
+        <li>
+          <h3>Export</h3>
+          <p>Prospective ratings compile into a clinician PDF — the exact evidence format a
+             diagnosis conversation needs.</p>
+          <span class="who">You + your doctor</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>Architecture — the boundary is the point</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>MINDPULSE · SYSTEM MAP</span><span class="live">● ON-DEVICE</span></div>
+        <canvas class="arch" data-spec="mp-arch" style="aspect-ratio: 100/72" aria-label="Architecture diagram: everything — SwiftUI app, SwiftData store, HealthKit, on-device FoundationModels with RAG and guardrails, cycle engine, and PDF export — sits inside the iPhone boundary. A dimmed 'any server' node sits outside with no connection to it."></canvas>
+        <div class="panel-cap"><span>You can't leak what you never collected.</span><span class="mono">0 network calls</span></div>
+      </div>
+      <script type="application/json" id="mp-arch">
+      {
+        "vw": 100, "vh": 72,
+        "groups": [
+          { "label": "iPhone — everything lives here", "x": 2, "y": 6, "w": 70, "h": 62 }
+        ],
+        "nodes": [
+          { "id": "ui",     "label": "SWIFTUI APP",     "sub": "native, fast",     "x": 6,  "y": 10, "w": 28, "h": 9 },
+          { "id": "hk",     "label": "HEALTHKIT",       "sub": "watch · ring",     "x": 40, "y": 10, "w": 28, "h": 9 },
+          { "id": "fm",     "label": "FOUNDATIONMODELS", "sub": "RAG + guardrails", "x": 6,  "y": 27, "w": 30, "h": 10 },
+          { "id": "cycle",  "label": "CYCLE ENGINE",    "sub": "learned, not assumed", "x": 42, "y": 27, "w": 26, "h": 10 },
+          { "id": "store",  "label": "SWIFTDATA",       "sub": "local store",      "x": 6,  "y": 46, "w": 28, "h": 9 },
+          { "id": "pdf",    "label": "CLINICIAN PDF",   "sub": "export",           "x": 40, "y": 46, "w": 28, "h": 9 },
+          { "id": "cloud",  "label": "ANY SERVER",      "sub": "no connection",    "x": 80, "y": 30, "w": 17, "h": 10, "dim": true }
+        ],
+        "edges": [
+          { "from": "ui",    "to": "fm" },
+          { "from": "hk",    "to": "cycle" },
+          { "from": "fm",    "to": "store" },
+          { "from": "cycle", "to": "store", "dashed": true },
+          { "from": "store", "to": "pdf" }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How AI is used — and which AI</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">in_the_app</span><span class="what">The app's own intelligence is <strong>Apple FoundationModels, on-device</strong> — deliberately not a cloud model. Mental-health and fertility data never earns a network round-trip. RAG grounding + persona + guardrails, with curated templates as fallback.</span></li>
+          <li><span class="when">building_it</span><span class="what"><strong>Claude Code built the app</strong> — the SwiftUI architecture, the cycle engine, the guardrail design, and the full unit test suite that's currently green.</span></li>
+          <li><span class="when">guardrails</span><span class="what">Hard medical boundaries: it tracks, explains, and prepares evidence. It does not diagnose, and it's engineered never to imply that it does.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">APP</span><span class="v"><strong>SwiftUI + SwiftData</strong>, fully native iOS — a health companion that stutters is one you stop opening</span></li>
+        <li><span class="k">AI</span><span class="v"><strong>Apple FoundationModels</strong> on-device · RAG grounding · persona · guardrails · template fallback</span></li>
+        <li><span class="k">SIGNALS</span><span class="v"><strong>HealthKit</strong> — Apple Watch, RingConn; Oura behind a config gate</span></li>
+        <li><span class="k">COVERAGE</span><span class="v">Depression · Anxiety · IVF/fertility · Autism · ADHD · PMDD · Perimenopause</span></li>
+        <li><span class="k">PRIVACY</span><span class="v"><strong>No servers, no API keys, no network.</strong> There is no data pile to breach, subpoena, or monetise — it doesn't exist</span></li>
       </ul>
+    </section>
 
+    <section class="prose hairline" data-reveal>
       <h2>Privacy as architecture</h2>
       <p>
         The privacy posture isn't a policy page, it's a build decision. On-device inference means
-        there's no server-side pile of women's mental-health and fertility data to breach,
-        subpoena, or quietly monetise — because it doesn't exist. You can't leak what you never
-        collected.
+        the most sensitive category of data anyone has doesn't leave the phone to be useful.
+        You can't leak what you never collected.
       </p>
-      <p>
-        The app also carries hard medical guardrails. It's a companion for tracking and
-        self-knowledge. It doesn't diagnose, and it's careful never to imply that it does.
-      </p>
-
       <div class="note">
         <p>
-          <strong>Status:</strong> in development, approaching market readiness, with a full unit
-          test suite green. Not yet released, and not a medical device. If you work in women's
-          health and want to talk about it,
-          <a href="mailto:mugdha.tasgaonkar@gmail.com">I'd like to hear from you</a>.
+          <strong>Status:</strong> in development, approaching market readiness, full unit test
+          suite green. Not yet released, and not a medical device. If you work in women's health
+          and want to talk, <a href="mailto:mugdha.tasgaonkar@gmail.com">I'd like to hear from you</a>.
         </p>
       </div>
     </section>
@@ -103,5 +205,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>

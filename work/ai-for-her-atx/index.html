@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI for Her ATX — Mugdha Tasgaonkar</title>
-<meta name="description" content="AI for Her ATX — a 501(c)(3) in Austin working on sponsorship parity for women in AI. Founded and chaired by Mugdha Tasgaonkar.">
+<meta name="description" content="AI for Her ATX — a 501(c)(3) run by a five-agent AI framework: Claude-drafted LinkedIn content, a human approval queue, and a live operations dashboard.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#A78BFA; --accent2:#F0ABFC">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,67 +24,205 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="constellation" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://AI-FOR-HER-ATX<br>AGENTS 5 · APPROVAL GATE ARMED</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Nonprofit · Founder &amp; Board Chair</p>
-      <img src="../../assets/img/aifh-logo.jpg" alt="AI for Her ATX Inc logo" width="400" height="316" loading="lazy"
-           style="display:block;width:120px;height:auto;border-radius:14px;border:1px solid var(--line);margin-bottom:1.25rem">
       <h1>AI for Her ATX</h1>
       <p class="lede">
-        A 501(c)(3) nonprofit in Austin, Texas, working to get more women into senior AI roles —
-        and to keep them there.
+        A 501(c)(3) in Austin working on sponsorship parity for women in AI — operated day to day
+        by a five-agent framework named NOVA, SAGE, IRIS, ARIA, and ATHENA.
       </p>
       <div class="actions">
         <a class="btn primary" href="https://www.aiforheratx.org" rel="noopener">aiforheratx.org</a>
         <a class="btn" href="https://www.instagram.com/aiforheratx/" rel="noopener">Instagram</a>
       </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="5">5</b><span>specialized agents running the org</span></div>
+        <div class="stat"><b data-count="7">7</b><span>NOVA content runs per week</span></div>
+        <div class="stat"><b data-count="1">1</b><span>human approval gate — nothing ships without it</span></div>
+        <div class="stat"><b data-count="2">2</b><span>channels: LinkedIn + Instagram</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
-      <h2>The problem</h2>
+    <section class="prose hairline" data-reveal>
+      <h2>The mission</h2>
       <p>
-        Women are well represented among people entering AI and badly represented among the
-        people leading it. The gap doesn't close by itself, and it doesn't close through advice
-        alone.
+        Women are well represented among people entering AI and badly represented among the people
+        leading it. Mentorship gives someone guidance; sponsorship spends your own credibility on
+        them — putting their name in the room they're not in, backing them for the stretch role.
+        Advice is cheap and abundant. Access isn't. AI for Her ATX is built around the second one.
       </p>
+      <p>
+        And because a young nonprofit can't afford a staff, I built it one: a small fleet of AI
+        agents that runs the organisation's marketing, research, and operations so the humans can
+        spend their time on the part that actually needs humans — opening doors.
+      </p>
+    </section>
 
-      <h2>Sponsorship, not mentorship</h2>
-      <p>
-        Mentorship gives someone guidance. Sponsorship spends your own credibility on them —
-        putting their name in the room they're not in, backing them for the stretch role, making
-        the introduction that changes the trajectory.
+    <section class="hairline" data-reveal>
+      <h2>The LinkedIn pipeline, end to end</h2>
+      <p class="muted">
+        The org's public voice is mostly LinkedIn. Here's how a post happens — and no post ever
+        goes out without a human clicking approve.
       </p>
-      <p>
-        Advice is cheap and abundant. Access isn't. AI for Her ATX is built around the second
-        one, because that's the part that's actually scarce.
-      </p>
+      <ol class="pipeline">
+        <li>
+          <h3>Gather signal</h3>
+          <p>SAGE runs deep research twice a week; IRIS scans the AI landscape on Mondays. Their
+             briefs become the week's themes — women in AI leadership, sponsorship, women's
+             health &amp; AI.</p>
+          <span class="who">SAGE · IRIS</span>
+        </li>
+        <li>
+          <h3>Draft</h3>
+          <p>NOVA wakes daily at 7:00 CST and writes the day's LinkedIn content with Claude — copy
+             in the org's voice, plus an image concept.</p>
+          <span class="who">NOVA + Claude</span>
+        </li>
+        <li>
+          <h3>Human approval</h3>
+          <p>Every draft lands in the dashboard's approval queue. A human reads, edits, approves —
+             or kills it. The queue is the contract.</p>
+          <span class="who">Board</span>
+        </li>
+        <li>
+          <h3>Publish</h3>
+          <p>Approved posts go out through the LinkedIn API; Instagram publishes through
+             <a href="../mbrain/">Mbrain</a>'s central connector.</p>
+          <span class="who">Pipeline</span>
+        </li>
+        <li>
+          <h3>Log &amp; learn</h3>
+          <p>ARIA files activity hourly through the working day; ATHENA watches the treasury.
+             KPIs land back on the dashboard and shape next week's themes.</p>
+          <span class="who">ARIA · ATHENA</span>
+        </li>
+      </ol>
+    </section>
 
-      <h2>What we're building</h2>
-      <ul>
-        <li><strong>A founding cohort</strong> — a small, deliberate first group rather than a
-            large mailing list.</li>
-        <li><strong>Sponsorship pathways</strong> — connecting women in AI to people with the
-            standing to open doors, not just to offer feedback.</li>
-        <li><strong>A public presence</strong> — a live site and an active
-            <a href="https://www.instagram.com/aiforheratx/" rel="noopener">Instagram</a>, so the
-            work is visible to the people it's meant to reach.</li>
+    <section class="hairline" data-reveal>
+      <h2>Architecture</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>AFHA · SYSTEM MAP</span><span class="live">● OPERATIONAL</span></div>
+        <canvas class="arch" data-spec="afha-arch" style="aspect-ratio: 100/74" aria-label="Architecture diagram: five agents feed a shared Claude client and image generator; drafts flow through a human approval queue to LinkedIn, and to Instagram via Mbrain; all agents report to the dashboard."></canvas>
+        <div class="panel-cap"><span>Five agents, one shared core, one gate.</span><span class="mono">registry: ai-for-her-atx</span></div>
+      </div>
+      <script type="application/json" id="afha-arch">
+      {
+        "vw": 100, "vh": 74,
+        "groups": [
+          { "label": "agent fleet", "x": 1, "y": 4, "w": 98, "h": 13 },
+          { "label": "shared core", "x": 6, "y": 24, "w": 88, "h": 13 }
+        ],
+        "nodes": [
+          { "id": "nova",   "label": "NOVA",   "sub": "marketing", "x": 3,  "y": 7, "w": 16, "h": 8 },
+          { "id": "sage",   "label": "SAGE",   "sub": "research",  "x": 22, "y": 7, "w": 16, "h": 8 },
+          { "id": "iris",   "label": "IRIS",   "sub": "tech advisor", "x": 41, "y": 7, "w": 16, "h": 8 },
+          { "id": "aria",   "label": "ARIA",   "sub": "secretary", "x": 60, "y": 7, "w": 16, "h": 8 },
+          { "id": "athena", "label": "ATHENA", "sub": "treasurer", "x": 79, "y": 7, "w": 16, "h": 8 },
+          { "id": "claude", "label": "CLAUDE CLIENT", "sub": "shared reasoning", "x": 9,  "y": 27, "w": 24, "h": 8 },
+          { "id": "img",    "label": "IMAGE GEN",     "sub": "visuals",          "x": 39, "y": 27, "w": 22, "h": 8 },
+          { "id": "li-cl",  "label": "LINKEDIN CLIENT", "sub": "publishing",     "x": 67, "y": 27, "w": 24, "h": 8 },
+          { "id": "queue",  "label": "APPROVAL QUEUE", "sub": "human gate",      "x": 14, "y": 44, "w": 30, "h": 9 },
+          { "id": "dash",   "label": "DASHBOARD :5050", "sub": "KPIs · activity", "x": 56, "y": 44, "w": 30, "h": 9 },
+          { "id": "li",     "label": "LINKEDIN",  "x": 22, "y": 62, "w": 20, "h": 8 },
+          { "id": "ig",     "label": "INSTAGRAM", "sub": "via Mbrain", "x": 56, "y": 62, "w": 20, "h": 8 }
+        ],
+        "edges": [
+          { "from": "nova",   "to": "claude" },
+          { "from": "sage",   "to": "claude" },
+          { "from": "iris",   "to": "claude" },
+          { "from": "nova",   "to": "img" },
+          { "from": "aria",   "to": "dash", "dashed": true },
+          { "from": "athena", "to": "dash", "dashed": true },
+          { "from": "claude", "to": "queue", "label": "drafts" },
+          { "from": "queue",  "to": "li-cl", "label": "approved" },
+          { "from": "li-cl",  "to": "li" },
+          { "from": "queue",  "to": "ig", "dashed": true },
+          { "from": "queue",  "to": "dash", "dashed": true }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How Claude is used</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">claude_client</span><span class="what">One shared module is the fleet's entire reasoning layer — every agent's writing and analysis goes through it, so voice and guardrails live in exactly one place.</span></li>
+          <li><span class="when">nova·drafting</span><span class="what">NOVA prompts Claude with the week's research themes and the org's voice guide to draft each LinkedIn post — research in, on-brand copy out, never auto-published.</span></li>
+          <li><span class="when">sage·research</span><span class="what">SAGE uses Claude for twice-weekly deep research runs that become the evidence base behind the content.</span></li>
+          <li><span class="when">built_with</span><span class="what">The framework itself — agents, dashboard, queue — was built and is maintained with Claude Code.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">RUNTIME</span><span class="v"><strong>Python</strong> agents on schedules; JavaScript + HTML/CSS dashboard</span></li>
+        <li><span class="k">AI</span><span class="v"><strong>Claude</strong> via a shared <code>claude_client</code> module — drafting, research, analysis</span></li>
+        <li><span class="k">CHANNELS</span><span class="v"><strong>LinkedIn API</strong> direct; <strong>Instagram Graph API</strong> through Mbrain's central connector</span></li>
+        <li><span class="k">CONTROL</span><span class="v">Dashboard on <code>:5050</code> with approval queue, KPIs, and activity log</span></li>
+        <li><span class="k">STATE</span><span class="v">JSON stores — <code>approval_queue</code>, <code>dashboard_kpis</code>, <code>activity_log</code></span></li>
       </ul>
+    </section>
 
+    <section class="hairline" data-reveal>
+      <h2>Weekly cadence</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>SCHEDULED RUNS · PER WEEK</span></div>
+        <canvas class="chart" data-spec="afha-cadence" style="height:230px" aria-label="Bar chart of scheduled agent runs per week: ARIA 55, NOVA 7, SAGE 2, IRIS 1, ATHENA on demand."></canvas>
+        <details class="data-alt">
+          <summary>View as table</summary>
+          <table>
+            <tr><th scope="col">Agent</th><th scope="col">Scheduled runs / week</th></tr>
+            <tr><td>ARIA (hourly, 8am–6pm)</td><td>55</td></tr>
+            <tr><td>NOVA (daily 7:00)</td><td>7</td></tr>
+            <tr><td>SAGE (Tue &amp; Thu)</td><td>2</td></tr>
+            <tr><td>IRIS (Mondays)</td><td>1</td></tr>
+            <tr><td>ATHENA</td><td>on-demand</td></tr>
+          </table>
+        </details>
+      </div>
+      <script type="application/json" id="afha-cadence">
+      { "unit": "runs",
+        "items": [
+          { "label": "ARIA",   "value": 55 },
+          { "label": "NOVA",   "value": 7 },
+          { "label": "SAGE",   "value": 2 },
+          { "label": "IRIS",   "value": 1 },
+          { "label": "ATHENA", "value": 0, "display": "on-demand" }
+        ] }
+      </script>
+    </section>
+
+    <section class="prose hairline" data-reveal>
       <h2>My role</h2>
       <p>
-        Founder and Board Chair. In practice that has meant everything from incorporating the
-        501(c)(3) and assembling the board through to writing the automation that runs the
-        organisation's content and operations day to day — a small fleet of agents handling
-        marketing, research, and scheduling so the nonprofit can run lean.
+        Founder and Board Chair. In practice: incorporating the 501(c)(3), assembling the board,
+        and writing the automation that runs the organisation — so a nonprofit with no staff can
+        show up every day like one that has some.
       </p>
-
       <div class="note">
         <p>
           <strong>Early stage.</strong> The organisation is young and building its founding
-          cohort. If sponsorship parity in AI is something you care about, I'd like to hear from
-          you — <a href="mailto:mugdha.tasgaonkar@gmail.com">get in touch</a>.
+          cohort. If sponsorship parity in AI is something you care about,
+          <a href="mailto:mugdha.tasgaonkar@gmail.com">get in touch</a>.
         </p>
       </div>
     </section>
@@ -104,5 +242,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>

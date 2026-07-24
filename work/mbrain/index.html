@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mbrain — Mugdha Tasgaonkar</title>
-<meta name="description" content="Mbrain — a command centre over a fleet of AI agents: live registry, status detection, connectors, and a neural map. Built by Mugdha Tasgaonkar.">
+<meta name="description" content="Mbrain — a command centre over a fleet of AI agents: live registry, status probes, credential monitoring, and central connectors for Gmail, LinkedIn, and Instagram.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#60A5FA; --accent2:#A78BFA">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,9 +24,15 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="radar" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://MBRAIN<br>FLEET 8 · PROBES LIVE</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Platform · The brain</p>
       <h1>Mbrain</h1>
@@ -34,9 +40,21 @@
         Once you're running eight AI agents, the agents stop being the hard part. Knowing what
         they're all doing becomes the hard part. Mbrain is the answer to that.
       </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="8">8</b><span>agents in the canonical registry</span></div>
+        <div class="stat"><b data-count="3">3</b><span>connectors wired once: Gmail · LinkedIn · Instagram</span></div>
+        <div class="stat"><b class="txt">09:00</b><span>daily credential probe against live provider APIs</span></div>
+        <div class="stat"><b data-count="7">7</b><span>days of warning before any token dies</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
+    <section class="prose hairline" data-reveal>
       <h2>The problem</h2>
       <p>
         I build a lot of agents. A nonprofit's marketing fleet. A research pipeline. A coach. A
@@ -49,46 +67,148 @@
         state. The fleet had grown past what I could hold in my head, which is exactly the point
         at which most side-project sprawl starts rotting.
       </p>
+    </section>
 
-      <h2>What it is</h2>
-      <p>
-        A single source of truth for the whole fleet, plus the machinery to keep it honest.
-      </p>
-      <ul>
-        <li><strong>A registry</strong> — one canonical record of every agent: what it is, where
-            it lives, how it runs.</li>
-        <li><strong>Live status detection</strong> — probes what's actually running right now
-            rather than trusting what a config file claims.</li>
-        <li><strong>A neural command centre</strong> — a brain-hub map of every agent and
-            connector, with a live reporting console.</li>
-        <li><strong>Connectors</strong> — Gmail, LinkedIn, and Instagram wired once, centrally,
-            instead of re-solved per project.</li>
-        <li><strong>A credential vault and expiry monitor</strong> — a daily job that re-probes
-            every token against its provider and emails me before anything expires.</li>
-        <li><strong>A self-updating profile</strong> — a weekly headless job that re-reads my own
-            history and rewrites the brain's picture of what I'm working on.</li>
+    <section class="hairline" data-reveal>
+      <h2>The operating loop</h2>
+      <ol class="pipeline">
+        <li>
+          <h3>Register</h3>
+          <p>Every agent gets one canonical record in <code>agents.json</code>: what it is, where
+             it lives, how it runs, what port it answers on.</p>
+          <span class="who">Registry</span>
+        </li>
+        <li>
+          <h3>Probe</h3>
+          <p>Status detection asks reality, not the config — live port and process checks decide
+             what counts as "running".</p>
+          <span class="who">status.py</span>
+        </li>
+        <li>
+          <h3>Monitor</h3>
+          <p>Every morning at 09:00 the credential monitor re-asks each provider — Meta, LinkedIn,
+             Google — how long its token actually has left.</p>
+          <span class="who">launchd · daily</span>
+        </li>
+        <li>
+          <h3>Alert</h3>
+          <p>Anything within seven days of expiry triggers an email before it becomes an outage.
+             Silent token death is the failure mode this kills.</p>
+          <span class="who">mailer.py</span>
+        </li>
+        <li>
+          <h3>Publish</h3>
+          <p>Gmail, LinkedIn, and Instagram are wired once, centrally — any agent can post
+             through them instead of re-solving auth per project.</p>
+          <span class="who">Connectors</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>Architecture</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>MBRAIN · SYSTEM MAP</span><span class="live">● PROBING</span></div>
+        <canvas class="arch" data-spec="mb-arch" style="aspect-ratio: 100/74" aria-label="Architecture diagram: the registry feeds live status probes and the neural dashboard; the credential vault feeds a daily monitor which emails alerts via Gmail; central connectors publish to LinkedIn and Instagram; AgentPulse mirrors status in the menu bar."></canvas>
+        <div class="panel-cap"><span>Probe reality, don't trust the record.</span><span class="mono">launchd: credcheck · profilerefresh</span></div>
+      </div>
+      <script type="application/json" id="mb-arch">
+      {
+        "vw": 100, "vh": 74,
+        "groups": [
+          { "label": "mbrain core", "x": 2, "y": 5, "w": 60, "h": 44 },
+          { "label": "providers", "x": 70, "y": 5, "w": 28, "h": 62 }
+        ],
+        "nodes": [
+          { "id": "reg",    "label": "REGISTRY",   "sub": "agents.json",     "x": 6,  "y": 9,  "w": 24, "h": 9 },
+          { "id": "probe",  "label": "STATUS PROBE", "sub": "ports · procs", "x": 36, "y": 9,  "w": 22, "h": 9 },
+          { "id": "dash",   "label": "NEURAL MAP",  "sub": "command centre", "x": 6,  "y": 24, "w": 24, "h": 9 },
+          { "id": "vault",  "label": "CRED VAULT",  "sub": "tokens + expiry", "x": 36, "y": 24, "w": 22, "h": 9 },
+          { "id": "mon",    "label": "MONITOR",     "sub": "daily 09:00",    "x": 21, "y": 38, "w": 22, "h": 9 },
+          { "id": "pulse",  "label": "AGENTPULSE",  "sub": "menu bar",       "x": 6,  "y": 58, "w": 22, "h": 9 },
+          { "id": "conn",   "label": "CONNECTORS",  "sub": "post once, centrally", "x": 36, "y": 58, "w": 24, "h": 9 },
+          { "id": "meta",   "label": "META / IG",   "x": 74, "y": 10, "w": 20, "h": 8 },
+          { "id": "li",     "label": "LINKEDIN",    "x": 74, "y": 26, "w": 20, "h": 8 },
+          { "id": "gmail",  "label": "GMAIL",       "x": 74, "y": 42, "w": 20, "h": 8 },
+          { "id": "inbox",  "label": "ALERT EMAIL", "sub": "7-day warning",  "x": 74, "y": 56, "w": 20, "h": 9 }
+        ],
+        "edges": [
+          { "from": "reg",   "to": "probe" },
+          { "from": "probe", "to": "dash" },
+          { "from": "reg",   "to": "pulse", "dashed": true },
+          { "from": "vault", "to": "mon" },
+          { "from": "mon",   "to": "meta",  "label": "debug_token" },
+          { "from": "mon",   "to": "li",    "label": "introspect" },
+          { "from": "mon",   "to": "inbox" },
+          { "from": "conn",  "to": "meta" },
+          { "from": "conn",  "to": "li" },
+          { "from": "conn",  "to": "gmail" }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How Claude is used</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">operator</span><span class="what"><strong>Claude Code is the operator console.</strong> It reads the registry, runs the probes, checks credential runway, and posts through the connectors — the whole fleet is drivable from a conversation.</span></li>
+          <li><span class="when">memory</span><span class="what">Persistent memory across sessions: Claude remembers how the fleet is wired, what changed, and what to check first — so operating it doesn't restart from zero each time.</span></li>
+          <li><span class="when">builder</span><span class="what">Every subsystem — registry, monitor, connectors, dashboard, and this site — was built in Claude Code sessions against the live system.</span></li>
+          <li><span class="when">meta</span><span class="what">This page is itself an Mbrain artefact: a Claude session probed the live fleet, read the real token expiry dates, and wrote what you're reading.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">CORE</span><span class="v"><strong>Python</strong> — registry, status probes, credential monitor, publishing scripts</span></li>
+        <li><span class="k">SCHEDULING</span><span class="v"><strong>launchd</strong> — daily credential check 09:00, weekly profile refresh</span></li>
+        <li><span class="k">CONNECTORS</span><span class="v"><strong>Gmail SMTP</strong> · <strong>LinkedIn API</strong> · <strong>Instagram Graph API</strong> — authenticated once, shared by every agent</span></li>
+        <li><span class="k">VERIFICATION</span><span class="v">Live provider probes — Meta <code>debug_token</code>, LinkedIn <code>introspectToken</code> — never stored expiry dates</span></li>
+        <li><span class="k">SURFACE</span><span class="v">Neural-map dashboard + <a href="../native-tooling/">AgentPulse</a> in the menu bar</span></li>
       </ul>
+    </section>
 
+    <section class="hairline" data-reveal>
+      <h2>Live credential runway</h2>
+      <p class="muted">These numbers come from the daily provider probe — the same one that emails me at seven days.</p>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>TOKEN RUNWAY · DAYS LEFT</span><span class="live">● PROBED LIVE</span></div>
+        <canvas class="chart" data-spec="mb-runway" style="height:150px" aria-label="Bar chart of credential runway in days: Instagram 76 days, LinkedIn 42 days. Gmail's app password never expires."></canvas>
+        <details class="data-alt">
+          <summary>View as table</summary>
+          <table>
+            <tr><th scope="col">Credential</th><th scope="col">Days left</th></tr>
+            <tr><td>Instagram (Meta page token)</td><td>76</td></tr>
+            <tr><td>LinkedIn (60-day token)</td><td>42</td></tr>
+            <tr><td>Gmail (app password)</td><td>never expires</td></tr>
+          </table>
+        </details>
+      </div>
+      <script type="application/json" id="mb-runway">
+      { "unit": "days",
+        "items": [
+          { "label": "Instagram", "value": 76 },
+          { "label": "LinkedIn",  "value": 42 },
+          { "label": "Gmail",     "value": 0, "display": "never expires" }
+        ] }
+      </script>
+    </section>
+
+    <section class="prose hairline" data-reveal>
       <h2>The idea underneath</h2>
       <p>
-        The credential monitor is the part I'd point at. It doesn't read a stored expiry date and
-        trust it — it asks each provider directly, every morning, and tells me seven days out.
-        The difference matters: stored state drifts, and the failure mode of a silently-expired
-        token is a publishing pipeline that looks healthy and posts nothing.
+        The credential monitor doesn't read a stored expiry date and trust it — it asks each
+        provider directly, every morning. Stored state drifts, and the failure mode of a
+        silently-expired token is a publishing pipeline that looks healthy and posts nothing.
       </p>
       <p>
         That's the whole philosophy in miniature. <strong>Probe reality, don't trust the
-        record.</strong> Live status detection over declared status. Verified tokens over
-        remembered ones. It's the same instinct that governance work in healthcare teaches you:
+        record.</strong> It's the same instinct that governance work in healthcare teaches you:
         the system that says it's fine is not the same as the system that is fine.
       </p>
-
-      <div class="note">
-        <p>
-          <strong>Meta note:</strong> this website is itself an Mbrain artefact — its source lives
-          in the registry alongside the agents, and it publishes from there.
-        </p>
-      </div>
     </section>
 
   </div>
@@ -106,5 +226,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>

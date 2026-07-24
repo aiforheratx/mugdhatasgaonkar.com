@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CommCoach — Mugdha Tasgaonkar</title>
-<meta name="description" content="CommCoach — turns documents into audiobooks and coaches spoken delivery, running a local LLM so nothing leaves the machine.">
+<meta name="description" content="CommCoach — an AI communication coach: documents become audiobooks, practice sessions get coached, and the audio never leaves the machine.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui,sans-serif' font-weight='600'>M</text></svg>">
 <link rel="stylesheet" href="../../assets/styles.css">
 </head>
-<body>
+<body style="--accent:#34D399; --accent2:#22D3EE">
 <a class="skip" href="#main">Skip to content</a>
 
 <header class="site">
@@ -24,9 +24,15 @@
 </header>
 
 <main id="main">
-  <div class="wrap">
 
-    <section class="hero">
+  <section class="work-hero gridbg scanline">
+    <canvas class="scene" data-scene="waveform" aria-hidden="true"></canvas>
+    <span class="hud-corner tl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner tr" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner bl" aria-hidden="true"><i></i><i></i></span>
+    <span class="hud-corner br" aria-hidden="true"><i></i><i></i></span>
+    <div class="hud-readout mono" aria-hidden="true">SYS://COMMCOACH<br>MIC LIVE · AUDIO STAYS LOCAL</div>
+    <div class="wrap">
       <a class="back" href="../">← All work</a>
       <p class="eyebrow"><span class="dot"></span>Tool · Voice &amp; audio</p>
       <h1>CommCoach</h1>
@@ -34,9 +40,21 @@
         A communication coach in two halves: it turns the documents you're supposed to have read
         into audiobooks, and it listens back while you practise saying things out loud.
       </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <section data-reveal>
+      <div class="stats">
+        <div class="stat"><b data-count="10">10</b><span>day personalized executive coaching program</span></div>
+        <div class="stat"><b class="txt">100%</b><span>of practice audio stays on the machine</span></div>
+        <div class="stat"><b class="txt">$0</b><span>per practice session — local models are free to run</span></div>
+        <div class="stat"><b data-count="1">1</b><span>sentence to Siri starts a session</span></div>
+      </div>
     </section>
 
-    <section class="prose" data-reveal>
+    <section class="prose hairline" data-reveal>
       <h2>The problem</h2>
       <p>
         Two things I could never make time for. The reading pile — papers and books that stay
@@ -44,25 +62,108 @@
         which is the one skill that only improves by doing it badly first, ideally where nobody
         is watching.
       </p>
+    </section>
 
-      <h2>What it does</h2>
-      <ul>
-        <li><strong>PDF → audiobook.</strong> A FastAPI service that watches a folder in iCloud
-            and turns what lands there into something I can listen to while walking.</li>
-        <li><strong>A native iOS app</strong> with Siri integration, so starting a session is one
-            sentence rather than a navigation exercise.</li>
-        <li><strong>Recording and coaching</strong> — capture a run-through, get feedback on the
-            delivery.</li>
-        <li><strong>A local LLM via Ollama</strong> — no API key, no per-call cost, no audio of
-            me practising leaving the machine.</li>
+    <section class="hairline" data-reveal>
+      <h2>How a session flows</h2>
+      <ol class="pipeline">
+        <li>
+          <h3>Drop</h3>
+          <p>A PDF lands in an iCloud folder. A FastAPI service is watching it.</p>
+          <span class="who">iCloud + FastAPI</span>
+        </li>
+        <li>
+          <h3>Listen or speak</h3>
+          <p>Documents become audiobooks for the walk; or you record a practice run-through in
+             the iOS app — one Siri sentence to start.</p>
+          <span class="who">iOS app</span>
+        </li>
+        <li>
+          <h3>Transcribe</h3>
+          <p>Whisper turns the recording into text — locally. Unflattering practice audio never
+             earns a network trip.</p>
+          <span class="who">Whisper · local</span>
+        </li>
+        <li>
+          <h3>Coach</h3>
+          <p>The coaching engine scores pace, filler words, and clarity, and Claude builds the
+             personalized 10-day program and meeting analyses.</p>
+          <span class="who">Claude + local LLM</span>
+        </li>
+        <li>
+          <h3>Track</h3>
+          <p>Progress lands in SQLite and a Streamlit dashboard shows the trend — the proof that
+             practice is working.</p>
+          <span class="who">SQLite · Streamlit</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>Architecture</h2>
+      <div class="panel" style="margin-top:1.5rem">
+        <div class="panel-head"><span>COMMCOACH · SYSTEM MAP</span><span class="live">● LOCAL-FIRST</span></div>
+        <canvas class="arch" data-spec="cc-arch" style="aspect-ratio: 100/62" aria-label="Architecture diagram: the iOS app and an iCloud-watched folder feed a FastAPI service; audio goes through local Whisper transcription and a local LLM via Ollama, with Claude used for coaching plans; results store in SQLite and display in a Streamlit dashboard."></canvas>
+        <div class="panel-cap"><span>Cloud for the plan, local for the audio.</span><span class="mono">ollama · whisper · claude</span></div>
+      </div>
+      <script type="application/json" id="cc-arch">
+      {
+        "vw": 100, "vh": 62,
+        "groups": [
+          { "label": "on this machine", "x": 2, "y": 22, "w": 72, "h": 36 }
+        ],
+        "nodes": [
+          { "id": "ios",    "label": "IOS APP",   "sub": "siri · record",   "x": 6,  "y": 6,  "w": 22, "h": 9 },
+          { "id": "icloud", "label": "ICLOUD DROP", "sub": "pdf watch",     "x": 36, "y": 6,  "w": 22, "h": 9 },
+          { "id": "api",    "label": "FASTAPI",   "sub": "core service",    "x": 21, "y": 26, "w": 22, "h": 9 },
+          { "id": "whisper","label": "WHISPER",   "sub": "local transcribe","x": 6,  "y": 44, "w": 20, "h": 9 },
+          { "id": "llm",    "label": "LOCAL LLM", "sub": "ollama",          "x": 30, "y": 44, "w": 18, "h": 9 },
+          { "id": "db",     "label": "SQLITE",    "sub": "progress",        "x": 52, "y": 44, "w": 18, "h": 9 },
+          { "id": "claude", "label": "CLAUDE API", "sub": "10-day plan",    "x": 78, "y": 26, "w": 19, "h": 9 },
+          { "id": "dash",   "label": "STREAMLIT", "sub": "trend dashboard", "x": 52, "y": 26, "w": 18, "h": 9 }
+        ],
+        "edges": [
+          { "from": "ios",    "to": "api" },
+          { "from": "icloud", "to": "api" },
+          { "from": "api",    "to": "whisper" },
+          { "from": "whisper","to": "llm" },
+          { "from": "api",    "to": "claude", "dashed": true, "label": "text only" },
+          { "from": "llm",    "to": "db" },
+          { "from": "db",     "to": "dash" }
+        ]
+      }
+      </script>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>How Claude is used</h2>
+      <div class="claude-band" style="margin-top:1.5rem">
+        <ul class="rows">
+          <li><span class="when">the_plan</span><span class="what">Claude designs the personalized 10-day executive communication program and analyses meetings — the strategic layer, working from text.</span></li>
+          <li><span class="when">the_audio</span><span class="what">Practice recordings never reach Claude or any cloud: Whisper transcribes and an Ollama-hosted local model gives delivery feedback, on-machine.</span></li>
+          <li><span class="when">the_split</span><span class="what">The design rule: cloud intelligence for what's already public (your goals, your calendar), local intelligence for what's private (your voice, your stumbles).</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="hairline" data-reveal>
+      <h2>What is used</h2>
+      <ul class="spec">
+        <li><span class="k">SERVICES</span><span class="v"><strong>FastAPI</strong> + <strong>Flask</strong>, Python core</span></li>
+        <li><span class="k">SPEECH</span><span class="v"><strong>Whisper</strong> — local transcription of practice sessions</span></li>
+        <li><span class="k">AI</span><span class="v"><strong>Claude API</strong> for coaching plans · <strong>Ollama local LLM</strong> for delivery feedback</span></li>
+        <li><span class="k">CLIENT</span><span class="v"><strong>iOS app</strong> with Siri integration — one sentence to start</span></li>
+        <li><span class="k">TRACKING</span><span class="v"><strong>SQLite</strong> progress store · <strong>Streamlit</strong> + Plotly dashboard</span></li>
       </ul>
+    </section>
 
+    <section class="prose hairline" data-reveal>
       <h2>Why local</h2>
       <p>
         Practice recordings are unflattering by design — that's the point of them. Shipping that
-        audio to someone else's server so it can be transcribed and possibly retained was never
-        a trade I wanted to make. Running the model locally removed the question entirely, and
-        as a side effect made the thing free to use as often as I like.
+        audio to someone else's server so it can be transcribed and possibly retained was never a
+        trade I wanted to make. Running the models locally removed the question entirely, and as
+        a side effect made the thing free to use as often as I like.
       </p>
       <p>
         There's a broader lesson I keep relearning: the cost model shapes the behaviour. When
@@ -86,5 +187,6 @@
 </footer>
 
 <script src="../../assets/motion.js" defer></script>
+<script src="../../assets/work.js" defer></script>
 </body>
 </html>
