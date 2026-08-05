@@ -1,0 +1,79 @@
+{
+ "title": "Kids & the career equation — Priya, 34, back from leave",
+ "caption": "Pay drops ~20% after the first baby. Men's doesn't (Kleven, AEJ 2019).\nAsk for your scope in writing before leave. Then hand off one whole task at home (Fair Play).\nSend this to her. Who owns the school forms?\nwww.aiforheratx.org\n#motherhoodpenalty #workingmom #womenshealth #maternityleave #momlife",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "Priya, 34 · 11 weeks back",
+   "text": "Back from leave — and quietly *sidelined*?",
+   "suggest": "→ Get your *scope* in writing (AEJ 2019)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E7D7'/><stop offset='1' stop-color='#FBF3E8'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E8C89A' stop-opacity='.6'/><stop offset='1' stop-color='#F7DFE2' stop-opacity='0'/></linearGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E4D2'/><stop offset='1' stop-color='#E7D3BE'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M74 18c56-9 116-8 172 2 7 1 10 6 10 13v96c0 8-5 12-12 12-58-6-116-6-174 1-7 1-11-4-11-12V32c0-8 3-13 15-14z' fill='url(#a2)'/><ellipse cx='196' cy='62' rx='40' ry='30' fill='#F6DCC4' opacity='.75'/><path d='M232 16c14 24 16 62 8 96-4 17-12 26-22 30 6-42 8-88 4-126z' fill='#F7DFE2' opacity='.85'/><path d='M0 148c62-11 128-14 196-9 46 3 88 9 124 17v44H0z' fill='url(#a3)'/><path d='M96 148c-3-13 2-22 14-23 11-1 17 7 15 21' fill='#C98B92' opacity='.9'/><path d='M110 122c-4-8-2-15 4-20' fill='none' stroke='#C9B5A4' stroke-width='2.5' stroke-linecap='round' opacity='.7'/><path d='M120 120c-5-9-3-17 3-23' fill='none' stroke='#C9B5A4' stroke-width='2' stroke-linecap='round' opacity='.5'/><path d='M170 150c22-4 46-5 68-1 5 1 6 5 1 6-24 3-48 3-70 0-4-1-4-4 1-5z' fill='#8A6A5C' opacity='.55'/><path d='M252 146c5-2 9 1 9 6 0 4-3 7-7 6' fill='#A9BCA4' opacity='.8'/><path d='M40 152c-6-16-4-30 6-40 3 12 3 27-1 40' fill='#A9BCA4' opacity='.85'/><path d='M46 152c9-11 20-15 30-12-8 8-19 13-30 12z' fill='#A9BCA4' opacity='.6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the 1:1 she didn't ask for",
+   "text": "Nobody said no. They just gave the migration project to someone else.",
+   "phrases": [
+    "We didn't want to overload you.",
+    "Figured you'd want something lighter for now.",
+    "\"I asked for that project twice.\""
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#F3E4D2'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7DFE2' stop-opacity='.8'/><stop offset='1' stop-color='#E8C89A' stop-opacity='.15'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 0h130c-4 46-2 92 6 138-46 4-92 6-136 4z' fill='url(#b2)'/><path d='M0 138c70-9 142-11 214-6 38 3 74 8 106 15v53H0z' fill='#EADCC8'/><path d='M198 141c-4-16 3-27 16-27 12 0 18 11 14 27' fill='#F7DFE2' opacity='.95'/><path d='M206 118c-3-7-1-13 4-17' fill='none' stroke='#C9B5A4' stroke-width='2.5' stroke-linecap='round' opacity='.6'/><path d='M100 142c-1-24 0-44 3-60 1-6 5-8 11-8 8 0 12 3 12 9 1 18 1 39-1 59-8 2-17 2-25 0z' fill='#C98B92' opacity='.55'/><path d='M104 86c2-9 8-13 16-12 6 1 9 5 9 11-8 4-17 4-25 1z' fill='#F6E7D2' opacity='.9'/><path d='M42 140c-8-19-6-38 6-52 5 17 5 35-1 52' fill='#A9BCA4' opacity='.9'/><path d='M48 140c11-14 25-19 39-15-10 11-25 17-39 15z' fill='#A9BCA4' opacity='.65'/><path d='M40 148c-4 12-3 24 2 34-8 2-15 1-21-2 2-13 8-24 19-32z' fill='#D8C4AE' opacity='.7'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "Denmark registers · AEJ 2019",
+   "number": "20%",
+   "text": "Women's earnings fall about 20% after the first baby. Men's stay flat.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#F7E7D7'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E8C89A' stop-opacity='.45'/><stop offset='1' stop-color='#F7DFE2' stop-opacity='.1'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='230' cy='58' rx='52' ry='38' fill='url(#c2)'/><path d='M0 120c58-6 92-4 124 2 34 6 66 8 100 4 34-4 66-12 96-22v96H0z' fill='#EFE0CB' opacity='.9'/><path d='M0 132c56-4 90 0 122 8 34 8 66 12 100 8 34-4 66-14 98-26' fill='none' stroke='#A9BCA4' stroke-width='3' stroke-linecap='round' opacity='.8'/><path d='M0 136c56 0 90 10 118 28 26 17 50 26 78 28 44 3 84-4 124-16' fill='none' stroke='#C98B92' stroke-width='3.5' stroke-linecap='round'/><path d='M118 158c22 14 44 22 66 24' fill='none' stroke='#C98B92' stroke-width='7' stroke-linecap='round' opacity='.25'/><path d='M62 128c-5-13-2-24 8-30 5 12 4 23-2 32' fill='#A9BCA4' opacity='.75'/><path d='M264 118c6-3 11 0 11 6 0 5-4 8-9 7' fill='#E8C89A' opacity='.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Tuesday, 6:40pm",
+   "text": "It wasn't that she got worse at her job. Her hours and her projects moved.",
+   "phrases": [
+    "She checked her old reviews. Still \"exceeds\".",
+    "What changed was the pickup at 5, every day.",
+    "So she stopped arguing at work first, and started at home."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E7D7'/><stop offset='1' stop-color='#FBF3E8'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E8C89A' stop-opacity='.5'/><stop offset='1' stop-color='#F7DFE2' stop-opacity='.05'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M186 8c40-3 74-2 106 3v150c-34-6-70-8-106-6z' fill='url(#d2)'/><path d='M0 150c66-10 134-12 202-6 40 3 78 9 118 17v39H0z' fill='#EADCC8'/><path d='M120 12c-8 44-9 92-3 140-30 3-58 4-84 3-4-48-3-96 3-142 28-3 56-3 84-1z' fill='#F3E4D2' opacity='.8'/><path d='M112 84c6-1 10 3 10 8 0 6-5 9-11 7' fill='#C9A88F'/><path d='M148 152c-6-20-1-34 14-38 12-3 22 4 25 15 2 8 0 16-4 23-12 3-24 3-35 0z' fill='#C98B92' opacity='.85'/><path d='M156 116c0-8 5-13 13-13 7 0 12 4 12 11-8 4-17 5-25 2z' fill='#E7D3BE'/><path d='M196 154c14-6 28-8 42-5 4 1 4 5 0 6-14 3-28 3-42-1z' fill='#8A6A5C' opacity='.5'/><path d='M52 152c-9-18-8-35 3-48 6 16 7 33 2 48' fill='#A9BCA4' opacity='.85'/><path d='M58 152c12-13 26-17 40-13-11 11-26 16-40 13z' fill='#A9BCA4' opacity='.6'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, after bedtime",
+   "text": "Hand over one whole task at home tonight — noticing it, planning it, doing it.",
+   "phrases": [
+    "Pick one: school forms, groceries, the dentist.",
+    "Give away all three parts, not just the doing.",
+    "Then take the 10-minute walk you keep skipping (WHO: 150 min/week)."
+   ],
+   "attribution": "— Eve Rodsky, Fair Play",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#F7E3D3'/></linearGradient><linearGradient id='e2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F6D9AE' stop-opacity='.85'/><stop offset='1' stop-color='#F7DFE2' stop-opacity='.15'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M96 16c44-6 90-5 134 3 8 1 11 5 11 12v106c0 8-5 11-13 10-46-6-92-6-138 1-8 1-12-3-12-11V30c0-8 4-13 18-14z' fill='url(#e2)'/><ellipse cx='168' cy='60' rx='34' ry='26' fill='#F8E0C2' opacity='.85'/><path d='M112 132c18-26 44-40 74-42 22-1 42 5 58 16-40-4-84 4-132 26z' fill='#A9BCA4' opacity='.5'/><path d='M0 148c64-10 130-13 198-8 44 3 84 9 122 17v43H0z' fill='#EFDCC4'/><path d='M104 150c-4-14 2-24 14-24 11 0 17 9 14 24' fill='#C98B92' opacity='.9'/><path d='M116 124c-4-8-2-15 4-20' fill='none' stroke='#C9B5A4' stroke-width='2.5' stroke-linecap='round' opacity='.65'/><path d='M186 156c-3-9 3-14 12-13 6 1 9 5 8 11-6 3-14 4-20 2z' fill='#8A6A5C' opacity='.65'/><path d='M208 156c-3-9 3-14 12-13 6 1 9 5 8 11-6 3-14 4-20 2z' fill='#8A6A5C' opacity='.5'/><path d='M46 150c-7-17-5-33 6-45 5 15 5 31 0 45' fill='#A9BCA4' opacity='.9'/><path d='M52 150c11-13 25-17 38-13-10 11-25 16-38 13z' fill='#A9BCA4' opacity='.6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "@aiforheratx",
+   "text": "You're not imagining the sidelining. Follow us for women's health and work, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#F7DFE2'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F6D9AE' stop-opacity='.7'/><stop offset='1' stop-color='#F7DFE2' stop-opacity='0'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><ellipse cx='190' cy='70' rx='72' ry='46' fill='url(#f2)'/><path d='M0 140c68-12 138-14 208-8 40 3 78 9 112 16v52H0z' fill='#EFDCC4'/><path d='M132 142c-5-16 2-27 16-27 13 0 19 11 15 27' fill='#C98B92' opacity='.9'/><path d='M142 116c-5-9-3-17 4-22' fill='none' stroke='#C9B5A4' stroke-width='2.5' stroke-linecap='round' opacity='.7'/><path d='M152 114c-6-10-4-19 3-25' fill='none' stroke='#C9B5A4' stroke-width='2' stroke-linecap='round' opacity='.45'/><path d='M60 142c-8-18-6-35 5-47 6 16 6 33 1 47' fill='#A9BCA4' opacity='.9'/><path d='M66 142c11-14 26-18 40-14-11 11-26 17-40 14z' fill='#A9BCA4' opacity='.6'/><path d='M232 144c16-4 32-5 48-2 4 1 4 5 0 5-16 2-32 2-48-3z' fill='#8A6A5C' opacity='.45'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
