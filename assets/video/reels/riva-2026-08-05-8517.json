@@ -1,0 +1,80 @@
+{
+ "title": "Biomarkers decoded — the 'normal labs' myth (ferritin)",
+ "caption": "Myth: normal bloodwork means your iron is fine. Truth: a CBC doesn't measure ferritin — your iron stores. WHO 2020: under 15 µg/L is depleted.\nSave this for your next appointment. Which myth next? 👇\nwww.aiforheratx.org\n#ferritin #irondeficiency #womenshealth #heavyperiods #biomarkers",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "Priya, 38 · CBC 'normal'",
+   "text": "Always *exhausted* — but they keep telling me my labs are normal?",
+   "suggest": "→ Ask for *ferritin* — iron stores (WHO 2020)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#efe7f2'/><stop offset='1' stop-color='#f8eeea'/></linearGradient><radialGradient id='a2' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#fdf7e8' stop-opacity='0.9'/><stop offset='1' stop-color='#fdf7e8' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0.2' y2='1'><stop offset='0' stop-color='#fdf6f4'/><stop offset='1' stop-color='#e6d8dc'/></linearGradient><radialGradient id='a4' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#cfe0e8' stop-opacity='0.95'/><stop offset='1' stop-color='#cfe0e8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M214 6 C 262 2 302 30 302 74 C 302 116 266 142 224 138 C 258 118 268 66 214 6 Z' fill='#f6ecd8' opacity='0.5'/><circle cx='250' cy='58' r='74' fill='url(#a2)'/><path d='M186 0 C 196 44 190 92 176 138 C 168 162 172 182 180 200 L 150 200 C 146 168 150 128 156 88 C 160 54 166 24 168 0 Z' fill='#e9dfe6' opacity='0.75'/><path d='M0 128 C 34 106 78 104 116 118 C 152 130 176 146 186 168 C 196 190 190 200 190 200 L 0 200 Z' fill='url(#a3)'/><path d='M6 134 C 30 118 58 116 78 126 C 60 132 40 144 30 158 C 22 170 18 184 18 200 L 0 200 L 0 142 Z' fill='#fbf4f2' opacity='0.9'/><path d='M228 178 C 242 168 264 168 276 178 C 284 185 284 193 278 200 L 226 200 C 220 193 220 185 228 178 Z' fill='#e3d6d2'/><path d='M247 148 C 247 145 250 143 253 143 L 264 143 C 267 143 270 145 270 148 L 270 180 C 270 183 267 185 264 185 L 253 185 C 250 185 247 183 247 180 Z' fill='#f9f2e7'/><circle cx='258' cy='164' r='28' fill='url(#a4)'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "two visits, two answers",
+   "text": "Priya is 38, with heavy periods since her second baby — and nobody had checked her iron *stores*.",
+   "phrases": [
+    "\"You're just tired — mom life, right?\"",
+    "\"Your bloodwork came back normal.\"",
+    "But 'normal' only covered hemoglobin, never ferritin."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f2e9ef'/><stop offset='1' stop-color='#f9efe9'/></linearGradient><linearGradient id='b2' x1='0.1' y1='0' x2='0.6' y2='1'><stop offset='0' stop-color='#fdf6f3'/><stop offset='1' stop-color='#e4d6d9'/></linearGradient><radialGradient id='b3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#d3e2e9' stop-opacity='0.95'/><stop offset='1' stop-color='#d3e2e9' stop-opacity='0'/></radialGradient><radialGradient id='b4' cx='0.5' cy='0.4' r='0.6'><stop offset='0' stop-color='#fbf3df' stop-opacity='0.8'/><stop offset='1' stop-color='#fbf3df' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><circle cx='60' cy='30' r='80' fill='url(#b4)'/><path d='M0 96 C 46 66 104 62 158 82 C 214 102 268 108 320 96 L 320 200 L 0 200 Z' fill='url(#b2)'/><path d='M22 118 C 50 96 92 92 122 108 C 96 116 70 134 56 158 C 46 176 44 190 44 200 L 8 200 C 6 172 10 140 22 118 Z' fill='#fcf6f4' opacity='0.95'/><path d='M188 124 C 226 108 268 110 300 126 C 276 134 250 150 238 172 C 232 184 230 194 230 200 L 176 200 C 176 172 178 142 188 124 Z' fill='#efe2e2' opacity='0.9'/><path d='M138 138 C 138 134 142 131 146 131 L 160 131 C 164 131 168 134 168 138 L 168 178 C 168 182 164 185 160 185 L 146 185 C 142 185 138 182 138 178 Z' fill='#faf3e8'/><circle cx='153' cy='156' r='34' fill='url(#b3)'/><path d='M282 34 C 292 44 292 62 284 74 C 292 80 296 92 292 102' stroke='#d9c9cf' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.7'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the myth, flipped",
+   "text": "A standard CBC measures hemoglobin, not *ferritin* — so your iron savings can be empty while the report says normal.",
+   "phrases": [
+    "The myth: \"normal labs\" means nothing is wrong.",
+    "A standard CBC checks hemoglobin — today's iron in the blood.",
+    "Ferritin is different: it is your iron *savings account*.",
+    "You can run that account to empty and still read 'normal.'"
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6ece9'/><stop offset='1' stop-color='#faf1e6'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f7e2d2'/><stop offset='1' stop-color='#eec9b6'/></linearGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ffffff' stop-opacity='0.75'/><stop offset='1' stop-color='#e9dcd6' stop-opacity='0.55'/></linearGradient><radialGradient id='c4' cx='0.5' cy='0.3' r='0.7'><stop offset='0' stop-color='#fdf3dc' stop-opacity='0.9'/><stop offset='1' stop-color='#fdf3dc' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><circle cx='168' cy='40' r='96' fill='url(#c4)'/><path d='M0 148 C 60 132 120 128 182 138 C 238 147 282 148 320 142 L 320 200 L 0 200 Z' fill='#efdfd4'/><path d='M0 150 C 70 138 140 136 210 146 L 210 156 C 140 146 70 148 0 160 Z' fill='#e2cfc4' opacity='0.7'/><path d='M92 96 C 92 88 98 82 106 82 L 128 82 C 136 82 142 88 142 96 L 142 138 C 142 146 136 152 128 152 L 106 152 C 98 152 92 146 92 138 Z' fill='url(#c3)' stroke='#dcc9c0' stroke-width='2'/><path d='M94 104 C 108 100 126 100 140 104 L 140 138 C 140 146 134 152 126 152 L 108 152 C 100 152 94 146 94 138 Z' fill='url(#c2)'/><path d='M188 100 C 188 92 194 86 202 86 L 222 86 C 230 86 236 92 236 100 L 236 138 C 236 146 230 152 222 152 L 202 152 C 194 152 188 146 188 138 Z' fill='url(#c3)' stroke='#dcc9c0' stroke-width='2'/><path d='M189 140 C 202 137 222 137 235 140 L 235 138 C 235 146 229 152 221 152 L 203 152 C 195 152 189 146 189 138 Z' fill='url(#c2)' opacity='0.9'/><path d='M262 152 C 258 132 262 112 274 98 C 286 112 290 132 286 152 Z' fill='#cfdcc9' opacity='0.85'/><path d='M274 98 C 274 118 274 136 274 152' stroke='#b9cbb2' stroke-width='2' fill='none'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "WHO guideline, 2020",
+   "number": "15 µg/L",
+   "text": "The WHO's 2020 guideline calls ferritin under 15 µg/L *depleted* iron stores in adults — even with a normal hemoglobin.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbeee2'/><stop offset='1' stop-color='#f9ece8'/></linearGradient><radialGradient id='d2' cx='0.35' cy='0.3' r='0.6'><stop offset='0' stop-color='#fde8cd' stop-opacity='0.95'/><stop offset='1' stop-color='#fde8cd' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ffffff' stop-opacity='0.8'/><stop offset='1' stop-color='#ead9d1' stop-opacity='0.6'/></linearGradient><linearGradient id='d4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f3cdb4'/><stop offset='1' stop-color='#e6b79c'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><circle cx='104' cy='54' r='104' fill='url(#d2)'/><path d='M0 156 C 64 140 132 138 196 148 C 250 156 288 156 320 150 L 320 200 L 0 200 Z' fill='#f0ded1'/><path d='M46 88 C 46 78 54 70 64 70 L 96 70 C 106 70 114 78 114 88 L 114 142 C 114 152 106 160 96 160 L 64 160 C 54 160 46 152 46 142 Z' fill='url(#d3)' stroke='#dfc9bd' stroke-width='2'/><path d='M47 146 C 68 141 94 141 113 146 L 113 142 C 113 152 105 160 95 160 L 65 160 C 55 160 47 152 47 142 Z' fill='url(#d4)'/><path d='M46 100 C 68 96 94 96 114 100' stroke='#e3ccbf' stroke-width='2' fill='none' stroke-dasharray='6 5'/><path d='M214 160 C 210 130 218 104 236 88 C 254 104 262 130 258 160 Z' fill='#cddcc6' opacity='0.9'/><path d='M236 88 C 236 114 236 140 236 160' stroke='#b6c9ae' stroke-width='2' fill='none'/><path d='M236 118 C 226 112 218 106 214 98' stroke='#b6c9ae' stroke-width='2' fill='none'/><path d='M236 132 C 246 126 254 118 258 110' stroke='#b6c9ae' stroke-width='2' fill='none'/><path d='M282 26 C 300 40 306 66 296 86' stroke='#e8d2c4' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.8'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "She typed three words into her phone — *ferritin*, TSH, B12 — and asked for them by name at her next appointment.",
+   "phrases": [
+    "Write down three asks: ferritin, TSH, B12 — and say them out loud.",
+    "Eat lentils or spinach with lemon or peppers; vitamin C helps you absorb iron (NIH Office of Dietary Supplements).",
+    "Walk 30 minutes on most days — that is the WHO's 150 minutes a week."
+   ],
+   "attribution": "— NIH Office of Dietary Supplements; WHO 2020",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf1e2'/><stop offset='1' stop-color='#fbeae4'/></linearGradient><radialGradient id='e2' cx='0.7' cy='0.25' r='0.6'><stop offset='0' stop-color='#ffe8c2' stop-opacity='0.95'/><stop offset='1' stop-color='#ffe8c2' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6d9b6'/><stop offset='1' stop-color='#e9bd94'/></linearGradient><linearGradient id='e4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ffffff' stop-opacity='0.9'/><stop offset='1' stop-color='#f0e0d6' stop-opacity='0.8'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><circle cx='232' cy='42' r='110' fill='url(#e2)'/><path d='M206 12 C 244 6 282 22 300 52 C 282 60 262 76 252 96 C 232 66 216 34 206 12 Z' fill='#fbe7cd' opacity='0.55'/><path d='M0 142 C 70 126 150 124 224 134 C 268 140 296 140 320 134 L 320 200 L 0 200 Z' fill='#f1ded0'/><path d='M0 146 C 76 132 156 130 232 140' stroke='#e4cdbc' stroke-width='2' fill='none'/><path d='M56 132 C 56 118 74 108 96 108 C 118 108 136 118 136 132 C 136 148 118 158 96 158 C 74 158 56 148 56 132 Z' fill='url(#e4)' stroke='#e0cabc' stroke-width='2'/><path d='M64 130 C 76 122 116 122 128 130 C 122 144 106 150 96 150 C 86 150 70 144 64 130 Z' fill='url(#e3)'/><path d='M74 128 C 80 124 88 124 92 128 C 88 132 80 132 74 128 Z' fill='#d99f74' opacity='0.8'/><path d='M100 134 C 106 130 114 130 118 134 C 114 138 106 138 100 134 Z' fill='#d99f74' opacity='0.8'/><path d='M148 148 C 148 138 156 132 166 132 C 176 132 184 138 184 148 C 184 154 176 158 166 158 C 156 158 148 154 148 148 Z' fill='#fbf1cf' stroke='#e8d9a8' stroke-width='2'/><path d='M166 132 C 160 138 158 146 160 158' stroke='#e8d9a8' stroke-width='2' fill='none'/><path d='M206 116 C 232 110 262 110 288 116 C 286 134 284 148 282 158 C 258 152 232 152 208 158 C 206 146 206 130 206 116 Z' fill='#fffaf2' stroke='#e6d5c8' stroke-width='2'/><path d='M218 130 C 236 127 258 127 274 130' stroke='#dcc7bb' stroke-width='2' fill='none'/><path d='M218 140 C 234 137 254 137 268 140' stroke='#dcc7bb' stroke-width='2' fill='none'/><path d='M218 150 C 230 147 246 147 258 150' stroke='#dcc7bb' stroke-width='2' fill='none'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "biomarkers, decoded",
+   "text": "Follow @aiforheratx for women's health *decoded* — because your labs deserve more than the word \"normal.\"",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fef3e4'/><stop offset='1' stop-color='#fceae6'/></linearGradient><radialGradient id='f2' cx='0.6' cy='0.28' r='0.65'><stop offset='0' stop-color='#ffe6b8' stop-opacity='0.95'/><stop offset='1' stop-color='#ffe6b8' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ffffff' stop-opacity='0.9'/><stop offset='1' stop-color='#f2e2d6' stop-opacity='0.75'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><circle cx='196' cy='48' r='118' fill='url(#f2)'/><path d='M110 8 C 156 0 214 6 250 28 C 236 44 226 66 222 90 C 190 60 148 30 110 8 Z' fill='#fde9c9' opacity='0.5'/><path d='M0 150 C 72 134 156 132 236 142 C 276 147 302 147 320 142 L 320 200 L 0 200 Z' fill='#f2ded0'/><path d='M0 154 C 78 140 162 138 244 148' stroke='#e5cdbc' stroke-width='2' fill='none'/><path d='M44 152 C 40 128 44 106 56 92 C 70 78 92 76 106 88 C 96 96 88 110 86 126 C 84 138 84 146 84 152 Z' fill='#cfdcc6'/><path d='M86 126 C 96 108 112 96 130 92' stroke='#b6c9ac' stroke-width='2' fill='none'/><path d='M62 152 C 58 138 60 122 68 112' stroke='#b6c9ac' stroke-width='2' fill='none'/><path d='M48 152 C 46 160 48 168 52 172 L 84 172 C 88 166 90 158 88 152 Z' fill='#e9cdb8'/><path d='M186 124 C 186 114 196 108 210 108 C 224 108 234 114 234 124 L 232 144 C 232 152 222 156 210 156 C 198 156 188 152 188 144 Z' fill='url(#f3)' stroke='#e2cec0' stroke-width='2'/><path d='M234 118 C 246 116 254 122 254 130 C 254 138 246 142 234 140' fill='none' stroke='#e2cec0' stroke-width='3'/><path d='M200 96 C 206 88 200 80 206 70' stroke='#e6d0bd' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.85'/><path d='M216 98 C 222 90 216 82 222 74' stroke='#e6d0bd' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.7'/></svg>"
+  }
+ ]
+}
