@@ -1,0 +1,82 @@
+{
+ "title": "PMDD — the same week every month (DRSP · 2 cycles)",
+ "caption": "Same week every month, fine by day 2? That's not \"just PMS.\" PMDD is diagnosed from 2 cycles of daily ratings (DRSP, Endicott 2006), not from memory. Save this for her. Which cycle day hits hardest?\nwww.aiforheratx.org\n#pmdd #pmddawareness #cycletracking #womenshealth #hormonehealth #pmsrelief",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 23 · the bad week",
+   "text": "One week a month I want to quit everything. Then my period starts and I'm *fine*.",
+   "suggest": "→ Rate symptoms daily, 2 cycles: the *DRSP* (DSM-5)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#EFDCC4'/></linearGradient><radialGradient id='a2' cx='.8' cy='.1' r='.8'><stop offset='0' stop-color='#FFF4E1'/><stop offset='1' stop-color='#FFF4E1' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFCF6'/><stop offset='1' stop-color='#F6E9D8'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><ellipse cx='252' cy='20' rx='160' ry='96' fill='url(#a2)'/><path d='M0 150 C68 142 116 149 190 144 C244 140 288 146 320 141 L320 200 L0 200Z' fill='#E7D2B4'/><path d='M0 150 C68 142 116 149 190 144 C244 140 288 146 320 141 L320 149 C288 154 244 148 190 152 C116 157 68 150 0 158Z' fill='#DCC29F' opacity='.6'/><path d='M92 38 C138 30 186 34 228 41 C233 76 231 108 226 133 C182 140 136 139 94 132 C88 104 87 66 92 38Z' fill='url(#a3)'/><path d='M92 38 C138 30 186 34 228 41 C229 50 229 55 228 60 C186 53 138 49 93 57 C91 50 91 43 92 38Z' fill='#E9D6BE'/><g fill='#CDB89C'><circle cx='114' cy='79' r='2.8'/><circle cx='139' cy='77' r='2.8'/><circle cx='164' cy='78' r='2.8'/><circle cx='189' cy='79' r='2.8'/><circle cx='114' cy='101' r='2.8'/><circle cx='139' cy='100' r='2.8'/><circle cx='189' cy='102' r='2.8'/><circle cx='114' cy='121' r='2.8'/><circle cx='139' cy='120' r='2.8'/><circle cx='189' cy='122' r='2.8'/></g><path d='M152 93 C172 85 190 93 189 104 C188 116 168 122 156 117 C144 112 143 96 157 92' fill='none' stroke='#DD9D96' stroke-width='3.6' stroke-linecap='round'/><path d='M242 116 C242 110 274 110 274 116 C274 131 269 142 258 142 C247 142 242 131 242 116Z' fill='#E6B5AC'/><path d='M274 120 C283 118 286 128 279 132' fill='none' stroke='#E6B5AC' stroke-width='4' stroke-linecap='round'/><path d='M252 104 C247 97 256 92 251 84' fill='none' stroke='#E2D0BA' stroke-width='2.6' stroke-linecap='round'/><path d='M264 104 C259 98 267 94 263 87' fill='none' stroke='#E2D0BA' stroke-width='2.4' stroke-linecap='round'/><path d='M38 143 C34 132 38 122 50 121 C62 120 68 128 66 140 C64 150 56 154 52 154 C46 152 40 150 38 143Z' fill='#F1E2CE'/><path d='M52 122 C48 108 40 100 30 96 C42 96 52 104 55 116' fill='#A9B89C'/><path d='M54 122 C60 110 70 104 80 104 C70 110 62 116 58 124' fill='#B9C6AB'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "1:40 AM, phone face-up",
+   "text": "Everyone told me it was just PMS. I was up googling whether I'm a bad person.",
+   "phrases": [
+    "“That's just PMS, babe.”",
+    "“Everyone gets moody, no?”",
+    "I googled: am I a bad person.",
+    "Then day 2 came and I was me again."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE6E6'/><stop offset='1' stop-color='#F6EADF'/></linearGradient><radialGradient id='b2' cx='.22' cy='.18' r='.55'><stop offset='0' stop-color='#FFFBF0' stop-opacity='.9'/><stop offset='1' stop-color='#FFFBF0' stop-opacity='0'/></radialGradient><radialGradient id='b3' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF7E6'/><stop offset='1' stop-color='#FFF7E6' stop-opacity='0'/></radialGradient><linearGradient id='b4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF2E8'/><stop offset='1' stop-color='#E9D8C6'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><ellipse cx='72' cy='34' rx='110' ry='78' fill='url(#b2)'/><path d='M56 18 C74 14 88 26 87 42 C86 58 72 68 58 64 C70 60 76 48 74 36 C72 26 66 20 56 18Z' fill='#FFF8EA'/><path d='M0 88 C24 80 44 92 46 118 C48 142 36 168 0 178Z' fill='#E6D6CE' opacity='.7'/><path d='M28 86 C40 96 44 118 38 146 C34 166 24 178 10 186' fill='none' stroke='#DCC9C1' stroke-width='2' opacity='.8'/><path d='M0 128 C60 112 130 122 200 116 C252 111 292 118 320 112 L320 200 L0 200Z' fill='url(#b4)'/><path d='M104 134 C140 120 186 126 224 120 C258 115 292 120 320 116 L320 138 C286 142 250 136 214 141 C170 147 130 148 100 152Z' fill='#F3E5D6' opacity='.9'/><path d='M150 150 C176 138 214 142 238 136 C256 132 274 134 288 130' fill='none' stroke='#DFCBB6' stroke-width='2.4' stroke-linecap='round'/><ellipse cx='176' cy='150' rx='72' ry='40' fill='url(#b3)'/><path d='M158 142 C157 134 160 130 168 128 C180 126 192 128 195 132 C198 138 196 150 192 156 C186 162 168 162 162 158 C158 154 158 148 158 142Z' fill='#FFF6E4'/><path d='M162 140 C168 136 184 136 190 139' fill='none' stroke='#E7D3B8' stroke-width='2.4' stroke-linecap='round'/><path d='M164 148 C170 145 182 145 187 147' fill='none' stroke='#EBD9C0' stroke-width='2.2' stroke-linecap='round'/><path d='M262 96 C258 84 264 74 276 74 C288 74 294 84 290 96 C302 100 306 112 296 118 C284 124 268 122 260 116 C252 110 254 100 262 96Z' fill='#B7C4A8' opacity='.85'/><path d='M276 118 C275 132 274 142 272 150' fill='none' stroke='#A2AF92' stroke-width='2.6' stroke-linecap='round'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "what actually gets a diagnosis",
+   "number": "2 cycles",
+   "text": "PMDD isn't diagnosed from memory. DSM-5 wants daily symptom ratings across two cycles.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF1E6'/><stop offset='1' stop-color='#F0DFC9'/></linearGradient><radialGradient id='c2' cx='.5' cy='.2' r='.7'><stop offset='0' stop-color='#FFF8EA'/><stop offset='1' stop-color='#FFF8EA' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFDF8'/><stop offset='1' stop-color='#F5E8D8'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='160' cy='26' rx='170' ry='90' fill='url(#c2)'/><path d='M0 146 C70 136 130 146 200 140 C252 135 292 142 320 136 L320 200 L0 200Z' fill='#E6D0B2'/><path d='M46 138 C74 124 122 122 154 128 C158 146 156 162 152 174 C118 180 76 178 46 170 C42 158 42 148 46 138Z' fill='url(#c3)'/><path d='M154 128 C186 122 232 124 262 137 C264 148 264 160 260 172 C230 179 188 180 152 174 C156 162 158 146 154 128Z' fill='#FBF3E7'/><path d='M154 128 C156 146 158 162 152 174' fill='none' stroke='#E4D2BB' stroke-width='2'/><g stroke='#D9C5AA' stroke-width='2.2' stroke-linecap='round' fill='none'><path d='M64 144 C82 140 106 140 124 143'/><path d='M64 154 C80 151 100 151 116 153'/><path d='M186 143 C204 139 226 140 242 144'/><path d='M186 154 C202 151 220 152 234 155'/></g><path d='M100 136 C112 132 122 138 121 146 C120 155 106 159 98 154 C91 150 92 139 101 136' fill='none' stroke='#DE9D95' stroke-width='3.2' stroke-linecap='round'/><path d='M214 148 C226 143 238 149 237 158 C236 166 222 170 214 165 C207 161 206 150 215 147' fill='none' stroke='#DE9D95' stroke-width='3.2' stroke-linecap='round'/><path d='M256 108 C262 96 276 92 284 100 C292 108 288 122 278 126 C268 130 254 124 254 116' fill='#E7B6AD' opacity='.55'/><path d='M40 118 C34 106 40 94 52 94 C64 94 70 104 66 116 C62 126 46 128 40 118Z' fill='#B6C3A7' opacity='.6'/><path d='M282 132 C280 146 276 156 270 164' fill='none' stroke='#D3BFA4' stroke-width='2.4' stroke-linecap='round'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "NIMH, published in NEJM",
+   "text": "Her hormones were normal. Switch them off, add them back, and only the PMDD group crashes.",
+   "phrases": [
+    "Her hormone levels? Normal.",
+    "Researchers switched them off, then added them back.",
+    "Only the PMDD group crashed again.",
+    "So it's sensitivity to normal hormones, not broken ones."
+   ],
+   "attribution": "— Schmidt et al., NEJM 1998",
+   "mood": "neutral",
+   "motion": "zoom-in",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF4E7'/><stop offset='1' stop-color='#F3E2CB'/></linearGradient><radialGradient id='d2' cx='.62' cy='.28' r='.6'><stop offset='0' stop-color='#FFF1D6'/><stop offset='1' stop-color='#FFF1D6' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF9EC'/><stop offset='1' stop-color='#FBE6CE'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M92 14 C150 8 214 12 246 22 C252 66 250 112 244 150 C204 158 140 158 96 150 C88 108 86 54 92 14Z' fill='url(#d3)'/><ellipse cx='192' cy='72' rx='120' ry='84' fill='url(#d2)'/><path d='M108 122 C140 108 186 106 232 116 C234 128 234 140 232 150 C192 157 140 157 106 150 C104 140 104 130 108 122Z' fill='#EFD3AE' opacity='.75'/><path d='M164 88 C176 74 196 70 208 78 C220 86 218 106 206 114 C192 122 170 116 164 104' fill='#FBD9A8' opacity='.7'/><path d='M92 14 C150 8 214 12 246 22 C247 30 247 34 246 38 C214 28 150 24 93 33 C91 26 91 19 92 14Z' fill='#E9D5BC'/><path d='M168 14 C172 60 172 108 168 154' fill='none' stroke='#E3D0B6' stroke-width='2.6'/><path d='M246 22 C266 34 276 60 274 92 C272 124 262 144 248 152' fill='none' stroke='#E0CCAF' stroke-width='2.4'/><path d='M246 30 C270 44 282 78 274 112 C270 130 262 144 252 152' fill='#F6E7D2' opacity='.55'/><path d='M52 150 C46 130 50 108 62 96 C74 84 88 88 90 102 C92 118 84 140 76 152 C68 160 56 160 52 150Z' fill='#F2E3CF'/><path d='M0 160 C60 150 130 160 200 154 C252 149 292 156 320 150 L320 200 L0 200Z' fill='#E6D0B0'/><path d='M40 176 C40 168 74 168 74 176 C74 190 69 198 57 198 C45 198 40 190 40 176Z' fill='#E6B5AC'/><path d='M60 132 C56 122 64 118 60 108' fill='none' stroke='#D9C5AC' stroke-width='2.4' stroke-linecap='round'/><path d='M276 150 C278 164 280 176 284 186' fill='none' stroke='#A9B89C' stroke-width='3' stroke-linecap='round'/><path d='M276 152 C266 142 258 128 260 116 C270 122 278 136 280 150Z' fill='#B7C4A8'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, two minutes",
+   "text": "Rate your 3 worst symptoms 0–3 tonight and write the cycle day beside them.",
+   "phrases": [
+    "Rate your 3 worst symptoms 0–3. Add the cycle day.",
+    "Do that for two cycles and you have a record, not a memory.",
+    "ACOG also lists 1,200 mg/day calcium; WHO says 150 min/week of movement."
+   ],
+   "attribution": "— DRSP (Endicott et al., 2006) · ACOG · WHO",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF6E8'/><stop offset='1' stop-color='#F4DFC2'/></linearGradient><radialGradient id='e2' cx='.28' cy='.16' r='.65'><stop offset='0' stop-color='#FFEFD2'/><stop offset='1' stop-color='#FFEFD2' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFDF7'/><stop offset='1' stop-color='#F7EBDA'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='92' cy='24' rx='140' ry='86' fill='url(#e2)'/><path d='M0 138 C70 128 130 138 200 132 C252 127 292 134 320 128 L320 200 L0 200Z' fill='#E9D2B0'/><path d='M62 128 C104 114 158 112 196 122 C200 142 198 160 192 174 C148 182 96 180 60 170 C56 154 56 138 62 128Z' fill='url(#e3)'/><path d='M128 118 C130 140 130 158 126 178' fill='none' stroke='#E5D2B8' stroke-width='2.4'/><g stroke='#D8C4A8' stroke-width='2.4' stroke-linecap='round' fill='none'><path d='M76 138 C90 134 106 134 118 137'/><path d='M76 150 C88 147 104 147 116 149'/><path d='M76 162 C88 159 102 160 114 162'/><path d='M144 132 C158 128 174 129 186 132'/><path d='M144 146 C156 143 172 144 184 147'/></g><g fill='#DE9D95'><circle cx='68' cy='137' r='3.2'/><circle cx='68' cy='149' r='3.2'/><circle cx='68' cy='161' r='3.2'/></g><path d='M204 116 C216 100 232 92 244 96 C250 98 250 108 242 118 C232 130 214 142 206 146 C200 142 198 128 204 116Z' fill='#E7B6AD'/><path d='M206 146 C202 152 198 158 194 162' fill='none' stroke='#D8A199' stroke-width='2.6' stroke-linecap='round'/><path d='M246 152 C246 144 284 144 284 152 C284 170 278 182 265 182 C252 182 246 170 246 152Z' fill='#EFD9BE'/><path d='M250 152 C262 146 272 146 282 152' fill='none' stroke='#DFC5A4' stroke-width='2.4'/><g fill='#C4CFAF'><path d='M256 158 C262 152 272 154 272 160 C272 166 260 168 256 162Z'/><path d='M266 166 C272 160 280 162 279 168 C278 174 268 174 266 168Z'/></g><path d='M36 152 C30 138 36 122 50 120 C64 118 72 128 70 144 C68 158 58 166 52 168 C44 166 38 160 36 152Z' fill='#F3E4D0'/><path d='M52 120 C48 104 40 96 28 92 C42 90 54 100 58 114' fill='#A9B89C'/><path d='M56 122 C64 108 76 102 88 102 C76 110 66 118 60 126' fill='#BCC9AC'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "day 2. she's herself again.",
+   "text": "Send this to the friend who cancels the same week every month. Follow @aiforheratx.",
+   "mood": "warm",
+   "motion": "pan-right",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF3DE'/><stop offset='.55' stop-color='#FCE6CE'/><stop offset='1' stop-color='#F2DCC0'/></linearGradient><radialGradient id='f2' cx='.7' cy='.3' r='.55'><stop offset='0' stop-color='#FFEAC6'/><stop offset='1' stop-color='#FFEAC6' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFBF1'/><stop offset='1' stop-color='#F6E7D2'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><ellipse cx='222' cy='58' rx='130' ry='86' fill='url(#f2)'/><path d='M186 34 C204 30 220 42 220 60 C220 78 204 90 186 86 C200 80 206 70 205 58 C204 46 198 38 186 34Z' fill='#FFF6E2'/><path d='M0 128 C48 116 96 126 148 120 C196 114 250 122 320 112 L320 200 L0 200Z' fill='#EBD4B2'/><path d='M0 152 C60 142 118 152 184 146 C240 141 286 148 320 142 L320 200 L0 200Z' fill='#E1C69F'/><path d='M40 148 C36 128 42 108 56 104 C70 100 80 112 78 132 C76 150 66 162 58 166 C48 164 42 158 40 148Z' fill='#F4E5D0'/><path d='M58 106 C52 88 42 78 28 74 C44 72 58 84 63 100' fill='#A9B89C'/><path d='M62 108 C72 92 86 86 100 86 C86 94 74 104 68 114' fill='#BCC9AC'/><path d='M56 132 C52 148 52 160 54 170' fill='none' stroke='#9FAE8F' stroke-width='2.6' stroke-linecap='round'/><path d='M238 148 C238 140 276 140 276 148 C276 166 270 180 257 180 C244 180 238 166 238 148Z' fill='#E6B5AC'/><path d='M276 152 C288 150 292 164 282 170' fill='none' stroke='#E6B5AC' stroke-width='4.4' stroke-linecap='round'/><path d='M250 132 C244 122 254 116 248 106' fill='none' stroke='#E6D2B6' stroke-width='2.6' stroke-linecap='round'/><path d='M264 132 C258 124 268 118 263 110' fill='none' stroke='#E6D2B6' stroke-width='2.4' stroke-linecap='round'/><path d='M120 158 C150 148 186 150 214 146' fill='none' stroke='#D9BE97' stroke-width='2.4' stroke-linecap='round'/></svg>"
+  }
+ ]
+}
