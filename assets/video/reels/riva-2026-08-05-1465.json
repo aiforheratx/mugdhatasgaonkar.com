@@ -1,0 +1,81 @@
+{
+ "title": "Perimenopause 101 — Meera, 44: the cycle log that got her diagnosed",
+ "caption": "Perimenopause starts while your periods still come — and it lasts a median 7.4 years (SWAN, JAMA Intern Med 2015).\nNo blood test diagnoses it — cycle + symptom history does (ACOG).\nWhat changed first?\nwww.aiforheratx.org\n#perimenopause #womenshealth #menopausesupport #hormonehealth #midlife",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "44. cycle 24 days, then 38.",
+   "text": "My cycle went *haywire* at 44 — and I was told I'm too young.",
+   "suggest": "→ Log a *7-day* cycle shift (STRAW+10)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#dcd9e6'/><stop offset='1' stop-color='#f4e6da'/></linearGradient><linearGradient id='a1wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8ddd6'/><stop offset='1' stop-color='#efe4dc'/></linearGradient><linearGradient id='a1duv' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6e7dc'/><stop offset='1' stop-color='#e2c8c2'/></linearGradient><radialGradient id='a1glow' cx='0.36' cy='0.26' r='0.55'><stop offset='0' stop-color='#fff8ea' stop-opacity='0.85'/><stop offset='1' stop-color='#fff8ea' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1wall)'/><path d='M78 22 C78 14 86 11 96 11 C126 10 156 11 176 13 C184 14 187 19 187 26 C188 62 187 96 185 120 C184 128 178 130 170 130 C140 131 110 130 92 128 C82 127 78 122 78 114 Z' fill='url(#a1sky)'/><circle cx='118' cy='47' r='14' fill='#fdf7e8' opacity='0.92'/><path d='M84 104 C108 78 134 92 186 64' stroke='#cdd4e0' stroke-width='2.4' fill='none' opacity='0.65'/><path d='M186 12 C196 40 192 78 184 128 C196 122 202 96 201 62 C200 34 196 18 186 12 Z' fill='#e7cfc9' opacity='0.85'/><path d='M18 196 C34 150 74 132 128 138 C186 144 232 158 246 196 Z' fill='url(#a1duv)'/><path d='M46 190 C72 160 104 154 140 160 C176 166 202 178 214 194' stroke='#d8b8b2' stroke-width='2' fill='none' opacity='0.7'/><path d='M92 176 C104 158 126 152 148 156 C166 159 178 168 184 178' stroke='#dcc0b9' stroke-width='1.6' fill='none' opacity='0.6'/><path d='M244 196 C244 172 250 158 262 154 C276 150 288 158 290 172 C292 182 290 190 288 196 Z' fill='#e0cbbe'/><path d='M258 154 C256 140 262 130 272 128 C266 138 266 146 268 154 Z' fill='#b5c4ab'/><rect width='320' height='200' fill='url(#a1glow)'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "three appointments, one year",
+   "text": "Meera, 44, heard \"too young\" three times — she was not imagining any of it.",
+   "phrases": [
+    "\"You're too young for that.\"",
+    "\"Your bloodwork came back normal.\"",
+    "\"Probably just stress and work.\"",
+    "Meera, 44: \"Then why is everything different?\""
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a2wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e9ddd6'/><stop offset='1' stop-color='#f2e6dd'/></linearGradient><linearGradient id='a2win' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#dfdce8'/><stop offset='1' stop-color='#f6e8db'/></linearGradient><linearGradient id='a2tab' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e6cdbf'/><stop offset='1' stop-color='#d6b6a8'/></linearGradient><radialGradient id='a2lamp' cx='0.68' cy='0.62' r='0.5'><stop offset='0' stop-color='#fff4e0' stop-opacity='0.8'/><stop offset='1' stop-color='#fff4e0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a2wall)'/><path d='M26 16 C26 10 32 8 40 8 C74 7 108 8 128 10 C136 11 139 16 139 23 C140 60 139 96 137 122 C136 130 130 132 122 132 C88 133 54 132 36 130 C28 129 26 124 26 116 Z' fill='url(#a2win)'/><path d='M32 112 C58 84 88 98 138 70' stroke='#ced5e1' stroke-width='2.2' fill='none' opacity='0.6'/><path d='M40 128 C44 96 42 60 36 10' stroke='#dcc6c0' stroke-width='3' fill='none' opacity='0.5'/><path d='M0 158 C60 148 190 146 320 152 L320 200 L0 200 Z' fill='url(#a2tab)'/><path d='M186 152 C184 136 190 126 202 124 C216 122 226 130 226 144 C226 150 224 154 222 158 C210 160 196 159 186 156 Z' fill='#fbf3e8'/><path d='M226 132 C238 130 244 136 242 143 C240 149 234 151 226 150' fill='none' stroke='#f0e0d0' stroke-width='3'/><path d='M200 118 C196 108 206 104 202 94 C199 87 208 82 205 74' stroke='#e2d3c6' stroke-width='2.4' fill='none' opacity='0.85'/><path d='M212 120 C208 112 216 106 213 98' stroke='#e2d3c6' stroke-width='2' fill='none' opacity='0.6'/><path d='M254 156 C252 146 258 140 268 139 C280 138 288 144 288 152 C288 156 286 158 284 160 C272 162 262 161 254 159 Z' fill='#e9c6c1'/><path d='M60 150 C58 138 66 132 76 133 C86 134 90 141 88 150 Z' fill='#b9c7b0' opacity='0.9'/><rect width='320' height='200' fill='url(#a2lamp)'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "SWAN · JAMA Intern Med 2015",
+   "number": "7.4 years",
+   "text": "Hot flashes and night sweats last a median *7.4 years* — this is not a short phase.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a3sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e7e0e8'/><stop offset='0.55' stop-color='#f7e7d8'/><stop offset='1' stop-color='#fbf0e4'/></linearGradient><linearGradient id='a3h1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e9cfc7'/><stop offset='1' stop-color='#dcbdb4'/></linearGradient><linearGradient id='a3h2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#d8c3b6'/><stop offset='1' stop-color='#c9ada0'/></linearGradient><radialGradient id='a3sun' cx='0.3' cy='0.42' r='0.45'><stop offset='0' stop-color='#fff6e2' stop-opacity='0.95'/><stop offset='1' stop-color='#fff6e2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a3sky)'/><circle cx='96' cy='84' r='19' fill='#fdf3df' opacity='0.95'/><rect width='320' height='200' fill='url(#a3sun)'/><path d='M-10 116 C40 104 78 118 124 112 C170 106 214 96 330 108 L330 128 C210 118 160 130 110 132 C64 134 24 128 -10 132 Z' fill='#efdad0' opacity='0.75'/><path d='M-10 140 C46 122 96 142 148 136 C206 129 262 118 330 130 L330 200 L-10 200 Z' fill='url(#a3h1)'/><path d='M-10 166 C50 150 108 172 168 164 C232 155 282 148 330 158 L330 200 L-10 200 Z' fill='url(#a3h2)'/><path d='M28 200 C30 180 38 170 50 168 C64 166 72 176 72 190 C72 194 71 197 70 200 Z' fill='#b6c3ac' opacity='0.9'/><path d='M50 168 C46 156 50 146 60 142 C55 152 55 160 58 168 Z' fill='#a8b89e'/><path d='M262 200 C262 184 268 176 278 175 C290 174 296 182 296 196 L296 200 Z' fill='#c2cdb6' opacity='0.8'/><path d='M120 200 C122 190 128 184 136 184 C144 184 148 190 148 200 Z' fill='#cbb6a8' opacity='0.7'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "how it is actually diagnosed",
+   "text": "After 45, ACOG says the diagnosis comes from your symptoms and cycle history, not a blood test.",
+   "phrases": [
+    "FSH swings day to day, so one \"normal\" result proves nothing.",
+    "After 45, ACOG diagnoses perimenopause from symptoms and cycle history.",
+    "Mood dips belong to this transition too — a therapist can help you carry it.",
+    "Meera's notebook became the evidence her doctor could finally act on."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a4wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f4e7da'/><stop offset='1' stop-color='#efdfd2'/></linearGradient><linearGradient id='a4desk' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e2c4b2'/><stop offset='1' stop-color='#d0ad99'/></linearGradient><linearGradient id='a4pg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fffaf1'/><stop offset='1' stop-color='#f6ead9'/></linearGradient><radialGradient id='a4light' cx='0.22' cy='0.2' r='0.6'><stop offset='0' stop-color='#fff7e6' stop-opacity='0.9'/><stop offset='1' stop-color='#fff7e6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a4wall)'/><path d='M-6 12 C30 8 70 20 96 44 C74 70 44 84 -6 86 Z' fill='#fbf0de' opacity='0.75'/><rect width='320' height='200' fill='url(#a4light)'/><path d='M0 150 C70 140 210 138 320 146 L320 200 L0 200 Z' fill='url(#a4desk)'/><path d='M92 152 C88 132 100 122 130 120 C162 118 190 124 196 140 C198 148 196 152 192 155 C160 160 120 160 92 156 Z' fill='url(#a4pg)'/><path d='M144 121 C142 134 142 146 144 157' stroke='#e6d3bd' stroke-width='2' fill='none'/><path d='M104 138 C116 134 128 134 136 136' stroke='#d9bfae' stroke-width='2' fill='none' opacity='0.8'/><path d='M104 146 C114 143 124 143 132 145' stroke='#d9bfae' stroke-width='2' fill='none' opacity='0.65'/><path d='M156 134 C166 131 178 132 186 134' stroke='#d9bfae' stroke-width='2' fill='none' opacity='0.8'/><path d='M156 143 C164 140 174 141 180 143' stroke='#d9bfae' stroke-width='2' fill='none' opacity='0.6'/><path d='M204 148 C216 128 228 112 238 104' stroke='#c2a08c' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M42 148 C36 126 44 112 58 110 C74 108 84 118 84 134 C84 141 82 146 80 150 Z' fill='#e5c8c2'/><path d='M58 110 C52 96 58 84 70 78 C63 90 62 100 66 110 Z' fill='#b7c5ad'/><path d='M64 108 C74 96 86 92 96 94 C86 98 76 104 70 112 Z' fill='#a9ba9d'/><path d='M258 150 C256 140 262 134 272 134 C282 134 288 141 286 150 Z' fill='#f2e2d2'/><path d='M286 138 C296 137 300 143 297 148 C294 152 290 152 286 151' fill='none' stroke='#f2e2d2' stroke-width='3'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, then tomorrow",
+   "text": "Tonight: log cycle day, sleep hours and your top 2 symptoms; tomorrow, walk 30 minutes.",
+   "phrases": [
+    "Tonight, note your cycle day, hours slept, and top 2 symptoms.",
+    "Bring two cycles of that log to your clinician — it is the evidence.",
+    "Add 150 minutes of moderate movement a week (WHO) for mood, sleep and bones."
+   ],
+   "attribution": "— Jen Gunter, The Menopause Manifesto",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a5wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fcefdd'/><stop offset='1' stop-color='#f6e2d2'/></linearGradient><linearGradient id='a5tab' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e7c9b4'/><stop offset='1' stop-color='#d6ae97'/></linearGradient><linearGradient id='a5bk' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fffaf0'/><stop offset='1' stop-color='#f7e9d6'/></linearGradient><radialGradient id='a5sun' cx='0.75' cy='0.18' r='0.6'><stop offset='0' stop-color='#fff3d8' stop-opacity='0.95'/><stop offset='1' stop-color='#fff3d8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a5wall)'/><path d='M320 4 C280 10 250 30 236 62 C266 78 300 76 320 66 Z' fill='#fdf1d8' opacity='0.8'/><rect width='320' height='200' fill='url(#a5sun)'/><path d='M0 146 C80 136 220 134 320 142 L320 200 L0 200 Z' fill='url(#a5tab)'/><path d='M96 150 C92 130 104 120 134 118 C166 116 194 122 200 138 C202 146 200 151 196 154 C164 159 124 159 96 155 Z' fill='url(#a5bk)'/><path d='M148 119 C146 132 146 145 148 156' stroke='#e8d4bd' stroke-width='2' fill='none'/><path d='M108 136 C120 132 132 132 140 134' stroke='#dcc0a8' stroke-width='2' fill='none' opacity='0.8'/><path d='M108 145 C118 142 128 142 136 144' stroke='#dcc0a8' stroke-width='2' fill='none' opacity='0.6'/><path d='M160 133 C170 130 182 131 190 133' stroke='#dcc0a8' stroke-width='2' fill='none' opacity='0.8'/><path d='M44 146 C40 128 48 118 62 117 C78 116 88 126 87 140 C86 145 84 149 82 152 C66 154 52 152 44 150 Z' fill='#fbf2e6'/><path d='M87 124 C99 122 105 129 102 137 C99 143 93 145 86 144' fill='none' stroke='#f2e0cc' stroke-width='3.5'/><path d='M60 112 C56 102 66 98 62 88 C59 81 68 76 65 68' stroke='#e6d6c4' stroke-width='2.4' fill='none' opacity='0.9'/><path d='M72 114 C68 106 76 100 73 92' stroke='#e6d6c4' stroke-width='2' fill='none' opacity='0.6'/><path d='M240 146 C236 126 244 114 258 112 C274 110 284 120 284 136 C284 141 283 144 282 148 Z' fill='#e6c9c3'/><path d='M258 112 C252 96 260 84 274 78 C266 90 264 102 268 112 Z' fill='#b5c4ab'/><path d='M266 110 C278 96 292 92 304 94 C292 98 280 106 274 116 Z' fill='#a6b899'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "not haywire. not too young.",
+   "text": "Your cycle log is the answer. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a6sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe6d6'/><stop offset='0.6' stop-color='#fdf0dd'/><stop offset='1' stop-color='#fdf7ec'/></linearGradient><linearGradient id='a6wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6e7db'/><stop offset='1' stop-color='#efdccd'/></linearGradient><radialGradient id='a6glow' cx='0.42' cy='0.44' r='0.5'><stop offset='0' stop-color='#fff5df' stop-opacity='0.95'/><stop offset='1' stop-color='#fff5df' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a6wall)'/><path d='M62 24 C62 15 70 12 82 12 C126 10 178 12 210 15 C220 16 224 21 224 29 C225 74 224 118 222 146 C221 155 214 157 204 157 C158 159 106 157 76 154 C66 153 62 148 62 139 Z' fill='url(#a6sky)'/><circle cx='134' cy='92' r='22' fill='#ffefcf' opacity='0.95'/><path d='M62 118 C98 100 132 116 176 104 C200 97 214 96 224 100 L224 146 C221 155 214 157 204 157 C158 159 106 157 76 154 C66 153 62 148 62 139 Z' fill='#f0d5c4' opacity='0.85'/><path d='M62 132 C104 120 146 136 190 128 C208 125 218 124 224 126 L224 146 C221 155 214 157 204 157 C158 159 106 157 76 154 C66 153 62 148 62 139 Z' fill='#e2bfae' opacity='0.9'/><path d='M143 14 C152 44 150 92 144 156 C156 148 162 108 161 62 C160 34 154 18 143 14 Z' fill='#eccfc7' opacity='0.7'/><rect width='320' height='200' fill='url(#a6glow)'/><path d='M240 196 C236 168 246 152 262 150 C280 148 292 160 292 180 C292 187 291 192 290 196 Z' fill='#e7cbc4'/><path d='M262 150 C254 132 262 116 278 108 C268 124 266 138 271 150 Z' fill='#b4c3a9'/><path d='M270 148 C284 132 300 128 314 130 C300 135 286 144 279 156 Z' fill='#a5b797'/><path d='M18 196 C16 176 24 164 38 163 C52 162 60 172 60 188 C60 191 59 194 58 196 Z' fill='#efd9c9' opacity='0.85'/></svg>"
+  }
+ ]
+}
