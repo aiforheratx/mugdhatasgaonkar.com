@@ -1,0 +1,83 @@
+{
+ "title": "Why a therapist matters — Priya, 36 (Story Arc)",
+ "caption": "Crying in the car but \"fine\" at work? Ask for CBT by name — about 75% of people who enter psychotherapy get some benefit (APA).\nFirst session is mostly questions + a GAD-7 score.\nSend this to her. Would you go — yes or not yet?\nwww.aiforheratx.org\n#therapy #womensmentalhealth #cbt #anxietysupport #burnoutrecovery #momlife",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "Sunday, 9 PM. Again.",
+   "text": "Fine at work. *Crying* in the car.",
+   "suggest": "→ Ask for *CBT* by name (NICE 2022)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#eddfe6'/><stop offset='0.55' stop-color='#f8ece2'/><stop offset='1' stop-color='#e6d3ca'/></linearGradient><radialGradient id='c1glow' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#f7cba9' stop-opacity='0.85'/><stop offset='1' stop-color='#f7cba9' stop-opacity='0'/></radialGradient><linearGradient id='c1dash' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#cba9a0'/><stop offset='1' stop-color='#a5877f'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1bg)'/><path d='M0 118 C58 94 112 130 172 110 C222 93 280 116 320 100 L320 200 L0 200 Z' fill='#e2cec6' opacity='0.5'/><circle cx='70' cy='72' r='36' fill='url(#c1glow)'/><circle cx='240' cy='58' r='26' fill='url(#c1glow)' opacity='0.75'/><circle cx='158' cy='46' r='18' fill='url(#c1glow)' opacity='0.5'/><g stroke='#b79ea6' stroke-opacity='0.5' stroke-width='2' fill='none' stroke-linecap='round'><path d='M38 16 C46 44 36 64 44 96'/><path d='M94 6 C102 38 90 56 98 88'/><path d='M156 20 C164 48 152 68 160 100'/><path d='M212 8 C220 40 208 60 216 92'/><path d='M274 22 C282 50 270 70 278 98'/></g><path d='M0 132 C68 116 130 148 200 133 C250 122 292 140 320 130 L320 200 L0 200 Z' fill='url(#c1dash)'/><path d='M94 198 C94 158 126 136 161 136 C196 136 228 158 228 198' fill='none' stroke='#7d635d' stroke-width='9' stroke-linecap='round' opacity='0.92'/><path d='M118 176 C138 165 186 165 206 176' fill='none' stroke='#8d7169' stroke-width='5' stroke-linecap='round' opacity='0.65'/><ellipse cx='266' cy='166' rx='24' ry='11' fill='#f5e1d5' opacity='0.85'/><path d='M52 160 C60 150 74 150 82 160' fill='none' stroke='#f3ddd0' stroke-width='4' stroke-linecap='round' opacity='0.7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "5:40 AM, before anyone wakes",
+   "text": "Priya is 36, manages nine people, and wakes with a knot in her chest.",
+   "phrases": [
+    "Priya is 36. Two kids.",
+    "She manages a team of nine.",
+    "By 5:40 AM her chest is already tight.",
+    "She called it \"just stress\" for two years."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c2bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#eee0e5'/><stop offset='0.5' stop-color='#f9eee4'/><stop offset='1' stop-color='#e7d5cb'/></linearGradient><linearGradient id='c2win' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#dfe4ea'/><stop offset='1' stop-color='#f7dcc6'/></linearGradient><radialGradient id='c2glow' cx='0.45' cy='0.35' r='0.6'><stop offset='0' stop-color='#f9d3ae' stop-opacity='0.8'/><stop offset='1' stop-color='#f9d3ae' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c2bg)'/><path d='M36 14 C36 10 40 8 44 8 L154 8 C158 8 162 11 162 16 L162 126 C120 132 74 130 36 126 Z' fill='url(#c2win)' opacity='0.95'/><path d='M36 78 C76 84 122 84 162 78' stroke='#e9cfc0' stroke-width='3' fill='none' opacity='0.8'/><path d='M99 10 C101 50 97 90 99 128' stroke='#e9cfc0' stroke-width='3' fill='none' opacity='0.8'/><ellipse cx='120' cy='58' rx='150' ry='90' fill='url(#c2glow)'/><path d='M164 6 C182 40 176 92 190 132 C176 136 168 132 162 128 C156 88 158 44 164 6 Z' fill='#e8ccd2' opacity='0.75'/><path d='M0 138 C70 128 140 146 210 136 C258 129 292 142 320 136 L320 200 L0 200 Z' fill='#d9bfb4' opacity='0.9'/><path d='M226 136 C226 118 236 108 250 108 C264 108 274 118 274 136' fill='#f4e2d5'/><path d='M274 116 C284 114 288 120 284 126 C280 131 275 130 273 128' fill='none' stroke='#f4e2d5' stroke-width='4' stroke-linecap='round'/><path d='M240 100 C236 90 246 86 244 76' fill='none' stroke='#cfb6ae' stroke-width='3' stroke-linecap='round' opacity='0.8'/><path d='M256 98 C252 88 262 82 259 70' fill='none' stroke='#cfb6ae' stroke-width='3' stroke-linecap='round' opacity='0.65'/><path d='M44 136 C44 122 50 112 58 108 C56 122 60 130 66 136 Z' fill='#a8bfa2'/><path d='M58 108 C70 106 78 114 78 124 C70 128 62 124 58 118 Z' fill='#8fae8c'/><path d='M52 136 C52 148 54 156 56 164 L64 164 C62 154 60 146 60 136 Z' fill='#c9a892'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "what the research says",
+   "number": "75%",
+   "text": "About *75%* of people who enter psychotherapy get some benefit from it (APA).",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c3bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6e6e8'/><stop offset='0.5' stop-color='#fbf1e6'/><stop offset='1' stop-color='#f2ded1'/></linearGradient><radialGradient id='c3sun' cx='0.5' cy='0.55' r='0.5'><stop offset='0' stop-color='#fad9b2' stop-opacity='0.95'/><stop offset='1' stop-color='#fad9b2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c3bg)'/><ellipse cx='160' cy='118' rx='170' ry='110' fill='url(#c3sun)'/><path d='M-10 152 C60 132 120 160 180 146 C238 133 288 152 330 142' fill='none' stroke='#e9c9b6' stroke-width='6' stroke-linecap='round' opacity='0.7'/><path d='M-10 172 C56 156 128 180 194 166 C246 155 292 170 330 162' fill='none' stroke='#dfb9a6' stroke-width='5' stroke-linecap='round' opacity='0.55'/><path d='M-10 190 C70 178 140 196 210 186 C260 179 300 190 330 184' fill='none' stroke='#d3a894' stroke-width='4' stroke-linecap='round' opacity='0.45'/><path d='M18 40 C46 26 74 44 96 34' fill='none' stroke='#e6c4cb' stroke-width='5' stroke-linecap='round' opacity='0.6'/><path d='M212 30 C240 18 268 36 300 26' fill='none' stroke='#e6c4cb' stroke-width='5' stroke-linecap='round' opacity='0.5'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "session one, 50 minutes",
+   "text": "Her first session was mostly questions — and a *GAD-7* score to track anxiety weekly.",
+   "phrases": [
+    "No couch, no diagnosis speech.",
+    "Her therapist asked questions and listened.",
+    "Then she scored a *GAD-7* — 7 quick anxiety questions.",
+    "That number becomes the progress they measure together."
+   ],
+   "attribution": "— GAD-7, Spitzer et al., Arch Intern Med 2006",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c4bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6e8e6'/><stop offset='0.5' stop-color='#fbf0e5'/><stop offset='1' stop-color='#eddacd'/></linearGradient><radialGradient id='c4lamp' cx='0.5' cy='0.4' r='0.55'><stop offset='0' stop-color='#fbd9ad' stop-opacity='0.85'/><stop offset='1' stop-color='#fbd9ad' stop-opacity='0'/></radialGradient><linearGradient id='c4ch' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8c3bf'/><stop offset='1' stop-color='#d3a49f'/></linearGradient><linearGradient id='c4ch2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#d9c6b0'/><stop offset='1' stop-color='#bda58c'/></linearGradient></defs><rect width='320' height='200' fill='url(#c4bg)'/><ellipse cx='176' cy='68' rx='140' ry='84' fill='url(#c4lamp)'/><path d='M0 142 C80 132 160 150 240 140 C280 135 304 144 320 140 L320 200 L0 200 Z' fill='#e0c9ba' opacity='0.85'/><ellipse cx='160' cy='176' rx='128' ry='20' fill='#d8b7a4' opacity='0.5'/><path d='M40 150 C36 122 46 104 68 102 C90 100 102 116 100 150 Z' fill='url(#c4ch)'/><path d='M44 128 C60 120 84 120 98 128 C98 142 96 148 96 152 L46 152 C46 146 44 138 44 128 Z' fill='#f0d8cf' opacity='0.85'/><path d='M42 150 C40 162 42 168 44 174' stroke='#a9827c' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M98 150 C100 162 98 168 96 174' stroke='#a9827c' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M218 150 C214 122 226 104 248 102 C270 100 282 118 278 150 Z' fill='url(#c4ch2)'/><path d='M222 128 C238 120 262 120 276 128 C276 142 274 148 274 152 L224 152 C224 146 222 138 222 128 Z' fill='#f2e2d2' opacity='0.85'/><path d='M220 150 C218 162 220 168 222 174' stroke='#93795f' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M276 150 C278 162 276 168 274 174' stroke='#93795f' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M150 152 C150 138 156 130 164 130 C172 130 178 138 178 152 Z' fill='#f4e6d8'/><path d='M158 130 C154 118 166 114 163 104' fill='none' stroke='#cfb6ae' stroke-width='3' stroke-linecap='round' opacity='0.7'/><path d='M296 132 C292 116 298 104 308 100 C306 116 310 126 316 132 Z' fill='#a8bfa2' opacity='0.9'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, 10 minutes",
+   "text": "Tonight: message *three* CBT therapists. Tomorrow: a 20-minute walk (150 min/week, WHO).",
+   "phrases": [
+    "Open a therapist directory and filter for *CBT* + your insurance.",
+    "Message three tonight — first replies come fastest.",
+    "Tomorrow: walk 20 minutes (150 min/week, WHO 2020).",
+    "Eat like the SMILES trial: veg, fish, olive oil (BMC Medicine 2017)."
+   ],
+   "attribution": "— Lori Gottlieb, Maybe You Should Talk to Someone",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c5bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbeee1'/><stop offset='0.55' stop-color='#fdf3e7'/><stop offset='1' stop-color='#f2ded0'/></linearGradient><radialGradient id='c5sun' cx='0.28' cy='0.3' r='0.6'><stop offset='0' stop-color='#fcdcae' stop-opacity='0.9'/><stop offset='1' stop-color='#fcdcae' stop-opacity='0'/></radialGradient><linearGradient id='c5tab' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e2c4ac'/><stop offset='1' stop-color='#c9a689'/></linearGradient></defs><rect width='320' height='200' fill='url(#c5bg)'/><ellipse cx='96' cy='56' rx='150' ry='96' fill='url(#c5sun)'/><path d='M188 8 C190 46 186 90 190 122 C216 126 246 126 272 122 C276 88 274 44 272 8 Z' fill='#f6e3cf' opacity='0.85'/><path d='M188 66 C216 70 246 70 274 66' stroke='#e6cbb4' stroke-width='3' fill='none' opacity='0.8'/><path d='M0 128 C80 118 160 138 240 128 C280 123 304 132 320 128 L320 200 L0 200 Z' fill='url(#c5tab)'/><path d='M36 146 C34 132 44 124 62 124 C82 124 94 132 92 146 C74 152 54 152 36 146 Z' fill='#fdf6ec'/><path d='M44 138 C58 134 76 134 86 138' stroke='#d8b9a2' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M96 122 C112 118 122 128 118 140' fill='none' stroke='#c08f70' stroke-width='4' stroke-linecap='round'/><path d='M132 148 C130 134 138 126 152 126 C166 126 174 134 172 148 C158 153 146 153 132 148 Z' fill='#f7ece0'/><path d='M172 132 C182 130 186 136 182 142 C179 146 174 145 172 143' fill='none' stroke='#f7ece0' stroke-width='4' stroke-linecap='round'/><path d='M146 122 C142 112 152 108 149 98' fill='none' stroke='#d7bdb2' stroke-width='3' stroke-linecap='round' opacity='0.75'/><path d='M214 146 C212 130 218 122 230 120 C242 118 250 128 248 146 Z' fill='#f9eddd'/><path d='M222 132 C230 128 240 128 244 132' stroke='#e0c2ab' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M276 128 C272 110 280 96 292 92 C290 110 294 120 302 128 Z' fill='#a8bfa2'/><path d='M292 92 C304 92 310 100 308 110 C300 114 293 108 292 102 Z' fill='#8fae8c'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "share this with her",
+   "text": "You don't have to be crying in the car to deserve a therapist. Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c6bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fceee0'/><stop offset='0.5' stop-color='#fdf4ea'/><stop offset='1' stop-color='#f4e0d2'/></linearGradient><radialGradient id='c6sun' cx='0.5' cy='0.42' r='0.55'><stop offset='0' stop-color='#fcd9a8' stop-opacity='0.95'/><stop offset='1' stop-color='#fcd9a8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c6bg)'/><ellipse cx='160' cy='84' rx='170' ry='104' fill='url(#c6sun)'/><path d='M92 12 C90 56 92 104 94 138 C138 144 186 144 228 138 C230 102 230 54 228 12 Z' fill='#fbeada' opacity='0.9'/><path d='M92 76 C138 82 186 82 230 76' stroke='#ecd0b6' stroke-width='3' fill='none' opacity='0.85'/><path d='M160 12 C158 56 160 100 161 140' stroke='#ecd0b6' stroke-width='3' fill='none' opacity='0.85'/><circle cx='160' cy='60' r='24' fill='#fbe0b4' opacity='0.9'/><path d='M228 14 C246 48 240 100 252 140 C238 144 230 140 226 136 C222 96 224 50 228 14 Z' fill='#efd4d6' opacity='0.7'/><path d='M0 146 C80 136 160 154 240 144 C280 139 304 148 320 144 L320 200 L0 200 Z' fill='#e2c8b4'/><path d='M52 144 C48 122 58 106 72 102 C70 122 76 134 84 144 Z' fill='#a8bfa2'/><path d='M72 102 C86 100 94 110 92 120 C82 124 74 118 72 110 Z' fill='#8fae8c'/><path d='M62 144 C62 158 64 168 66 178 L76 178 C73 166 70 156 70 144 Z' fill='#c9a892'/><path d='M256 144 C254 130 262 122 274 122 C286 122 292 132 290 144 Z' fill='#f6e6d4'/><path d='M264 116 C260 106 270 102 267 92' fill='none' stroke='#dcc0b4' stroke-width='3' stroke-linecap='round' opacity='0.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
