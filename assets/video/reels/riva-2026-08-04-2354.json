@@ -1,0 +1,82 @@
+{
+ "title": "Ferritin myth flip — Nadia, 38, 'normal labs' but empty tank",
+ "caption": "Myth: 'normal labs' means your iron is fine. Ferritin — the iron-storage test — can be low while a CBC looks normal (Clinical Medicine, 2021).\nSend this to your always-tired friend. Which myth next? 👇\nwww.aiforheratx.org\n#ferritin #irondeficiency #womenshealth #fatigue #heavyperiods",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "tired 2 years. CBC 'normal'.",
+   "text": "Always *exhausted*, but told your labs came back normal.",
+   "suggest": "→ Ask for *ferritin* (CMAJ 2012)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E9DE'/><stop offset='1' stop-color='#E6CEC4'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEAD3'/><stop offset='1' stop-color='#EAC9B4'/></linearGradient><linearGradient id='a3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#DFC5B6'/></linearGradient><radialGradient id='a4' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF1D2' stop-opacity='.85'/><stop offset='1' stop-color='#FFF1D2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M188 16 q48-7 94 3 l3 94 q-50 9-98 0 z' fill='url(#a2)'/><path d='M188 74 q48 10 96 3' stroke='#DFBCA4' stroke-width='2' fill='none' opacity='.7'/><ellipse cx='242' cy='72' rx='92' ry='60' fill='url(#a4)'/><path d='M180 10 q15 62 3 130 q-17 13-27-7 q11-64 3-125 z' fill='#F1DACC' opacity='.92'/><path d='M-6 136 q78-24 148-8 q62 15 184 3 l0 71 l-336 0 z' fill='url(#a3)'/><path d='M18 152 q54-19 108-4 q40 11 98 3' stroke='#DBBEAB' stroke-width='2' fill='none' opacity='.75'/><path d='M24 134 q26-24 62-8 q12 7 3 15 q-36 10-66 2 z' fill='#FDF8F1'/><path d='M238 148 q24-5 42 3 l-3 52 l-41 0 z' fill='#E2C4B0'/><path d='M250 141 q12-3 22 1 l-4 20 q-10 3-20-1 z' fill='#F7E4C7'/><ellipse cx='261' cy='151' rx='32' ry='21' fill='url(#a4)'/><path d='M300 128 q6-30 18-36 q-6 22 0 38' stroke='#A9B9A3' stroke-width='3' fill='none' opacity='.8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Nadia, 38 — 6:10 AM",
+   "text": "Nadia sleeps nine hours and still wakes up *empty*, every single morning.",
+   "phrases": [
+    "Two kids, late standups, heavy periods.",
+    "Coffee stopped working months ago.",
+    "She started wondering if she was just *lazy*.",
+    "She wasn't — nobody had checked her iron stores."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E7DC'/><stop offset='1' stop-color='#E9D2C6'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE8D0' stop-opacity='.95'/><stop offset='1' stop-color='#E9CBB6' stop-opacity='.9'/></linearGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9CFC2'/><stop offset='1' stop-color='#D9B9A7'/></linearGradient><radialGradient id='b4' cx='.5' cy='.4' r='.6'><stop offset='0' stop-color='#FFF0CF' stop-opacity='.8'/><stop offset='1' stop-color='#FFF0CF' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M28 12 q54-8 104 2 l2 92 q-54 9-108 0 z' fill='url(#b2)'/><path d='M30 66 q52 9 104 2' stroke='#DFBDA5' stroke-width='2' fill='none' opacity='.6'/><ellipse cx='82' cy='64' rx='96' ry='62' fill='url(#b4)'/><path d='M46 24 q4 34-2 62' stroke='#EFD8C7' stroke-width='3' fill='none' opacity='.8'/><path d='M-4 128 q90-14 176-4 q76 9 152-2 l0 82 l-330 0 z' fill='url(#b3)'/><path d='M182 92 q26-8 44 4 q-2 26-22 30 q-22-2-24-30 z' fill='#F7E7D6'/><path d='M226 100 q16 2 14 14 q-2 12-16 12' stroke='#E3C3AE' stroke-width='4' fill='none'/><path d='M196 84 q4-14-4-22 q12 6 10 22' stroke='#E6CDBC' stroke-width='2.5' fill='none' opacity='.7'/><path d='M212 82 q5-16-3-26 q13 8 11 26' stroke='#E6CDBC' stroke-width='2.5' fill='none' opacity='.55'/><path d='M186 126 q30-6 58 2' stroke='#CDAB98' stroke-width='2' fill='none' opacity='.6'/><path d='M258 118 q10-30 24-36 q-8 24-4 40 q14-14 26-10 q-14 10-20 26 q-16 6-26-20 z' fill='#A9B9A3' opacity='.85'/><path d='M256 148 q26-6 42 4 l-4 26 q-20 5-40-2 z' fill='#E8CDB9'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the flip",
+   "text": "A CBC checks your *hemoglobin*; ferritin checks the iron you have stored.",
+   "phrases": [
+    "Your stores run down first.",
+    "Hemoglobin can still read normal.",
+    "The gap has a name: *iron deficiency without anemia*.",
+    "It is measurable — one ferritin test (Clinical Medicine, 2021)."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF0E4'/><stop offset='1' stop-color='#EEDACC'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF7EA'/><stop offset='1' stop-color='#F0DECD'/></linearGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4DCD6'/><stop offset='1' stop-color='#D79A96'/></linearGradient><radialGradient id='c4' cx='.5' cy='.4' r='.6'><stop offset='0' stop-color='#FFF4DC' stop-opacity='.9'/><stop offset='1' stop-color='#FFF4DC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='210' cy='58' rx='110' ry='66' fill='url(#c4)'/><path d='M232 10 q42-6 82 4 l2 76 q-44 8-86 0 z' fill='#FBEBD6' opacity='.9'/><path d='M-6 132 q94-12 172-3 q84 9 160-3 l0 74 l-332 0 z' fill='#E7CDBB'/><path d='M40 124 q60-12 120 0 q10 2 6 12 l-8 44 q-62 10-124 0 l-6-44 q-4-10 12-12 z' fill='url(#c2)'/><path d='M62 142 q46-6 88 2' stroke='#DCBBA6' stroke-width='2.5' fill='none' opacity='.75'/><path d='M62 156 q34-5 66 1' stroke='#DCBBA6' stroke-width='2.5' fill='none' opacity='.6'/><path d='M62 170 q24-4 46 1' stroke='#DCBBA6' stroke-width='2.5' fill='none' opacity='.45'/><path d='M214 104 q16-4 26 2 q6 4 4 12 l-2 46 q-14 6-30 0 l-2-46 q-2-9 4-14 z' fill='#FBF2E6'/><path d='M214 146 q14-4 30 0 l-2 18 q-14 6-30 0 z' fill='url(#c3)'/><path d='M216 98 q12-4 22 0 l0 8 q-11 4-22 0 z' fill='#E6D0BE'/><path d='M266 118 q8-32 22-38 q-8 24-2 42 q16-16 28-10 q-16 12-22 30 q-18 4-26-24 z' fill='#A9B9A3' opacity='.8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "CMAJ, 2012",
+   "number": "~48%",
+   "text": "In nonanemic women with low ferritin, 12 weeks of iron cut *fatigue* by about half.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF3E6'/><stop offset='.6' stop-color='#F7E4D2'/><stop offset='1' stop-color='#EFD3C4'/></linearGradient><radialGradient id='d2' cx='.5' cy='.62' r='.5'><stop offset='0' stop-color='#FFE9BE' stop-opacity='.95'/><stop offset='1' stop-color='#FFE9BE' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EBD2C2'/><stop offset='1' stop-color='#DDBBA8'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='160' cy='132' rx='150' ry='84' fill='url(#d2)'/><path d='M92 130 q68-34 138 0 q-66 26-138 0 z' fill='#F6D9A9' opacity='.55'/><path d='M-6 150 q78-30 156-10 q84 22 176-6 l0 66 l-332 0 z' fill='url(#d3)'/><path d='M-6 170 q92-22 172-4 q80 18 160-8 l0 42 l-332 0 z' fill='#D9B4A0' opacity='.85'/><path d='M22 158 q10-26 22-32 q-10 22-4 38' stroke='#A9B9A3' stroke-width='3' fill='none' opacity='.75'/><path d='M292 160 q-8-24-20-30 q10 22 4 36' stroke='#A9B9A3' stroke-width='3' fill='none' opacity='.65'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does this week",
+   "text": "Ask for *ferritin*, pair iron-rich food with vitamin C, and move on the easy days.",
+   "phrases": [
+    "1. Ask: \"Can you check my *ferritin*, not just a CBC?\"",
+    "2. Eat lentils or spinach with citrus — vitamin C boosts iron absorption (NIH ODS).",
+    "3. Build toward 150 minutes of gentle movement a week (WHO).",
+    "Then let your clinician read the numbers with you."
+   ],
+   "attribution": "— NIH Office of Dietary Supplements; WHO physical activity guideline",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF6E8'/><stop offset='1' stop-color='#F3DECB'/></linearGradient><radialGradient id='e2' cx='.35' cy='.3' r='.6'><stop offset='0' stop-color='#FFEFC9' stop-opacity='.9'/><stop offset='1' stop-color='#FFEFC9' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF1E4'/><stop offset='1' stop-color='#E9D2BE'/></linearGradient><linearGradient id='e4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F5B96C'/><stop offset='1' stop-color='#E79A4E'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='108' cy='58' rx='130' ry='74' fill='url(#e2)'/><path d='M-6 128 q96-12 178-2 q80 9 154-4 l0 78 l-332 0 z' fill='#EBD0BB'/><path d='M84 124 q52-14 104 2 q10 4 4 14 q-14 30-56 32 q-42-2-56-32 q-6-10 4-16 z' fill='url(#e3)'/><path d='M104 138 q34-10 66 2 q-14 18-34 20 q-22-2-32-22 z' fill='#9CAE96' opacity='.9'/><path d='M120 144 q18-8 34 2 q-12 10-22 10 q-10-2-12-12 z' fill='#C4763F' opacity='.85'/><path d='M228 132 q26-8 40 8 q10 14-4 26 q-22 12-40-2 q-12-16 4-32 z' fill='url(#e4)'/><path d='M232 150 q16-12 32-2' stroke='#FCE2B6' stroke-width='2.5' fill='none' opacity='.9'/><path d='M248 136 q2 16 0 28' stroke='#FCE2B6' stroke-width='2' fill='none' opacity='.8'/><path d='M40 122 q6-34 20-42 q-8 26 0 44 q14-18 28-12 q-16 12-22 32 q-20 4-26-22 z' fill='#A9B9A3'/><path d='M42 176 q22-6 36 2 l-4 20 q-18 4-34-2 z' fill='#E4C6AE'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "one more myth?",
+   "text": "Follow @aiforheratx — exhausted is not a personality trait, it is a *question* worth asking.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF7EA'/><stop offset='1' stop-color='#F2DCCB'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF0CE'/><stop offset='1' stop-color='#F7D8AE'/></linearGradient><radialGradient id='f3' cx='.62' cy='.34' r='.55'><stop offset='0' stop-color='#FFF3D4' stop-opacity='.95'/><stop offset='1' stop-color='#FFF3D4' stop-opacity='0'/></radialGradient><linearGradient id='f4' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FDF7EE'/><stop offset='1' stop-color='#E4CBB9'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M186 14 q50-8 98 3 l3 96 q-52 9-102 0 z' fill='url(#f2)'/><path d='M186 74 q50 10 100 3' stroke='#E5C29F' stroke-width='2' fill='none' opacity='.6'/><ellipse cx='240' cy='68' rx='104' ry='68' fill='url(#f3)'/><path d='M212 46 q16-12 34-2 q-16 4-34 2 z' fill='#FFF9EC' opacity='.8'/><path d='M180 8 q18 56-4 96 q-24 22-32-2 q22-42 12-94 z' fill='#F5DECE' opacity='.95'/><path d='M-6 136 q86-16 164-4 q78 12 168-4 l0 74 l-336 0 z' fill='url(#f4)'/><path d='M60 128 q28-8 48 4 q-4 24-24 28 q-22-4-24-32 z' fill='#F9EADA'/><path d='M106 136 q16 2 14 14 q-2 12-16 12' stroke='#E0BFA8' stroke-width='4' fill='none'/><path d='M74 118 q5-16-3-26 q13 8 11 26' stroke='#E7CFBE' stroke-width='2.5' fill='none' opacity='.75'/><path d='M90 116 q4-18-4-28 q14 9 12 28' stroke='#E7CFBE' stroke-width='2.5' fill='none' opacity='.55'/><path d='M258 116 q8-34 24-40 q-10 26-4 44 q18-18 30-10 q-18 12-24 32 q-20 4-26-26 z' fill='#A9B9A3' opacity='.9'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
