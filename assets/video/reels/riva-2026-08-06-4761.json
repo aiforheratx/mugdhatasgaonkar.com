@@ -1,0 +1,81 @@
+{
+ "title": "Myth Flip — \"just newborn tired\" vs. postpartum thyroiditis (1 in 20)",
+ "caption": "Myth: it's just newborn tired. About 1 in 20 women get postpartum thyroiditis in the year after birth (NIDDK). It can look exactly like anxiety. Ask for TSH + free T4.\nWhich myth next? 👇\nwww.aiforheratx.org\n#postpartumhealth #thyroidhealth #womenshealth #newmom #maternalhealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "4 months in. still shaking.",
+   "text": "\"You're just *tired*, you have a newborn.\" Sometimes. And sometimes it's your thyroid.",
+   "suggest": "→ Ask for *TSH* + free T4 (NIDDK)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE1DF'/><stop offset='1' stop-color='#F9EFE3'/></linearGradient><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#D6C8D4'/><stop offset='1' stop-color='#F2E2D2'/></linearGradient><radialGradient id='c1' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F7D8A4' stop-opacity='0.9'/><stop offset='1' stop-color='#F7D8A4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M74 22 C74 8 206 6 206 24 L206 116 C166 124 112 124 74 116 Z' fill='url(#b1)'/><path d='M78 94 C110 76 142 106 176 86 C190 78 200 82 204 90 L204 116 C166 124 112 124 78 116 Z' fill='#C9BBCB' opacity='0.5'/><circle cx='174' cy='44' r='11' fill='#F7F0DC' opacity='0.85'/><path d='M62 14 C74 44 66 92 78 138 C60 140 50 132 48 110 C44 74 50 34 62 14 Z' fill='#E4D3C3' opacity='0.92'/><path d='M214 12 C204 46 214 96 202 140 C222 142 232 130 234 106 C238 68 228 30 214 12 Z' fill='#E4D3C3' opacity='0.92'/><ellipse cx='250' cy='152' rx='48' ry='36' fill='url(#c1)'/><path d='M232 152 C232 140 248 133 258 139 C266 143 268 153 262 159 C252 167 232 164 232 152 Z' fill='#F3C98F'/><path d='M40 200 C40 160 60 146 96 146 C132 146 152 160 152 200 Z' fill='#EAD9C6'/><path d='M52 152 C52 176 52 190 52 200 M74 148 C74 176 74 190 74 200 M96 146 C96 176 96 190 96 200 M118 148 C118 176 118 190 118 200 M140 154 C140 178 140 192 140 200' stroke='#CEB89F' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M58 186 C78 171 118 173 136 188 C120 198 74 198 58 186 Z' fill='#E9C0BC'/><path d='M286 200 C280 180 282 160 292 148 C296 158 296 178 294 200 Z' fill='#A9B79B'/><path d='M292 150 C276 142 268 152 272 162 C282 166 290 160 292 150 Z' fill='#A9B79B' opacity='0.9'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "2:14 PM, she's finally down",
+   "text": "The baby finally went down and my hands still wouldn't stop shaking.",
+   "phrases": [
+    "The baby finally went down at two.",
+    "I sat on the floor by the crib.",
+    "My hands *wouldn't* stop shaking."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDDFDD'/><stop offset='1' stop-color='#F8EDE1'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#D6C8D4'/><stop offset='1' stop-color='#EFDECD'/></linearGradient><radialGradient id='c2' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#EBE3F2' stop-opacity='0.95'/><stop offset='1' stop-color='#EBE3F2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a2)'/><path d='M10 18 C10 6 96 4 96 20 L96 104 C68 112 34 112 10 104 Z' fill='url(#b2)'/><path d='M14 88 C36 74 60 96 92 80 L92 104 C68 112 34 112 14 104 Z' fill='#C9BBCB' opacity='0.5'/><path d='M104 10 C96 44 106 92 96 132 C114 134 122 122 124 100 C128 62 116 26 104 10 Z' fill='#E4D3C3' opacity='0.92'/><path d='M150 200 C150 150 166 132 200 132 C234 132 250 150 250 200 Z' fill='#E7D5C1' opacity='0.85'/><path d='M164 138 C164 168 164 186 164 200 M186 134 C186 168 186 186 186 200 M208 134 C208 168 208 186 208 200 M230 140 C230 170 230 188 230 200' stroke='#CDB79E' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M0 200 C0 178 24 164 62 162 C110 160 146 172 152 200 Z' fill='#EFE0CE'/><path d='M8 190 C36 172 92 172 124 190 C96 200 34 200 8 190 Z' fill='#E9C0BC' opacity='0.9'/><ellipse cx='84' cy='176' rx='38' ry='26' fill='url(#c2)'/><path d='M70 172 C70 166 78 163 88 164 C96 165 100 170 98 177 C96 183 84 185 76 182 C71 180 70 176 70 172 Z' fill='#DDE3EE'/><path d='M292 200 C286 182 288 162 298 150 C302 160 302 180 300 200 Z' fill='#A9B79B'/><path d='M298 152 C282 144 274 154 278 164 C288 168 296 162 298 152 Z' fill='#A9B79B' opacity='0.9'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 11 PM",
+   "text": "Four people had an explanation. Not one of them said thyroid.",
+   "phrases": [
+    "It's just newborn tired.",
+    "Sleep when she sleeps!",
+    "Everyone's anxious at four months.",
+    "I wasn't anxious. My heart was racing at rest."
+   ],
+   "mood": "dim",
+   "motion": "zoom-out",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EEE0DC'/><stop offset='1' stop-color='#F9EFE4'/></linearGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#D9CBD6'/><stop offset='1' stop-color='#F0E0CF'/></linearGradient><radialGradient id='c3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#E6E1F0' stop-opacity='0.95'/><stop offset='1' stop-color='#E6E1F0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a3)'/><path d='M206 16 C206 4 306 2 306 18 L306 96 C276 104 234 104 206 96 Z' fill='url(#b3)'/><path d='M210 82 C232 68 258 88 302 74 L302 96 C276 104 234 104 210 96 Z' fill='#C9BBCB' opacity='0.5'/><circle cx='262' cy='40' r='9' fill='#F7F0DC' opacity='0.8'/><path d='M196 8 C188 42 198 88 190 124 C206 126 214 114 216 94 C220 58 208 24 196 8 Z' fill='#E4D3C3' opacity='0.9'/><path d='M0 142 C60 130 240 130 320 142 L320 200 L0 200 Z' fill='#EFE0CE'/><ellipse cx='108' cy='150' rx='56' ry='34' fill='url(#c3)'/><path d='M84 118 C84 112 92 108 106 108 C122 108 130 112 130 120 L130 156 C130 163 122 167 106 167 C92 167 84 163 84 156 Z' fill='#DDE3EE'/><path d='M90 118 C90 115 96 113 106 113 C118 113 124 115 124 119 L124 150 C124 154 118 156 106 156 C96 156 90 154 90 150 Z' fill='#F6F1E6'/><path d='M96 124 C96 121 100 120 108 120 C116 120 120 121 120 124 C120 127 116 128 108 128 C100 128 96 127 96 124 Z' fill='#E9C0BC'/><path d='M96 136 C96 133 99 132 105 132 C112 132 115 133 115 136 C115 139 112 140 105 140 C99 140 96 139 96 136 Z' fill='#D9CBD6'/><path d='M28 200 C24 178 30 158 44 148 C50 160 50 180 46 200 Z' fill='#A9B79B'/><path d='M44 150 C28 142 20 152 24 162 C34 166 42 160 44 150 Z' fill='#A9B79B' opacity='0.9'/><path d='M186 174 C186 166 196 162 206 164 C214 166 218 172 216 180 C214 188 198 190 190 186 C186 184 186 178 186 174 Z' fill='#F3C98F' opacity='0.9'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "NIDDK · postpartum thyroid",
+   "number": "1 in 20",
+   "text": "About 1 in 20 women get postpartum thyroiditis in the first year. It mimics anxiety.",
+   "mood": "neutral",
+   "motion": "zoom-in",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4E6DC'/><stop offset='1' stop-color='#FBF2E6'/></linearGradient><linearGradient id='b4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7CFC9'/><stop offset='1' stop-color='#F8E9D6'/></linearGradient><radialGradient id='c4' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F9DFAE' stop-opacity='0.9'/><stop offset='1' stop-color='#F9DFAE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a4)'/><path d='M66 20 C66 6 254 4 254 22 L254 122 C202 130 116 130 66 122 Z' fill='url(#b4)'/><ellipse cx='160' cy='96' rx='90' ry='52' fill='url(#c4)'/><path d='M70 100 C104 82 128 104 158 88 C188 72 220 96 250 84 L250 122 C202 130 116 130 70 122 Z' fill='#DCC2B4' opacity='0.5'/><circle cx='206' cy='52' r='13' fill='#FBEFCE' opacity='0.9'/><path d='M92 62 C104 56 116 60 122 66 C112 70 98 70 92 62 Z' fill='#E8D3C4' opacity='0.8'/><path d='M56 12 C48 48 58 100 48 142 C66 144 74 130 76 106 C80 66 68 28 56 12 Z' fill='#E9D6C4' opacity='0.92'/><path d='M264 12 C256 48 266 100 256 142 C274 144 282 130 284 106 C288 66 276 28 264 12 Z' fill='#E9D6C4' opacity='0.92'/><path d='M0 146 C70 136 250 136 320 146 L320 200 L0 200 Z' fill='#EFE0CE'/><path d='M138 168 C138 158 152 152 166 154 C180 156 186 164 184 174 C182 184 164 188 150 184 C141 181 138 174 138 168 Z' fill='#F3C98F'/><path d='M150 148 C146 140 152 134 150 128 M164 146 C160 138 166 132 164 126' stroke='#E5D2C0' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M40 200 C34 180 38 160 50 150 C56 162 56 182 52 200 Z' fill='#A9B79B'/><path d='M50 152 C34 144 26 154 30 164 C40 168 48 162 50 152 Z' fill='#A9B79B' opacity='0.9'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, ten minutes",
+   "text": "Tonight: write your three worst symptoms down, then ask for TSH and free T4.",
+   "phrases": [
+    "Write your 3 worst symptoms in your notes app.",
+    "Ask for TSH and free T4 at the next visit.",
+    "Hand on your chest, out loud: \"this is hard.\"",
+    "Lentils with lemon; a 10-min stroller walk counts (NIH ODS, WHO)."
+   ],
+   "attribution": "— Kristin Neff, Self-Compassion",
+   "mood": "warm",
+   "motion": "pan-right",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE7D4'/><stop offset='1' stop-color='#FCF4E7'/></linearGradient><linearGradient id='b5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6D9B4'/><stop offset='1' stop-color='#FBEEDA'/></linearGradient><radialGradient id='c5' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FBE2B0' stop-opacity='0.95'/><stop offset='1' stop-color='#FBE2B0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a5)'/><path d='M60 18 C60 4 250 2 250 20 L250 116 C198 124 112 124 60 116 Z' fill='url(#b5)'/><ellipse cx='196' cy='58' rx='60' ry='44' fill='url(#c5)'/><circle cx='196' cy='56' r='16' fill='#FDF3D4'/><path d='M64 96 C98 78 124 100 154 84 C186 68 218 92 248 80 L248 116 C198 124 112 124 64 116 Z' fill='#E7C9A8' opacity='0.45'/><path d='M50 10 C42 46 52 98 42 140 C60 142 68 128 70 104 C74 64 62 26 50 10 Z' fill='#EFDCC6' opacity='0.92'/><path d='M260 10 C252 46 262 98 252 140 C270 142 278 128 280 104 C284 64 272 26 260 10 Z' fill='#EFDCC6' opacity='0.92'/><path d='M0 140 C70 130 250 130 320 140 L320 200 L0 200 Z' fill='#EDD8BE'/><path d='M104 158 C104 150 122 145 142 146 C162 147 174 153 172 162 C169 176 152 184 136 183 C118 182 106 172 104 158 Z' fill='#E9C0BC'/><path d='M110 158 C122 152 154 152 166 158 C154 164 122 164 110 158 Z' fill='#C9784F' opacity='0.85'/><path d='M186 172 C186 164 194 160 202 162 C209 164 212 170 210 177 C207 184 194 185 189 180 C186 177 186 175 186 172 Z' fill='#F2E39A'/><path d='M198 163 C194 168 194 175 198 180' stroke='#D9C86E' stroke-width='2' fill='none'/><path d='M128 140 C124 132 130 126 128 120 M148 138 C144 130 150 124 148 118' stroke='#E2CDB2' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M270 200 C264 176 268 154 282 144 C288 158 288 180 284 200 Z' fill='#9FB292'/><path d='M282 146 C264 138 256 148 260 160 C272 164 280 156 282 146 Z' fill='#9FB292' opacity='0.9'/><path d='M282 168 C298 162 306 172 302 182 C292 186 284 178 282 168 Z' fill='#9FB292' opacity='0.85'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "which myth next?",
+   "text": "You're not just tired. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEAD6'/><stop offset='1' stop-color='#FDF6EB'/></linearGradient><linearGradient id='b6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7D9B6'/><stop offset='1' stop-color='#FDF1DE'/></linearGradient><radialGradient id='c6' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FDE7BC' stop-opacity='0.95'/><stop offset='1' stop-color='#FDE7BC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a6)'/><path d='M54 16 C54 2 262 0 262 18 L262 126 C204 136 108 136 54 126 Z' fill='url(#b6)'/><ellipse cx='158' cy='70' rx='96' ry='58' fill='url(#c6)'/><circle cx='150' cy='58' r='19' fill='#FEF6DA'/><path d='M58 104 C96 86 126 106 158 90 C192 73 228 98 260 86 L260 126 C204 136 108 136 58 126 Z' fill='#E9CDA9' opacity='0.42'/><path d='M96 44 C110 37 126 42 134 50 C120 56 102 55 96 44 Z' fill='#FBF0D8' opacity='0.85'/><path d='M198 34 C210 28 224 32 230 39 C218 45 204 44 198 34 Z' fill='#FBF0D8' opacity='0.8'/><path d='M44 8 C30 48 44 104 30 148 C52 150 62 134 64 108 C68 62 56 24 44 8 Z' fill='#F2DFC8' opacity='0.94'/><path d='M272 8 C258 48 272 104 258 148 C280 150 290 134 292 108 C296 62 284 24 272 8 Z' fill='#F2DFC8' opacity='0.94'/><path d='M0 150 C70 140 250 140 320 150 L320 200 L0 200 Z' fill='#EDD8BE'/><path d='M36 200 C28 176 32 152 48 142 C56 158 56 182 50 200 Z' fill='#9FB292'/><path d='M48 144 C28 136 20 148 24 160 C38 164 46 156 48 144 Z' fill='#9FB292' opacity='0.9'/><path d='M48 166 C66 160 74 172 70 182 C58 186 50 176 48 166 Z' fill='#9FB292' opacity='0.85'/><path d='M244 178 C244 170 256 166 266 168 C275 170 279 177 276 184 C272 192 254 194 248 188 C245 185 244 181 244 178 Z' fill='#E9C0BC'/></svg>"
+  }
+ ]
+}
