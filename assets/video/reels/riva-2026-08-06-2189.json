@@ -1,0 +1,80 @@
+{
+ "title": "Research gap — Nadia's new pill",
+ "caption": "8 of the last 10 drugs pulled in the US were riskier for women (GAO, 2001). Trials excluded us until 1993. Ask if your dose was studied in women. Send this to her. Told 'it's rare' before?\nwww.aiforheratx.org\n#womenshealth #genderhealthgap #medicalgaslighting #womeninresearch #patientadvocacy",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 9. dizzy by 8am.",
+   "text": "New pill, and you're *dizzy* every morning. Told that's rare?",
+   "suggest": "→ Ask if the dose was studied in women (GAO 2001)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EEDFCE'/><stop offset='1' stop-color='#FBF3E7'/></linearGradient><radialGradient id='a2' cx='0.24' cy='0.28' r='0.62'><stop offset='0' stop-color='#F4D6B4' stop-opacity='0.85'/><stop offset='1' stop-color='#F4D6B4' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E6D0B6'/><stop offset='1' stop-color='#D6BC9E'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M22 16 C60 8 108 10 116 20 C122 62 120 104 112 118 C84 126 40 124 26 116 C19 92 19 42 22 16Z' fill='#E3D5C0' opacity='0.9'/><path d='M31 25 C62 19 100 21 107 28 C111 62 109 98 103 110 C80 116 48 115 35 108 C31 84 30 47 31 25Z' fill='#F8E9D6'/><ellipse cx='64' cy='66' rx='42' ry='36' fill='url(#a2)'/><path d='M0 132 C70 124 240 122 320 130 L320 200 L0 200Z' fill='url(#a3)'/><path d='M188 136 C186 116 190 104 199 102 C209 100 214 110 213 134 C213 142 206 146 200 146 C193 146 189 143 188 136Z' fill='#E9C9C2' opacity='0.95'/><path d='M191 100 C193 95 210 94 211 100 C211 104 191 105 191 100Z' fill='#C97F73'/><path d='M244 138 C242 124 246 112 254 110 C263 109 267 120 266 138 C265 144 259 147 254 147 C248 147 245 144 244 138Z' fill='#F7EDE0' opacity='0.9'/><path d='M244 122 C250 118 262 118 266 122 C264 130 246 131 244 122Z' fill='#DCEAEF' opacity='0.85'/><path d='M282 134 C276 116 280 96 292 88 C300 96 302 118 296 134Z' fill='#A8B49A' opacity='0.8'/><path d='M289 132 C287 118 290 104 295 96' stroke='#7E8C72' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M276 134 C296 132 306 133 310 136 C300 141 282 141 276 134Z' fill='#C6A98B'/><path d='M0 176 C90 168 230 168 320 174 L320 200 L0 200Z' fill='#CBAF92' opacity='0.55'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "third appointment",
+   "text": "Three visits, same answer: probably anxiety. The dizziness started the day the pill did.",
+   "phrases": [
+    "Probably just anxiety.",
+    "Nobody else reports that.",
+    "It started the day the pill did."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EADCCB'/><stop offset='1' stop-color='#F9F0E3'/></linearGradient><radialGradient id='b2' cx='0.62' cy='0.62' r='0.5'><stop offset='0' stop-color='#F6DCC0' stop-opacity='0.9'/><stop offset='1' stop-color='#F6DCC0' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F3E5D4'/><stop offset='1' stop-color='#E0CDB4'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 118 C80 104 236 102 320 114 L320 200 L0 200Z' fill='url(#b3)'/><ellipse cx='196' cy='128' rx='84' ry='52' fill='url(#b2)'/><path d='M138 152 C136 132 142 122 166 120 C192 118 206 124 208 144 C209 156 196 162 172 163 C150 164 139 160 138 152Z' fill='#DCC6AC' opacity='0.6'/><path d='M150 148 C148 128 154 118 176 116 C198 114 210 120 212 140 C213 152 201 158 179 159 C158 160 151 156 150 148Z' fill='#4A3B42' opacity='0.9'/><path d='M156 145 C154 129 160 121 177 120 C195 118 205 124 206 138 C207 148 197 152 180 153 C163 154 157 151 156 145Z' fill='#F0E2D2'/><path d='M60 96 C58 84 66 78 84 78 C102 78 110 84 108 96 C107 105 98 109 82 109 C68 109 61 104 60 96Z' fill='#EFE0CE'/><path d='M74 108 C74 114 70 118 66 120 C71 118 78 114 80 109Z' fill='#EFE0CE'/><path d='M92 66 C90 56 98 51 114 51 C130 51 138 56 137 66 C136 74 127 78 113 78 C100 78 93 74 92 66Z' fill='#E5D2BA'/><path d='M206 88 C204 78 212 73 228 73 C244 73 252 78 251 88 C250 96 241 100 227 100 C214 100 207 96 206 88Z' fill='#E9C9C2'/><path d='M232 99 C233 105 237 109 241 111 C236 110 229 106 227 100Z' fill='#E9C9C2'/><path d='M284 122 C278 104 282 86 293 78 C301 88 303 108 297 122Z' fill='#A8B49A' opacity='0.75'/><path d='M276 122 C296 120 306 121 310 124 C300 129 282 129 276 122Z' fill='#C6A98B' opacity='0.9'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "not in your head",
+   "number": "8 of 10",
+   "text": "Of the 10 drugs the US pulled from shelves, 8 were riskier for women than men.",
+   "attribution": "— GAO-01-286R, 2001",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E7D6'/><stop offset='1' stop-color='#FBF3E7'/></linearGradient><radialGradient id='c2' cx='0.5' cy='0.3' r='0.7'><stop offset='0' stop-color='#F8DFC6' stop-opacity='0.8'/><stop offset='1' stop-color='#F8DFC6' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D0B6'/><stop offset='1' stop-color='#D2B392'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='160' cy='70' rx='150' ry='80' fill='url(#c2)'/><path d='M14 150 C90 142 232 142 306 150 C300 158 22 158 14 150Z' fill='url(#c3)'/><path d='M36 148 C34 128 38 116 45 115 C53 114 57 126 56 148Z' fill='#E9C9C2'/><path d='M36 122 C42 118 51 118 56 122 C55 128 37 128 36 122Z' fill='#C97F73' opacity='0.8'/><path d='M66 148 C64 124 68 110 76 109 C85 108 89 122 88 148Z' fill='#E9C9C2'/><path d='M66 118 C72 114 82 114 87 118 C86 124 67 124 66 118Z' fill='#C97F73' opacity='0.8'/><path d='M98 148 C96 130 100 118 107 117 C115 116 119 128 118 148Z' fill='#E9C9C2'/><path d='M98 124 C104 120 113 120 118 124 C117 130 99 130 98 124Z' fill='#C97F73' opacity='0.8'/><path d='M128 148 C126 122 130 108 138 107 C147 106 151 120 150 148Z' fill='#E9C9C2'/><path d='M128 116 C134 112 144 112 149 116 C148 122 129 122 128 116Z' fill='#C97F73' opacity='0.8'/><path d='M160 148 C158 128 162 116 169 115 C177 114 181 126 180 148Z' fill='#E9C9C2'/><path d='M160 122 C166 118 175 118 180 122 C179 128 161 128 160 122Z' fill='#C97F73' opacity='0.8'/><path d='M190 148 C188 126 192 112 200 111 C209 110 213 124 212 148Z' fill='#E9C9C2'/><path d='M190 119 C196 115 206 115 211 119 C210 125 191 125 190 119Z' fill='#C97F73' opacity='0.8'/><path d='M222 148 C220 130 224 118 231 117 C239 116 243 128 242 148Z' fill='#E9C9C2'/><path d='M222 124 C228 120 237 120 242 124 C241 130 223 130 222 124Z' fill='#C97F73' opacity='0.8'/><path d='M252 148 C250 124 254 110 262 109 C271 108 275 122 274 148Z' fill='#E9C9C2'/><path d='M252 117 C258 113 268 113 273 117 C272 123 253 123 252 117Z' fill='#C97F73' opacity='0.8'/><path d='M284 148 C282 132 286 122 292 121 C299 120 302 130 301 148Z' fill='#F5EADC' opacity='0.95'/><path d='M284 128 C289 124 297 124 301 128 C300 133 285 133 284 128Z' fill='#C6A98B' opacity='0.6'/><path d='M6 148 C4 134 7 124 12 123 C18 122 21 132 20 148Z' fill='#F5EADC' opacity='0.95'/><path d='M6 130 C10 126 17 126 20 130 C19 135 7 135 6 130Z' fill='#C6A98B' opacity='0.6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "1977 → 1993",
+   "text": "For 16 years, FDA guidance kept women of childbearing age out of early trials.",
+   "phrases": [
+    "1977: keep women out of early trials.",
+    "That guidance stood 16 years.",
+    "In 1993 Congress made including us the law (NIH Revitalization Act)."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4E6D5'/><stop offset='1' stop-color='#FBF3E7'/></linearGradient><radialGradient id='d2' cx='0.78' cy='0.24' r='0.6'><stop offset='0' stop-color='#FAE2C4' stop-opacity='0.9'/><stop offset='1' stop-color='#FAE2C4' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E3CBAF'/><stop offset='1' stop-color='#CFB08D'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='250' cy='48' rx='110' ry='70' fill='url(#d2)'/><path d='M232 14 C230 10 300 8 306 14 C310 52 309 84 304 96 C282 102 240 101 234 94 C230 72 230 34 232 14Z' fill='#F7E7D3'/><path d='M0 128 C80 118 236 116 320 126 L320 200 L0 200Z' fill='#F0DFC8'/><path d='M40 130 C110 122 214 122 282 130 C276 138 46 138 40 130Z' fill='url(#d3)'/><path d='M96 130 C94 150 92 168 90 178' stroke='#B99672' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M226 130 C228 150 230 168 232 178' stroke='#B99672' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M110 128 C108 104 112 92 124 90 C136 88 142 98 141 128Z' fill='#D8BE9F'/><path d='M108 128 C126 126 140 126 143 129 C138 133 114 133 108 128Z' fill='#C6A98B'/><path d='M176 128 C174 104 178 92 190 90 C202 88 208 98 207 128Z' fill='#D8BE9F'/><path d='M174 128 C192 126 206 126 209 129 C204 133 180 133 174 128Z' fill='#C6A98B'/><path d='M262 152 C258 132 264 116 278 112 C288 122 288 144 280 156 C274 160 266 159 262 152Z' fill='#E4C9BF' opacity='0.9'/><path d='M254 176 C252 154 258 140 272 138 C284 137 290 150 288 172 C286 182 274 186 268 185 C260 184 255 182 254 176Z' fill='#E9C9C2' opacity='0.5'/><path d='M30 118 C24 98 28 78 40 70 C49 79 51 102 45 118Z' fill='#A8B49A' opacity='0.8'/><path d='M38 118 C36 102 39 88 44 78' stroke='#7E8C72' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M22 120 C44 118 56 119 60 122 C50 127 30 127 22 120Z' fill='#C6A98B'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, two lines",
+   "text": "Write the date you started it and what your body did. Take those two lines in.",
+   "phrases": [
+    "Two lines in your phone notes.",
+    "Date started. What changed, and when.",
+    "Then ask: was this dose studied in women?"
+   ],
+   "attribution": "— paraphrased with credit to Maya Dusenbery, Doing Harm",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE6D2'/><stop offset='1' stop-color='#FDF5EA'/></linearGradient><radialGradient id='e2' cx='0.32' cy='0.26' r='0.66'><stop offset='0' stop-color='#FBDCB4' stop-opacity='0.95'/><stop offset='1' stop-color='#FBDCB4' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E8D2B8'/><stop offset='1' stop-color='#D5B695'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='104' cy='56' rx='128' ry='76' fill='url(#e2)'/><path d='M0 122 C80 112 238 110 320 120 L320 200 L0 200Z' fill='url(#e3)'/><path d='M96 156 C92 130 100 118 132 116 C166 114 184 122 188 148 C190 162 168 170 136 171 C106 172 97 166 96 156Z' fill='#C6A98B' opacity='0.35'/><path d='M100 150 C96 128 104 118 134 116 C164 114 180 122 184 144 C186 156 166 162 138 163 C112 164 101 158 100 150Z' fill='#FBF3E7'/><path d='M112 134 C128 130 152 130 168 133' stroke='#D9BBA1' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M110 145 C126 141 148 141 164 144' stroke='#D9BBA1' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M142 116 C142 138 142 154 142 162' stroke='#E0C6AA' stroke-width='2' fill='none'/><path d='M196 148 C210 134 226 120 238 112 C244 116 240 124 230 134 C220 144 206 154 198 156Z' fill='#C97F73'/><path d='M236 112 C240 108 246 106 249 108 C250 112 246 116 241 118Z' fill='#8A6B78'/><path d='M240 148 C238 126 244 116 258 115 C272 114 278 126 276 148 C275 156 264 160 258 160 C249 160 241 156 240 148Z' fill='#E9C9C2'/><path d='M238 122 C248 117 268 117 277 122 C275 130 240 130 238 122Z' fill='#F6EADF'/><path d='M252 104 C250 96 256 92 256 84' stroke='#E3CDBB' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M264 104 C262 98 268 94 268 88' stroke='#E3CDBB' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.75'/><path d='M40 118 C32 96 36 74 50 64 C60 74 62 100 55 118Z' fill='#A8B49A' opacity='0.85'/><path d='M48 118 C46 100 49 84 55 72' stroke='#7E8C72' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M30 120 C54 118 68 119 72 122 C60 128 38 128 30 120Z' fill='#C6A98B'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "she isn't rare",
+   "text": "Ask the question anyway. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE7D0'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='f2' cx='0.5' cy='0.3' r='0.7'><stop offset='0' stop-color='#FCD9AC' stop-opacity='0.95'/><stop offset='1' stop-color='#FCD9AC' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAD5BB'/><stop offset='1' stop-color='#D7B996'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M62 12 C58 8 262 8 258 14 C264 60 262 106 256 122 C200 130 116 130 64 122 C56 100 56 40 62 12Z' fill='#EFDFC9' opacity='0.8'/><path d='M72 22 C120 16 202 16 248 22 C252 62 250 100 245 114 C198 120 120 120 74 114 C68 92 68 42 72 22Z' fill='#FBEEDA'/><ellipse cx='160' cy='84' rx='86' ry='52' fill='url(#f2)'/><path d='M126 114 C124 92 138 76 160 76 C182 76 196 92 194 114Z' fill='#F6D3A6' opacity='0.9'/><path d='M0 132 C82 122 240 120 320 130 L320 200 L0 200Z' fill='url(#f3)'/><path d='M228 130 C226 108 232 98 246 97 C260 96 266 108 264 130 C263 138 252 142 246 142 C237 142 229 138 228 130Z' fill='#E9C9C2'/><path d='M226 104 C236 99 256 99 265 104 C263 112 228 112 226 104Z' fill='#F7EBE0'/><path d='M240 88 C238 80 244 76 244 68' stroke='#E7D2C0' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M64 128 C54 104 58 78 74 66 C86 78 88 108 80 128Z' fill='#A8B49A' opacity='0.85'/><path d='M73 128 C71 106 75 88 82 74' stroke='#7E8C72' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M52 130 C80 128 96 129 101 132 C88 138 62 138 52 130Z' fill='#C6A98B'/><path d='M0 176 C90 168 230 168 320 174 L320 200 L0 200Z' fill='#CBAF92' opacity='0.5'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
