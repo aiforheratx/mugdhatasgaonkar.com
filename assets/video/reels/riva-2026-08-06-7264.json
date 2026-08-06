@@ -1,0 +1,96 @@
+{
+ "title": "The eleven days — Meera, 38 (PMDD is biology)",
+ "caption": "Eleven days a month she didn't recognize herself. PMDD is in the DSM-5. Track daily for 2 cycles — the DRSP chart (IAPMD) is what a doctor can actually read.\nWhich day does yours start?\nwww.aiforheratx.org\n#pmdd #womenshealth #pmddawareness #cycletracking #hormonehealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 23. again.",
+   "text": "Two good weeks, then eleven days I don't *recognize* myself.",
+   "suggest": "→ Track 2 cycles on a *DRSP* chart (IAPMD)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#EDDBC7'/></linearGradient><linearGradient id='s1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#C6A4B6'/><stop offset='0.55' stop-color='#E6C4BE'/><stop offset='1' stop-color='#F7E2CD'/></linearGradient><radialGradient id='m1' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FCF1DC' stop-opacity='0.9'/><stop offset='1' stop-color='#FCF1DC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#w1)'/><path d='M78 20 C142 10 216 14 244 24 C252 70 250 116 240 144 C178 154 116 152 78 142 C70 102 70 58 78 20 Z' fill='url(#s1)'/><circle cx='198' cy='56' r='32' fill='url(#m1)'/><circle cx='198' cy='56' r='11' fill='#FBEFDA'/><path d='M78 112 C124 98 188 102 241 116 C241 128 241 136 240 144 C178 154 116 152 78 142 C77 132 77 122 78 112 Z' fill='#B698AA' opacity='0.4'/><path d='M62 12 C74 44 70 104 66 156 C58 152 52 146 50 140 C46 96 48 46 54 14 Z' fill='#E8CFC0' opacity='0.85'/><path d='M0 150 C90 162 236 162 320 148 L320 200 L0 200 Z' fill='#E6D2B9'/><path d='M0 150 C90 162 236 162 320 148 L320 157 C236 171 90 171 0 158 Z' fill='#D9C2A6' opacity='0.6'/><path d='M112 176 C112 158 116 151 132 151 C148 151 152 158 152 176 C152 186 144 190 132 190 C120 190 112 186 112 176 Z' fill='#F6E7DA'/><path d='M114 160 C126 166 141 166 150 160 C149 172 146 180 140 184 C130 188 120 184 116 176 Z' fill='#B98A7A' opacity='0.5'/><path d='M152 158 C167 156 169 175 154 177' fill='none' stroke='#F6E7DA' stroke-width='5' stroke-linecap='round'/><path d='M266 150 C260 128 266 106 278 92' fill='none' stroke='#93A883' stroke-width='3' stroke-linecap='round'/><path d='M278 92 C290 87 300 96 297 108 C285 113 275 104 278 92 Z' fill='#A8BC93'/><path d='M266 117 C253 110 246 119 251 129 C262 133 270 127 266 117 Z' fill='#93A883'/><path d='M256 150 C256 141 264 137 274 137 C284 137 290 141 290 150 Z' fill='#D8A98C'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the driveway, engine off",
+   "text": "Meera, 38, yelled about one missing shoe, then cried in the parked car before walking back in.",
+   "phrases": [
+    "Meera, 38. Two kids, a job she likes.",
+    "One missing shoe.",
+    "She *yelled*.",
+    "Then cried in the parked car before walking back in smiling."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#B99AAF'/><stop offset='0.5' stop-color='#DDBCBB'/><stop offset='1' stop-color='#F3DCC8'/></linearGradient><linearGradient id='dash2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D3C1'/><stop offset='1' stop-color='#C9AE9B'/></linearGradient><radialGradient id='win2' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F7D9A0' stop-opacity='0.95'/><stop offset='1' stop-color='#F7D9A0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='#EFDECB'/><path d='M18 26 C110 8 226 10 302 28 C300 76 296 108 292 130 C204 118 108 118 24 132 C20 106 16 62 18 26 Z' fill='url(#sky2)'/><path d='M24 104 C86 92 132 96 160 82 C186 70 214 78 246 74 C270 71 288 78 294 84 C294 104 293 118 292 130 C204 118 108 118 24 132 Z' fill='#9C8598' opacity='0.5'/><path d='M186 96 C186 78 196 66 212 62 C228 66 238 78 238 96 C222 92 202 92 186 96 Z' fill='#8B7488' opacity='0.85'/><circle cx='212' cy='84' r='16' fill='url(#win2)'/><rect x='206' y='78' width='12' height='11' rx='2' fill='#F7DCA6'/><path d='M0 128 C90 112 220 112 320 130 L320 200 L0 200 Z' fill='url(#dash2)'/><path d='M0 128 C90 112 220 112 320 130 L320 139 C220 121 90 121 0 137 Z' fill='#B79A88' opacity='0.55'/><path d='M74 196 C74 160 104 142 148 142 C192 142 222 160 222 196' fill='none' stroke='#8E7566' stroke-width='11' stroke-linecap='round'/><path d='M96 176 C118 168 176 168 198 176' fill='none' stroke='#A98D7C' stroke-width='6' stroke-linecap='round'/><path d='M262 132 C266 148 264 160 258 168' fill='none' stroke='#C0A491' stroke-width='3' stroke-linecap='round'/><circle cx='257' cy='172' r='5' fill='#D8B48F'/><path d='M40 140 C56 144 62 154 58 166 C46 168 38 158 40 140 Z' fill='#D9C3B0' opacity='0.8'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "what everyone kept saying",
+   "text": "Everyone had a theory. Not one of them was 'this has a name and a diagnosis.'",
+   "phrases": [
+    "Just PMS, we all get it.",
+    "Have you tried yoga?",
+    "You've been so sensitive lately.",
+    "It stops the day my period starts. Every single month."
+   ],
+   "mood": "dim",
+   "motion": "zoom-out",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sheet3' x1='0' y1='0' x2='0.4' y2='1'><stop offset='0' stop-color='#F6E6DA'/><stop offset='1' stop-color='#DEC5BE'/></linearGradient><radialGradient id='glow3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F4DCC0' stop-opacity='0.95'/><stop offset='1' stop-color='#F4DCC0' stop-opacity='0'/></radialGradient><linearGradient id='ph3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF1E2'/><stop offset='1' stop-color='#EBD3C2'/></linearGradient></defs><rect width='320' height='200' fill='#E4CCC6'/><path d='M0 40 C70 22 180 20 320 34 L320 200 L0 200 Z' fill='url(#sheet3)'/><path d='M0 96 C64 74 122 110 186 92 C240 77 288 100 320 88 L320 200 L0 200 Z' fill='#E9D4C9' opacity='0.85'/><path d='M0 138 C72 118 138 152 210 136 C262 124 296 142 320 134 L320 200 L0 200 Z' fill='#F2E1D5' opacity='0.9'/><path d='M22 60 C60 44 110 44 138 56 C126 84 104 100 76 104 C48 100 28 84 22 60 Z' fill='#EDD8CE' opacity='0.9'/><circle cx='196' cy='112' r='62' fill='url(#glow3)'/><path d='M168 74 C168 68 172 65 178 65 L214 65 C220 65 224 68 224 74 L224 150 C224 156 220 159 214 159 L178 159 C172 159 168 156 168 150 Z' fill='#B79A94'/><path d='M172 72 C172 68 175 70 179 70 L213 70 C217 70 220 68 220 72 L220 152 C220 155 217 154 213 154 L179 154 C175 154 172 155 172 152 Z' fill='url(#ph3)'/><path d='M178 84 C178 81 180 80 183 80 L206 80 C209 80 210 81 210 84 C210 87 209 88 206 88 L183 88 C180 88 178 87 178 84 Z' fill='#D9BCB2'/><path d='M178 100 C178 97 180 96 183 96 L212 96 C215 96 216 97 216 100 C216 103 215 104 212 104 L183 104 C180 104 178 103 178 100 Z' fill='#D9BCB2'/><path d='M186 116 C186 113 188 112 191 112 L214 112 C217 112 218 113 218 116 C218 119 217 120 214 120 L191 120 C188 120 186 119 186 116 Z' fill='#C9A7A0'/><path d='M178 132 C178 129 180 128 183 128 L208 128 C211 128 212 129 212 132 C212 135 211 136 208 136 L183 136 C180 136 178 135 178 132 Z' fill='#E0C7BC'/><path d='M60 150 C74 140 96 142 104 154 C94 168 70 168 60 150 Z' fill='#DCC0B6' opacity='0.8'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "in the DSM-5 since 2013",
+   "number": "1 in 20",
+   "text": "About 1 in 20 menstruating women have PMDD — a recognized diagnosis, not a mood (IAPMD).",
+   "mood": "neutral",
+   "motion": "zoom-in",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#DCC0C8'/><stop offset='0.55' stop-color='#F2DACB'/><stop offset='1' stop-color='#FBF0E1'/></linearGradient><radialGradient id='mg4' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FDF4E3' stop-opacity='0.85'/><stop offset='1' stop-color='#FDF4E3' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#sky4)'/><path d='M0 118 C64 100 132 128 196 114 C246 103 288 118 320 108 L320 200 L0 200 Z' fill='#E4CBC6' opacity='0.75'/><path d='M0 146 C76 128 146 158 216 144 C264 134 296 150 320 142 L320 200 L0 200 Z' fill='#EBD8C6'/><path d='M0 174 C88 160 154 184 232 172 C274 165 300 176 320 170 L320 200 L0 200 Z' fill='#DFC7AF' opacity='0.85'/><circle cx='46' cy='60' r='22' fill='url(#mg4)'/><circle cx='46' cy='60' r='9' fill='#F8EAD3' opacity='0.7'/><circle cx='108' cy='44' r='26' fill='url(#mg4)'/><path d='M108 30 C117 30 123 37 123 44 C123 51 117 58 108 58 Z' fill='#FBF0DB' opacity='0.85'/><circle cx='170' cy='38' r='32' fill='url(#mg4)'/><circle cx='170' cy='38' r='14' fill='#FDF6E6'/><circle cx='232' cy='48' r='26' fill='url(#mg4)'/><path d='M232 34 C223 34 217 41 217 48 C217 55 223 62 232 62 Z' fill='#FBF0DB' opacity='0.85'/><circle cx='286' cy='66' r='22' fill='url(#mg4)'/><circle cx='286' cy='66' r='9' fill='#F8EAD3' opacity='0.7'/><path d='M258 168 C254 148 260 128 272 116' fill='none' stroke='#9DAF8C' stroke-width='3' stroke-linecap='round'/><path d='M272 116 C284 111 294 120 291 132 C279 137 269 128 272 116 Z' fill='#AEC098'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "NEJM, 1998",
+   "text": "At NIMH they switched the ovarian hormones off and her symptoms stopped; switched them back on, symptoms returned.",
+   "phrases": [
+    "At NIMH they switched the hormones *off*.",
+    "The symptoms stopped.",
+    "Switched them back on — the symptoms came back.",
+    "Same hormones as everyone else. Her brain just answers louder."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='rm5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E6D2'/><stop offset='1' stop-color='#E2C9B3'/></linearGradient><radialGradient id='lamp5' cx='0.5' cy='0.35' r='0.62'><stop offset='0' stop-color='#FBE0A8' stop-opacity='0.95'/><stop offset='0.55' stop-color='#F6D3A0' stop-opacity='0.4'/><stop offset='1' stop-color='#F6D3A0' stop-opacity='0'/></radialGradient><linearGradient id='sh5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3D9A9'/><stop offset='1' stop-color='#E8BE83'/></linearGradient></defs><rect width='320' height='200' fill='url(#rm5)'/><path d='M0 132 C88 118 206 118 320 130 L320 200 L0 200 Z' fill='#DCC0A4'/><path d='M0 132 C88 118 206 118 320 130 L320 140 C206 128 88 128 0 142 Z' fill='#C9A98B' opacity='0.6'/><circle cx='196' cy='96' r='96' fill='url(#lamp5)'/><path d='M172 88 C176 66 186 54 200 54 C214 54 224 66 228 88 C212 94 188 94 172 88 Z' fill='url(#sh5)'/><path d='M198 92 C202 104 202 116 200 128' fill='none' stroke='#C6A183' stroke-width='4' stroke-linecap='round'/><path d='M182 130 C182 124 190 121 200 121 C210 121 218 124 218 130 Z' fill='#BE9878'/><path d='M60 128 C58 108 66 100 84 100 C102 100 110 108 108 128 Z' fill='#EFDCC6'/><path d='M60 128 C74 122 96 122 108 128 C106 136 100 140 84 140 C68 140 62 136 60 128 Z' fill='#E0C7AC'/><path d='M244 128 C242 116 248 108 258 106 C260 116 256 126 250 130 Z' fill='#A9BC93'/><path d='M258 106 C268 100 278 104 280 114 C272 122 262 120 258 106 Z' fill='#98AC82'/><path d='M244 128 C244 122 252 119 262 119 C272 119 278 122 278 128 Z' fill='#D8A98C'/><path d='M18 40 C56 30 92 32 116 42 C112 62 104 74 92 78 C60 76 30 62 18 40 Z' fill='#EEDAC4' opacity='0.7'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight",
+   "text": "Two cycles of daily ratings, plus a 20-minute walk most days — WHO asks for 150 minutes a week.",
+   "phrases": [
+    "Rate your 3 worst symptoms 0-3 before bed. That's the DRSP (IAPMD).",
+    "Two cycles of that chart is what a doctor can actually read.",
+    "Calcium beat placebo for PMS in a 1998 trial — ask yours before adding anything.",
+    "And talk to yourself like you'd talk to a friend. — Kristin Neff, Self-Compassion"
+   ],
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='tb6' x1='0' y1='0' x2='0.3' y2='1'><stop offset='0' stop-color='#FBF1E1'/><stop offset='1' stop-color='#E9D4B8'/></linearGradient><radialGradient id='sun6' cx='0.2' cy='0.15' r='0.7'><stop offset='0' stop-color='#FBE3B4' stop-opacity='0.85'/><stop offset='1' stop-color='#FBE3B4' stop-opacity='0'/></radialGradient><linearGradient id='pg6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FEFAF1'/><stop offset='1' stop-color='#F3E6D2'/></linearGradient></defs><rect width='320' height='200' fill='url(#tb6)'/><circle cx='58' cy='24' r='120' fill='url(#sun6)'/><path d='M0 62 C96 46 214 48 320 60 L320 74 C214 62 96 60 0 76 Z' fill='#E5CDAE' opacity='0.6'/><path d='M84 108 C84 100 92 94 108 92 C136 88 158 92 162 100 C160 128 158 148 154 160 C132 168 100 166 86 158 C84 142 84 122 84 108 Z' fill='url(#pg6)'/><path d='M162 100 C166 92 190 88 216 92 C232 94 238 100 238 108 C238 122 238 142 236 158 C222 166 190 168 168 160 C164 148 162 128 162 100 Z' fill='#FDF7EC'/><path d='M160 100 C163 126 163 142 161 160' fill='none' stroke='#DCC5A6' stroke-width='2'/><path d='M100 116 C114 112 132 112 144 116' fill='none' stroke='#C9A78A' stroke-width='3' stroke-linecap='round'/><path d='M100 130 C112 127 128 127 138 130' fill='none' stroke='#D8BCA0' stroke-width='3' stroke-linecap='round'/><path d='M100 144 C112 141 126 141 134 144' fill='none' stroke='#D8BCA0' stroke-width='3' stroke-linecap='round'/><path d='M180 118 C196 114 214 114 226 118' fill='none' stroke='#D8BCA0' stroke-width='3' stroke-linecap='round'/><path d='M180 132 C194 129 210 129 220 132' fill='none' stroke='#D8BCA0' stroke-width='3' stroke-linecap='round'/><path d='M242 96 C266 84 288 94 286 112 C270 122 246 114 242 96 Z' fill='#EBD3B6' opacity='0.6'/><path d='M36 150 C36 132 40 126 56 126 C72 126 76 132 76 150 C76 160 68 164 56 164 C44 164 36 160 36 150 Z' fill='#F8ECDC'/><path d='M76 132 C90 130 92 148 78 150' fill='none' stroke='#F8ECDC' stroke-width='5' stroke-linecap='round'/><path d='M48 120 C44 110 52 104 50 96' fill='none' stroke='#E4CDB2' stroke-width='3' stroke-linecap='round'/><path d='M62 118 C58 110 66 104 64 98' fill='none' stroke='#E4CDB2' stroke-width='3' stroke-linecap='round'/><path d='M258 168 C252 152 256 136 266 126' fill='none' stroke='#9DAF8C' stroke-width='3' stroke-linecap='round'/><path d='M266 126 C278 120 290 128 287 141 C274 147 263 138 266 126 Z' fill='#AEC098'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "eleven days, now named",
+   "text": "She still has the hard days. She just knows what they are now. Follow @aiforheratx.",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w7' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EA'/><stop offset='1' stop-color='#F0DFC7'/></linearGradient><linearGradient id='s7' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6D5C4'/><stop offset='0.5' stop-color='#FBE3BE'/><stop offset='1' stop-color='#FDF3DC'/></linearGradient><radialGradient id='sn7' cx='0.55' cy='0.62' r='0.55'><stop offset='0' stop-color='#FCEBBE' stop-opacity='0.95'/><stop offset='1' stop-color='#FCEBBE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#w7)'/><path d='M78 20 C142 10 216 14 244 24 C252 70 250 116 240 144 C178 154 116 152 78 142 C70 102 70 58 78 20 Z' fill='url(#s7)'/><circle cx='176' cy='102' r='58' fill='url(#sn7)'/><circle cx='176' cy='104' r='16' fill='#FDF3D6'/><path d='M78 118 C124 106 188 108 241 120 C241 130 241 137 240 144 C178 154 116 152 78 142 C77 134 77 126 78 118 Z' fill='#E2B79A' opacity='0.45'/><path d='M92 60 C122 50 150 52 168 60 C160 74 138 82 116 80 C102 76 94 70 92 60 Z' fill='#FDF1DC' opacity='0.7'/><path d='M62 12 C74 44 70 104 66 156 C58 152 52 146 50 140 C46 96 48 46 54 14 Z' fill='#F0DCC6' opacity='0.9'/><path d='M0 150 C90 162 236 162 320 148 L320 200 L0 200 Z' fill='#EBD8BC'/><path d='M0 150 C90 162 236 162 320 148 L320 157 C236 171 90 171 0 158 Z' fill='#DCC3A0' opacity='0.55'/><path d='M254 148 C246 124 254 100 270 86' fill='none' stroke='#9DAF8C' stroke-width='3' stroke-linecap='round'/><path d='M270 86 C284 80 296 90 292 104 C278 110 267 100 270 86 Z' fill='#AEC098'/><path d='M256 114 C242 106 234 116 240 128 C252 132 261 125 256 114 Z' fill='#93A883'/><path d='M244 148 C244 139 252 135 264 135 C276 135 282 139 282 148 Z' fill='#DDAE8E'/><path d='M112 176 C112 158 116 151 132 151 C148 151 152 158 152 176 C152 186 144 190 132 190 C120 190 112 186 112 176 Z' fill='#FBF1E4'/><path d='M126 146 C122 136 130 130 128 122' fill='none' stroke='#E7D2B6' stroke-width='3' stroke-linecap='round'/><path d='M138 146 C134 138 142 132 140 124' fill='none' stroke='#E7D2B6' stroke-width='3' stroke-linecap='round'/><path d='M152 158 C167 156 169 175 154 177' fill='none' stroke='#FBF1E4' stroke-width='5' stroke-linecap='round'/></svg>"
+  }
+ ]
+}
