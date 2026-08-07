@@ -1,0 +1,85 @@
+{
+ "title": "Myth flip — 3 a.m. wake-ups aren't 'just stress' (Reena, 44)",
+ "caption": "Myth: 3 a.m. wake-ups are “just stress.” In perimenopause sleep breaks years before hot flashes (NIA). Insomnia doubles the odds of later depression (Baglioni 2011). Ask for CBT-I first (AASM 2021).\nWhich myth next? 👇\nwww.aiforheratx.org\n#perimenopause #womenshealth #insomnia #cbti #menopausesleep",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "3:41 a.m., 18 months in",
+   "text": "“It's just *stress*.” Reena, 44, has been waking at 3:41 for a year and a half.",
+   "suggest": "→ Ask for *CBT-I* first, not pills (AASM 2021)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9DCEA'/><stop offset='0.6' stop-color='#F7E9E6'/><stop offset='1' stop-color='#FBF3EA'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0.3' y2='1'><stop offset='0' stop-color='#D9C6DD'/><stop offset='1' stop-color='#F1DFE0'/></linearGradient><radialGradient id='a3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FBEBC8' stop-opacity='0.9'/><stop offset='1' stop-color='#FBEBC8' stop-opacity='0'/></radialGradient><linearGradient id='a4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E2E4'/><stop offset='1' stop-color='#E8CBD2'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M36 30 C36 20 44 14 54 14 L124 16 C134 17 140 24 139 34 L136 104 C136 110 131 114 125 113 L45 110 C39 110 35 105 35 99 Z' fill='url(#a2)' opacity='0.95'/><circle cx='104' cy='46' r='34' fill='url(#a3)'/><path d='M104 34 C112 34 118 41 117 49 C116 57 109 62 101 60 C95 58 91 51 93 44 C95 38 99 34 104 34 Z' fill='#FDF7E6' opacity='0.92'/><path d='M126 16 C134 40 130 74 120 112 C132 112 138 106 138 96 L139 30 C139 22 134 17 126 16 Z' fill='#E6D2DE' opacity='0.8'/><path d='M-4 128 C60 118 130 126 196 118 C250 112 292 118 324 112 L324 200 L-4 200 Z' fill='#F3E3DC'/><path d='M-6 168 C30 146 78 152 122 146 C170 140 214 152 262 144 C292 139 312 146 326 140 L326 202 L-6 202 Z' fill='url(#a4)'/><path d='M14 154 C40 140 74 138 96 148 C104 152 100 162 90 162 C64 163 34 166 18 168 C10 169 8 158 14 154 Z' fill='#FBF1E8' opacity='0.95'/><path d='M232 138 C232 130 240 126 250 127 L288 130 C296 131 300 136 300 143 L300 176 C300 182 295 185 289 184 L240 180 C234 179 231 175 231 169 Z' fill='#E3CFC4' opacity='0.9'/><circle cx='266' cy='146' r='24' fill='url(#a3)'/><path d='M258 137 C258 134 260 132 263 132 L272 133 C275 133 277 135 277 138 L276 156 C276 159 274 161 271 160 L262 159 C259 159 257 157 257 154 Z' fill='#FCF2D9'/><path d='M296 120 C300 106 308 98 316 96 C310 106 308 114 308 124 C312 116 318 112 322 111 C316 118 312 128 311 138 L303 137 C302 130 299 124 296 120 Z' fill='#BFCBB4' opacity='0.85'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the family group chat",
+   "text": "Four people told her to try chamomile. Nobody asked what her sleep was actually doing.",
+   "phrases": [
+    "Have you tried chamomile tea?",
+    "Everyone's tired, Reena.",
+    "It's stress. It'll pass.",
+    "It's been 18 months. It hasn't passed."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EADDEA'/><stop offset='0.55' stop-color='#F8EAE6'/><stop offset='1' stop-color='#FBF3EA'/></linearGradient><radialGradient id='b2' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FBEBC8' stop-opacity='0.95'/><stop offset='1' stop-color='#FBEBC8' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E2E4'/><stop offset='1' stop-color='#E6C9D1'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M-6 150 C40 132 96 138 148 132 C200 126 256 138 326 128 L326 202 L-6 202 Z' fill='url(#b3)'/><path d='M18 126 C18 116 26 110 36 111 L84 115 C94 116 99 122 98 132 L96 178 C95 186 89 190 81 189 L26 183 C18 182 14 176 15 168 Z' fill='#E4D0C5' opacity='0.9'/><circle cx='58' cy='128' r='34' fill='url(#b2)'/><path d='M46 112 C46 108 49 105 53 105 L67 107 C71 107 74 110 73 114 L70 146 C70 150 67 152 63 152 L49 150 C45 150 43 147 43 143 Z' fill='#FCF3DC'/><path d='M50 114 C56 113 64 114 69 116 C68 128 67 136 66 144 C60 143 54 143 48 142 C49 132 49 122 50 114 Z' fill='#F7E6BE' opacity='0.85'/><path d='M254 106 C258 88 268 76 282 70 C274 84 271 94 271 106 C277 94 286 88 296 86 C286 96 280 110 279 126 C278 138 279 150 281 160 L263 158 C262 142 259 122 254 106 Z' fill='#C3CDB2' opacity='0.85'/><path d='M256 158 C256 154 260 151 265 151 L288 153 C293 154 296 157 295 162 L292 180 C292 185 288 187 283 187 L266 185 C261 185 258 182 258 177 Z' fill='#DFC6B6' opacity='0.9'/><path d='M120 40 C160 30 210 34 246 26' stroke='#E0CBD6' stroke-width='3' fill='none' opacity='0.7' stroke-linecap='round'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "4:02 a.m., third tab open",
+   "text": "In perimenopause, sleep usually breaks *years* before the first hot flash (NIA).",
+   "phrases": [
+    "So she started reading at 4 a.m.",
+    "Sleep goes first.",
+    "Hot flashes, if they come, come later.",
+    "Nothing about her was broken."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F0DFE4'/><stop offset='0.5' stop-color='#FAEDE2'/><stop offset='1' stop-color='#FDF5EC'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='0.2' y2='1'><stop offset='0' stop-color='#F4D9C9'/><stop offset='1' stop-color='#FBEEDF'/></linearGradient><radialGradient id='c3' cx='0.5' cy='0.7' r='0.6'><stop offset='0' stop-color='#FBE0BE' stop-opacity='0.95'/><stop offset='1' stop-color='#FBE0BE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M52 24 C52 14 60 8 71 9 L242 15 C253 16 259 23 258 34 L254 132 C254 140 248 145 240 144 L62 137 C54 137 49 131 50 123 Z' fill='url(#c2)'/><circle cx='150' cy='104' r='62' fill='url(#c3)'/><path d='M60 118 C96 96 132 104 168 92 C202 81 232 90 254 82 L254 132 C254 140 248 145 240 144 L62 137 C54 137 49 131 50 123 Z' fill='#F2CBB0' opacity='0.55'/><path d='M150 66 C160 66 168 74 167 84 C166 94 158 100 148 98 C140 96 135 88 137 79 C139 71 144 66 150 66 Z' fill='#FDF3DF' opacity='0.9'/><path d='M244 14 C256 44 252 92 240 142 C250 143 256 138 256 129 L259 32 C259 22 253 15 244 14 Z' fill='#EBD2D6' opacity='0.8'/><path d='M-6 148 C50 138 120 146 184 138 C240 131 288 140 326 132 L326 202 L-6 202 Z' fill='#EFD8CE'/><path d='M62 148 C62 142 68 138 76 139 L106 142 C114 143 118 148 117 155 L114 178 C113 185 108 188 101 187 L68 183 C61 182 58 178 59 171 Z' fill='#DCC0AE' opacity='0.9'/><path d='M74 140 C76 122 84 110 96 104 C90 116 88 126 89 138 C95 126 104 120 114 118 C104 126 98 134 96 142 C89 141 81 140 74 140 Z' fill='#B8C7A8'/><path d='M212 128 C216 118 224 112 234 110 C228 120 226 128 227 140 L215 139 C214 135 213 131 212 128 Z' fill='#C6D0B4' opacity='0.85'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "why the order matters",
+   "number": "2×",
+   "text": "Untreated insomnia roughly doubles the odds of depression later. Sleep sits upstream of mood (Baglioni, 2011).",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E1E1'/><stop offset='0.5' stop-color='#FBEFE4'/><stop offset='1' stop-color='#FDF6ED'/></linearGradient><radialGradient id='d2' cx='0.45' cy='0.62' r='0.55'><stop offset='0' stop-color='#FBE2BD' stop-opacity='0.9'/><stop offset='1' stop-color='#FBE2BD' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0.4' y2='1'><stop offset='0' stop-color='#EFD3C6'/><stop offset='1' stop-color='#E4BFB3'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><circle cx='144' cy='124' r='86' fill='url(#d2)'/><path d='M-8 142 C46 122 104 134 158 124 C214 113 268 126 328 116 L328 202 L-8 202 Z' fill='url(#d3)' opacity='0.85'/><path d='M-8 168 C58 154 118 162 176 154 C238 145 286 156 328 148 L328 202 L-8 202 Z' fill='#F2DCD2'/><path d='M144 92 C156 92 165 101 164 113 C163 125 153 132 141 130 C131 128 125 118 128 107 C131 98 137 92 144 92 Z' fill='#FDF5E2' opacity='0.9'/><path d='M28 130 C34 112 44 100 58 94 C50 108 47 120 48 134 C55 121 65 114 76 112 C64 122 57 134 55 150 L34 148 C33 141 31 135 28 130 Z' fill='#BECBAD' opacity='0.8'/><path d='M258 122 C262 110 270 102 282 98 C275 110 272 120 273 134 L259 133 C259 129 259 125 258 122 Z' fill='#C7D2B6' opacity='0.75'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Ten minutes of worry-writing at 8 p.m., out of bed. Then ask her clinician for CBT-I.",
+   "phrases": [
+    "8 p.m.: 10-minute worry list, at the kitchen table.",
+    "Ask your clinician for *CBT-I* — the 6-week sleep retraining (AASM 2021).",
+    "Aim for 150 minutes of moderate movement a week (WHO)."
+   ],
+   "attribution": "— Colleen Carney, Quiet Your Mind and Get to Sleep",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE6DC'/><stop offset='0.55' stop-color='#FDF0E3'/><stop offset='1' stop-color='#FEF7EE'/></linearGradient><radialGradient id='e2' cx='0.28' cy='0.32' r='0.5'><stop offset='0' stop-color='#FBDFB2' stop-opacity='0.95'/><stop offset='1' stop-color='#FBDFB2' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0.3' y2='1'><stop offset='0' stop-color='#FDF6EA'/><stop offset='1' stop-color='#F1DFCF'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><circle cx='92' cy='68' r='70' fill='url(#e2)'/><path d='M66 22 C78 14 96 14 108 22 C116 27 118 36 112 40 C98 48 76 48 62 40 C56 36 58 27 66 22 Z' fill='#F6DFC0'/><path d='M87 44 C90 62 90 78 88 92 L82 92 C80 78 80 62 83 44 Z' fill='#E0C6AE'/><path d='M64 92 C64 88 70 84 78 84 L96 84 C104 84 110 88 110 92 C110 96 104 98 96 98 L78 98 C70 98 64 96 64 92 Z' fill='#E7CFB6'/><path d='M-8 128 C56 116 128 126 190 118 C250 110 292 120 328 112 L328 202 L-8 202 Z' fill='#F3DFCE'/><path d='M-8 150 C60 140 130 148 196 140 C254 133 294 142 328 134 L328 202 L-8 202 Z' fill='#EBD2BE' opacity='0.85'/><path d='M126 146 C124 138 130 132 139 132 L232 134 C241 134 246 140 244 148 L238 176 C236 183 231 186 224 186 L134 183 C127 183 123 179 123 172 Z' fill='url(#e3)'/><path d='M140 148 C160 148 186 149 210 150' stroke='#E2C9B4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M138 160 C156 160 178 161 200 162' stroke='#E2C9B4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M137 172 C152 172 170 173 186 174' stroke='#E2C9B4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M248 132 C262 122 276 122 286 128 C276 130 268 134 262 140 C256 146 252 152 250 160 L242 156 C243 146 244 138 248 132 Z' fill='#BFCBAB'/><path d='M276 156 C280 142 288 134 300 130 C293 142 290 152 291 166 L278 165 C277 162 277 159 276 156 Z' fill='#CBD5B9' opacity='0.9'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "5:58 a.m., light coming in",
+   "text": "Follow @aiforheratx so the next 3:41 a.m. comes with an answer instead of a guess.",
+   "phrases": [
+    "Send this to the friend who's up too.",
+    "Which myth should we flip next?"
+   ],
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCE9D8'/><stop offset='0.5' stop-color='#FDF2E4'/><stop offset='1' stop-color='#FEF8F0'/></linearGradient><radialGradient id='f2' cx='0.62' cy='0.3' r='0.55'><stop offset='0' stop-color='#FBD9A6' stop-opacity='0.95'/><stop offset='1' stop-color='#FBD9A6' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0.3' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#EFDCC9'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M172 18 C172 10 179 5 188 6 L282 10 C291 11 296 17 295 26 L291 118 C291 126 285 130 277 129 L180 124 C172 124 168 119 168 111 Z' fill='#F8E3CE' opacity='0.9'/><circle cx='230' cy='62' r='58' fill='url(#f2)'/><path d='M230 40 C242 40 251 50 250 62 C249 74 238 81 226 78 C216 76 210 65 213 54 C216 45 223 40 230 40 Z' fill='#FDF6E0' opacity='0.85'/><path d='M-6 134 C56 122 126 132 190 124 C248 116 292 126 328 118 L328 202 L-6 202 Z' fill='#F2DECB'/><path d='M-6 158 C60 148 132 156 198 148 C256 141 296 150 328 142 L328 202 L-6 202 Z' fill='#E9D0B9' opacity='0.8'/><path d='M62 132 C62 124 70 120 80 121 L116 124 C126 125 131 130 130 139 L126 168 C125 176 119 180 111 179 L72 175 C64 174 60 170 61 162 Z' fill='url(#f3)'/><path d='M128 132 C140 132 148 138 148 146 C148 155 139 160 127 159' stroke='#E3C9AE' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M78 116 C74 104 80 96 88 90 C86 100 88 106 94 112 C98 104 104 100 110 98 C104 106 102 112 104 120' stroke='#F0D8BE' stroke-width='4' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M262 132 C266 118 276 110 288 106 C280 118 277 128 278 142 C284 132 292 127 302 126 C292 134 286 144 285 158 L264 156 C264 148 263 139 262 132 Z' fill='#C2CEAF'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
