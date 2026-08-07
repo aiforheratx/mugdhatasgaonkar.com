@@ -1,0 +1,79 @@
+{
+ "title": "Myth flip — a Pap is not an HPV test (awareness by region)",
+ "caption": "Myth: a Pap checks you for HPV. It doesn't. The HPV test is a separate test — and WHO (2021) says it's the better first screen from 30.\nWhich myth should we flip next? 👇\nwww.aiforheratx.org\n#cervicalcancerawareness #hpvtest #paptest #womenshealth #globalhealth #womenshealthmatters",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "38, Austin. Pap done in May.",
+   "text": "\"I had my Pap, so I'm covered for *HPV* — right?\" Those are two different tests.",
+   "suggest": "→ Ask for the *HPV test* by name (WHO 2021)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F1E1D2'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='g1' cx='0.5' cy='0.5'><stop offset='0' stop-color='#FBE7C4' stop-opacity='0.95'/><stop offset='1' stop-color='#FBE7C4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s1)'/><path d='M28 8 C90 2 152 5 198 13 C202 70 200 104 195 125 C140 131 84 129 30 123 C23 84 23 44 28 8 Z' fill='#EBDACA' opacity='0.9'/><path d='M37 17 C93 11 147 13 189 21 C191 62 190 92 187 112 C136 118 88 116 41 110 C34 78 34 46 37 17 Z' fill='#F8EBDA'/><circle cx='150' cy='48' r='15' fill='#FADFB6' opacity='0.9'/><circle cx='150' cy='48' r='44' fill='url(#g1)'/><path d='M41 94 C90 80 142 86 187 76 C189 96 188 105 187 112 C136 118 88 116 41 110 Z' fill='#EFD6C2' opacity='0.65'/><path d='M0 133 C70 125 160 129 226 123 C282 119 310 123 320 121 L320 200 L0 200 Z' fill='#E4CDB6'/><path d='M0 140 C80 134 170 138 240 132 C284 128 306 130 320 128 L320 200 L0 200 Z' fill='#EFDECB'/><path d='M96 151 C96 143 104 139 116 139 C128 139 136 143 136 151 C136 163 130 173 116 173 C102 173 96 163 96 151 Z' fill='#D6B29C'/><path d='M136 147 C149 145 153 153 149 159 C146 164 140 164 136 162' fill='none' stroke='#D6B29C' stroke-width='4' stroke-linecap='round'/><path d='M110 131 C104 123 116 117 110 107' fill='none' stroke='#C9B4A3' stroke-width='3' stroke-linecap='round' opacity='0.55'/><path d='M122 129 C116 122 126 117 121 109' fill='none' stroke='#C9B4A3' stroke-width='3' stroke-linecap='round' opacity='0.4'/><path d='M196 149 C196 144 199 141 204 141 L232 141 C237 141 240 144 240 149 L240 177 C240 182 237 185 232 185 L204 185 C199 185 196 182 196 177 Z' fill='#4A3B44'/><path d='M200 148 C200 145 202 144 205 144 L231 144 C234 144 236 145 236 148 L236 176 C236 179 234 180 231 180 L205 180 C202 180 200 179 200 176 Z' fill='#F7E3C1'/><path d='M262 129 C270 113 283 117 285 131 C299 125 307 137 297 145 C289 151 268 149 262 141 Z' fill='#A9BFA5' opacity='0.85'/><path d='M281 141 C281 153 280 161 278 171' fill='none' stroke='#8FA88B' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "family WhatsApp, 9:12pm",
+   "text": "Three cities, three answers, and not one of them said the words HPV test.",
+   "phrases": [
+    "\"You're 38, you're fine.\"",
+    "\"Nobody in our family got that shot.\"",
+    "\"My clinic never once said the word HPV.\""
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EADCD3'/><stop offset='1' stop-color='#FBF2E8'/></linearGradient><radialGradient id='g2' cx='0.5' cy='0.5'><stop offset='0' stop-color='#F8DFB9' stop-opacity='0.9'/><stop offset='1' stop-color='#F8DFB9' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s2)'/><path d='M186 6 C240 2 288 6 314 12 C316 62 315 100 312 128 C270 134 224 132 188 126 C182 86 182 42 186 6 Z' fill='#E7D6C8' opacity='0.85'/><path d='M194 15 C242 11 284 15 306 21 C308 62 307 96 305 118 C268 124 228 122 196 116 C191 82 191 46 194 15 Z' fill='#F5E8DA'/><path d='M206 26 C208 50 210 74 208 104' stroke='#DCC7B6' stroke-width='2' fill='none' opacity='0.8'/><path d='M228 20 C230 46 232 72 230 108' stroke='#DCC7B6' stroke-width='2' fill='none' opacity='0.6'/><path d='M252 24 C254 50 256 76 254 106' stroke='#DCC7B6' stroke-width='2' fill='none' opacity='0.7'/><path d='M276 22 C278 48 280 74 278 104' stroke='#DCC7B6' stroke-width='2' fill='none' opacity='0.5'/><path d='M0 136 C64 128 148 132 222 126 C276 122 306 126 320 124 L320 200 L0 200 Z' fill='#E1CAB6'/><path d='M0 144 C74 138 162 142 236 136 C282 132 306 134 320 132 L320 200 L0 200 Z' fill='#EEDCC9'/><circle cx='96' cy='150' r='46' fill='url(#g2)'/><path d='M74 122 C74 116 78 112 84 112 L110 112 C116 112 120 116 120 122 L120 178 C120 184 116 188 110 188 L84 188 C78 188 74 184 74 178 Z' fill='#463742'/><path d='M78 121 C78 117 80 115 84 115 L110 115 C114 115 116 117 116 121 L116 179 C116 183 114 185 110 185 L84 185 C80 185 78 183 78 179 Z' fill='#FAE9CB'/><path d='M82 128 C82 125 84 123 88 123 L104 123 C108 123 110 125 110 128 C110 131 108 133 104 133 L88 133 C84 133 82 131 82 128 Z' fill='#E6C9AE'/><path d='M86 142 C86 139 88 137 92 137 L112 137 C114 137 114 143 112 143 L92 143 C88 143 86 145 86 142 Z' fill='#D9BBA0'/><path d='M84 154 C84 151 86 149 90 149 L106 149 C110 149 112 151 112 154 C112 157 110 159 106 159 L90 159 C86 159 84 157 84 154 Z' fill='#E6C9AE'/><path d='M28 116 C36 100 50 104 52 118 C66 112 74 126 64 134 C55 141 34 138 28 129 Z' fill='#A9BFA5' opacity='0.8'/><path d='M48 133 C48 146 47 156 45 168' fill='none' stroke='#8FA88B' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the part that stopped her",
+   "text": "Rwanda has vaccinated over 90% of its girls since 2011. Where you live decides what you're offered.",
+   "phrases": [
+    "Myth: richer country, safer women.",
+    "Japan paused its HPV recommendation in 2013 and uptake nearly vanished until 2022.",
+    "Rwanda kept going — over 90% of girls vaccinated since 2011."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E3CE'/><stop offset='0.6' stop-color='#FBEEDD'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='sun3' cx='0.5' cy='0.5'><stop offset='0' stop-color='#FBDCA8' stop-opacity='0.95'/><stop offset='1' stop-color='#FBDCA8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s3)'/><circle cx='214' cy='62' r='20' fill='#F8D9A6' opacity='0.9'/><circle cx='214' cy='62' r='56' fill='url(#sun3)'/><path d='M0 96 C48 80 92 92 132 84 C176 75 214 90 258 82 C288 77 306 84 320 80 L320 200 L0 200 Z' fill='#DCC8AE' opacity='0.75'/><path d='M0 118 C52 104 96 118 142 110 C188 102 226 116 268 108 C294 103 310 108 320 106 L320 200 L0 200 Z' fill='#C9B48F' opacity='0.8'/><path d='M0 144 C56 132 104 146 156 138 C206 130 248 144 290 138 C304 136 314 138 320 137 L320 200 L0 200 Z' fill='#A9BFA5'/><path d='M96 200 C112 172 128 160 150 152 C172 144 190 148 206 140' fill='none' stroke='#EFE0C8' stroke-width='9' stroke-linecap='round' opacity='0.85'/><path d='M52 152 C52 144 58 138 66 138 L92 138 C100 138 106 144 106 152 L106 170 C106 176 102 180 96 180 L62 180 C56 180 52 176 52 170 Z' fill='#EADACB'/><path d='M46 140 C58 124 78 120 96 122 C104 123 110 130 112 140 C92 137 66 137 46 140 Z' fill='#C9836B'/><path d='M72 156 C72 152 75 150 79 150 C83 150 86 152 86 156 L86 180 L72 180 Z' fill='#C9A487'/><path d='M78 122 C78 112 79 106 79 100' fill='none' stroke='#B49374' stroke-width='2' stroke-linecap='round'/><path d='M79 102 C86 100 92 104 90 108 C88 112 82 112 79 110' fill='#E7A08A'/><path d='M256 138 C262 120 276 122 278 136 C292 132 298 144 288 151 C280 156 260 152 256 145 Z' fill='#8FA88B' opacity='0.85'/><path d='M276 150 C276 162 275 170 273 180' fill='none' stroke='#7C9479' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "WHO fact sheet",
+   "number": "94%",
+   "text": "94% of cervical cancer deaths happen in low- and middle-income countries (WHO).",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE7D6'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='sun4' cx='0.5' cy='0.5'><stop offset='0' stop-color='#F7D8C4' stop-opacity='0.85'/><stop offset='1' stop-color='#F7D8C4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s4)'/><circle cx='160' cy='86' r='74' fill='url(#sun4)'/><path d='M0 150 C54 138 104 152 158 144 C210 136 254 150 296 144 C308 142 316 144 320 143 L320 200 L0 200 Z' fill='#E4CFB4'/><path d='M0 164 C60 154 112 166 168 158 C218 151 262 164 304 158 C312 157 317 158 320 158 L320 200 L0 200 Z' fill='#A9BFA5'/><path d='M22 170 C24 158 26 150 26 142' fill='none' stroke='#8FA88B' stroke-width='2' stroke-linecap='round'/><path d='M34 172 C36 160 38 152 39 146' fill='none' stroke='#8FA88B' stroke-width='2' stroke-linecap='round'/><path d='M286 170 C288 158 290 150 291 143' fill='none' stroke='#8FA88B' stroke-width='2' stroke-linecap='round'/><path d='M298 173 C300 162 301 154 302 148' fill='none' stroke='#8FA88B' stroke-width='2' stroke-linecap='round'/><path d='M38 34 C50 24 66 28 70 38 C82 34 92 44 84 52 C74 61 44 58 38 48 Z' fill='#FBF1E4' opacity='0.9'/><path d='M240 24 C252 14 268 18 272 28 C286 24 296 35 287 43 C277 52 246 49 240 39 Z' fill='#FBF1E4' opacity='0.75'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, before bed",
+   "text": "Put one line in your notes app: \"Am I due for an *HPV test*, not just a Pap?\"",
+   "phrases": [
+    "Tonight: one line in your notes app.",
+    "\"Am I due for an *HPV test*, not just a Pap?\"",
+    "WHO says HPV testing from 30, repeated every 5 to 10 years."
+   ],
+   "attribution": "— WHO cervical screening guideline, 2021",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE6D2'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='g5' cx='0.5' cy='0.5'><stop offset='0' stop-color='#FCE2B4' stop-opacity='0.9'/><stop offset='1' stop-color='#FCE2B4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s5)'/><circle cx='240' cy='54' r='58' fill='url(#g5)'/><path d='M198 10 C244 4 288 8 314 14 C316 52 315 80 312 100 C272 106 230 104 198 98 C194 66 194 34 198 10 Z' fill='#F6E7D6'/><path d='M198 62 C232 52 274 58 312 50 C314 76 313 90 312 100 C272 106 230 104 198 98 Z' fill='#F2D6BE' opacity='0.6'/><path d='M0 118 C68 110 150 116 222 110 C276 106 306 110 320 108 L320 200 L0 200 Z' fill='#E0C7AC'/><path d='M0 126 C78 120 164 126 236 120 C282 116 306 118 320 116 L320 200 L0 200 Z' fill='#F0DFCC'/><path d='M54 132 C90 126 142 128 176 134 C178 152 176 166 172 176 C136 182 88 180 54 174 C50 160 50 144 54 132 Z' fill='#FDF7EE'/><path d='M60 138 C60 134 63 132 68 132 C104 128 142 130 170 136 C172 138 172 142 170 142 C140 137 98 135 62 140 Z' fill='#F1E2D0'/><path d='M70 150 C96 147 128 148 152 152' fill='none' stroke='#D9C2AC' stroke-width='3' stroke-linecap='round'/><path d='M70 160 C90 158 114 158 134 160' fill='none' stroke='#D9C2AC' stroke-width='3' stroke-linecap='round'/><path d='M162 128 C176 116 190 106 200 100 C204 98 208 102 205 106 C196 116 182 128 170 138 Z' fill='#C9836B'/><path d='M232 150 C232 142 240 138 252 138 C264 138 272 142 272 150 C272 162 266 172 252 172 C238 172 232 162 232 150 Z' fill='#D9A98F'/><path d='M272 146 C285 144 289 152 285 158 C282 163 276 163 272 161' fill='none' stroke='#D9A98F' stroke-width='4' stroke-linecap='round'/><path d='M246 130 C240 122 252 116 246 106' fill='none' stroke='#D6BEA8' stroke-width='3' stroke-linecap='round' opacity='0.7'/><path d='M258 128 C252 121 262 116 257 108' fill='none' stroke='#D6BEA8' stroke-width='3' stroke-linecap='round' opacity='0.5'/><path d='M14 116 C22 98 36 102 38 116 C52 110 60 124 50 132 C41 139 20 135 14 126 Z' fill='#A9BFA5'/><path d='M34 131 C34 144 33 154 31 166' fill='none' stroke='#8FA88B' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "her cold chai, again",
+   "text": "Follow @aiforheratx — we say the words *HPV test* out loud, so your clinic does too.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE4CE'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='g6' cx='0.5' cy='0.5'><stop offset='0' stop-color='#FCDFAE' stop-opacity='0.95'/><stop offset='1' stop-color='#FCDFAE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s6)'/><path d='M28 8 C90 2 152 5 198 13 C202 70 200 104 195 125 C140 131 84 129 30 123 C23 84 23 44 28 8 Z' fill='#EEDCC9' opacity='0.9'/><path d='M37 17 C93 11 147 13 189 21 C191 62 190 92 187 112 C136 118 88 116 41 110 C34 78 34 46 37 17 Z' fill='#FBEEDB'/><circle cx='128' cy='72' r='22' fill='#F8CE93'/><circle cx='128' cy='72' r='58' fill='url(#g6)'/><path d='M41 94 C90 82 142 88 187 78 C189 98 188 106 187 112 C136 118 88 116 41 110 Z' fill='#EFCFB2' opacity='0.6'/><path d='M170 16 C186 40 182 76 174 112 C182 116 190 116 190 116 C192 80 194 44 189 20 Z' fill='#F7E0D2' opacity='0.9'/><path d='M0 133 C70 125 160 129 226 123 C282 119 310 123 320 121 L320 200 L0 200 Z' fill='#E2C9AF'/><path d='M0 141 C80 135 170 139 240 133 C284 129 306 131 320 129 L320 200 L0 200 Z' fill='#F0DFCC'/><path d='M92 152 C92 144 100 140 112 140 C124 140 132 144 132 152 C132 164 126 174 112 174 C98 174 92 164 92 152 Z' fill='#D6B29C'/><path d='M132 148 C145 146 149 154 145 160 C142 165 136 165 132 163' fill='none' stroke='#D6B29C' stroke-width='4' stroke-linecap='round'/><path d='M252 126 C262 106 280 110 282 128 C298 122 308 136 296 145 C286 152 260 148 252 138 Z' fill='#A9BFA5'/><path d='M278 144 C278 158 277 168 275 180' fill='none' stroke='#8FA88B' stroke-width='3' stroke-linecap='round'/><path d='M262 140 C256 148 250 156 246 166' fill='none' stroke='#8FA88B' stroke-width='2' stroke-linecap='round' opacity='0.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
