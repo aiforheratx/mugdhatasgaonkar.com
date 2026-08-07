@@ -1,0 +1,81 @@
+{
+ "title": "Nobody named it — menopause silence across cultures (Nadia, 49)",
+ "caption": "Hot flashes ran a median 7.4 years in SWAN (JAMA Intern Med, 2015).\nLog yours, then ask for a Menopause Society certified clinician.\nSend this to the aunt who says it's nothing. What did your family call it?\nwww.aiforheratx.org\n#menopause #perimenopause #womenshealth #hotflashes #midlifewomen",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "4:10 am. year four.",
+   "text": "Year four of hot flashes. Nobody ever *named* it.",
+   "suggest": "→ Ask for an *MSCP* clinician (Menopause Society)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6ece4'/><stop offset='1' stop-color='#eddcd4'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#cdc2d8'/><stop offset='0.55' stop-color='#e7d0cb'/><stop offset='1' stop-color='#f5dfcb'/></linearGradient><radialGradient id='a3' cx='0.35' cy='0.32'><stop offset='0' stop-color='#fff7ec' stop-opacity='0.95'/><stop offset='1' stop-color='#fff7ec' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M38 26 C36 19 44 15 52 15 L196 13 C207 13 213 20 212 30 L209 133 C208 141 201 145 193 145 L50 147 C42 147 37 142 37 134 Z' fill='url(#a2)'/><circle cx='166' cy='54' r='26' fill='url(#a3)'/><path d='M37 116 C72 94 98 116 134 103 C170 90 191 110 210 99 L208 141 L38 143 Z' fill='#d8c5cd' opacity='0.7'/><path d='M186 14 C205 41 199 79 209 117 C213 133 205 143 195 147 C203 111 189 63 182 16 Z' fill='#f8e8e3' opacity='0.85'/><path d='M22 145 C92 140 232 139 300 147 C305 151 303 158 295 158 L28 160 C20 158 17 149 22 145 Z' fill='#e2cec1'/><path d='M120 105 C120 101 124 99 132 99 L150 99 C157 99 160 102 159 106 L154 141 C153 145 149 147 144 147 L134 147 C129 147 126 145 125 141 Z' fill='#eff3f1' opacity='0.92'/><path d='M126 121 C134 117 147 123 158 119 L154 141 C153 145 149 147 144 147 L134 147 C129 147 126 145 125 141 Z' fill='#cfe0dd' opacity='0.9'/><path d='M247 146 C245 128 251 111 263 99' stroke='#a9b79b' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M252 122 C242 116 236 106 238 98 C248 99 255 108 256 118 Z' fill='#b4c2a3'/><path d='M258 110 C268 104 275 94 273 86 C263 88 256 98 256 107 Z' fill='#c2ceb0'/><path d='M234 146 C252 144 268 144 282 146 C280 161 276 169 268 171 L248 172 C240 170 236 160 234 146 Z' fill='#ddc1b3'/><path d='M0 167 C60 155 120 177 180 167 C240 157 290 175 320 167 L320 200 L0 200 Z' fill='#f1ded7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "family group chat, 11:04pm",
+   "text": "The group chat says everyone goes through it. Nobody says how *long* it lasts.",
+   "phrases": [
+    "Everyone goes through it, beta.",
+    "Don't make a big thing of it.",
+    "Nadia, 49: I soaked through my shirt in a standup today.",
+    "And I still haven't told a single person at work."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#efdfd8'/><stop offset='1' stop-color='#f7ece5'/></linearGradient><radialGradient id='b2' cx='0.5' cy='0.45'><stop offset='0' stop-color='#fdf3d9' stop-opacity='0.95'/><stop offset='1' stop-color='#fdf3d9' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f8f0e6'/><stop offset='1' stop-color='#e9dbd2'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 22 C70 12 140 30 210 20 C260 13 300 24 320 18 L320 96 C250 104 150 88 70 98 C40 102 16 98 0 94 Z' fill='#e0cdd2' opacity='0.55'/><path d='M18 126 C96 118 226 117 304 127 C310 131 309 140 300 141 L24 143 C15 141 12 130 18 126 Z' fill='#e3cec0'/><ellipse cx='158' cy='112' rx='86' ry='40' fill='url(#b2)'/><path d='M124 96 C123 90 128 87 135 87 L176 86 C184 86 188 90 187 96 L184 124 C183 130 178 133 171 133 L131 134 C124 134 121 130 121 124 Z' fill='#fdf6e8'/><path d='M128 93 C127 89 131 87 136 87 L175 86 C181 86 184 89 183 93 L180 122 C179 127 175 129 170 129 L132 130 C127 130 124 127 125 122 Z' fill='#fbe9c9' opacity='0.9'/><path d='M56 128 C54 112 61 98 74 92' stroke='#a7b69a' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M64 108 C54 103 47 93 49 85 C60 87 67 96 68 105 Z' fill='#b6c4a5'/><path d='M70 100 C81 95 89 85 87 77 C76 79 69 89 68 98 Z' fill='#c4d0b2'/><path d='M42 128 C60 126 78 126 92 128 C90 140 86 146 78 147 L58 148 C50 147 44 140 42 128 Z' fill='#dcbfb1'/><path d='M212 126 C214 118 226 114 240 115 C256 116 266 121 266 128 Z' fill='#e7d3ca'/><path d='M0 150 C70 142 140 160 210 152 C260 146 292 160 320 152 L320 200 L0 200 Z' fill='#efdcd5'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "SWAN · JAMA Intern Med 2015",
+   "number": "7.4 years",
+   "text": "SWAN followed 3,302 women: hot flashes ran a median of 7.4 years, closer to 10 for Black women.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f9efe6'/><stop offset='1' stop-color='#f2e0d6'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#e6cfd2' stop-opacity='0.7'/><stop offset='1' stop-color='#f6ddc6' stop-opacity='0.7'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 58 C80 40 150 72 230 56 C270 48 300 60 320 54 L320 118 C240 132 150 104 66 118 C40 122 16 118 0 112 Z' fill='url(#c2)'/><path d='M0 128 C70 116 130 142 200 132 C254 124 292 142 320 132 L320 200 L0 200 Z' fill='#ecd8cd' opacity='0.9'/><path d='M14 152 C90 136 150 168 226 150 C266 140 298 152 316 146' stroke='#cfa9a2' stroke-width='2.6' fill='none' stroke-linecap='round' opacity='0.8'/><circle cx='36' cy='150' r='3.2' fill='#c69a95'/><circle cx='76' cy='143' r='3.2' fill='#c69a95'/><circle cx='116' cy='148' r='3.2' fill='#c69a95'/><circle cx='156' cy='158' r='3.2' fill='#c69a95'/><circle cx='196' cy='157' r='3.2' fill='#c69a95'/><circle cx='236' cy='147' r='3.2' fill='#c69a95'/><circle cx='276' cy='148' r='4.4' fill='#b98a84'/><path d='M286 44 C300 40 310 48 308 58 C306 68 294 72 286 66' fill='#f7e3cd' opacity='0.85'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Kyoto → Austin",
+   "text": "Anthropologist Margaret Lock found Japanese women called it *kōnenki* — a stage of life, not a disease.",
+   "phrases": [
+    "Her mother called it 'the change.'",
+    "Her doctor just said 'normal, at your age.'",
+    "Lock, 1993: in Japan it had a name and a place — kōnenki.",
+    "Different countries, same hush. Nadia stopped feeling rude for asking."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbf1e6'/><stop offset='1' stop-color='#f3e0d3'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e9d7dd'/><stop offset='0.6' stop-color='#f6ddc8'/><stop offset='1' stop-color='#fbeed8'/></linearGradient><radialGradient id='d3' cx='0.4' cy='0.35'><stop offset='0' stop-color='#fff6e2' stop-opacity='0.9'/><stop offset='1' stop-color='#fff6e2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M44 22 C42 15 50 11 58 11 L262 10 C272 10 278 17 277 27 L275 122 C274 130 267 134 259 134 L56 136 C48 136 43 131 43 123 Z' fill='url(#d2)'/><circle cx='190' cy='48' r='30' fill='url(#d3)'/><path d='M43 110 C82 90 112 110 150 98 C192 85 232 106 275 94 L274 130 L44 132 Z' fill='#e0cbc6' opacity='0.6'/><path d='M20 136 C94 130 236 129 302 138 C307 142 305 150 297 150 L26 152 C18 150 15 140 20 136 Z' fill='#e4cfc0'/><path d='M86 104 C86 99 91 97 99 97 L124 97 C131 97 134 100 133 105 L129 128 C128 133 124 135 118 135 L100 135 C94 135 91 133 90 128 Z' fill='#fdf7ec'/><path d='M133 106 C142 104 148 110 146 116 C144 122 137 124 131 122' fill='none' stroke='#e0cbbd' stroke-width='3'/><path d='M176 106 C176 100 182 98 190 98 L214 98 C221 98 224 102 223 107 L219 128 C218 133 214 135 208 135 L190 135 C184 135 181 133 180 128 Z' fill='#f3ece0'/><path d='M223 107 C232 105 238 111 236 117 C234 123 227 125 221 123' fill='none' stroke='#ddd0be' stroke-width='3'/><path d='M104 92 C98 82 110 76 104 66 C100 58 108 52 106 46' stroke='#e8d3c4' stroke-width='2.6' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M196 93 C190 83 202 77 196 67 C192 59 200 53 198 47' stroke='#e8d3c4' stroke-width='2.6' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M0 160 C60 150 120 172 184 162 C242 153 292 170 320 161 L320 200 L0 200 Z' fill='#f0ded4'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-right"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, then this week",
+   "text": "Log each flash — the time, what you were doing, how you slept — and take that page to an *MSCP* clinician.",
+   "phrases": [
+    "Tonight: note each flash — time, what you were doing, how you slept.",
+    "This week: search the Menopause Society directory for an MSCP-certified clinician.",
+    "Daily after 51: 1,200 mg calcium (NIH ODS) and 150 minutes of moderate movement a week (WHO)."
+   ],
+   "attribution": "— Dr. Jen Gunter, The Menopause Manifesto",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf4e8'/><stop offset='1' stop-color='#f6e4d5'/></linearGradient><radialGradient id='e2' cx='0.7' cy='0.2'><stop offset='0' stop-color='#fff4d8' stop-opacity='0.95'/><stop offset='1' stop-color='#fff4d8' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fffaf1'/><stop offset='1' stop-color='#f2e6d8'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='232' cy='42' rx='120' ry='70' fill='url(#e2)'/><path d='M0 108 C80 96 150 122 226 110 C268 103 298 116 320 108 L320 200 L0 200 Z' fill='#eddac9'/><path d='M64 132 C62 124 70 118 82 116 L156 106 C168 105 176 110 177 118 L180 146 C181 154 174 159 163 160 L84 165 C73 166 67 161 66 153 Z' fill='url(#e3)'/><path d='M120 111 C124 128 126 146 124 163' stroke='#e2d2c0' stroke-width='2' fill='none'/><path d='M80 130 C94 128 106 127 114 127' stroke='#d9c3b4' stroke-width='2.4' fill='none' stroke-linecap='round'/><path d='M82 142 C96 140 106 139 112 139' stroke='#d9c3b4' stroke-width='2.4' fill='none' stroke-linecap='round'/><path d='M133 126 C146 124 158 124 166 125' stroke='#d9c3b4' stroke-width='2.4' fill='none' stroke-linecap='round'/><path d='M135 139 C147 137 156 137 163 138' stroke='#d9c3b4' stroke-width='2.4' fill='none' stroke-linecap='round'/><path d='M170 154 C186 140 200 128 214 118 C220 114 226 118 222 124 C210 138 196 150 182 162 Z' fill='#dfae94'/><path d='M232 148 C230 130 236 116 248 108' stroke='#a8b899' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M238 126 C228 121 221 111 223 103 C234 105 241 114 242 123 Z' fill='#b7c5a6'/><path d='M244 116 C255 111 262 101 260 93 C249 95 242 105 242 114 Z' fill='#c6d2b4'/><path d='M220 148 C238 146 254 146 268 148 C266 162 262 170 254 172 L234 173 C226 171 222 161 220 148 Z' fill='#e0c3b2'/><path d='M22 148 C22 142 28 139 38 139 L58 139 C66 139 70 143 69 148 L66 166 C65 172 60 175 53 175 L38 175 C31 175 27 172 26 166 Z' fill='#fdf6ea'/><path d='M69 148 C80 146 87 152 85 159 C83 166 74 168 67 166' fill='none' stroke='#e6d2c2' stroke-width='3'/><path d='M40 133 C34 124 46 118 40 108' stroke='#ecd8c6' stroke-width='2.6' fill='none' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "6:40 am, same window",
+   "text": "Four years and nobody named it. We'll keep *naming* it — follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf5ea'/><stop offset='1' stop-color='#f5e3d6'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe3c6'/><stop offset='0.55' stop-color='#fbeed6'/><stop offset='1' stop-color='#fdf6e6'/></linearGradient><radialGradient id='f3' cx='0.62' cy='0.3'><stop offset='0' stop-color='#fff3d2' stop-opacity='1'/><stop offset='1' stop-color='#fff3d2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M38 26 C36 19 44 15 52 15 L196 13 C207 13 213 20 212 30 L209 133 C208 141 201 145 193 145 L50 147 C42 147 37 142 37 134 Z' fill='url(#f2)'/><circle cx='158' cy='56' r='34' fill='url(#f3)'/><path d='M37 114 C74 96 100 114 136 102 C172 90 192 108 210 98 L208 141 L38 143 Z' fill='#e7cfbe' opacity='0.7'/><path d='M186 14 C205 41 199 79 209 117 C213 133 205 143 195 147 C203 111 189 63 182 16 Z' fill='#fdf1e6' opacity='0.9'/><path d='M22 145 C92 140 232 139 300 147 C305 151 303 158 295 158 L28 160 C20 158 17 149 22 145 Z' fill='#e6d2c2'/><path d='M247 146 C245 126 252 108 266 98' stroke='#a8b899' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M252 120 C242 115 235 105 237 97 C248 99 255 108 256 117 Z' fill='#b7c5a6'/><path d='M260 108 C271 102 278 92 276 84 C265 86 258 96 258 105 Z' fill='#c6d2b4'/><path d='M234 146 C252 144 268 144 282 146 C280 161 276 169 268 171 L248 172 C240 170 236 160 234 146 Z' fill='#e0c3b2'/><path d='M120 104 C120 100 124 98 132 98 L150 98 C157 98 160 101 159 105 L154 140 C153 144 149 146 144 146 L134 146 C129 146 126 144 125 140 Z' fill='#f2f5f2' opacity='0.92'/><path d='M126 120 C134 116 147 122 158 118 L154 140 C153 144 149 146 144 146 L134 146 C129 146 126 144 125 140 Z' fill='#d6e4de' opacity='0.9'/><path d='M0 166 C60 154 120 176 180 166 C240 156 290 174 320 166 L320 200 L0 200 Z' fill='#f4e2d6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
