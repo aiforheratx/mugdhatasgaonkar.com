@@ -1,0 +1,82 @@
+{
+ "title": "The 9am standup — Nadia, 47, and the word nobody said (menopause at work)",
+ "caption": "Hot flashes at work aren't a phase — median 7.4 years (SWAN, JAMA Intern Med 2015).\nBring a Menopause Rating Scale score to your appointment.\nSend this to her — told her boss, or stayed quiet?\nwww.aiforheratx.org\n#menopause #perimenopause #womenshealth #menopauseatwork #midlifewomen",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "9:14am. the glass room.",
+   "text": "Sweating through the 9am standup — at *47*?",
+   "suggest": "→ Fill the *Menopause Rating Scale* (Heinemann 2004)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#F3E0D2'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#EDF1EC' stop-opacity='.85'/><stop offset='1' stop-color='#F7DCE3' stop-opacity='.45'/></linearGradient><radialGradient id='a3' cx='.24' cy='.18' r='.62'><stop offset='0' stop-color='#FFEDC6' stop-opacity='.9'/><stop offset='1' stop-color='#FFEDC6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M26 8 C82 2 138 6 190 10 C192 60 191 104 189 140 C136 143 80 142 27 138 C24 96 24 50 26 8Z' fill='url(#a2)'/><path d='M60 10 C62 56 61 98 59 139' stroke='#E4D3C4' stroke-width='2' fill='none' opacity='.7'/><path d='M124 8 C126 56 125 100 123 140' stroke='#E4D3C4' stroke-width='2' fill='none' opacity='.7'/><ellipse cx='96' cy='52' rx='120' ry='78' fill='url(#a3)'/><path d='M0 142 C70 134 150 148 236 138 C276 133 302 140 320 136 L320 200 L0 200Z' fill='#EDD9C2'/><path d='M0 152 C80 146 168 158 258 149 C288 146 306 151 320 148' stroke='#DFC4A9' stroke-width='2' fill='none' opacity='.6'/><path d='M214 100 C210 132 208 148 210 168 C222 172 240 172 252 168 C254 148 252 132 248 100 C238 96 224 96 214 100Z' fill='#D9A6AE' opacity='.85'/><path d='M214 100 C226 110 240 110 248 100' stroke='#C48E98' stroke-width='2' fill='none'/><path d='M231 168 C231 178 231 184 231 190' stroke='#C48E98' stroke-width='2' fill='none' opacity='.6'/><path d='M136 118 C134 136 133 148 134 158 C142 162 154 162 162 158 C163 148 162 136 160 118 C152 115 144 115 136 118Z' fill='#E8F1F4' opacity='.95'/><path d='M136 130 C144 133 154 133 161 130 C161 143 162 150 162 158 C154 162 142 162 134 158 C133 150 134 140 136 130Z' fill='#CFE3EC' opacity='.9'/><ellipse cx='148' cy='118' rx='12' ry='4' fill='#F7FBFC'/><path d='M283 108 C276 96 274 84 280 74 C288 82 290 96 287 108Z' fill='#BFD3C1' opacity='.9'/><path d='M289 110 C299 100 308 98 314 100 C310 110 300 116 290 116Z' fill='#A9C4AE' opacity='.85'/><path d='M286 110 C286 124 286 132 285 140' stroke='#9BB3A2' stroke-width='3' fill='none'/><path d='M272 140 C276 156 296 156 300 140 C292 137 280 137 272 140Z' fill='#E2C7A8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Nadia, 47. ops director.",
+   "text": "She lost the word *quarterly* mid-sentence and blamed the coffee.",
+   "phrases": [
+    "She peeled the cardigan off. Again.",
+    "Lost the word *quarterly* mid-sentence.",
+    "Blamed the coffee. Then blamed herself.",
+    "Nobody in that room said the word menopause."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F8EEE4'/><stop offset='1' stop-color='#EFDCD0'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F7DCE3' stop-opacity='.55'/><stop offset='1' stop-color='#E9DFD2' stop-opacity='.3'/></linearGradient><radialGradient id='b3' cx='.7' cy='.6' r='.4'><stop offset='0' stop-color='#DCE9F2' stop-opacity='.95'/><stop offset='1' stop-color='#DCE9F2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M18 6 C74 0 128 4 178 10 C180 54 179 92 177 124 C126 128 74 127 20 122 C16 84 16 44 18 6Z' fill='url(#b2)'/><path d='M0 128 C74 120 156 134 240 124 C280 119 304 126 320 122 L320 200 L0 200Z' fill='#E6D2BE'/><path d='M0 139 C86 132 176 145 262 136 C292 133 308 138 320 135' stroke='#D6B99E' stroke-width='2' fill='none' opacity='.55'/><ellipse cx='214' cy='150' rx='68' ry='24' fill='url(#b3)'/><path d='M196 122 C192 142 191 152 193 160 C204 165 224 165 235 160 C237 152 236 142 232 122 C220 118 208 118 196 122Z' fill='#EFE6DA'/><ellipse cx='214' cy='122' rx='19' ry='6' fill='#B98C6E'/><path d='M235 132 C248 130 252 142 244 150 C240 152 237 152 236 150' stroke='#D9C4AE' stroke-width='4' fill='none'/><path d='M60 132 C58 154 58 164 59 172 C86 176 122 176 148 172 C149 164 149 154 147 132 C118 128 88 128 60 132Z' fill='#FBF4EA'/><path d='M104 130 C104 150 104 162 104 174' stroke='#E1D3C2' stroke-width='2' fill='none'/><path d='M70 144 C84 142 96 142 98 143' stroke='#DCC9B4' stroke-width='2' fill='none'/><path d='M70 154 C82 152 94 152 97 153' stroke='#DCC9B4' stroke-width='2' fill='none'/><path d='M112 148 C126 146 136 146 140 147' stroke='#DCC9B4' stroke-width='2' fill='none'/><path d='M262 96 C258 120 256 138 258 156 C270 160 288 160 298 156 C300 138 298 120 294 96 C284 92 272 92 262 96Z' fill='#DCE9F2'/><path d='M266 106 C276 104 286 104 291 106 C292 122 292 138 291 150 C284 152 272 152 265 150 C264 136 264 120 266 106Z' fill='#C6DCEA' opacity='.9'/><path d='M40 86 C34 74 33 62 39 52 C47 60 49 74 45 86Z' fill='#BFD3C1' opacity='.85'/><path d='M46 88 C56 78 66 76 72 78 C68 88 58 94 48 94Z' fill='#A9C4AE' opacity='.8'/><path d='M43 90 C43 102 43 112 42 122' stroke='#9BB3A2' stroke-width='3' fill='none'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "SWAN · JAMA Intern Med 2015",
+   "text": "Hot flashes and night sweats last a median of *7.4 years* — not a few months.",
+   "number": "7.4 years",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF3E6'/><stop offset='.55' stop-color='#F9E2D6'/><stop offset='1' stop-color='#F3D8CE'/></linearGradient><radialGradient id='c2' cx='.5' cy='.42' r='.42'><stop offset='0' stop-color='#FFE2AE' stop-opacity='.95'/><stop offset='1' stop-color='#FFE2AE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='160' cy='118' rx='150' ry='96' fill='url(#c2)'/><circle cx='160' cy='112' r='24' fill='#F6C88E' opacity='.85'/><path d='M0 128 C48 118 96 126 148 120 C206 113 260 124 320 116 L320 200 L0 200Z' fill='#F0D3CE' opacity='.9'/><path d='M0 140 C56 130 108 140 164 132 C220 124 272 134 320 128 L320 200 L0 200Z' fill='#E9C6C2' opacity='.85'/><path d='M0 152 C60 144 116 154 172 146 C228 138 278 148 320 142 L320 200 L0 200Z' fill='#E0B7B6' opacity='.8'/><path d='M0 164 C64 157 122 166 180 159 C234 152 284 160 320 155 L320 200 L0 200Z' fill='#D6A8AC' opacity='.8'/><path d='M0 176 C68 170 128 178 188 171 C240 165 288 172 320 168 L320 200 L0 200Z' fill='#CB99A2' opacity='.8'/><path d='M0 188 C72 183 134 190 196 184 C246 179 292 184 320 181 L320 200 L0 200Z' fill='#BF8A99' opacity='.8'/><path d='M0 197 C80 194 150 198 214 195 C260 193 296 195 320 194 L320 200 L0 200Z' fill='#B27E8F' opacity='.8'/><path d='M42 84 C36 68 40 54 52 46 C58 60 56 74 48 86Z' fill='#F7DCE3' opacity='.7'/><path d='M268 78 C262 62 266 48 278 40 C284 54 282 68 274 80Z' fill='#F7DCE3' opacity='.6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Tuesday, 4:40pm. one page.",
+   "text": "She scored her 11 symptoms in five minutes and put the page on her doctor's desk.",
+   "phrases": [
+    "Eleven symptoms. Five minutes. One page.",
+    "Hot flashes: severe. Sleep: severe.",
+    "She wrote what each one did to her workday.",
+    "Her doctor read it and finally had something to work with."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF4E9'/><stop offset='1' stop-color='#F2E0D0'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF0D2' stop-opacity='.9'/><stop offset='1' stop-color='#F7DCE3' stop-opacity='.4'/></linearGradient><radialGradient id='d3' cx='.34' cy='.3' r='.55'><stop offset='0' stop-color='#FFEFD0' stop-opacity='.9'/><stop offset='1' stop-color='#FFEFD0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M196 6 C244 0 286 4 314 10 C316 46 315 78 313 106 C284 110 244 110 198 105 C194 74 194 38 196 6Z' fill='url(#d2)'/><path d='M256 8 C258 44 257 76 255 106' stroke='#E6D0BC' stroke-width='2' fill='none' opacity='.7'/><ellipse cx='150' cy='108' rx='140' ry='84' fill='url(#d3)'/><path d='M0 118 C68 110 146 124 226 114 C268 109 296 116 320 112 L320 200 L0 200Z' fill='#E7D2BC'/><path d='M0 130 C82 122 168 136 254 126 C286 122 304 128 320 125' stroke='#D5B79A' stroke-width='2' fill='none' opacity='.5'/><path d='M52 108 C48 140 46 162 48 182 C86 188 140 188 178 182 C180 162 178 140 172 108 C132 102 92 102 52 108Z' fill='#FCF6EC'/><path d='M66 124 C92 121 128 121 152 124' stroke='#D9BFA9' stroke-width='3' fill='none'/><path d='M66 138 C90 135 122 135 144 138' stroke='#E6D3C0' stroke-width='3' fill='none'/><path d='M66 152 C88 149 118 149 140 152' stroke='#E6D3C0' stroke-width='3' fill='none'/><path d='M66 166 C86 163 112 163 132 166' stroke='#E6D3C0' stroke-width='3' fill='none'/><path d='M156 146 C164 140 170 138 174 140 C170 148 164 154 156 158Z' fill='#D9A6AE'/><path d='M176 138 C186 128 198 120 208 116 C212 120 210 128 202 136 C194 144 184 150 176 152Z' fill='#C98F9B'/><path d='M262 92 C255 78 254 64 261 54 C270 63 272 78 268 92Z' fill='#BFD3C1' opacity='.9'/><path d='M270 94 C281 84 292 82 299 84 C294 94 283 100 272 100Z' fill='#A9C4AE' opacity='.85'/><path d='M266 96 C266 108 266 116 265 126' stroke='#9BB3A2' stroke-width='3' fill='none'/><path d='M252 126 C256 142 278 142 282 126 C273 123 261 123 252 126Z' fill='#E2C7A8'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Score your 11 symptoms tonight, then put 150 minutes of movement into this week.",
+   "phrases": [
+    "Fill the Menopause Rating Scale tonight — it takes 5 minutes.",
+    "Next to each one, write what it costs you at work.",
+    "Book 150 min of moderate movement this week, plus 2 strength sessions (WHO).",
+    "Take the page to your appointment instead of trying to remember it."
+   ],
+   "attribution": "— Dr. Jen Gunter, The Menopause Manifesto",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF6E8'/><stop offset='1' stop-color='#F6E1CF'/></linearGradient><radialGradient id='e2' cx='.72' cy='.24' r='.62'><stop offset='0' stop-color='#FFE6B4' stop-opacity='.95'/><stop offset='1' stop-color='#FFE6B4' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FBEFE0'/><stop offset='1' stop-color='#F2DCC6'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='232' cy='52' rx='130' ry='86' fill='url(#e2)'/><path d='M206 12 C252 6 292 10 316 16 C318 44 317 68 315 88 C288 92 250 92 208 88 C204 62 204 34 206 12Z' fill='#FFF1D6' opacity='.75'/><path d='M0 116 C70 108 150 122 232 112 C272 107 300 114 320 110 L320 200 L0 200Z' fill='url(#e3)'/><path d='M0 128 C84 120 172 133 256 124 C288 120 306 126 320 123' stroke='#DFC2A6' stroke-width='2' fill='none' opacity='.5'/><path d='M34 112 C30 142 29 160 31 176 C66 182 116 182 150 176 C152 160 150 142 144 112 C108 106 70 106 34 112Z' fill='#FDF8F0'/><path d='M92 110 C92 138 92 158 92 179' stroke='#E7D8C6' stroke-width='2' fill='none'/><path d='M46 128 C58 126 74 126 82 128' stroke='#D9A6AE' stroke-width='3' fill='none'/><path d='M46 142 C56 140 72 140 80 142' stroke='#E8D5C2' stroke-width='3' fill='none'/><path d='M46 156 C56 154 70 154 78 156' stroke='#E8D5C2' stroke-width='3' fill='none'/><path d='M104 132 C116 130 132 130 140 132' stroke='#E8D5C2' stroke-width='3' fill='none'/><path d='M104 146 C114 144 130 144 138 146' stroke='#E8D5C2' stroke-width='3' fill='none'/><path d='M188 148 C182 166 184 178 192 182 C206 184 218 180 220 172 C220 162 214 152 206 146 C199 143 192 143 188 148Z' fill='#D9A6AE'/><path d='M186 160 C196 156 210 156 219 160' stroke='#C48E98' stroke-width='2' fill='none'/><path d='M220 152 C228 168 230 178 236 182 C248 184 258 180 260 172 C258 162 250 152 242 146 C232 143 223 145 220 152Z' fill='#C98F9B'/><path d='M268 96 C262 82 262 68 269 58 C277 67 279 82 275 96Z' fill='#BFD3C1'/><path d='M277 98 C288 88 300 86 307 88 C302 98 291 104 280 104Z' fill='#A9C4AE'/><path d='M273 100 C273 112 273 120 272 130' stroke='#9BB3A2' stroke-width='3' fill='none'/><path d='M258 130 C262 148 286 148 290 130 C280 127 268 127 258 130Z' fill='#E2C7A8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "back in the glass room",
+   "text": "Nobody in that meeting will say the word. We will — follow *@aiforheratx*.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF7EA'/><stop offset='1' stop-color='#F7E0D2'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFEFCB' stop-opacity='.95'/><stop offset='1' stop-color='#F7DCE3' stop-opacity='.55'/></linearGradient><radialGradient id='f3' cx='.34' cy='.28' r='.6'><stop offset='0' stop-color='#FFDFA6' stop-opacity='.95'/><stop offset='1' stop-color='#FFDFA6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M28 8 C86 2 142 6 194 12 C196 58 195 100 193 136 C140 140 84 139 30 134 C26 92 26 48 28 8Z' fill='url(#f2)'/><ellipse cx='104' cy='62' rx='118' ry='80' fill='url(#f3)'/><circle cx='106' cy='58' r='20' fill='#F8CE95' opacity='.9'/><path d='M62 10 C64 56 63 98 61 136' stroke='#E6D2BE' stroke-width='2' fill='none' opacity='.65'/><path d='M128 8 C130 56 129 100 127 137' stroke='#E6D2BE' stroke-width='2' fill='none' opacity='.65'/><path d='M0 140 C72 132 152 146 236 136 C276 131 302 138 320 134 L320 200 L0 200Z' fill='#EBD5BE'/><path d='M0 151 C84 144 172 157 258 148 C288 145 306 150 320 147' stroke='#D8BA9C' stroke-width='2' fill='none' opacity='.5'/><path d='M228 112 C222 132 221 144 223 154 C234 159 254 159 265 154 C267 144 266 132 260 112 C249 108 238 108 228 112Z' fill='#FBF2E6'/><ellipse cx='244' cy='112' rx='18' ry='6' fill='#C79066'/><path d='M266 122 C279 120 283 132 275 140 C271 142 268 142 267 140' stroke='#E4D0BA' stroke-width='4' fill='none'/><path d='M240 96 C234 86 236 76 242 70 C246 79 245 89 241 97Z' fill='#F0DCC8' opacity='.8'/><path d='M251 98 C246 86 249 74 256 68 C259 78 257 90 252 99Z' fill='#F0DCC8' opacity='.6'/><path d='M288 92 C281 78 280 64 287 54 C296 63 298 78 294 92Z' fill='#BFD3C1'/><path d='M296 94 C306 84 316 82 320 84 C316 94 306 100 296 100Z' fill='#A9C4AE'/><path d='M292 96 C292 110 292 120 291 130' stroke='#9BB3A2' stroke-width='3' fill='none'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
