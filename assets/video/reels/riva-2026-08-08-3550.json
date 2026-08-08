@@ -1,0 +1,81 @@
+{
+ "title": "Myth Flip — AI won't diagnose you, it preps your page",
+ "caption": "Myth: AI will diagnose you. It won't. But it can turn a year of phone notes into one dated page your doctor can read fast. Doctors interrupt after ~11 seconds (JGIM, 2019). Which myth next? 👇\nwww.aiforheratx.org\n#womenshealth #aiforwomen #patientadvocacy #womensmentalhealth #healthmyths",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "9:40 AM. Room 4.",
+   "text": "Myth: “*AI* will diagnose me.” It won't. What it will do is hand your doctor one dated page.",
+   "suggest": "→ Ask AI for a *dated symptom page* (JGIM 2019)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7DCE1'/><stop offset='1' stop-color='#F7EDE0'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF3DA' stop-opacity='.85'/><stop offset='1' stop-color='#FFF3DA' stop-opacity='0'/></linearGradient><radialGradient id='a3' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFFAE8' stop-opacity='.95'/><stop offset='1' stop-color='#FFFAE8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M0 150 C 84 142 236 158 320 147 L320 200 L0 200 Z' fill='#E9DCC9'/><path d='M198 26 C 232 19 268 21 296 30 C 301 64 300 98 293 124 C 262 132 226 130 197 121 C 190 91 191 55 198 26 Z' fill='#FBF0DA' opacity='.92'/><path d='M244 22 C 248 60 248 96 244 128' stroke='#E3D2BD' stroke-width='2' fill='none' opacity='.7'/><path d='M202 32 C 252 44 272 96 248 156 C 196 166 146 154 116 140 C 138 92 170 48 202 32 Z' fill='url(#a2)'/><path d='M58 96 C 56 76 76 66 96 68 C 116 70 126 84 123 102 C 121 116 120 128 121 138 C 100 146 74 146 54 138 C 57 126 59 110 58 96 Z' fill='#C7A5AB'/><path d='M54 138 C 74 146 100 146 121 138 C 122 144 121 149 118 152 C 98 158 76 158 57 152 C 54 149 53 144 54 138 Z' fill='#B8929A'/><path d='M62 152 C 60 162 59 170 60 178' stroke='#9C7C82' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M114 152 C 116 162 117 170 116 178' stroke='#9C7C82' stroke-width='4' fill='none' stroke-linecap='round'/><ellipse cx='104' cy='134' rx='34' ry='20' fill='url(#a3)'/><path d='M94 126 C 102 122 112 122 118 127 C 120 135 118 143 113 147 C 104 150 96 149 91 145 C 89 138 90 131 94 126 Z' fill='#FCF6E6'/><path d='M138 148 C 136 132 146 124 158 126 C 170 128 174 138 170 150 C 160 154 147 153 138 148 Z' fill='#B9A48F'/><path d='M148 126 C 150 118 158 116 162 122' stroke='#8E7A66' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M276 146 C 272 132 278 122 288 122 C 298 122 303 132 299 146 C 292 150 283 150 276 146 Z' fill='#C6CDB4'/><path d='M288 122 C 282 110 284 98 292 92 C 296 100 295 112 288 122 Z' fill='#A8BCA0'/><path d='M288 122 C 296 112 306 110 312 114 C 306 122 296 126 288 122 Z' fill='#B7C8AC'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the last three visits",
+   "text": "For *two years* she heard the same lines, so she stopped bringing it up.",
+   "phrases": [
+    "Your bloodwork looks fine.",
+    "Probably stress. Two kids, right?",
+    "I had 14 months of notes in my phone.",
+    "I said “I'm just tired” and went home."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E8DDE2'/><stop offset='1' stop-color='#F6ECDF'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF2D8' stop-opacity='.7'/><stop offset='1' stop-color='#FFF2D8' stop-opacity='0'/></linearGradient><radialGradient id='b3' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#F3E4CB' stop-opacity='.8'/><stop offset='1' stop-color='#F3E4CB' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 118 C 90 110 232 122 320 112 L320 200 L0 200 Z' fill='#E6D8C4'/><path d='M0 118 C 90 110 232 122 320 112 L320 124 C 232 134 90 122 0 130 Z' fill='#D9C7AF' opacity='.7'/><path d='M24 30 C 96 24 168 26 232 34 C 236 56 236 78 232 96 C 168 104 96 102 24 94 C 20 74 20 50 24 30 Z' fill='#F4E8D6' opacity='.85'/><path d='M28 42 C 100 36 168 38 230 46' stroke='#E0CDB2' stroke-width='3' fill='none' opacity='.8'/><path d='M28 60 C 100 54 168 56 230 64' stroke='#E0CDB2' stroke-width='3' fill='none' opacity='.8'/><path d='M28 78 C 100 72 168 74 230 82' stroke='#E0CDB2' stroke-width='3' fill='none' opacity='.8'/><path d='M40 40 C 70 96 120 130 190 140 L60 140 Z' fill='url(#b2)'/><ellipse cx='128' cy='150' rx='60' ry='16' fill='url(#b3)'/><path d='M92 122 C 92 110 102 104 116 105 C 130 106 138 114 136 128 C 134 140 122 146 108 144 C 97 142 92 133 92 122 Z' fill='#D5B7A6'/><path d='M136 116 C 148 112 156 118 154 126 C 152 134 143 136 135 132' fill='none' stroke='#C4A392' stroke-width='4' stroke-linecap='round'/><path d='M96 118 C 110 114 124 115 134 120' stroke='#B99A88' stroke-width='2' fill='none' opacity='.8'/><path d='M172 138 C 172 128 178 122 190 122 C 202 122 208 128 208 138 C 208 146 202 150 190 150 C 178 150 172 146 172 138 Z' fill='#BFB2A6'/><path d='M176 132 C 186 128 196 128 204 132' stroke='#A99C90' stroke-width='2' fill='none'/><path d='M252 128 C 250 112 258 102 270 102 C 282 102 289 112 287 128 C 278 134 262 134 252 128 Z' fill='#C7CFB6'/><path d='M270 102 C 264 90 266 78 274 72 C 279 81 278 93 270 102 Z' fill='#A9BE9F'/><path d='M270 102 C 279 92 290 90 296 95 C 289 103 279 107 270 102 Z' fill='#B8C9AD'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Sunday, 9pm, laundry chair",
+   "text": "Reena, 38, pasted fourteen months of phone notes into an *AI* and asked it to sort by date.",
+   "phrases": [
+    "Reena, 38. Billing dept, two kids.",
+    "Fourteen months of notes, zero order.",
+    "She asked AI to sort it by date and find the pattern.",
+    "Back came one page: heaviest days, worst sleep nights, three questions."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EADFDF'/><stop offset='1' stop-color='#F9F0E1'/></linearGradient><radialGradient id='c2' cx='.36' cy='.34' r='.42'><stop offset='0' stop-color='#FFF0C9' stop-opacity='.95'/><stop offset='1' stop-color='#FFF0C9' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E2'/><stop offset='1' stop-color='#EFE0C8'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 132 C 92 124 234 138 320 126 L320 200 L0 200 Z' fill='url(#c3)'/><ellipse cx='116' cy='118' rx='120' ry='70' fill='url(#c2)'/><path d='M78 46 C 90 34 110 32 122 42 C 130 50 130 60 124 66 C 108 70 88 68 76 62 C 72 56 73 50 78 46 Z' fill='#E4C79A'/><path d='M100 66 C 100 84 100 100 100 112' stroke='#C9AA80' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M86 118 C 92 112 108 112 114 118 C 108 122 92 122 86 118 Z' fill='#C9AA80'/><path d='M148 128 C 146 116 156 110 176 110 C 198 110 210 116 208 128 C 194 134 164 134 148 128 Z' fill='#FCF6E7'/><path d='M156 118 C 172 114 190 115 200 119' stroke='#DCCBB2' stroke-width='2' fill='none'/><path d='M162 124 C 176 121 190 122 197 125' stroke='#DCCBB2' stroke-width='2' fill='none'/><path d='M228 128 C 226 114 232 106 242 106 C 252 107 256 116 253 128 C 245 132 235 132 228 128 Z' fill='#F5EEDE'/><path d='M232 110 C 240 107 248 108 251 112 C 245 116 237 116 232 110 Z' fill='#E4D6BC'/><path d='M62 128 C 60 112 68 102 80 102 C 92 103 97 113 94 128 C 84 133 71 133 62 128 Z' fill='#C7CFB4'/><path d='M80 102 C 73 90 75 76 84 70 C 90 80 89 93 80 102 Z' fill='#A9BE9C'/><path d='M80 102 C 90 91 102 89 108 94 C 100 103 89 107 80 102 Z' fill='#B8C9AA'/><path d='M0 40 C 40 30 70 32 96 40' stroke='#E7D5DA' stroke-width='6' fill='none' opacity='.6' stroke-linecap='round'/><path d='M236 44 C 262 36 292 36 320 44' stroke='#E7D5DA' stroke-width='6' fill='none' opacity='.5' stroke-linecap='round'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "before you finish talking",
+   "number": "11 seconds",
+   "text": "Doctors interrupt after a median of *11 seconds* — her one page got there first.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F1E3DF'/><stop offset='1' stop-color='#FAF1E2'/></linearGradient><radialGradient id='d2' cx='.5' cy='.42' r='.46'><stop offset='0' stop-color='#FFF6DC' stop-opacity='.9'/><stop offset='1' stop-color='#FFF6DC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='160' cy='92' rx='150' ry='96' fill='url(#d2)'/><path d='M0 154 C 96 146 226 160 320 150 L320 200 L0 200 Z' fill='#EDE0CB'/><path d='M118 74 C 118 44 140 26 164 27 C 190 28 208 48 206 76 C 204 102 184 118 160 117 C 136 116 118 100 118 74 Z' fill='#F8EEDB'/><path d='M126 74 C 126 50 144 35 164 36 C 186 37 200 53 198 76 C 196 98 180 110 160 109 C 140 108 126 96 126 74 Z' fill='#FCF7EA'/><path d='M162 50 C 162 62 162 70 162 76' stroke='#C08E8E' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M162 76 C 172 82 180 86 186 88' stroke='#B87E7E' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M160 27 C 154 20 156 14 162 12 C 168 14 170 20 164 27 Z' fill='#D6A9A9'/><path d='M40 150 C 38 132 48 122 62 122 C 76 123 82 134 78 150 C 66 156 51 156 40 150 Z' fill='#C9CFB2'/><path d='M62 122 C 55 108 58 94 68 88 C 74 98 72 112 62 122 Z' fill='#A9BE9C'/><path d='M62 122 C 73 110 86 108 92 114 C 84 123 72 127 62 122 Z' fill='#B8C9AA'/><path d='M242 148 C 240 136 250 128 264 128 C 278 128 286 136 284 148 C 272 153 254 153 242 148 Z' fill='#D9BBB0'/><path d='M284 136 C 294 132 300 138 298 144 C 296 150 288 151 282 148' stroke='#C9A79C' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M252 128 C 254 118 262 114 268 120' stroke='#BE9A8E' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, ten minutes",
+   "text": "Ask AI for one *dated page*, then write your three questions at the top before you go.",
+   "phrases": [
+    "1. Ask AI: sort my notes by date, one page.",
+    "2. At the top, your 3 questions — what is my main problem, what do I do, why it matters.",
+    "3. Add sleep and movement to the page; WHO's baseline is 150 minutes a week."
+   ],
+   "attribution": "— Ask Me 3, Institute for Healthcare Improvement",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E5DE'/><stop offset='1' stop-color='#FCF4E4'/></linearGradient><radialGradient id='e2' cx='.72' cy='.3' r='.5'><stop offset='0' stop-color='#FFEFC6' stop-opacity='.95'/><stop offset='1' stop-color='#FFEFC6' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF8EC'/><stop offset='1' stop-color='#F2E6CE'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='232' cy='58' rx='130' ry='84' fill='url(#e2)'/><path d='M0 138 C 96 130 228 144 320 132 L320 200 L0 200 Z' fill='url(#e3)'/><path d='M0 138 C 96 130 228 144 320 132 L320 142 C 228 154 96 140 0 148 Z' fill='#E2D0B4' opacity='.7'/><path d='M96 132 C 94 116 110 108 142 108 C 176 108 194 116 192 132 C 168 140 120 140 96 132 Z' fill='#FDF9EE'/><path d='M108 118 C 132 113 162 114 180 119' stroke='#DFCDB2' stroke-width='2.5' fill='none'/><path d='M112 125 C 136 120 162 121 178 125' stroke='#DFCDB2' stroke-width='2.5' fill='none'/><path d='M96 132 C 120 140 168 140 192 132 C 190 138 186 141 178 143 C 148 148 118 146 102 141 C 98 139 96 136 96 132 Z' fill='#EFE2C9'/><path d='M214 128 C 210 106 222 92 240 92 C 258 92 270 106 266 128 C 252 135 228 135 214 128 Z' fill='#D8B4AA'/><path d='M266 108 C 280 104 288 112 285 122 C 282 131 271 133 263 129' fill='none' stroke='#C79E93' stroke-width='5' stroke-linecap='round'/><path d='M238 92 C 236 82 242 74 250 74' stroke='#C2988C' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M232 88 C 226 76 228 62 236 54 C 242 64 240 78 232 88 Z' fill='#F0E2D2' opacity='.85'/><path d='M246 86 C 242 74 246 62 254 56 C 258 66 254 78 246 86 Z' fill='#F0E2D2' opacity='.6'/><path d='M40 134 C 38 118 46 108 58 108 C 70 109 76 119 72 134 C 61 139 49 139 40 134 Z' fill='#C9CFB2'/><path d='M58 108 C 51 95 54 81 63 75 C 69 85 67 98 58 108 Z' fill='#A9BE9C'/><path d='M58 108 C 69 96 82 94 88 100 C 80 109 68 113 58 108 Z' fill='#B8C9AA'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "before her next appointment",
+   "text": "Send this to the friend who keeps saying “I'm *just tired*.” Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE7DC'/><stop offset='1' stop-color='#FDF6E7'/></linearGradient><radialGradient id='f2' cx='.72' cy='.42' r='.45'><stop offset='0' stop-color='#FFE9B8' stop-opacity='.95'/><stop offset='1' stop-color='#FFE9B8' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF6DF'/><stop offset='1' stop-color='#FBE6CF'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M186 22 C 226 14 268 16 300 26 C 306 62 305 102 297 132 C 262 142 220 140 186 130 C 178 96 178 54 186 22 Z' fill='url(#f3)'/><ellipse cx='244' cy='78' rx='96' ry='70' fill='url(#f2)'/><path d='M188 106 C 216 96 258 94 300 102' stroke='#F3D6A8' stroke-width='3' fill='none' opacity='.8'/><path d='M240 20 C 244 58 244 96 240 134' stroke='#EFDCBE' stroke-width='2' fill='none' opacity='.7'/><path d='M196 92 C 210 78 226 76 240 84 C 254 92 262 92 274 86' stroke='#E8B98C' stroke-width='4' fill='none' stroke-linecap='round' opacity='.9'/><path d='M0 150 C 92 142 230 156 320 144 L320 200 L0 200 Z' fill='#EEDFC6'/><path d='M70 144 C 66 122 80 108 100 108 C 120 108 133 122 129 144 C 112 151 87 151 70 144 Z' fill='#C6CFB0'/><path d='M100 108 C 90 92 93 72 104 62 C 113 74 111 94 100 108 Z' fill='#A6BC98'/><path d='M100 108 C 113 92 130 88 138 95 C 128 107 113 113 100 108 Z' fill='#B6C8A6'/><path d='M100 108 C 88 100 74 100 68 106 C 78 114 92 115 100 108 Z' fill='#BCCCAC'/><path d='M154 146 C 152 132 160 124 172 124 C 184 124 190 132 188 146 C 177 151 164 151 154 146 Z' fill='#DDB9AC'/><path d='M162 124 C 158 112 162 102 170 98 C 174 108 170 118 162 124 Z' fill='#F1E3D3' opacity='.8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
