@@ -1,0 +1,81 @@
+{
+ "title": "Nadia, 33 — what her period app does with her data",
+ "caption": "Your period app isn't covered by HIPAA (HHS, June 2022).\nIn 2021 the FTC said Flo shared cycle and pregnancy data with Facebook and Google.\nOpen yours and search the policy for \"third parties.\"\nKept it or deleted it?\nwww.aiforheratx.org\n#womenshealth #dataprivacy #cycletracking #femtech #periodapp #digitalprivacy",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 9. logged everything.",
+   "text": "My cycle app knows I'm *trying*. Who else does?",
+   "suggest": "→ Search its policy for *'third parties'* (FTC 2021)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D0DC'/><stop offset='0.55' stop-color='#F6E4E0'/><stop offset='1' stop-color='#FBF2E7'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#D9BAC7'/><stop offset='1' stop-color='#C3A290'/></linearGradient><radialGradient id='a3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FDF0CE' stop-opacity='0.92'/><stop offset='1' stop-color='#FDF0CE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M198 16 C238 10 276 13 302 20 C306 56 304 84 300 108 C268 101 230 101 198 108 C194 78 194 44 198 16 Z' fill='#FCF2DE' opacity='0.8'/><path d='M188 8 C199 50 193 94 180 134 C173 98 178 44 188 8 Z' fill='#EAD4DB' opacity='0.85'/><path d='M0 116 C68 100 116 128 190 116 C248 106 288 122 320 110 L320 200 L0 200 Z' fill='url(#a2)' opacity='0.88'/><path d='M0 134 C64 124 110 146 176 138 C232 131 280 144 320 134 L320 200 L0 200 Z' fill='#EBD5D2' opacity='0.55'/><ellipse cx='126' cy='130' rx='88' ry='46' fill='url(#a3)'/><path d='M98 116 C114 109 140 107 154 112 C158 125 153 142 145 150 C126 154 108 152 96 145 C92 134 93 124 98 116 Z' fill='#F8F0E3'/><path d='M105 121 C117 116 137 115 147 118 C149 129 146 139 141 145 C127 148 113 147 104 142 C101 134 102 127 105 121 Z' fill='#FDF7DE'/><path d='M40 121 C57 116 74 118 78 124 C80 137 73 148 62 151 C49 152 41 145 39 134 Z' fill='#E8CAC6'/><path d='M79 126 C89 124 92 134 84 140' fill='none' stroke='#E8CAC6' stroke-width='4' stroke-linecap='round'/><path d='M58 110 C64 102 54 96 60 88' fill='none' stroke='#F3E3D6' stroke-width='3' stroke-linecap='round' opacity='0.8'/><path d='M14 116 C10 96 20 78 34 70 C28 86 26 100 30 116 Z' fill='#C8B79E' opacity='0.85'/><path d='M30 116 C34 98 46 86 60 84 C50 94 42 104 40 116 Z' fill='#D6C6AB' opacity='0.8'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "ten months in",
+   "text": "Nadia, 33, logs every symptom — then the baby-stroller ads started following her.",
+   "phrases": [
+    "Nadia's 33. Ten months of trying.",
+    "She logs every cramp, every *test*.",
+    "Then the baby-stroller ads found her.",
+    "In 2021 the FTC said a period app shared exactly that data."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E5CEDA'/><stop offset='0.5' stop-color='#F4E1DE'/><stop offset='1' stop-color='#FAF0E5'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#CFAEBD'/><stop offset='1' stop-color='#BE9C8A'/></linearGradient><radialGradient id='b3' cx='0.5' cy='0.45' r='0.55'><stop offset='0' stop-color='#FDF2D4' stop-opacity='0.95'/><stop offset='1' stop-color='#FDF2D4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M212 4 C252 0 292 6 320 14 L320 120 C286 112 246 112 212 120 C207 82 207 42 212 4 Z' fill='#FBF0DC' opacity='0.72'/><path d='M204 0 C215 44 209 92 196 138 C188 100 194 40 204 0 Z' fill='#E8D1D9' opacity='0.9'/><path d='M0 128 C74 112 130 140 204 128 C258 119 292 132 320 126 L320 200 L0 200 Z' fill='url(#b2)' opacity='0.9'/><ellipse cx='140' cy='138' rx='96' ry='48' fill='url(#b3)'/><path d='M104 120 C124 111 156 109 172 115 C177 130 170 150 160 158 C138 163 116 160 102 152 C97 140 99 128 104 120 Z' fill='#F8F0E3'/><path d='M112 126 C129 119 155 118 166 122 C169 134 164 148 157 153 C139 157 121 155 110 149 C107 140 109 132 112 126 Z' fill='#FDF7DD'/><path d='M126 132 C134 128 146 128 152 131' fill='none' stroke='#E6C4CF' stroke-width='4' stroke-linecap='round'/><path d='M124 141 C133 137 147 137 154 140' fill='none' stroke='#E6C4CF' stroke-width='4' stroke-linecap='round' opacity='0.7'/><path d='M32 126 C50 120 68 122 72 129 C74 143 66 155 54 158 C40 159 32 151 30 139 Z' fill='#E6C8C4'/><path d='M73 131 C84 129 87 140 78 147' fill='none' stroke='#E6C8C4' stroke-width='4' stroke-linecap='round'/><path d='M50 114 C57 105 46 98 53 89' fill='none' stroke='#F2E1D3' stroke-width='3' stroke-linecap='round' opacity='0.75'/><path d='M258 126 C254 104 264 84 280 76 C272 94 270 110 274 126 Z' fill='#C6B49C' opacity='0.85'/><path d='M274 126 C279 106 292 94 308 92 C296 102 288 112 286 126 Z' fill='#D5C4A9' opacity='0.8'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "BMJ 2019 · Grundy et al.",
+   "number": "19 of 24",
+   "text": "Of 24 health apps researchers studied, *19* shared user data with outside companies.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F2DCE0'/><stop offset='0.5' stop-color='#F9EAE1'/><stop offset='1' stop-color='#FCF4E9'/></linearGradient><radialGradient id='c2' cx='0.72' cy='0.28' r='0.6'><stop offset='0' stop-color='#FDF3D6' stop-opacity='0.95'/><stop offset='1' stop-color='#FDF3D6' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E3C7CE'/><stop offset='1' stop-color='#C9AC97'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='232' cy='54' rx='120' ry='84' fill='url(#c2)'/><path d='M0 148 C72 134 122 160 196 148 C252 139 290 152 320 144 L320 200 L0 200 Z' fill='url(#c3)' opacity='0.85'/><path d='M0 166 C66 158 116 176 182 170 C238 165 284 176 320 168 L320 200 L0 200 Z' fill='#EFDCD6' opacity='0.6'/><circle cx='86' cy='58' r='26' fill='#F6E2E6' opacity='0.7'/><circle cx='134' cy='38' r='14' fill='#F3DCD2' opacity='0.65'/><circle cx='60' cy='104' r='17' fill='#F7E6DC' opacity='0.6'/><circle cx='168' cy='84' r='9' fill='#EFD5DC' opacity='0.7'/><path d='M22 148 C16 120 28 96 48 86 C38 108 36 128 42 148 Z' fill='#C4B399' opacity='0.85'/><path d='M42 148 C48 124 64 110 84 108 C69 120 58 132 56 148 Z' fill='#D3C2A6' opacity='0.8'/><path d='M266 148 C263 130 271 116 284 110 C278 124 276 136 280 148 Z' fill='#CBBAA0' opacity='0.7'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "she looked it up",
+   "text": "HIPAA covers your clinic, not the app on your phone — HHS said so in June 2022.",
+   "phrases": [
+    "She figured she was being paranoid.",
+    "She wasn't.",
+    "HIPAA covers your clinic, not your app.",
+    "HHS told consumers that plainly in *June 2022*."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F5E1DF'/><stop offset='0.5' stop-color='#FAECE2'/><stop offset='1' stop-color='#FDF5EA'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#DCC0A9'/><stop offset='1' stop-color='#C6A88F'/></linearGradient><radialGradient id='d3' cx='0.25' cy='0.2' r='0.6'><stop offset='0' stop-color='#FDF4D8' stop-opacity='0.9'/><stop offset='1' stop-color='#FDF4D8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='84' cy='38' rx='118' ry='80' fill='url(#d3)'/><path d='M16 22 C56 14 96 16 122 24 C126 58 124 86 120 108 C90 100 54 100 20 108 C14 78 12 46 16 22 Z' fill='#FCF3E0' opacity='0.72'/><path d='M0 130 C76 116 132 144 208 132 C262 123 292 136 320 130 L320 200 L0 200 Z' fill='url(#d2)' opacity='0.9'/><path d='M160 128 C186 120 224 118 244 124 C249 138 244 154 234 160 C210 165 182 163 166 156 C160 146 156 135 160 128 Z' fill='#EADACB'/><path d='M168 131 C190 125 222 124 238 129 C241 140 237 151 229 156 C209 160 186 158 173 152 C168 144 166 136 168 131 Z' fill='#E0CBB8' opacity='0.8'/><path d='M50 132 C74 124 108 124 124 130 C127 142 120 156 110 161 C88 165 64 163 52 156 C47 147 47 138 50 132 Z' fill='#FAF2E4'/><path d='M62 138 C80 133 104 133 116 137' fill='none' stroke='#DFC9CF' stroke-width='4' stroke-linecap='round'/><path d='M60 147 C79 142 105 142 117 146' fill='none' stroke='#DFC9CF' stroke-width='4' stroke-linecap='round' opacity='0.7'/><path d='M272 130 C267 108 277 88 294 80 C285 98 283 114 288 130 Z' fill='#C5B49A' opacity='0.85'/><path d='M288 130 C293 110 306 98 320 96 L320 130 Z' fill='#D4C3A8' opacity='0.75'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, ten minutes",
+   "text": "Tonight: search the app's policy for *'third parties'*, then switch off ad tracking.",
+   "phrases": [
+    "1. Search its privacy policy for 'third parties' or 'sell'.",
+    "2. Turn off app tracking in your phone's privacy settings.",
+    "3. Use the app's 'download my data' and 'delete account' options."
+   ],
+   "attribution": "— Electronic Frontier Foundation, Surveillance Self-Defense",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE7DA'/><stop offset='0.5' stop-color='#FCF0E1'/><stop offset='1' stop-color='#FEF7EC'/></linearGradient><radialGradient id='e2' cx='0.62' cy='0.24' r='0.62'><stop offset='0' stop-color='#FDEFC6' stop-opacity='0.95'/><stop offset='1' stop-color='#FDEFC6' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E0C4AA'/><stop offset='1' stop-color='#CDAE93'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='198' cy='46' rx='128' ry='88' fill='url(#e2)'/><path d='M188 12 C228 6 268 10 296 18 C300 52 298 82 294 104 C262 97 224 97 190 104 C185 72 184 38 188 12 Z' fill='#FEF6E2' opacity='0.75'/><path d='M0 132 C78 118 134 146 210 134 C264 125 294 138 320 132 L320 200 L0 200 Z' fill='url(#e3)' opacity='0.9'/><path d='M0 152 C70 144 122 164 190 158 C244 153 288 164 320 156 L320 200 L0 200 Z' fill='#F1DFCF' opacity='0.55'/><path d='M108 118 C130 111 152 113 157 121 C160 138 151 154 137 158 C120 159 110 150 107 136 Z' fill='#EFCFC6'/><path d='M158 124 C172 122 176 137 164 145' fill='none' stroke='#EFCFC6' stroke-width='5' stroke-linecap='round'/><path d='M126 104 C134 92 120 84 128 72' fill='none' stroke='#F6E8D6' stroke-width='4' stroke-linecap='round' opacity='0.85'/><path d='M140 100 C147 90 136 82 143 72' fill='none' stroke='#F6E8D6' stroke-width='3' stroke-linecap='round' opacity='0.6'/><path d='M38 132 C32 108 44 86 64 76 C53 98 51 116 57 132 Z' fill='#C2B196' opacity='0.9'/><path d='M57 132 C63 108 80 94 100 92 C84 104 73 116 71 132 Z' fill='#D2C1A5' opacity='0.85'/><path d='M240 132 C236 116 244 102 256 96 C250 110 248 120 252 132 Z' fill='#CBBA9F' opacity='0.7'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "day 9, again",
+   "text": "Follow @aiforheratx for women's health, explained. Send this to whoever logs her cycle.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCE6D6'/><stop offset='0.5' stop-color='#FDF1E2'/><stop offset='1' stop-color='#FEF8EE'/></linearGradient><radialGradient id='f2' cx='0.5' cy='0.3' r='0.7'><stop offset='0' stop-color='#FDECBE' stop-opacity='0.95'/><stop offset='1' stop-color='#FDECBE' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E2C6AC'/><stop offset='1' stop-color='#CFB095'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><ellipse cx='160' cy='52' rx='168' ry='96' fill='url(#f2)'/><circle cx='160' cy='56' r='26' fill='#FDF0CE' opacity='0.85'/><path d='M46 16 C112 6 208 8 274 18 C280 54 278 88 272 112 C206 102 114 102 48 112 C42 80 42 44 46 16 Z' fill='#FEF7E6' opacity='0.55'/><path d='M0 134 C80 120 136 148 212 136 C266 127 296 140 320 134 L320 200 L0 200 Z' fill='url(#f3)' opacity='0.9'/><path d='M0 156 C72 148 124 168 192 162 C246 157 288 168 320 160 L320 200 L0 200 Z' fill='#F2E1D1' opacity='0.55'/><path d='M186 122 C206 116 226 118 230 125 C233 141 224 155 211 159 C195 160 186 152 183 139 Z' fill='#EDCDC3'/><path d='M231 128 C244 126 248 140 236 147' fill='none' stroke='#EDCDC3' stroke-width='5' stroke-linecap='round'/><path d='M202 108 C210 96 197 88 205 76' fill='none' stroke='#F7EAD9' stroke-width='4' stroke-linecap='round' opacity='0.8'/><path d='M62 134 C54 108 68 84 90 74 C77 98 75 116 82 134 Z' fill='#C0AF94' opacity='0.9'/><path d='M82 134 C88 108 106 94 128 92 C110 104 98 118 96 134 Z' fill='#D1C0A4' opacity='0.85'/><path d='M96 134 C100 118 110 106 122 102 C112 114 108 124 108 134 Z' fill='#C7B69B' opacity='0.6'/></svg>"
+  }
+ ]
+}
