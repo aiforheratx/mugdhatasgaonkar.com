@@ -1,0 +1,80 @@
+{
+ "title": "ADHD in women — Nadia, 38, and the ASRS-v1.1 screener",
+ "caption": "Called \"scattered\" since you were nine? In women, ADHD gets read as anxiety first.\nFree 6-question screener: the WHO's ASRS-v1.1 (Kessler, 2005) — hand it to your doctor.\nSend to her. Sound familiar?\nwww.aiforheratx.org\n#adhdinwomen #adultadhd #womensmentalhealth #neurodivergent #adhdawareness",
+ "music_query": "dreamy lofi chill",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "38. Six alarms, still late.",
+   "text": "Called *scattered* since I was nine.",
+   "suggest": "→ Take the *ASRS-v1.1* screener (WHO 2005)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E2DA'/><stop offset='1' stop-color='#FBF4EC'/></linearGradient><radialGradient id='a2' cx='0.74' cy='0.3' r='0.55'><stop offset='0' stop-color='#EFD2BC' stop-opacity='0.95'/><stop offset='1' stop-color='#EFD2BC' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9D5C6'/><stop offset='1' stop-color='#D6B9A6'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M196 10 C240 4 288 8 312 18 C314 60 314 100 310 132 C276 142 228 143 194 134 C190 96 190 50 196 10 Z' fill='#EFDCCE' opacity='0.9'/><path d='M196 10 C240 4 288 8 312 18 C314 60 314 100 310 132 C276 142 228 143 194 134 C190 96 190 50 196 10 Z' fill='url(#a2)'/><path d='M202 100 C234 82 270 78 308 88' stroke='#D8B5A0' stroke-width='2.2' fill='none' opacity='0.65'/><path d='M0 132 C88 122 214 124 320 134 L320 200 L0 200 Z' fill='url(#a3)'/><path d='M54 118 C50 100 58 92 74 92 C90 92 98 101 94 118 C92 130 84 136 74 136 C64 136 56 130 54 118 Z' fill='#F7EDE3'/><path d='M94 104 C106 102 110 112 100 118' stroke='#E4CBB8' stroke-width='3' fill='none'/><path d='M72 88 C66 78 78 74 72 62' stroke='#DFC7B6' stroke-width='2' fill='none' opacity='0.75' stroke-linecap='round'/><path d='M80 86 C86 76 76 70 82 60' stroke='#DFC7B6' stroke-width='2' fill='none' opacity='0.55' stroke-linecap='round'/><path d='M22 60 C40 54 58 56 60 74 C44 82 26 80 22 60 Z' fill='#F0D9D2' opacity='0.95'/><path d='M28 88 C46 82 62 86 62 102 C46 108 30 104 28 88 Z' fill='#EBD8C4' opacity='0.95'/><path d='M132 140 C154 134 176 138 176 148 C176 156 152 160 132 154 Z' fill='#CBB6AC'/><path d='M136 141 C154 137 170 140 171 147 C170 152 152 155 137 151 Z' fill='#E7DCEA' opacity='0.85'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 11:40pm",
+   "text": "Nadia hears the same lines every year, and by now she half believes them.",
+   "phrases": [
+    "You're just doing too much.",
+    "Everyone's forgetful at 38.",
+    "Have you tried a planner?",
+    "I've tried eleven planners."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7DCE2'/><stop offset='1' stop-color='#F8F0E8'/></linearGradient><radialGradient id='b2' cx='0.44' cy='0.68' r='0.4'><stop offset='0' stop-color='#E9DDF0' stop-opacity='0.95'/><stop offset='1' stop-color='#E9DDF0' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#EFE2D6'/><stop offset='1' stop-color='#DCC7B7'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 118 C96 108 216 110 320 120 L320 200 L0 200 Z' fill='#EADCCE'/><path d='M66 150 C60 118 78 100 116 98 C158 96 186 108 190 138 C192 162 168 176 128 176 C92 176 70 168 66 150 Z' fill='url(#b3)'/><path d='M74 118 C96 104 138 100 168 110 C150 106 108 108 86 120 Z' fill='#F6EBE0' opacity='0.9'/><path d='M96 100 C110 84 142 82 156 96 C140 90 112 92 96 100 Z' fill='#E4D0DE' opacity='0.85'/><path d='M84 138 C104 128 140 126 162 134 C142 132 106 134 88 142 Z' fill='#F2E4D8' opacity='0.8'/><rect x='0' y='0' width='320' height='200' fill='url(#b2)'/><path d='M112 134 C112 128 118 126 124 126 L146 126 C152 126 156 129 156 135 L156 166 C156 172 151 174 145 174 L123 174 C117 174 112 171 112 166 Z' fill='#CFC2CC'/><path d='M116 132 C116 129 119 129 122 129 L146 129 C149 129 152 130 152 134 L152 164 C152 168 149 169 146 169 L122 169 C119 169 116 168 116 164 Z' fill='#F0E9F6'/><path d='M226 122 C222 96 236 84 252 92 C266 100 264 122 252 130 C242 136 228 134 226 122 Z' fill='#D9C8B8' opacity='0.9'/><path d='M248 96 C256 78 250 66 240 58' stroke='#C4AE9C' stroke-width='2.4' fill='none' stroke-linecap='round'/><path d='M240 58 C232 62 228 72 236 78' fill='#C9B69F' opacity='0.9'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "what got missed at nine",
+   "number": "2×",
+   "text": "Boys get diagnosed about *twice* as often as girls (CDC). Quiet daydreamers slip through.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F5E6D8'/><stop offset='1' stop-color='#FBF4EC'/></linearGradient><radialGradient id='c2' cx='0.24' cy='0.26' r='0.5'><stop offset='0' stop-color='#F7DFC2' stop-opacity='0.95'/><stop offset='1' stop-color='#F7DFC2' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E6D2C0'/><stop offset='1' stop-color='#D2B49F'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M14 14 C58 6 106 10 128 20 C132 58 132 96 128 128 C98 138 52 139 16 130 C10 92 10 50 14 14 Z' fill='#F4E5D6'/><path d='M14 14 C58 6 106 10 128 20 C132 58 132 96 128 128 C98 138 52 139 16 130 C10 92 10 50 14 14 Z' fill='url(#c2)'/><path d='M20 96 C52 78 92 76 126 86' stroke='#DDBBA0' stroke-width='2' fill='none' opacity='0.6'/><path d='M0 136 C90 126 212 128 320 138 L320 200 L0 200 Z' fill='url(#c3)'/><path d='M150 138 C148 116 162 106 182 108 C200 110 208 122 204 140 C186 146 164 146 150 138 Z' fill='#EFE0D0'/><path d='M156 146 L158 176' stroke='#C9AC97' stroke-width='4' stroke-linecap='round'/><path d='M198 146 L200 176' stroke='#C9AC97' stroke-width='4' stroke-linecap='round'/><path d='M236 140 C234 120 246 110 264 112 C280 114 288 124 284 142 C268 148 248 148 236 140 Z' fill='#D9C6B6' opacity='0.55'/><path d='M242 148 L244 176' stroke='#BCA694' stroke-width='4' stroke-linecap='round' opacity='0.55'/><path d='M280 148 L282 176' stroke='#BCA694' stroke-width='4' stroke-linecap='round' opacity='0.55'/><path d='M132 30 C160 42 190 44 226 36' stroke='#EBD3BC' stroke-width='10' fill='none' opacity='0.5' stroke-linecap='round'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "tea reheated three times",
+   "text": "She sat down with the six-question ASRS after the kids were finally asleep.",
+   "phrases": [
+    "Six questions. Four minutes.",
+    "She ticked \"very often\" five times.",
+    "Then she printed it for her GP."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE0D6'/><stop offset='1' stop-color='#FBF4EC'/></linearGradient><radialGradient id='d2' cx='0.5' cy='0.55' r='0.42'><stop offset='0' stop-color='#F8E6CB' stop-opacity='0.95'/><stop offset='1' stop-color='#F8E6CB' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E4CDB9'/><stop offset='1' stop-color='#CFB09A'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M0 128 C92 118 216 120 320 130 L320 200 L0 200 Z' fill='url(#d3)'/><rect width='320' height='200' fill='url(#d2)'/><path d='M126 128 C124 112 132 104 152 104 C176 104 190 110 192 126 C176 132 142 133 126 128 Z' fill='#F6EDE2'/><path d='M120 128 C142 122 178 122 198 128 C200 134 194 138 160 138 C126 138 118 134 120 128 Z' fill='#DCC6B4'/><path d='M232 112 C228 98 236 92 250 92 C264 92 270 100 266 114 C263 124 256 128 249 128 C241 128 234 123 232 112 Z' fill='#F7EFE5'/><path d='M266 102 C276 101 279 110 270 115' stroke='#E0C7B3' stroke-width='2.6' fill='none'/><path d='M246 88 C241 79 251 75 246 66' stroke='#E2CBBA' stroke-width='2' fill='none' opacity='0.7' stroke-linecap='round'/><path d='M62 128 C56 100 64 84 76 84 C88 84 94 100 90 128 Z' fill='#D9C7B2'/><path d='M76 84 C70 66 56 62 48 68 C56 66 68 72 74 86' fill='#B7C6A8'/><path d='M78 86 C86 68 100 66 106 74 C98 70 88 76 80 88' fill='#C6D2B4'/><path d='M77 84 C77 70 79 58 84 48' stroke='#B0BFA0' stroke-width='2' fill='none' stroke-linecap='round'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight",
+   "text": "Tonight: take the ASRS-v1.1, then list three childhood examples to hand your doctor.",
+   "phrases": [
+    "Run the free *ASRS-v1.1* tonight.",
+    "Write 3 examples from childhood — old report cards count.",
+    "Walk 20 minutes tomorrow; WHO asks for 150 a week."
+   ],
+   "attribution": "— structure as treatment: Hallowell & Ratey, Driven to Distraction",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE7CF'/><stop offset='1' stop-color='#FDF5EC'/></linearGradient><radialGradient id='e2' cx='0.68' cy='0.24' r='0.55'><stop offset='0' stop-color='#FAD9A8' stop-opacity='0.95'/><stop offset='1' stop-color='#FAD9A8' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAD5C1'/><stop offset='1' stop-color='#D6B79E'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M184 6 C232 0 286 6 314 16 C316 60 316 104 312 136 C276 146 224 147 184 138 C180 96 179 48 184 6 Z' fill='#FBEBD6'/><path d='M184 6 C232 0 286 6 314 16 C316 60 316 104 312 136 C276 146 224 147 184 138 C180 96 179 48 184 6 Z' fill='url(#e2)'/><path d='M252 46 m-22 0 a22 20 0 1 0 44 0 a22 20 0 1 0 -44 0' fill='#F9CE95' opacity='0.85'/><path d='M190 104 C226 88 268 86 310 96' stroke='#E9C39E' stroke-width='2.2' fill='none' opacity='0.6'/><path d='M0 138 C92 128 214 130 320 140 L320 200 L0 200 Z' fill='url(#e3)'/><path d='M40 138 C34 106 44 88 58 88 C72 88 80 106 74 138 Z' fill='#CBBBA6'/><path d='M58 88 C50 68 34 64 26 72 C36 68 50 76 56 90' fill='#AFC29C'/><path d='M60 88 C70 68 86 66 92 76 C82 70 70 78 62 90' fill='#C2D0AC'/><path d='M59 88 C59 72 62 58 68 46' stroke='#A6B894' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M112 172 C108 156 120 150 136 152 C150 154 156 162 152 174 C138 180 120 180 112 172 Z' fill='#F3E3D2'/><path d='M116 158 C126 152 142 152 150 158' stroke='#D9BBA2' stroke-width='2.4' fill='none'/><path d='M154 170 C150 154 162 148 178 150 C192 152 198 160 194 172 C180 178 162 178 154 170 Z' fill='#EFDCC8'/><path d='M158 156 C168 150 184 150 192 156' stroke='#D9BBA2' stroke-width='2.4' fill='none'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "you were never scattered",
+   "text": "You were never scattered — you were unassessed. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBDFC2'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='f2' cx='0.5' cy='0.3' r='0.6'><stop offset='0' stop-color='#FBD8A4' stop-opacity='0.9'/><stop offset='1' stop-color='#FBD8A4' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ECD7C3'/><stop offset='1' stop-color='#D8B99F'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><rect width='320' height='200' fill='url(#f2)'/><path d='M160 68 m-40 0 a40 36 0 1 0 80 0 a40 36 0 1 0 -80 0' fill='#FBCE92' opacity='0.75'/><path d='M0 92 C70 82 130 96 198 88 C248 82 288 88 320 96' stroke='#F2CDA2' stroke-width='3' fill='none' opacity='0.55'/><path d='M0 126 C96 116 218 118 320 128 L320 200 L0 200 Z' fill='url(#f3)'/><path d='M0 126 C96 116 218 118 320 128 L320 138 C214 128 94 126 0 136 Z' fill='#E2C6AE'/><path d='M206 126 C200 96 210 78 224 78 C238 78 246 96 240 126 Z' fill='#CBB9A3'/><path d='M224 78 C216 58 200 54 192 62 C202 58 216 66 222 80' fill='#B0C39D'/><path d='M226 78 C236 58 252 56 258 66 C248 60 236 68 228 80' fill='#C3D1AD'/><path d='M225 78 C225 62 228 48 234 36' stroke='#A7B995' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M74 116 C68 98 78 90 94 90 C110 90 118 99 114 116 C111 128 102 134 94 134 C84 134 76 128 74 116 Z' fill='#FBF2E7'/><path d='M114 102 C126 100 130 110 120 116' stroke='#E7CDB6' stroke-width='3' fill='none'/><path d='M92 86 C86 76 98 72 92 60' stroke='#E7D2BE' stroke-width='2' fill='none' opacity='0.75' stroke-linecap='round'/><path d='M100 84 C106 74 96 68 102 58' stroke='#E7D2BE' stroke-width='2' fill='none' opacity='0.55' stroke-linecap='round'/></svg>"
+  }
+ ]
+}
