@@ -1,0 +1,82 @@
+{
+ "title": "Autism in women — the \"you have friends\" myth (Ellie, 36, teacher)",
+ "caption": "Myth: you can't be autistic if you have friends. Masking is why so many women get diagnosed at 36, not 6 (Hull, JADD 2017).\nSave this. Which myth next? 👇\nwww.aiforheratx.org\n#autisminwomen #latediagnosedautistic #maskingautism #autisticburnout #neurodivergentwomen #womensmentalhealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "she's 36 and 'too sensitive'",
+   "text": "\"You can't be autistic. You have *friends*.\"",
+   "suggest": "→ Ask your GP about *RAADS-R* (JADD 2011)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6dcdd'/><stop offset='.55' stop-color='#fdeee1'/><stop offset='1' stop-color='#f5e1cd'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#9c8b91'/><stop offset='1' stop-color='#6d5f67'/></linearGradient><radialGradient id='a3' cx='.64' cy='.34' r='.52'><stop offset='0' stop-color='#fff7e8' stop-opacity='.95'/><stop offset='1' stop-color='#fff7e8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><ellipse cx='205' cy='68' rx='125' ry='62' fill='url(#a3)'/><path d='M0 116 C58 99 108 108 158 99 C208 90 264 97 320 84 L320 124 C248 134 176 127 116 133 C68 138 28 135 0 139 Z' fill='#e5c8c1' opacity='.5'/><path d='M0 27 C92 9 232 12 320 32' fill='none' stroke='#cfb5b7' stroke-width='6' stroke-linecap='round' opacity='.45'/><path d='M0 149 C52 126 122 120 182 127 C242 134 286 146 320 139 L320 200 L0 200 Z' fill='url(#a2)'/><path d='M90 197 C84 159 118 140 153 144 C188 148 202 175 198 200' fill='none' stroke='#544a52' stroke-width='7' stroke-linecap='round' opacity='.92'/><path d='M236 152 C231 139 246 131 257 132 C270 133 278 141 276 153 C274 166 263 172 252 171 C241 170 237 162 236 152 Z' fill='#efb6a7'/><path d='M244 133 C247 124 264 124 268 133' fill='none' stroke='#d99787' stroke-width='3' stroke-linecap='round'/><path d='M118 176 C126 168 140 168 148 176' fill='none' stroke='#8d7f86' stroke-width='3' stroke-linecap='round' opacity='.7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "12:40 pm, staff parking lot",
+   "text": "Ellie, 36, teaches third grade. She eats lunch in her car because the staffroom is *loud*.",
+   "phrases": [
+    "Ellie, 36, teaches third grade.",
+    "She eats lunch in her car.",
+    "Engine off, because the staffroom *roars*.",
+    "She's called that 'being difficult' for years."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='b1' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fdeee1'/><stop offset='.6' stop-color='#f4ddd8'/><stop offset='1' stop-color='#e8cfc9'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#a99299'/><stop offset='1' stop-color='#7a6a72'/></linearGradient><radialGradient id='b3' cx='.18' cy='.22' r='.6'><stop offset='0' stop-color='#fff8ea' stop-opacity='.9'/><stop offset='1' stop-color='#fff8ea' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><ellipse cx='58' cy='44' rx='130' ry='95' fill='url(#b3)'/><path d='M0 92 C64 74 128 88 190 78 C246 69 288 78 320 70 L320 200 L0 200 Z' fill='url(#b2)' opacity='.9'/><path d='M0 118 C70 104 130 124 196 114 C248 106 290 114 320 108' fill='none' stroke='#8d7a82' stroke-width='4' stroke-linecap='round' opacity='.55'/><path d='M22 168 C40 140 96 136 124 158 C150 178 132 200 100 200 C64 200 12 190 22 168 Z' fill='#f0b8a8'/><path d='M40 158 C58 146 96 146 112 158' fill='none' stroke='#d89584' stroke-width='3' stroke-linecap='round'/><path d='M168 200 C164 174 180 158 200 158 C220 158 234 174 232 200 Z' fill='#f7e3cf'/><path d='M200 158 C198 146 204 138 212 136' fill='none' stroke='#cbb0a4' stroke-width='4' stroke-linecap='round'/><path d='M258 186 C256 172 268 164 280 166 C292 168 296 180 292 190 C288 199 262 198 258 186 Z' fill='#6f616a' opacity='.85'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "things she's been told",
+   "text": "People kept explaining her to her. Nobody said the word *masking*.",
+   "phrases": [
+    "\"Everyone's a little autistic.\"",
+    "\"But you're so good with kids.\"",
+    "\"You're just an introvert, Ellie.\"",
+    "\"I rehearse *hello* in the parking lot first.\""
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e9d3cf'/><stop offset='.5' stop-color='#f3ddd6'/><stop offset='1' stop-color='#dcc4c4'/></linearGradient><radialGradient id='c2' cx='.5' cy='.56' r='.34'><stop offset='0' stop-color='#fffbee' stop-opacity='.98'/><stop offset='.6' stop-color='#fdeed4' stop-opacity='.5'/><stop offset='1' stop-color='#fdeed4' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fff9ec'/><stop offset='1' stop-color='#f3ddc4'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 128 C58 108 118 132 178 120 C236 108 284 124 320 112 L320 200 L0 200 Z' fill='#b39aa0' opacity='.75'/><path d='M0 158 C70 142 128 164 196 152 C250 143 292 152 320 146' fill='none' stroke='#9d858c' stroke-width='5' stroke-linecap='round' opacity='.5'/><ellipse cx='160' cy='112' rx='104' ry='72' fill='url(#c2)'/><path d='M130 148 C126 122 132 100 142 96 C154 91 176 92 186 98 C195 103 198 126 194 150 C190 168 136 168 130 148 Z' fill='url(#c3)' stroke='#e3caae' stroke-width='2'/><path d='M142 110 C154 106 172 106 182 110' fill='none' stroke='#e0c3a6' stroke-width='3' stroke-linecap='round' opacity='.8'/><path d='M142 124 C152 121 168 121 176 124' fill='none' stroke='#e8cfb2' stroke-width='3' stroke-linecap='round' opacity='.7'/><path d='M60 196 C66 178 92 174 106 184' fill='none' stroke='#9c858c' stroke-width='4' stroke-linecap='round' opacity='.6'/><path d='M226 190 C238 176 262 176 274 186' fill='none' stroke='#9c858c' stroke-width='4' stroke-linecap='round' opacity='.5'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "why she was missed",
+   "text": "Boys get diagnosed about *4×* as often as girls (CDC, 2023). Masking is a big reason (Hull, JADD 2017).",
+   "number": "4×",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f7dfd8'/><stop offset='.45' stop-color='#fdeddc'/><stop offset='1' stop-color='#f6e6cf'/></linearGradient><radialGradient id='d2' cx='.32' cy='.3' r='.5'><stop offset='0' stop-color='#fff6d9' stop-opacity='.95'/><stop offset='1' stop-color='#fff6d9' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e7cdc4'/><stop offset='1' stop-color='#dcbfb8'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='104' cy='58' rx='126' ry='84' fill='url(#d2)'/><path d='M0 132 C62 112 126 130 190 118 C246 108 288 120 320 110 L320 200 L0 200 Z' fill='url(#d3)'/><path d='M0 160 C74 144 138 166 208 154 C260 145 296 152 320 148 L320 200 L0 200 Z' fill='#e0c3b6' opacity='.85'/><path d='M232 156 C228 130 234 108 240 92 C244 80 248 78 250 92 C253 112 252 136 248 158 Z' fill='#a98d7e' opacity='.8'/><path d='M240 104 C226 96 214 84 212 72 C224 74 236 84 242 96' fill='#c9b08e' opacity='.9'/><path d='M248 100 C262 90 274 78 280 66 C268 66 254 76 246 90' fill='#d6bd97' opacity='.9'/><path d='M0 184 C80 172 150 190 226 180 C272 174 300 178 320 176' fill='none' stroke='#cdae9f' stroke-width='4' stroke-linecap='round' opacity='.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, at the kitchen table",
+   "text": "Tonight she filled the free *RAADS-R* and screenshotted the score for her GP.",
+   "phrases": [
+    "Fill the free *RAADS-R* tonight (Ritvo, JADD 2011).",
+    "Screenshot the score, ask your GP for an adult assessment.",
+    "Then drop one demand tomorrow, on purpose.",
+    "And walk 20 minutes most days: that's WHO's 150 min/week."
+   ],
+   "attribution": "— Raymaker et al., Autism in Adulthood (2020)",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf0dd'/><stop offset='.5' stop-color='#f9e4d2'/><stop offset='1' stop-color='#f1d9c6'/></linearGradient><radialGradient id='e2' cx='.74' cy='.24' r='.5'><stop offset='0' stop-color='#fff4d2' stop-opacity='.95'/><stop offset='1' stop-color='#fff4d2' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e3c7b4'/><stop offset='1' stop-color='#cfae9c'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='236' cy='48' rx='118' ry='80' fill='url(#e2)'/><path d='M0 138 C64 124 132 142 196 132 C250 124 290 132 320 126 L320 200 L0 200 Z' fill='url(#e3)'/><path d='M96 132 C92 116 106 106 122 106 C140 106 152 116 150 132 C148 148 136 156 122 156 C106 156 98 148 96 132 Z' fill='#fffaf0' stroke='#e6cdb6' stroke-width='2'/><path d='M150 116 C164 114 168 126 156 132' fill='none' stroke='#e6cdb6' stroke-width='4' stroke-linecap='round'/><path d='M112 100 C108 88 118 80 116 70' fill='none' stroke='#e8d6c2' stroke-width='4' stroke-linecap='round' opacity='.85'/><path d='M128 98 C124 88 132 82 130 74' fill='none' stroke='#e8d6c2' stroke-width='3' stroke-linecap='round' opacity='.7'/><path d='M182 156 C180 142 196 136 216 138 C236 140 246 148 244 158 C242 168 186 170 182 156 Z' fill='#f4e2c9' stroke='#e0c6ad' stroke-width='2'/><path d='M196 148 C206 145 224 145 234 148' fill='none' stroke='#dcbf9f' stroke-width='3' stroke-linecap='round'/><path d='M52 136 C46 116 50 96 58 84 C62 96 62 118 58 138 Z' fill='#a8b394'/><path d='M56 106 C42 100 32 88 30 76 C42 78 54 88 58 100' fill='#8fa07d' opacity='.9'/><path d='M60 104 C74 96 84 84 88 72 C76 74 62 84 56 98' fill='#9fae86' opacity='.9'/><path d='M40 140 C40 150 74 150 74 140 Z' fill='#d9b49c'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "found at 36, not 6",
+   "text": "She wasn't difficult. She was *masking*. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf1e0'/><stop offset='.55' stop-color='#fbe6d2'/><stop offset='1' stop-color='#f4dcc8'/></linearGradient><radialGradient id='f2' cx='.5' cy='.36' r='.46'><stop offset='0' stop-color='#fff6d6' stop-opacity='.98'/><stop offset='1' stop-color='#fff6d6' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f9d9c0'/><stop offset='1' stop-color='#f7e6cd'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M96 30 C96 16 224 16 224 30 C226 92 224 128 222 146 C180 152 140 152 98 146 C96 128 94 92 96 30 Z' fill='url(#f3)' stroke='#e7cdb2' stroke-width='3'/><ellipse cx='160' cy='84' rx='84' ry='62' fill='url(#f2)'/><path d='M100 116 C132 104 190 104 220 116' fill='none' stroke='#f0cfae' stroke-width='4' stroke-linecap='round' opacity='.8'/><path d='M84 22 C78 70 82 122 90 160 C102 158 108 148 106 132 C102 96 100 56 102 24 Z' fill='#f3ddd6' opacity='.9'/><path d='M236 22 C242 70 238 122 230 160 C218 158 212 148 214 132 C218 96 220 56 218 24 Z' fill='#f3ddd6' opacity='.85'/><path d='M0 158 C70 148 140 162 210 154 C262 148 296 154 320 150 L320 200 L0 200 Z' fill='#e2c6b3'/><path d='M148 152 C142 134 146 116 152 106 C157 118 157 136 154 154 Z' fill='#a8b394'/><path d='M152 126 C138 120 128 110 126 98 C138 100 150 108 154 120' fill='#8fa07d' opacity='.9'/><path d='M156 122 C170 114 178 104 182 92 C170 94 158 104 152 116' fill='#9fae86' opacity='.9'/><path d='M136 156 C136 166 170 166 170 156 Z' fill='#d9b49c'/><path d='M198 148 C196 138 210 132 224 134 C236 136 240 146 236 154 C230 162 202 160 198 148 Z' fill='#fffaf0' stroke='#e6cdb6' stroke-width='2'/><path d='M212 130 C208 120 216 114 214 106' fill='none' stroke='#eddcc8' stroke-width='3' stroke-linecap='round' opacity='.8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  }
+ ]
+}
