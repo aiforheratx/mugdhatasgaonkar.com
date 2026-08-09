@@ -1,0 +1,92 @@
+{
+ "title": "Mentored to death — the sponsorship flip (Priya, 34)",
+ "caption": "Myth: what she needs is another mentor. Women report more mentors than men, and fewer promotions (HBR, 2010). Sponsors say your name in rooms you're not in.\nSend this to the woman you'd name.\nwww.aiforheratx.org\n#sponsorship #womenatwork #brokenrung #womensupportingwomen #careergrowth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "4 mentors. 0 promotions.",
+   "text": "Everyone wants to *mentor* me. Nobody puts my name in the room.",
+   "suggest": "→ Ask: ‘Will you *name* me for it?’ (HBR 2010)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4D9C4'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='a2' cx='.3' cy='.26' r='.6'><stop offset='0' stop-color='#F5C88C' stop-opacity='.6'/><stop offset='1' stop-color='#F5C88C' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EBCBB2'/><stop offset='1' stop-color='#D8AF8C'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M26 16c28-8 66-9 92-1 5 33 4 72-1 102-30 7-60 6-91-1-5-32-5-69 0-100z' fill='#FBEFE0' opacity='.95'/><path d='M118 16c9 35 9 74 2 105 11 3 22 2 32-3 6-33 5-70-2-102-10-4-21-4-32 0z' fill='#F2D6BE' opacity='.6'/><rect width='320' height='200' fill='url(#a2)'/><path d='M0 136c60-11 122-15 190-12 50 3 92 7 130 13v63H0z' fill='url(#a3)'/><path d='M124 110c2-9 6-12 18-13 13-1 22 2 23 12 1 10-2 21-5 25-5 5-25 6-30 0-4-5-7-15-6-24z' fill='#F7DDE0'/><path d='M166 114c10-3 16 3 15 10-1 7-8 10-15 8' fill='none' stroke='#E4B9BC' stroke-width='4' stroke-linecap='round'/><path d='M134 96c-4-7 3-11 0-18M146 94c-5-8 3-12 0-19M157 97c-4-6 3-10 1-16' fill='none' stroke='#D9BFA8' stroke-width='3' stroke-linecap='round' opacity='.65'/><path d='M244 136c-3-12 1-22 9-30 3 9 2 20-3 30zM252 136c7-9 17-13 27-12-4 8-13 13-22 14z' fill='#B4C4AA'/><path d='M238 136c6-2 18-2 24 0 2 12 0 20-4 24-6 3-12 3-16 0-4-5-6-13-4-24z' fill='#E0B79A'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Tuesday, 6:40 a.m.",
+   "text": "Priya is 34, a data lead, and her fourth mentor just told her she is doing great.",
+   "phrases": [
+    "Priya, 34. Data lead.",
+    "Four mentors in three years.",
+    "Zero promotions. Cold chai, again.",
+    "She started thinking the problem was her."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F2D6C2'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='b2' cx='.74' cy='.24' r='.55'><stop offset='0' stop-color='#F5C88C' stop-opacity='.55'/><stop offset='1' stop-color='#F5C88C' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E8C5AA'/><stop offset='1' stop-color='#D6AC88'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M204 18c28-8 62-8 92 2 5 31 5 66 0 96-31 7-64 7-93 0-5-32-4-66 1-98z' fill='#FBEFE0' opacity='.92'/><rect width='320' height='200' fill='url(#b2)'/><path d='M0 130c64-13 132-17 202-13 44 3 82 8 118 15v68H0z' fill='url(#b3)'/><path d='M96 94c25-4 51-4 76 0 4 13 5 25 3 33-27 4-55 4-83 0 0-10 1-21 4-33z' fill='#F7DDE0'/><path d='M88 129c34-5 72-5 108 0 3 5 1 9-6 10-32 3-66 3-97 0-6-1-8-5-5-10z' fill='#E4B9BC'/><path d='M24 122c14-3 30-3 44 0 2 4 2 7 0 9-15 3-30 3-44 0-2-3-2-6 0-9z' fill='#B4C4AA'/><path d='M28 113c13-3 27-3 39 0 2 4 2 6 0 8-13 3-27 3-39 0-2-2-2-5 0-8z' fill='#EBCBB2'/><path d='M262 128c-4-13 0-24 9-32 3 10 2 22-3 32zM270 128c8-10 19-14 29-13-4 9-14 14-24 15z' fill='#B4C4AA'/><path d='M256 128c6-2 19-2 25 0 2 13 0 21-4 25-6 3-13 3-17 0-4-5-6-13-4-25z' fill='#E0B79A'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "her inbox, again",
+   "text": "The advice kept arriving. The promotion never did.",
+   "phrases": [
+    "You're doing amazing, keep going!",
+    "Let's grab coffee again next month.",
+    "I'll think of you when something opens.",
+    "I don't need coffee. I need my name in that meeting."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAD3C6'/><stop offset='1' stop-color='#FBF1E8'/></linearGradient><radialGradient id='c2' cx='.44' cy='.62' r='.42'><stop offset='0' stop-color='#F7DDE0' stop-opacity='.85'/><stop offset='1' stop-color='#F7DDE0' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E3C0A5'/><stop offset='1' stop-color='#CDA382'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M18 12c34-7 74-8 108-1 6 30 6 62 1 90-34 7-72 7-108 0-6-30-6-60-1-89z' fill='#F6E4D6' opacity='.75'/><path d='M0 128c66-12 136-16 206-12 44 3 80 8 114 14v70H0z' fill='url(#c3)'/><rect width='320' height='200' fill='url(#c2)'/><path d='M132 108c1-8 6-11 15-11 13-1 26 0 33 2 5 2 7 6 7 13 0 14-1 26-4 32-3 5-9 7-19 7-11 0-20-1-25-4-5-3-7-13-7-39z' fill='#FBF1E8'/><path d='M139 118c14-3 29-3 42 0 2 3 2 5 0 7-14 3-28 3-42 0-2-2-2-4 0-7zM139 134c11-2 23-2 33 0 2 3 2 5 0 7-11 2-22 2-33 0-2-2-2-5 0-7z' fill='#E4B9BC' opacity='.8'/><path d='M204 122c-4-6 2-10 0-16M214 120c-4-7 2-11 0-16' fill='none' stroke='#D9BFA8' stroke-width='3' stroke-linecap='round' opacity='.5'/><path d='M226 122c2-8 5-11 16-12 12-1 20 2 21 11 1 9-2 19-5 23-5 5-23 5-27 0-4-5-6-14-5-22z' fill='#E9CDBA'/><path d='M264 126c9-3 14 2 13 9-1 6-7 8-13 7' fill='none' stroke='#D8B49C' stroke-width='4' stroke-linecap='round'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the room she wasn't in",
+   "text": "A mentor talks to you. A sponsor talks about you when you're not there.",
+   "attribution": "— Sylvia Ann Hewlett, (Forget a Mentor) Find a Sponsor",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFD8C6'/><stop offset='1' stop-color='#FCF3E9'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FBE3B8'/><stop offset='1' stop-color='#F7DDE0' stop-opacity='.2'/></linearGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E6C3A8'/><stop offset='1' stop-color='#D2A889'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M110 24c30-6 60-6 88 0 6 42 6 92 1 138-30 5-60 5-90 0-5-46-5-96 1-138z' fill='#EFDCCB' opacity='.9'/><path d='M126 34c22-5 44-5 64 0 5 38 5 82 1 122-22 4-44 4-66 0-4-40-4-84 1-122z' fill='#F8ECDD'/><path d='M188 36c-4 40-4 84 0 120 26 16 62 26 96 30-6-56-6-116 0-172-34 4-70 12-96 22z' fill='url(#d2)' opacity='.85'/><path d='M0 156c56-8 112-11 168-9v53H0z' fill='url(#d3)'/><path d='M182 96c5-2 9 1 9 5s-4 6-9 5c-3-3-3-8 0-10z' fill='#D8B49C'/><path d='M40 156c-4-13 0-25 9-33 3 10 2 23-3 33zM49 156c9-10 20-15 31-14-5 10-15 15-26 16z' fill='#B4C4AA'/><path d='M33 156c7-2 21-2 27 0 2 14 0 22-4 26-7 3-14 3-19 0-4-5-6-13-4-26z' fill='#E0B79A'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "Women in the Workplace",
+   "number": "1st rung",
+   "text": "The gap opens at the first promotion to manager. LeanIn and McKinsey call it the broken rung.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6DCC0'/><stop offset='1' stop-color='#FDF5EC'/></linearGradient><radialGradient id='e2' cx='.6' cy='.22' r='.5'><stop offset='0' stop-color='#F8CE95' stop-opacity='.7'/><stop offset='1' stop-color='#F8CE95' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9C6AB'/><stop offset='1' stop-color='#D3A землю'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><rect width='320' height='200' fill='url(#e2)'/><path d='M0 150c48-10 98-14 150-12 56 2 108 8 170 18v44H0z' fill='#E6C3A8'/><path d='M36 148c26-5 52-6 78-3 3 6 3 11 0 15-26 3-52 2-78-2-3-4-3-7 0-10z' fill='#EBCBB2'/><path d='M76 120c26-5 52-6 78-3 3 6 3 11 0 15-26 3-52 2-78-2-3-4-3-7 0-10z' fill='#E4B9BC'/><path d='M156 64c26-5 52-6 78-3 3 6 3 11 0 15-26 3-52 2-78-2-3-4-3-7 0-10z' fill='#B4C4AA'/><path d='M196 36c26-5 52-6 78-3 3 6 3 11 0 15-26 3-52 2-78-2-3-4-3-7 0-10z' fill='#D8B49C' opacity='.8'/><path d='M118 92c26-5 50-6 76-3' fill='none' stroke='#D9A7A7' stroke-width='4' stroke-linecap='round' stroke-dasharray='11 13' opacity='.9'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, before you close",
+   "text": "Send one three-line note upward, then say one woman's name in a room she isn't in.",
+   "phrases": [
+    "Name the exact role you want.",
+    "Add one result with a number in it.",
+    "Ask: ‘Would you name me for it?’",
+    "Then say her name where it counts."
+   ],
+   "attribution": "— Sylvia Ann Hewlett, (Forget a Mentor) Find a Sponsor (2013)",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE4C8'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='f2' cx='.3' cy='.2' r='.55'><stop offset='0' stop-color='#FBD79A' stop-opacity='.85'/><stop offset='1' stop-color='#FBD79A' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EBC9AE'/><stop offset='1' stop-color='#D9B08C'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><rect width='320' height='200' fill='url(#f2)'/><path d='M0 140c62-12 128-16 198-12 46 3 86 8 122 15v57H0z' fill='url(#f3)'/><path d='M62 60c8-14 26-14 34 0 6 10 8 20 6 27-16 5-32 5-46 0-2-7 0-17 6-27z' fill='#FBE7C4'/><path d='M70 96c8-3 16-3 24 0 2 4 0 7-4 8h-16c-4-1-6-4-4-8z' fill='#D8B49C'/><path d='M118 126c30-6 62-7 92-2 4 9 4 17 1 22-31 5-63 5-94 0-3-6-2-13 1-20z' fill='#FDF6EE'/><path d='M128 136c22-4 46-4 68-1M128 146c16-3 34-3 50-1' fill='none' stroke='#E4B9BC' stroke-width='4' stroke-linecap='round'/><path d='M214 118c10-6 18-10 26-11 3 4 2 8-3 12-6 5-14 8-23 9-2-4-1-7 0-10z' fill='#B4C4AA'/><path d='M248 140c-4-13 0-25 9-33 3 10 2 23-3 33zM257 140c9-10 20-15 31-14-5 10-15 15-26 16z' fill='#B4C4AA'/><path d='M241 140c7-2 21-2 27 0 2 14 0 22-4 26-7 3-14 3-19 0-4-5-6-13-4-26z' fill='#E0B79A'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "one name, out loud",
+   "text": "Nobody said her name, so she started saying other women's. Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='g1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBD9B4'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='g2' cx='.36' cy='.26' r='.6'><stop offset='0' stop-color='#FCCE8C' stop-opacity='.9'/><stop offset='1' stop-color='#FCCE8C' stop-opacity='0'/></radialGradient><linearGradient id='g3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDCBB0'/><stop offset='1' stop-color='#DAB18E'/></linearGradient></defs><rect width='320' height='200' fill='url(#g1)'/><path d='M24 14c34-8 78-9 112-1 6 34 5 74 0 106-36 7-78 7-113-1-5-33-5-71 1-104z' fill='#FDEFDC' opacity='.95'/><rect width='320' height='200' fill='url(#g2)'/><path d='M20 118c40-6 82-7 122-2 3 6 3 11 0 15-41 5-83 4-123-2-3-4-3-8 1-11z' fill='#E9CDBA'/><path d='M0 146c62-11 128-15 198-11 46 2 86 7 122 13v52H0z' fill='url(#g3)'/><path d='M40 92c2-8 6-11 16-12 12-1 21 2 22 11 1 9-2 18-5 22-5 5-23 5-27 0-4-5-7-13-6-21z' fill='#F7DDE0'/><path d='M78 96c9-3 15 2 14 9-1 6-7 8-13 7' fill='none' stroke='#E4B9BC' stroke-width='4' stroke-linecap='round'/><path d='M92 90c2-8 6-11 17-12 12-1 20 2 21 11 1 9-2 18-5 22-5 5-23 5-27 0-4-5-7-13-6-21z' fill='#EBCBB2'/><path d='M52 74c-4-7 3-11 0-17M104 72c-4-7 3-11 1-17' fill='none' stroke='#D9BFA8' stroke-width='3' stroke-linecap='round' opacity='.6'/><path d='M244 146c-4-13 0-25 9-33 3 10 2 23-3 33zM253 146c9-10 20-15 31-14-5 10-15 15-26 16z' fill='#B4C4AA'/><path d='M237 146c7-2 21-2 27 0 2 14 0 22-4 26-7 3-14 3-19 0-4-5-6-13-4-26z' fill='#E0B79A'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  }
+ ]
+}
