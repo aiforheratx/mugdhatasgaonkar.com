@@ -1,0 +1,80 @@
+{
+ "title": "Assumptions vs reality — chest pain is women's most common heart attack symptom (VIRGO)",
+ "caption": "87% of women having a heart attack DO have chest pain (VIRGO, Circulation 2018). Still the #1 killer of US women (CDC).\nSay it out loud: \"I'm worried about my heart.\"\nSend this to your mum. What did you assume?\nwww.aiforheratx.org\n#womenshealth #hearthealth #heartdisease #womenover40 #gored",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "6:10am. third day of it.",
+   "text": "Chest pressure at 6am, and I called it *heartburn* for three days.",
+   "suggest": "→ Ask for an *ECG* + troponin (VIRGO 2018)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s1sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#CBB8CE'/><stop offset='0.6' stop-color='#EBD4D2'/><stop offset='1' stop-color='#F6DCE0'/></linearGradient><linearGradient id='s1wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4E9DA'/><stop offset='1' stop-color='#EADCC8'/></linearGradient><linearGradient id='s1cup' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E3A0A6'/><stop offset='1' stop-color='#C9848E'/></linearGradient><radialGradient id='s1glow' cx='0.5' cy='0.45' r='0.6'><stop offset='0' stop-color='#FBEFE0' stop-opacity='0.85'/><stop offset='1' stop-color='#FBEFE0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s1wall)'/><path d='M56 22 C58 14 76 12 108 12 C168 12 232 13 252 18 C262 21 264 40 263 74 C262 108 260 122 250 126 C220 133 96 133 62 127 C52 125 52 92 54 60 Z' fill='url(#s1sky)'/><path d='M60 96 C104 78 150 92 196 82 C224 76 246 84 261 78 C262 100 260 120 250 125 C218 133 96 133 62 127 C54 125 53 112 60 96 Z' fill='#C8B4CB' opacity='0.45'/><ellipse cx='210' cy='48' rx='16' ry='14' fill='#FAEBD9' opacity='0.7'/><path d='M0 138 C70 128 140 133 214 129 C262 126 296 131 320 128 L320 200 L0 200 Z' fill='#E7D6BE'/><path d='M0 138 C70 128 140 133 214 129 C262 126 296 131 320 128 C300 140 210 146 150 145 C86 144 30 146 0 150 Z' fill='#F1E3CE'/><path d='M132 118 C130 104 138 98 152 97 C167 96 176 102 175 117 C174 132 168 140 154 141 C140 142 134 133 132 118 Z' fill='url(#s1cup)'/><path d='M175 106 C186 103 192 110 189 118 C186 126 179 127 174 124' fill='none' stroke='#C9848E' stroke-width='4' stroke-linecap='round'/><path d='M147 92 C142 84 152 80 148 71 C145 64 152 60 150 54' fill='none' stroke='#F7EADC' stroke-width='3' stroke-linecap='round' opacity='0.75'/><path d='M162 90 C158 83 166 78 163 70' fill='none' stroke='#F7EADC' stroke-width='3' stroke-linecap='round' opacity='0.55'/><path d='M258 140 C252 124 258 110 266 100 C272 110 274 126 268 140 Z' fill='#9FB292' opacity='0.9'/><path d='M266 140 C276 128 288 124 296 126 C290 136 278 142 268 142 Z' fill='#A8B79A'/><path d='M264 141 C262 132 254 126 244 126 C248 136 254 141 262 143 Z' fill='#8FA382'/><ellipse cx='170' cy='60' rx='120' ry='70' fill='url(#s1glow)'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "what everyone told her",
+   "text": "Everyone had a tidy explanation for it, and none of them were her heart.",
+   "phrases": [
+    "Probably reflux. Take a Pepcid.",
+    "You're 47 and stressed, that's all.",
+    "It feels like something heavy is sitting on my chest."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s2room' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#D6C2CE'/><stop offset='1' stop-color='#F1E1D4'/></linearGradient><linearGradient id='s2sheet' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F6E7D8'/><stop offset='1' stop-color='#E5D2C4'/></linearGradient><radialGradient id='s2phone' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FBF0DC' stop-opacity='0.95'/><stop offset='1' stop-color='#FBF0DC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s2room)'/><path d='M0 74 C60 62 120 70 178 62 C232 55 288 62 320 56 L320 200 L0 200 Z' fill='url(#s2sheet)'/><path d='M0 108 C48 96 96 116 142 106 C190 96 236 116 284 104 C300 100 312 104 320 100 L320 200 L0 200 Z' fill='#EBD8C6'/><path d='M22 152 C64 132 108 156 148 142 C192 127 240 152 286 138 C300 134 312 138 320 134 L320 200 L0 200 Z' fill='#E1CDBA' opacity='0.85'/><ellipse cx='176' cy='120' rx='72' ry='44' fill='url(#s2phone)'/><path d='M156 100 C155 96 160 94 172 94 C186 94 194 96 194 101 C194 112 192 128 189 133 C186 138 162 139 158 134 C155 129 156 110 156 100 Z' fill='#F8EEDD' opacity='0.95'/><path d='M160 102 C168 100 184 100 190 102 C190 110 189 124 187 129 C180 132 166 132 160 129 C158 122 159 110 160 102 Z' fill='#EBD6DA'/><path d='M60 138 C56 122 62 108 70 98 C77 110 78 126 71 139 Z' fill='#9FB292' opacity='0.85'/><path d='M70 139 C80 128 92 124 100 126 C94 136 82 142 72 142 Z' fill='#A8B79A' opacity='0.9'/><path d='M264 96 C262 84 268 76 278 74 C286 84 286 98 278 106 Z' fill='#C9A9B4' opacity='0.5'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "Circulation, 2018",
+   "number": "87%",
+   "text": "87% of women having a heart attack *did* have chest pain. Same as the men.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s3bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E6E4'/><stop offset='1' stop-color='#F6DCE0'/></linearGradient><radialGradient id='s3wash' cx='0.5' cy='0.5' r='0.55'><stop offset='0' stop-color='#E9A3AB' stop-opacity='0.55'/><stop offset='1' stop-color='#E9A3AB' stop-opacity='0'/></radialGradient><linearGradient id='s3line' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#C9848E'/><stop offset='1' stop-color='#A9707F'/></linearGradient></defs><rect width='320' height='200' fill='url(#s3bg)'/><path d='M0 46 C64 30 128 58 192 44 C248 32 292 52 320 40 L320 200 L0 200 Z' fill='#F3E3D6' opacity='0.7'/><ellipse cx='162' cy='104' rx='120' ry='78' fill='url(#s3wash)'/><path d='M118 82 C118 66 138 58 152 70 C166 57 188 66 188 84 C188 104 166 122 152 134 C138 122 118 103 118 82 Z' fill='#E3A0A6' opacity='0.55'/><path d='M10 108 C40 108 52 108 62 108 C70 108 74 88 80 88 C87 88 90 132 98 132 C106 132 110 74 118 74 C126 74 130 118 138 118 C146 118 149 100 156 100 C164 100 168 112 176 112 C210 112 250 110 310 110' fill='none' stroke='url(#s3line)' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/><path d='M0 162 C58 152 116 168 178 158 C238 148 288 162 320 154 L320 200 L0 200 Z' fill='#EBD6C0'/><path d='M34 158 C30 146 36 134 44 130 C50 140 50 152 44 160 Z' fill='#A8B79A' opacity='0.85'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "clinic waiting room, 8:40",
+   "text": "She almost cancelled. Instead she said one sentence out loud and got an *ECG* that morning.",
+   "phrases": [
+    "She had the cancellation text half typed.",
+    "Then she put the phone face down.",
+    "\"I'm worried about my *heart*.\"",
+    "They ran the ECG before she finished the form."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s4wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F5E7DA'/><stop offset='1' stop-color='#EFDFCC'/></linearGradient><linearGradient id='s4win' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E2D2'/><stop offset='1' stop-color='#F6DCE0'/></linearGradient><radialGradient id='s4sun' cx='0.62' cy='0.34' r='0.55'><stop offset='0' stop-color='#FBEBD3' stop-opacity='0.9'/><stop offset='1' stop-color='#FBEBD3' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s4wall)'/><path d='M154 20 C158 12 186 10 232 12 C268 13 282 17 284 24 C287 40 286 92 282 116 C280 128 262 132 226 133 C186 134 160 130 156 122 C152 108 151 44 154 20 Z' fill='url(#s4win)'/><path d='M158 92 C186 78 210 94 240 84 C262 77 276 86 283 80 C284 100 283 114 280 120 C266 130 178 132 158 122 C154 112 154 100 158 92 Z' fill='#E7C9C6' opacity='0.55'/><ellipse cx='236' cy='48' rx='18' ry='16' fill='#FCF0DC' opacity='0.85'/><path d='M0 128 C40 120 92 130 138 126 C186 121 250 130 320 124 L320 200 L0 200 Z' fill='#E9D8C0'/><path d='M28 128 C26 112 34 104 48 102 C64 100 76 108 76 124 C76 130 74 134 70 136 C56 140 34 140 30 136 Z' fill='#D3B9A6'/><path d='M30 136 C30 150 32 162 34 170' stroke='#C4A794' stroke-width='5' stroke-linecap='round' fill='none'/><path d='M72 136 C72 150 70 162 68 170' stroke='#C4A794' stroke-width='5' stroke-linecap='round' fill='none'/><path d='M100 124 C96 110 100 96 108 88 C116 98 118 114 112 126 Z' fill='#9FB292'/><path d='M112 126 C122 114 134 110 142 112 C136 122 124 128 114 128 Z' fill='#A8B79A'/><ellipse cx='210' cy='70' rx='120' ry='80' fill='url(#s4sun)'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, two small things",
+   "text": "Write your top three symptoms with the times they start, then book a 20-minute walk tomorrow.",
+   "phrases": [
+    "Note your top 3 symptoms and when they start.",
+    "At the appointment, say \"I'm worried about my *heart*.\"",
+    "Build toward 150 minutes of moderate walking a week (WHO)."
+   ],
+   "attribution": "— American Heart Association, Go Red for Women",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s5bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEEDC'/><stop offset='1' stop-color='#F4E0C8'/></linearGradient><linearGradient id='s5page' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF8EC'/><stop offset='1' stop-color='#F6E8D6'/></linearGradient><radialGradient id='s5warm' cx='0.4' cy='0.35' r='0.6'><stop offset='0' stop-color='#FFE9C6' stop-opacity='0.85'/><stop offset='1' stop-color='#FFE9C6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s5bg)'/><path d='M0 60 C70 48 140 66 208 56 C262 48 292 60 320 52 L320 200 L0 200 Z' fill='#F1DFC6' opacity='0.8'/><path d='M84 66 C86 58 110 55 152 56 C196 57 216 60 218 68 C221 84 220 128 216 142 C213 152 190 155 148 154 C108 153 88 149 86 141 C82 126 82 82 84 66 Z' fill='url(#s5page)'/><path d='M104 84 C126 80 176 80 198 84' stroke='#DCC6AE' stroke-width='4' stroke-linecap='round' fill='none'/><path d='M104 102 C124 98 168 98 190 102' stroke='#DCC6AE' stroke-width='4' stroke-linecap='round' fill='none'/><path d='M104 120 C122 116 158 116 178 120' stroke='#DCC6AE' stroke-width='4' stroke-linecap='round' fill='none'/><path d='M228 142 C242 128 254 106 258 84 C268 96 268 122 254 140 C246 150 236 152 228 148 Z' fill='#C9848E' opacity='0.35'/><path d='M226 76 C230 90 224 104 214 112 C208 100 210 84 220 74 Z' fill='#9FB292'/><path d='M56 140 C52 124 58 110 66 102 C74 112 76 128 68 142 Z' fill='#A8B79A'/><path d='M68 142 C78 130 92 126 100 128 C94 138 82 145 70 145 Z' fill='#8FA382' opacity='0.9'/><ellipse cx='140' cy='84' rx='130' ry='86' fill='url(#s5warm)'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "6:10am, one week later",
+   "text": "Next time your chest feels heavy, name it out loud. Follow @aiforheratx for more of this.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s6wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF1E1'/><stop offset='1' stop-color='#F3E3CD'/></linearGradient><linearGradient id='s6sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBD9C2'/><stop offset='0.6' stop-color='#F8E3D2'/><stop offset='1' stop-color='#F6DCE0'/></linearGradient><linearGradient id='s6cup' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#E8AAAF'/><stop offset='1' stop-color='#CE8B95'/></linearGradient><radialGradient id='s6sun' cx='0.66' cy='0.3' r='0.6'><stop offset='0' stop-color='#FFE8C0' stop-opacity='0.95'/><stop offset='1' stop-color='#FFE8C0' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s6wall)'/><path d='M54 20 C58 12 78 10 110 11 C170 12 234 13 252 18 C262 21 264 40 263 74 C262 108 260 122 250 126 C220 133 94 133 60 127 C50 125 50 90 54 20 Z' fill='url(#s6sky)'/><ellipse cx='214' cy='52' rx='20' ry='18' fill='#FFF3DC' opacity='0.95'/><path d='M58 100 C104 84 150 98 196 88 C224 82 246 90 262 84 C262 104 260 120 250 125 C218 133 94 133 60 127 C52 125 52 112 58 100 Z' fill='#EFCDBC' opacity='0.5'/><path d='M0 138 C70 128 140 133 214 129 C262 126 296 131 320 128 L320 200 L0 200 Z' fill='#E9D7BD'/><path d='M0 138 C70 128 140 133 214 129 C262 126 296 131 320 128 C300 140 210 146 150 145 C86 144 30 146 0 150 Z' fill='#F4E6D0'/><path d='M130 118 C128 104 136 98 150 97 C165 96 174 102 173 117 C172 132 166 140 152 141 C138 142 132 133 130 118 Z' fill='url(#s6cup)'/><path d='M173 106 C184 103 190 110 187 118 C184 126 177 127 172 124' fill='none' stroke='#CE8B95' stroke-width='4' stroke-linecap='round'/><path d='M145 92 C140 84 150 80 146 71 C143 64 150 60 148 53' fill='none' stroke='#FFF4E2' stroke-width='3' stroke-linecap='round' opacity='0.85'/><path d='M160 90 C156 83 164 78 161 69' fill='none' stroke='#FFF4E2' stroke-width='3' stroke-linecap='round' opacity='0.6'/><path d='M256 140 C250 124 256 108 264 98 C271 110 273 126 266 140 Z' fill='#9FB292'/><path d='M266 140 C276 128 288 124 296 126 C290 136 278 142 268 142 Z' fill='#A8B79A'/><ellipse cx='180' cy='70' rx='140' ry='90' fill='url(#s6sun)'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
