@@ -1,0 +1,82 @@
+{
+ "title": "Myth flip — the $39 at-home hormone test",
+ "caption": "Myth: one hormone test tells you you're in perimenopause. It can't — FSH swings week to week. Cycle-length change is what stages it (STRAW+10, 2012). Log the gaps, bring them in.\nWhich myth next? 👇\nwww.aiforheratx.org\n#perimenopause #menopause #womenshealth #cycletracking #midlifewomen",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "1:04 AM · FSH kit in cart",
+   "text": "\"One test will tell me if this is *perimenopause*.\" It won't — hormones swing weekly.",
+   "suggest": "→ Track cycle *gaps*, not FSH (STRAW+10, 2012)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e4d8d6'/><stop offset='1' stop-color='#f5ece5'/></linearGradient><radialGradient id='a2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#f8dfae' stop-opacity='.95'/><stop offset='1' stop-color='#f8dfae' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#d8c6c6'/><stop offset='1' stop-color='#bda7ad'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M28 12 C90 6 150 10 196 16 C200 66 198 100 194 124 C140 120 82 122 30 128 C24 92 24 48 28 12Z' fill='#cfc0c4' opacity='.55'/><circle cx='168' cy='44' r='13' fill='#f6e7c9' opacity='.9'/><path d='M0 128 C70 118 150 116 210 122 C260 126 300 132 320 136 L320 200 L0 200Z' fill='#efe2d8'/><path d='M0 140 C80 130 170 128 240 134 C280 137 306 142 320 146' fill='none' stroke='#dcc9c0' stroke-width='2.4' opacity='.8'/><ellipse cx='138' cy='150' rx='44' ry='17' fill='url(#a2)'/><path d='M120 154 C120 146 124 143 130 143 L150 145 C156 146 158 149 157 155 C156 161 152 163 146 162 L126 160 C121 159 120 158 120 154Z' fill='url(#a3)'/><path d='M124 152 C124 148 127 147 131 147 L148 149 C152 149 153 151 152 154 C151 157 149 158 145 157 L128 155 C125 155 124 154 124 152Z' fill='#fbeecb' opacity='.95'/><path d='M196 158 C194 148 199 143 208 143 L232 144 C240 145 243 149 242 158 C241 165 237 168 230 167 L206 165 C199 164 197 163 196 158Z' fill='#e9dcd2'/><path d='M200 150 C210 148 224 149 236 151' fill='none' stroke='#d3bfb6' stroke-width='2'/><path d='M62 148 C58 130 60 116 66 104' fill='none' stroke='#9fae96' stroke-width='2.6'/><path d='M66 118 C56 112 50 100 52 90 C62 92 68 102 66 118Z' fill='#a9bb9d' opacity='.9'/><path d='M64 128 C74 122 82 112 82 102 C71 104 64 114 64 128Z' fill='#b8c7a9' opacity='.85'/><path d='M52 150 C52 143 56 140 62 140 L74 140 C80 140 83 143 83 150 C83 158 80 161 74 161 L62 161 C56 161 52 158 52 150Z' fill='#e5d5cd'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 11:52 PM",
+   "text": "Priya is 46, works remote with two teens, and her period just skipped 40 days.",
+   "phrases": [
+    "\"Your labs came back normal.\"",
+    "\"Everyone's tired at 46.\"",
+    "\"My app says I'm *fine*.\"",
+    "Priya knew something had actually changed."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ded2d2'/><stop offset='1' stop-color='#f3eae4'/></linearGradient><radialGradient id='b2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#f6ddaa' stop-opacity='.9'/><stop offset='1' stop-color='#f6ddaa' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f6efe6'/><stop offset='1' stop-color='#e3d3cd'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M186 8 C230 4 268 6 300 12 C304 50 302 82 298 108 C262 102 224 102 190 106 C184 74 182 40 186 8Z' fill='#cbbcc2' opacity='.5'/><circle cx='262' cy='40' r='11' fill='#f5e6c8' opacity='.85'/><path d='M0 112 C60 100 130 96 196 102 C250 107 296 116 320 122 L320 200 L0 200Z' fill='#eadcd4'/><path d='M6 168 C10 136 34 122 74 121 C124 120 176 128 214 140 C248 151 262 166 258 186 C200 190 90 190 6 186 Z' fill='url(#b3)'/><path d='M14 166 C34 146 74 140 118 145 C158 149 196 160 220 172' fill='none' stroke='#d6c2ba' stroke-width='2.4'/><path d='M96 150 C104 128 130 120 156 128 C178 135 186 152 176 166 C154 158 122 152 96 150Z' fill='#f7f0e7' opacity='.9'/><ellipse cx='262' cy='150' rx='34' ry='20' fill='url(#b2)'/><path d='M246 144 C246 137 249 134 254 134 L272 136 C277 137 279 140 278 146 C277 152 274 154 269 153 L251 151 C247 150 246 149 246 144Z' fill='#b9a4ab'/><path d='M250 143 C250 140 252 139 256 139 L270 141 C273 141 274 143 273 145 C272 148 270 149 267 148 L253 146 C251 146 250 145 250 143Z' fill='#fbedc9'/><path d='M232 172 C232 165 236 162 242 162 L286 164 C293 165 296 168 295 176 C294 183 290 186 283 185 L239 183 C233 182 232 180 232 172Z' fill='#e2d3ca'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "what actually stages it",
+   "text": "Doctors stage perimenopause by *cycle change*, not bloodwork — the diagnosis is clinical (ACOG).",
+   "phrases": [
+    "A blood draw catches one morning.",
+    "Her hormones swing all month long.",
+    "So the pattern is the evidence:",
+    "A 7+ day gap between cycles counts (STRAW+10, 2012)."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f2e6da'/><stop offset='1' stop-color='#fbf3ea'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fdf7ee'/><stop offset='1' stop-color='#eadbcd'/></linearGradient><radialGradient id='c3' cx='.3' cy='.2' r='.7'><stop offset='0' stop-color='#fbe6bc' stop-opacity='.8'/><stop offset='1' stop-color='#fbe6bc' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><rect width='320' height='200' fill='url(#c3)'/><path d='M18 0 C36 40 34 86 24 128 C16 122 10 60 18 0Z' fill='#e6d4c6' opacity='.7'/><path d='M40 0 C58 42 56 90 46 132 C34 124 30 56 40 0Z' fill='#eddccf' opacity='.6'/><path d='M0 138 C80 128 180 126 250 132 C292 135 312 140 320 143 L320 200 L0 200Z' fill='#eddfd0'/><path d='M74 160 C70 138 84 128 110 127 C150 126 196 132 224 142 C242 148 246 160 238 172 C182 178 122 176 74 172Z' fill='url(#c2)'/><path d='M156 128 C158 148 158 162 156 176' fill='none' stroke='#dcc8b6' stroke-width='2'/><path d='M92 146 C110 142 132 142 146 145' fill='none' stroke='#cbb2a4' stroke-width='2.6'/><path d='M92 158 C108 155 128 155 142 158' fill='none' stroke='#cbb2a4' stroke-width='2.6' opacity='.75'/><path d='M172 148 C190 145 210 146 224 150' fill='none' stroke='#cbb2a4' stroke-width='2.6' opacity='.75'/><circle cx='118' cy='152' r='9' fill='none' stroke='#c98f7a' stroke-width='2.6'/><circle cx='198' cy='156' r='9' fill='none' stroke='#c98f7a' stroke-width='2.6'/><path d='M240 128 C252 116 250 100 240 92 C232 104 232 118 240 128Z' fill='#a9bb9d' opacity='.85'/><path d='M240 130 C240 146 242 156 244 166' fill='none' stroke='#9fae96' stroke-width='2.4'/><path d='M232 172 C232 166 235 163 240 163 L254 163 C259 163 262 166 262 172 C262 178 259 181 254 181 L240 181 C235 181 232 178 232 172Z' fill='#e6d6c8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "SWAN cohort · JAMA Intern Med 2015",
+   "text": "Hot flashes and night sweats run a median of *7.4 years*, so months of notes beat one morning's test.",
+   "number": "7.4 years",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f7e8d8'/><stop offset='1' stop-color='#fdf5ec'/></linearGradient><radialGradient id='d2' cx='.72' cy='.28' r='.55'><stop offset='0' stop-color='#f9dfae' stop-opacity='.9'/><stop offset='1' stop-color='#f9dfae' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e9d6c4'/><stop offset='1' stop-color='#dcc4b2'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><rect width='320' height='200' fill='url(#d2)'/><circle cx='232' cy='58' r='17' fill='#f7e3bd' opacity='.9'/><path d='M0 126 C56 108 118 106 172 116 C226 126 280 142 320 152 L320 200 L0 200Z' fill='url(#d3)' opacity='.9'/><path d='M0 150 C60 136 128 136 186 148 C242 159 292 174 320 182 L320 200 L0 200Z' fill='#e6d2c0'/><path d='M0 172 C70 160 150 162 214 174 C264 183 300 192 320 196 L320 200 L0 200Z' fill='#dcc6b4'/><path d='M20 196 C46 176 82 160 124 152 C168 144 208 148 240 160' fill='none' stroke='#c98f7a' stroke-width='2.6' stroke-dasharray='7 8' opacity='.9'/><path d='M64 148 C62 132 68 120 78 112 C86 122 86 138 76 150Z' fill='#a9bb9d' opacity='.8'/><path d='M100 138 C98 126 102 116 110 110 C116 118 116 130 108 140Z' fill='#b8c7a9' opacity='.7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, on her phone",
+   "text": "She starts a note called *cycle + 2 symptoms* and writes the first day of every period.",
+   "phrases": [
+    "Log day 1 of each period in your notes.",
+    "Add your two worst symptoms that week.",
+    "Ask about CBT for hot flashes — it's recommended.",
+    "And walk 30 minutes, five days a week (WHO)."
+   ],
+   "attribution": "— The Menopause Society, 2023 nonhormone statement",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe6d8'/><stop offset='1' stop-color='#fdf4ea'/></linearGradient><radialGradient id='e2' cx='.28' cy='.22' r='.6'><stop offset='0' stop-color='#fbdcb4' stop-opacity='.95'/><stop offset='1' stop-color='#fbdcb4' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fdf6ec'/><stop offset='1' stop-color='#f0dcd0'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><rect width='320' height='200' fill='url(#e2)'/><path d='M22 6 C74 2 122 6 158 12 C162 52 160 84 156 108 C112 102 68 104 26 110 C18 78 18 40 22 6Z' fill='#f7e2c8' opacity='.75'/><circle cx='58' cy='42' r='15' fill='#fbebc9'/><path d='M0 122 C66 110 148 108 214 116 C266 122 302 130 320 134 L320 200 L0 200Z' fill='#f1dfd2'/><path d='M92 158 C88 138 98 128 116 127 C136 126 150 134 152 152 C154 168 144 176 124 176 C104 176 94 172 92 158Z' fill='url(#e3)'/><path d='M150 140 C162 138 168 144 166 152 C164 160 156 162 150 158' fill='none' stroke='#e3cabc' stroke-width='3'/><path d='M108 122 C104 112 110 104 114 98 C120 106 118 116 112 124' fill='none' stroke='#e6c9b6' stroke-width='2.6' opacity='.9'/><path d='M126 120 C122 110 126 102 132 96 C137 106 134 116 130 122' fill='none' stroke='#e6c9b6' stroke-width='2.4' opacity='.7'/><path d='M200 176 C196 160 206 150 222 150 C238 150 248 158 246 172 C244 182 230 184 214 183 Z' fill='#e8d3c6'/><path d='M204 162 C214 156 232 156 242 162' fill='none' stroke='#d3b6a6' stroke-width='2.4'/><path d='M262 148 C258 130 262 116 272 106 C280 118 280 136 270 150Z' fill='#a9bb9d' opacity='.85'/><path d='M270 150 C270 162 272 172 274 180' fill='none' stroke='#9fae96' stroke-width='2.4'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "for the friend still googling",
+   "text": "Send this to whoever is Googling her symptoms at *1 AM*. Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe4d6'/><stop offset='1' stop-color='#fef6ee'/></linearGradient><radialGradient id='f2' cx='.5' cy='.3' r='.6'><stop offset='0' stop-color='#fce0b6' stop-opacity='.9'/><stop offset='1' stop-color='#fce0b6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><rect width='320' height='200' fill='url(#f2)'/><path d='M96 4 C150 0 200 4 234 10 C238 48 236 80 232 104 C190 98 146 100 100 106 C92 74 92 38 96 4Z' fill='#f9e6cd' opacity='.7'/><circle cx='166' cy='46' r='18' fill='#fdefd2'/><path d='M0 118 C70 106 154 104 222 112 C272 118 304 126 320 130 L320 200 L0 200Z' fill='#f2e0d3'/><path d='M148 150 C144 126 152 112 164 102 C176 114 178 134 168 152Z' fill='#a9bb9d' opacity='.9'/><path d='M166 152 C178 140 192 136 202 138 C196 150 182 156 168 156Z' fill='#bccdad' opacity='.85'/><path d='M164 154 C164 168 166 178 168 188' fill='none' stroke='#9fae96' stroke-width='2.6'/><path d='M146 186 C146 178 150 174 158 174 L176 174 C184 174 188 178 188 186 C188 192 184 195 176 195 L158 195 C150 195 146 192 146 186Z' fill='#ead6c8'/><path d='M52 158 C48 148 54 140 62 140 C70 140 74 148 70 158 C64 164 58 164 52 158Z' fill='#f7ded0' opacity='.8'/><path d='M256 146 C252 136 258 128 266 128 C274 128 278 136 274 146 C268 152 262 152 256 146Z' fill='#f7ded0' opacity='.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
