@@ -1,0 +1,79 @@
+{
+ "title": "Taboo list — the leak nobody names",
+ "caption": "Leaking when you sneeze is common. It's also treatable. Nearly 1 in 4 US women have a pelvic floor disorder (JAMA 2008), and pelvic floor PT works (Cochrane 2018). Ask for the referral. Send this to her.\nwww.aiforheratx.org\n#pelvicfloor #womenshealth #incontinence #pelvicfloorpt #tabootopics",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "3rd sneeze, pickup line",
+   "text": "Priya's 38. She sneezes at school pickup, leaks a little, and has told *nobody*.",
+   "suggest": "→ Ask for *pelvic floor PT* (Cochrane 2018)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6DBDA'/><stop offset='0.5' stop-color='#FAE8D8'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='a2' cx='0.74' cy='0.28' r='0.55'><stop offset='0' stop-color='#FFF1DA' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF1DA' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E6D2BE'/><stop offset='1' stop-color='#C9AE97'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><ellipse cx='236' cy='58' rx='96' ry='72' fill='url(#a2)'/><path d='M0 116 C46 104 84 121 126 113 C170 104 206 119 250 110 C282 103 304 111 320 107 L320 148 L0 148 Z' fill='#E9DAC6' opacity='0.7'/><path d='M0 132 C52 126 96 138 148 131 C198 124 250 136 320 128 L320 200 L0 200 Z' fill='#E0CBB4' opacity='0.65'/><path d='M-6 150 C60 138 120 156 190 146 C246 138 292 150 326 143 L326 200 L-6 200 Z' fill='url(#a3)'/><path d='M132 143 C140 128 176 126 186 141 C190 148 184 154 176 154 L142 154 C134 154 129 150 132 143 Z' fill='#B9967D' opacity='0.85'/><path d='M150 60 C154 52 162 52 165 60 L163 92 C163 97 152 97 152 92 Z' fill='#D9A0A0' opacity='0.8'/><path d='M140 92 C146 84 172 84 178 93 C182 99 175 105 166 105 L152 105 C143 105 137 99 140 92 Z' fill='#D98A8A' opacity='0.75'/><path d='M300 96 C306 78 316 70 320 68 L320 118 C310 116 298 110 300 96 Z' fill='#A9BFA8' opacity='0.55'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 10:40 pm",
+   "text": "Everyone told her it was normal after kids, so she quietly stopped running.",
+   "phrases": [
+    "\"Everyone leaks a bit after kids.\"",
+    "\"Just do your Kegels, babe.\"",
+    "\"I stopped running in March. Nobody knows that part.\""
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0.3' y2='1'><stop offset='0' stop-color='#F1DFE0'/><stop offset='0.6' stop-color='#F8EAE0'/><stop offset='1' stop-color='#FBF2E9'/></linearGradient><radialGradient id='b2' cx='0.3' cy='0.62' r='0.42'><stop offset='0' stop-color='#FFF6E2' stop-opacity='0.9'/><stop offset='1' stop-color='#FFF6E2' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE0CE'/><stop offset='1' stop-color='#DDC6B2'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><ellipse cx='96' cy='124' rx='104' ry='78' fill='url(#b2)'/><path d='M-8 112 C48 96 96 118 152 106 C214 92 268 112 328 100 L328 200 L-8 200 Z' fill='url(#b3)'/><path d='M-8 138 C60 128 118 148 182 138 C240 129 288 142 328 134 L328 200 L-8 200 Z' fill='#E7D3BC' opacity='0.8'/><path d='M56 148 C60 128 78 118 100 122 C122 126 130 142 126 156 C122 168 96 172 76 168 C62 165 54 158 56 148 Z' fill='#F6E9DA'/><path d='M84 118 C88 108 100 106 106 114 C110 120 104 126 96 126 C88 126 82 124 84 118 Z' fill='#FBF3E7' opacity='0.9'/><path d='M148 150 C146 136 156 130 166 132 C176 134 178 144 176 152 C174 160 152 162 148 150 Z' fill='#D9A0A0' opacity='0.6'/><path d='M236 158 C238 140 246 126 258 122 C256 140 254 152 250 160 Z' fill='#A9BFA8' opacity='0.6'/><path d='M250 160 C262 150 274 148 284 152 C274 162 262 166 252 164 Z' fill='#A9BFA8' opacity='0.5'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "JAMA, 2008 · NHANES",
+   "text": "Nearly 1 in 4 US women live with a pelvic floor disorder. Priya is not the odd one.",
+   "number": "1 in 4",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0.2' y2='1'><stop offset='0' stop-color='#FAEAE0'/><stop offset='0.55' stop-color='#FCF1E4'/><stop offset='1' stop-color='#FDF7EF'/></linearGradient><radialGradient id='c2' cx='0.5' cy='0.42' r='0.55'><stop offset='0' stop-color='#FFF6E4' stop-opacity='0.9'/><stop offset='1' stop-color='#FFF6E4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><ellipse cx='160' cy='90' rx='128' ry='84' fill='url(#c2)'/><path d='M-6 156 C56 146 116 164 180 154 C238 145 288 158 326 150 L326 200 L-6 200 Z' fill='#EADCC7' opacity='0.85'/><path d='M160 154 C158 128 156 108 158 88' stroke='#B4A48E' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M158 108 C142 100 124 100 112 108 C124 122 144 124 158 116 Z' fill='#E3CFB8'/><path d='M158 92 C142 84 126 82 114 90 C126 104 146 108 158 98 Z' fill='#E3CFB8' opacity='0.9'/><path d='M158 110 C174 100 194 100 206 110 C192 124 172 124 158 118 Z' fill='#E3CFB8'/><path d='M158 92 C174 82 192 80 204 88 C192 102 172 106 158 98 Z' fill='#D98A8A'/><path d='M158 74 C150 62 152 48 160 40 C170 48 170 64 160 76 Z' fill='#C97B63' opacity='0.85'/><path d='M40 160 C44 142 52 132 62 128 C60 144 56 154 52 162 Z' fill='#A9BFA8' opacity='0.5'/><path d='M272 162 C276 146 284 136 294 132 C292 148 288 158 284 164 Z' fill='#A9BFA8' opacity='0.45'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the four-minute referral",
+   "text": "A pelvic floor PT tests how those muscles actually work, then retrains them with you.",
+   "phrases": [
+    "Her GP wrote the referral in four minutes.",
+    "No surgery, no scans, just a physio and a plan.",
+    "In a 2018 Cochrane review, supervised training left far more women reporting a cure."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0.25' y2='1'><stop offset='0' stop-color='#FBEFE2'/><stop offset='0.6' stop-color='#FDF4EA'/><stop offset='1' stop-color='#FDF8F1'/></linearGradient><radialGradient id='d2' cx='0.26' cy='0.3' r='0.5'><stop offset='0' stop-color='#FFF7E1' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF7E1' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F2E4D3'/><stop offset='1' stop-color='#DFC9B1'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='86' cy='56' rx='96' ry='70' fill='url(#d2)'/><path d='M32 20 C30 12 40 8 56 8 L128 10 C140 12 142 20 140 30 L138 116 C136 126 126 128 112 127 L48 124 C36 122 32 116 33 106 Z' fill='#F7EDDE' opacity='0.9'/><path d='M36 118 C58 104 84 108 104 96 C118 88 130 90 138 86 L138 116 C136 126 126 128 112 127 L48 124 C36 122 32 116 36 118 Z' fill='#DCE7DA' opacity='0.8'/><path d='M-6 140 C60 130 122 148 190 138 C248 130 292 142 326 134 L326 200 L-6 200 Z' fill='url(#d3)'/><path d='M176 138 C172 124 186 118 202 120 L246 126 C258 129 258 138 252 144 C238 152 190 152 176 138 Z' fill='#FBF3E7'/><path d='M186 130 C202 126 226 128 240 133' stroke='#D9C3AB' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M268 136 C266 116 272 100 282 92 C280 112 278 126 276 138 Z' fill='#A9BFA8' opacity='0.75'/><path d='M276 138 C288 126 302 124 312 128 C302 140 288 144 278 142 Z' fill='#A9BFA8' opacity='0.6'/><path d='M264 140 C262 148 268 152 278 152 C290 152 296 148 294 140 Z' fill='#C97B63' opacity='0.7'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Eight slow lifts, three times a day, for three months. That is the protocol ACOG describes.",
+   "phrases": [
+    "Tonight: 8 slow lifts, hold each about 5 seconds.",
+    "Three sets a day, and give it a full 3 months.",
+    "Then walk — WHO asks for 150 minutes a week, split however your life allows."
+   ],
+   "attribution": "— ACOG, pelvic floor muscle training guidance",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0.2' y2='1'><stop offset='0' stop-color='#FCEDDD'/><stop offset='0.5' stop-color='#FDF4E8'/><stop offset='1' stop-color='#FEF9F2'/></linearGradient><radialGradient id='e2' cx='0.68' cy='0.32' r='0.55'><stop offset='0' stop-color='#FFEFD0' stop-opacity='0.95'/><stop offset='1' stop-color='#FFEFD0' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F0E1CD'/><stop offset='1' stop-color='#DCC4A9'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><ellipse cx='216' cy='62' rx='106' ry='76' fill='url(#e2)'/><path d='M-6 132 C56 122 118 140 186 130 C244 122 292 134 326 126 L326 200 L-6 200 Z' fill='url(#e3)'/><path d='M78 128 C72 110 86 100 104 102 C122 104 130 116 126 128 C122 140 92 144 78 128 Z' fill='#FBF3E7'/><path d='M126 112 C138 108 146 116 142 124 C139 130 130 130 126 126 Z' fill='#FBF3E7'/><path d='M92 96 C90 86 96 80 100 74' stroke='#E0CDB6' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.9'/><path d='M104 96 C104 84 110 78 116 72' stroke='#E0CDB6' stroke-width='3' fill='none' stroke-linecap='round' opacity='0.7'/><path d='M188 132 C182 118 196 110 214 112 C232 114 242 122 240 132 C238 142 200 146 188 132 Z' fill='#D98A8A' opacity='0.8'/><path d='M196 122 C208 116 228 118 236 124' stroke='#F6E4E0' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M262 130 C260 110 268 94 280 86 C278 108 274 122 272 132 Z' fill='#A9BFA8' opacity='0.7'/><path d='M272 132 C284 120 300 118 310 122 C300 134 284 138 274 136 Z' fill='#A9BFA8' opacity='0.55'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "the taboo list",
+   "text": "Follow @aiforheratx. And tell one friend the thing she has told *nobody* is fixable.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0.2' y2='1'><stop offset='0' stop-color='#FBE7D9'/><stop offset='0.5' stop-color='#FDF2E6'/><stop offset='1' stop-color='#FEF9F3'/></linearGradient><radialGradient id='f2' cx='0.5' cy='0.44' r='0.6'><stop offset='0' stop-color='#FFEFCF' stop-opacity='0.95'/><stop offset='1' stop-color='#FFEFCF' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F1E2CE'/><stop offset='1' stop-color='#DBC3A8'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><ellipse cx='160' cy='88' rx='134' ry='88' fill='url(#f2)'/><path d='M-6 138 C58 128 120 146 188 136 C246 128 292 140 326 132 L326 200 L-6 200 Z' fill='url(#f3)'/><path d='M112 136 C108 92 118 58 134 40 C150 56 156 96 152 138 Z' fill='#FBF4E8' opacity='0.95'/><path d='M134 40 C150 56 156 96 152 138 L142 138 C144 98 140 62 134 40 Z' fill='#F2E2CC' opacity='0.9'/><path d='M120 96 C130 88 142 88 150 94' stroke='#E3D0B8' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M196 134 C194 112 202 94 214 86 C212 108 208 124 206 136 Z' fill='#A9BFA8' opacity='0.75'/><path d='M206 136 C218 124 234 122 244 126 C234 138 218 142 208 140 Z' fill='#A9BFA8' opacity='0.6'/><path d='M192 138 C190 146 198 150 210 150 C224 150 230 146 228 138 Z' fill='#C97B63' opacity='0.7'/><path d='M56 140 C52 128 64 122 78 124 C92 126 98 134 94 142 C90 150 64 152 56 140 Z' fill='#D98A8A' opacity='0.65'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
