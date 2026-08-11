@@ -1,0 +1,82 @@
+{
+ "title": "Reel · Myth Flip — \"too young for perimenopause\" (STRAW+10 7-day rule)",
+ "caption": "Myth: perimenopause starts in your 50s. The actual criteria: a repeated 7-day swing in cycle length, often in your early 40s (STRAW+10, 2012).\nWhich myth should we flip next? 👇\nwww.aiforheratx.org\n#perimenopause #womenshealth #cycletracking #menopause #womensmentalhealth #hormonehealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "43, cycle gone strange",
+   "text": "\"You're too *young* for perimenopause.\" I wasn't, and my calendar proved it.",
+   "suggest": "→ Track *7-day* cycle swings (STRAW+10, 2012)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r1a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#efe6ef'/><stop offset='1' stop-color='#fbf2e9'/></linearGradient><linearGradient id='r1b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#cec3dd'/><stop offset='1' stop-color='#eddfe0'/></linearGradient><radialGradient id='r1c' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#f7d9a4' stop-opacity='.9'/><stop offset='1' stop-color='#f7d9a4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#r1a)'/><path d='M34 30 C32 20 40 15 50 15 C90 13 130 14 168 17 C178 18 182 24 181 34 C179 74 177 104 174 126 C173 136 166 140 156 139 C118 137 78 136 44 133 C34 132 30 127 31 117 Z' fill='url(#r1b)'/><circle cx='139' cy='47' r='12' fill='#fdf7ea' opacity='.92'/><path d='M96 40 C108 33 122 36 128 43 C118 46 106 46 96 40 Z' fill='#e3d8e8' opacity='.7'/><path d='M40 98 C66 86 92 95 118 88 C142 82 162 90 177 85 L174 126 C173 136 166 140 156 139 L44 133 C34 132 30 127 31 117 Z' fill='#c5b7d3' opacity='.55'/><path d='M22 137 C82 146 132 148 192 138 C198 137 199 148 193 149 C132 159 80 157 22 148 Z' fill='#e5d5c7'/><path d='M186 200 C188 170 216 156 248 158 C286 160 313 171 320 188 L320 200 Z' fill='#f2e2dc'/><path d='M196 200 C200 182 218 172 240 172 C266 172 288 182 296 200 Z' fill='#f8ece6'/><ellipse cx='236' cy='150' rx='36' ry='22' fill='url(#r1c)'/><path d='M226 140 C226 136 229 134 233 134 L244 135 C248 135 250 138 249 142 L247 157 C246 161 243 163 239 162 L229 161 C225 161 223 158 224 154 Z' fill='#fbe9c6'/><path d='M62 152 C58 139 66 128 74 123 C69 134 68 145 71 152 Z' fill='#b7c3ab'/><path d='M64 152 C56 145 48 143 42 144 C50 147 57 150 62 153 Z' fill='#c3ceb6'/><path d='M58 152 C58 158 62 162 68 162 C74 162 78 158 78 152 Z' fill='#dcc8b6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "three months of my app",
+   "text": "Twenty-eight days, then twenty-four, then thirty-five. I decided my body was broken.",
+   "phrases": [
+    "28 days. Fine.",
+    "Then 24.",
+    "Then 35, and I stopped sleeping.",
+    "I decided I was the problem."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r2a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f2e8ed'/><stop offset='1' stop-color='#fbf3ea'/></linearGradient><linearGradient id='r2b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#dfd2e2'/><stop offset='1' stop-color='#f4e6e0'/></linearGradient><linearGradient id='r2c' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fdf6ec'/><stop offset='1' stop-color='#e9d9c8'/></linearGradient></defs><rect width='320' height='200' fill='url(#r2a)'/><path d='M30 28 C28 19 36 14 46 14 C88 12 130 13 170 16 C180 17 184 23 183 33 C181 73 179 103 176 125 C175 135 168 139 158 138 C118 136 76 135 42 132 C32 131 28 126 29 116 Z' fill='url(#r2b)'/><path d='M38 92 C64 82 90 90 116 84 C142 78 164 88 179 83 L176 125 C175 135 168 139 158 138 L42 132 C32 131 28 126 29 116 Z' fill='#d9cbdb' opacity='.5'/><circle cx='142' cy='44' r='14' fill='#fcefd6' opacity='.85'/><path d='M18 136 C82 145 134 147 196 137 C202 136 203 147 197 148 C134 158 80 156 18 147 Z' fill='#e6d6c6'/><path d='M214 148 C212 136 220 128 232 128 L262 128 C274 128 281 137 279 149 C277 163 272 176 268 184 C266 190 262 192 256 192 L232 192 C226 192 222 189 220 183 C217 173 215 159 214 148 Z' fill='url(#r2c)'/><path d='M279 140 C290 138 297 144 296 152 C295 160 288 165 277 163 C279 155 280 147 279 140 Z' fill='#eadbc8'/><path d='M236 122 C232 112 240 108 238 98 C236 90 242 86 244 82 C240 92 248 96 246 106 C245 114 240 116 236 122 Z' fill='#efe4d8' opacity='.85'/><path d='M252 120 C249 112 255 108 254 100 C253 94 257 91 259 88 C256 96 262 100 260 108 C259 114 255 116 252 120 Z' fill='#efe4d8' opacity='.7'/><path d='M40 200 C42 176 58 164 78 164 C98 164 112 174 116 192 C104 186 92 184 80 186 C66 188 52 193 40 200 Z' fill='#e9d9db'/><path d='M46 190 C58 180 74 176 90 178 C78 178 64 183 54 191 Z' fill='#f6ebe6'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "what I actually got told",
+   "text": "Everyone had a reason for me. Nobody looked at the pattern in my cycle.",
+   "phrases": [
+    "\"You're stressed. You're only 43.\"",
+    "\"Your hormone panel came back normal.\"",
+    "\"Come back when your periods stop.\"",
+    "Hormones swing daily — one normal result rules nothing out (NICE, 2015)."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r3a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f4eaee'/><stop offset='1' stop-color='#fbf4ec'/></linearGradient><radialGradient id='r3b' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#f6dcb0' stop-opacity='.85'/><stop offset='1' stop-color='#f6dcb0' stop-opacity='0'/></radialGradient><linearGradient id='r3c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f9f0e4'/><stop offset='1' stop-color='#e7d6c4'/></linearGradient></defs><rect width='320' height='200' fill='url(#r3a)'/><path d='M0 118 C60 110 120 112 180 106 C240 100 292 104 320 98 L320 200 L0 200 Z' fill='#efe1d4' opacity='.75'/><path d='M0 132 C70 126 140 130 210 124 C260 120 300 122 320 118 L320 200 L0 200 Z' fill='#e8d7c6'/><ellipse cx='196' cy='150' rx='60' ry='34' fill='url(#r3b)'/><path d='M180 132 C180 126 184 123 190 123 L204 124 C210 124 213 128 212 134 L208 166 C207 172 203 175 197 174 L184 173 C178 173 175 169 176 163 Z' fill='#fdf0d4'/><path d='M42 128 C40 118 47 111 58 111 L82 111 C93 111 99 119 97 129 C95 145 91 158 88 166 C86 172 82 174 77 174 L60 174 C55 174 51 171 49 165 C46 155 43 139 42 128 Z' fill='url(#r3c)'/><path d='M97 122 C108 120 115 126 114 134 C113 143 105 147 94 145 C96 137 97 129 97 122 Z' fill='#e9d9c6'/><path d='M64 106 C60 96 68 92 66 82 C64 75 69 71 71 68 C67 78 75 82 73 92 C72 99 68 101 64 106 Z' fill='#f0e6da' opacity='.8'/><path d='M262 174 C258 158 264 142 274 132 C270 146 270 160 274 174 Z' fill='#b9c5ac'/><path d='M272 174 C280 160 292 152 302 152 C292 158 283 165 278 175 Z' fill='#c7d1ba'/><path d='M258 174 C258 182 264 187 272 187 C280 187 286 182 286 174 Z' fill='#ddc9b7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "STRAW+10 staging, 2012",
+   "number": "7 days",
+   "text": "Experts mark the start of the transition by a repeated 7-day swing in cycle length — not by hot flashes.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r4a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f3e9ee'/><stop offset='1' stop-color='#fdf5ea'/></linearGradient><linearGradient id='r4b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8dbe4'/><stop offset='1' stop-color='#f7e9dd'/></linearGradient><radialGradient id='r4c' cx='.5' cy='.4' r='.6'><stop offset='0' stop-color='#fcefd8'/><stop offset='1' stop-color='#f2ddc4'/></radialGradient></defs><rect width='320' height='200' fill='url(#r4a)'/><path d='M0 96 C48 78 96 88 144 74 C196 59 252 70 320 54 L320 200 L0 200 Z' fill='url(#r4b)'/><path d='M0 128 C56 116 112 124 168 112 C224 100 274 106 320 96 L320 200 L0 200 Z' fill='#eddcce' opacity='.9'/><path d='M0 158 C64 150 128 156 192 148 C248 141 288 144 320 138 L320 200 L0 200 Z' fill='#e3d0be'/><circle cx='42' cy='72' r='13' fill='url(#r4c)' opacity='.55'/><circle cx='94' cy='56' r='14' fill='url(#r4c)' opacity='.7'/><circle cx='150' cy='44' r='16' fill='url(#r4c)'/><circle cx='210' cy='50' r='14' fill='url(#r4c)' opacity='.8'/><circle cx='266' cy='40' r='12' fill='url(#r4c)' opacity='.6'/><path d='M150 28 C160 34 160 54 150 60 C158 54 158 34 150 28 Z' fill='#e6d2b6' opacity='.5'/><path d='M32 122 C36 104 50 94 60 92 C54 104 52 114 54 122 Z' fill='#bcc7ac'/><path d='M56 122 C64 110 76 104 86 104 C76 110 68 116 62 124 Z' fill='#c9d3bb'/><path d='M28 122 C28 132 36 138 46 138 C56 138 64 132 64 122 Z' fill='#dcc7b2'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what I do now, at the kitchen table",
+   "text": "Write the start date and how you slept. Three months of that beats one blood test.",
+   "phrases": [
+    "Log every start date + how you slept.",
+    "Three months of that is real evidence for your doctor.",
+    "Lentils or spinach with citrus — iron absorbs better (NIH ODS).",
+    "And walk 150 minutes a week. That's WHO's number, not mine."
+   ],
+   "attribution": "— Dr. Jen Gunter, The Menopause Manifesto",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r5a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbeee0'/><stop offset='1' stop-color='#fdf6ec'/></linearGradient><radialGradient id='r5b' cx='.5' cy='.35' r='.6'><stop offset='0' stop-color='#f9dfae' stop-opacity='.9'/><stop offset='1' stop-color='#f9dfae' stop-opacity='0'/></radialGradient><linearGradient id='r5c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fffaf1'/><stop offset='1' stop-color='#efe2d0'/></linearGradient></defs><rect width='320' height='200' fill='url(#r5a)'/><ellipse cx='168' cy='66' rx='150' ry='84' fill='url(#r5b)'/><path d='M0 140 C70 132 150 138 226 130 C270 125 300 128 320 124 L320 200 L0 200 Z' fill='#ecd9c2'/><path d='M62 34 C62 24 70 18 80 18 C90 18 98 24 98 34 C98 44 92 50 88 54 L72 54 C68 50 62 44 62 34 Z' fill='#f8e2b6'/><path d='M72 54 L88 54 C88 60 84 62 80 62 C76 62 72 60 72 54 Z' fill='#e6cfa8'/><path d='M80 62 L80 128' stroke='#dcc7a8' stroke-width='4' stroke-linecap='round' fill='none'/><path d='M118 150 C114 134 122 126 134 125 C158 122 186 122 208 126 C220 128 226 137 222 151 C219 161 214 168 210 172 C207 176 202 177 196 176 L140 172 C134 171 130 168 128 163 C125 158 120 155 118 150 Z' fill='url(#r5c)'/><path d='M170 126 C168 142 168 158 170 174' stroke='#e2d2bd' stroke-width='2' fill='none'/><path d='M242 152 C240 141 247 134 258 134 L276 134 C287 134 293 142 291 153 C289 163 285 171 282 176 C280 180 277 182 273 182 L262 182 C258 182 255 180 253 176 C249 168 244 160 242 152 Z' fill='#fdf3e2'/><path d='M291 144 C300 143 306 148 305 155 C304 162 297 165 288 163 C290 156 291 150 291 144 Z' fill='#eee0cd'/><path d='M254 128 C251 120 257 116 256 108 C255 102 259 99 261 96 C258 104 264 108 262 116 C261 122 257 124 254 128 Z' fill='#f2e7d9' opacity='.85'/><circle cx='46' cy='158' r='16' fill='#f7c98c'/><path d='M46 142 C56 148 56 168 46 174 C36 168 36 148 46 142 Z' fill='#fbdcae'/><path d='M30 158 C30 149 37 142 46 142 C55 142 62 149 62 158' fill='none' stroke='#e8b273' stroke-width='2'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "send it to her",
+   "text": "Send this to the friend who got told she's *too young*. Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r6a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fcefe0'/><stop offset='1' stop-color='#fdf7ee'/></linearGradient><linearGradient id='r6b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe0b4'/><stop offset='1' stop-color='#f9ece0'/></linearGradient><radialGradient id='r6c' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#fbe3b4' stop-opacity='.9'/><stop offset='1' stop-color='#fbe3b4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#r6a)'/><path d='M36 28 C34 19 42 14 52 14 C94 12 138 13 178 16 C188 17 192 23 191 33 C189 73 187 103 184 125 C183 135 176 139 166 138 C126 136 82 135 48 132 C38 131 34 126 35 116 Z' fill='url(#r6b)'/><ellipse cx='112' cy='74' rx='72' ry='44' fill='url(#r6c)'/><circle cx='112' cy='62' r='17' fill='#fdf3dd'/><path d='M40 104 C68 94 96 102 124 96 C150 90 172 98 188 93 L184 125 C183 135 176 139 166 138 L48 132 C38 131 34 126 35 116 Z' fill='#f0d9b8' opacity='.6'/><path d='M22 138 C88 147 142 149 204 138 C210 137 211 148 205 149 C142 159 86 157 22 149 Z' fill='#e9d7c3'/><path d='M186 14 C196 40 198 84 190 132 C188 140 180 140 180 132 C186 86 184 44 178 16 Z' fill='#f6e3d6' opacity='.85'/><path d='M244 176 C238 156 244 132 258 118 C252 138 252 158 258 176 Z' fill='#b8c5a9'/><path d='M256 176 C266 158 282 146 296 144 C282 152 270 162 262 178 Z' fill='#c8d2b9'/><path d='M238 176 C238 186 246 192 256 192 C266 192 274 186 274 176 Z' fill='#ddc8b1'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  }
+ ]
+}
