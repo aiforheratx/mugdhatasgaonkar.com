@@ -1,0 +1,79 @@
+{
+ "title": "Myth flip — the bot that was kinder than her doctor",
+ "caption": "Myth: if AI sounds sure, it's right.\nAI answers got rated kinder than doctors' (JAMA, 2023). It's also less accurate on bodies it rarely saw (PNAS, 2020). Use it for questions, not diagnoses.\nWhich myth next? 👇\nwww.aiforheratx.org\n#womenshealth #aihealth #healthmyths #patientadvocacy #askyourdoctor",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "11:40pm. Everyone asleep.",
+   "text": "The chatbot was *kinder* than my doctor.",
+   "suggest": "→ Use it to draft questions, not diagnoses (PNAS 2020)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAE0F0'/><stop offset='.5' stop-color='#F6E7DC'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='a2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF0CE' stop-opacity='.95'/><stop offset='1' stop-color='#FFF0CE' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E2D2'/><stop offset='1' stop-color='#E8D3C0'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M0 0h320v96c-58 12-116-6-176 4C86 108 42 100 0 108Z' fill='#E4DAEE' opacity='.5'/><path d='M188 16c34-6 74 2 96 14 8 44 4 62-4 74-36 8-72 2-98-8-8-26-6-58 6-80Z' fill='#F7EEE2' opacity='.85'/><path d='M196 24c30-5 62 2 82 12' fill='none' stroke='#C9B7C8' stroke-width='2.5' stroke-linecap='round'/><path d='M232 20c2 28 1 54-2 78' fill='none' stroke='#C9B7C8' stroke-width='2' stroke-linecap='round'/><circle cx='262' cy='44' r='13' fill='#FFF6E2' opacity='.9'/><path d='M-4 132c60-12 118 6 176-2 52-7 104 4 152 0v74H-4Z' fill='url(#a3)'/><ellipse cx='118' cy='128' rx='58' ry='26' fill='url(#a2)'/><path d='M104 116c14-4 26-2 30 4 3 8-2 20-8 24-9 5-22 2-26-5-3-8-2-20 4-23Z' fill='#FBF2E4' stroke='#C4B2C4' stroke-width='1.6'/><path d='M108 122c10-3 18-2 21 2' fill='none' stroke='#E6D2DA' stroke-width='3' stroke-linecap='round'/><path d='M186 118c16-2 30 0 32 6 1 10-3 20-9 22-10 3-22 1-25-6-2-8 0-20 2-22Z' fill='#F1D6CE' opacity='.95'/><path d='M188 122c14-2 26 0 29 4' fill='none' stroke='#FBF2E4' stroke-width='2' stroke-linecap='round'/><path d='M200 112c-3-10 1-18 6-22' fill='none' stroke='#DCC9C4' stroke-width='2' stroke-linecap='round' opacity='.8'/><path d='M209 110c-4-9-1-16 4-21' fill='none' stroke='#DCC9C4' stroke-width='1.8' stroke-linecap='round' opacity='.6'/><path d='M44 130c4-16 0-30-6-40 12 4 20 14 22 26 4-12 12-20 22-24-6 12-8 26-4 38Z' fill='#A9BFA8' opacity='.9'/><path d='M40 130h44c-2 12-6 20-10 22H50c-5-2-8-10-10-22Z' fill='#E0C7B4'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the thread at midnight",
+   "text": "Reema, 38, heard 'just stress' for months. At midnight she typed it all into a bot.",
+   "phrases": [
+    "\"Probably just stress.\"",
+    "\"Your labs are normal.\"",
+    "The bot answered in warm, certain paragraphs."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7DDEE'/><stop offset='.55' stop-color='#F6E8DD'/><stop offset='1' stop-color='#FCF4EA'/></linearGradient><radialGradient id='b2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF1D2' stop-opacity='1'/><stop offset='1' stop-color='#FFF1D2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 88c56 10 112-8 168-2 52 6 102-6 152-2v116H0Z' fill='#F0DECC' opacity='.9'/><ellipse cx='150' cy='120' rx='104' ry='58' fill='url(#b2)'/><path d='M118 68c30-8 58-4 74 8 6 34 4 60-6 78-30 8-60 4-78-8-6-30-4-62 10-78Z' fill='#FBF3E6' stroke='#CDBACB' stroke-width='2' opacity='.97'/><path d='M132 88c26-6 44-4 52 2' fill='none' stroke='#E7D3DB' stroke-width='6' stroke-linecap='round'/><path d='M130 106c20-5 34-4 40 0' fill='none' stroke='#EFDCD6' stroke-width='6' stroke-linecap='round'/><path d='M136 124c18-4 32-3 38 1' fill='none' stroke='#E7D3DB' stroke-width='6' stroke-linecap='round'/><path d='M262 122c12-4 24-2 27 4 2 10-4 22-11 25-9 3-20 0-23-8-2-8 1-19 7-21Z' fill='#F1D6CE'/><path d='M264 128c11-3 19-1 22 3' fill='none' stroke='#FCF4EA' stroke-width='2' stroke-linecap='round'/><path d='M274 116c-4-10 0-18 5-23' fill='none' stroke='#D9C5C0' stroke-width='2' stroke-linecap='round' opacity='.75'/><path d='M283 114c-4-8-1-15 4-20' fill='none' stroke='#D9C5C0' stroke-width='1.6' stroke-linecap='round' opacity='.55'/><path d='M24 138c6-14 4-28-2-38 12 6 20 16 21 28 5-11 13-18 23-21-8 11-11 24-8 35Z' fill='#A9BFA8' opacity='.85'/><path d='M20 138h44c-2 13-6 21-10 23H30c-5-2-8-10-10-23Z' fill='#DFC5B1'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the part nobody says",
+   "text": "Sounding sure and being right are two different things.",
+   "phrases": [
+    "It read her worry better than anyone had.",
+    "It also learns from whoever it was shown most.",
+    "PNAS, 2020: medical AI got less accurate on the sex it saw least."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4E6E6'/><stop offset='.5' stop-color='#F9EDE0'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF3D8' stop-opacity='.9'/><stop offset='1' stop-color='#FFF3D8' stop-opacity='0'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M74 18c62-10 118-6 164 6 10 52 8 88-2 116-58 10-114 8-160-4-10-40-10-84-2-118Z' fill='#FBF3E6' opacity='.95'/><path d='M80 26c58-9 110-5 152 6' fill='none' stroke='#CBB6C4' stroke-width='2.5' stroke-linecap='round'/><path d='M156 20c4 40 4 78 0 116' fill='none' stroke='#CBB6C4' stroke-width='2' stroke-linecap='round'/><path d='M76 74c60-8 116-6 160 2' fill='none' stroke='#CBB6C4' stroke-width='2' stroke-linecap='round'/><path d='M96 30c40-6 78-3 112 6-4 40-4 74-2 100-40 6-78 4-110-4-4-34-4-70 0-102Z' fill='url(#c2)'/><path d='M40 22c10 24 8 60-2 92-8-28-8-64 2-92Z' fill='#EBD6D6' opacity='.8'/><path d='M262 24c12 26 12 62 2 92-10-28-12-64-2-92Z' fill='#EBD6D6' opacity='.8'/><path d='M-2 142c58-10 116 6 174-2 50-7 100 4 150 2v62H-2Z' fill='#EFDAC6'/><path d='M198 128c8-16 4-32-4-42 14 6 24 18 25 32 6-13 16-22 28-25-10 12-14 26-10 39Z' fill='#A9BFA8' opacity='.9'/><path d='M192 128h54c-3 14-7 22-12 24h-30c-6-2-10-10-12-24Z' fill='#E0C7B4'/><path d='M92 142c14-4 26-2 29 4 2 10-4 21-11 24-9 3-20 0-23-8-2-8 0-18 5-20Z' fill='#F1D6CE'/><path d='M104 132c-4-10 0-18 5-23' fill='none' stroke='#D9C5C0' stroke-width='2' stroke-linecap='round' opacity='.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "two real papers",
+   "number": "2 studies",
+   "text": "Kinder than doctors on the page (JAMA, 2023). Less accurate on bodies it rarely saw (PNAS, 2020).",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E9DE'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='d2' cx='.35' cy='.25' r='.7'><stop offset='0' stop-color='#FFF6DF' stop-opacity='.9'/><stop offset='1' stop-color='#FFF6DF' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><rect width='320' height='200' fill='url(#d2)'/><path d='M44 46c46-10 88-8 122 4 8 40 6 74-2 100-44 8-86 6-118-4-8-32-10-70-2-100Z' fill='#FBF3E6' stroke='#DCC8CE' stroke-width='1.6' transform='rotate(-5 110 100)'/><path d='M150 62c48-8 92-4 124 8 6 40 2 70-6 94-46 6-90 2-120-8-6-30-6-66 2-94Z' fill='#F6EADF' stroke='#CDB6C2' stroke-width='1.6' transform='rotate(4 220 116)' opacity='.97'/><path d='M64 74c34-6 64-4 80 2' fill='none' stroke='#E3CFD6' stroke-width='5' stroke-linecap='round'/><path d='M62 92c28-5 50-4 60 0' fill='none' stroke='#EEDCD5' stroke-width='5' stroke-linecap='round'/><path d='M66 110c26-4 46-3 54 1' fill='none' stroke='#E3CFD6' stroke-width='5' stroke-linecap='round'/><path d='M172 92c36-6 68-4 84 2' fill='none' stroke='#DEC7CE' stroke-width='5' stroke-linecap='round'/><path d='M172 110c28-5 52-4 62 0' fill='none' stroke='#EEDCD5' stroke-width='5' stroke-linecap='round'/><path d='M176 128c26-4 48-3 56 1' fill='none' stroke='#DEC7CE' stroke-width='5' stroke-linecap='round'/><path d='M24 158c22-16 44-30 66-38' fill='none' stroke='#B08A9B' stroke-width='4' stroke-linecap='round'/><path d='M18 164c4-3 6-6 6-9' fill='none' stroke='#8E7186' stroke-width='4' stroke-linecap='round'/><ellipse cx='274' cy='166' rx='22' ry='7' fill='#E7D2C0' opacity='.7'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "before you close the app",
+   "text": "Tonight: ask the bot what to ask a human, then take three questions in.",
+   "phrases": [
+    "Paste your symptoms. Ask it: 'What should I ask my doctor?'",
+    "Keep the three best questions in your notes app.",
+    "Ask your clinician to write the answers into your chart."
+   ],
+   "attribution": "— AHRQ, 'Questions Are the Answer'",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEADF'/><stop offset='.5' stop-color='#FDF1E3'/><stop offset='1' stop-color='#FEF8EF'/></linearGradient><radialGradient id='e2' cx='.7' cy='.2' r='.8'><stop offset='0' stop-color='#FFEFC9' stop-opacity='.95'/><stop offset='1' stop-color='#FFEFC9' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><rect width='320' height='200' fill='url(#e2)'/><path d='M0 118c56-12 112 6 168-2 50-7 100 4 152 2v82H0Z' fill='#F0DCC7'/><path d='M62 108c44-10 84-8 116 2 6 30 4 52-2 70-42 8-82 6-112-2-6-24-8-48-2-70Z' fill='#FCF5E9' stroke='#DCC7C6' stroke-width='1.6'/><path d='M178 110c-4 24-4 48 0 70' fill='none' stroke='#D6BFC4' stroke-width='2'/><path d='M84 130c30-5 56-3 68 2' fill='none' stroke='#E6D2D6' stroke-width='5' stroke-linecap='round'/><path d='M84 146c24-4 44-3 52 1' fill='none' stroke='#EFDDD4' stroke-width='5' stroke-linecap='round'/><path d='M84 162c26-4 48-2 56 2' fill='none' stroke='#E6D2D6' stroke-width='5' stroke-linecap='round'/><path d='M196 158c26-20 50-38 70-48' fill='none' stroke='#B08A9B' stroke-width='4' stroke-linecap='round'/><path d='M190 166c4-4 6-7 6-10' fill='none' stroke='#8E7186' stroke-width='4' stroke-linecap='round'/><path d='M236 96c13-4 26-2 29 4 2 11-4 24-12 27-10 3-22 0-25-9-2-9 1-20 8-22Z' fill='#F1D6CE'/><path d='M238 102c12-3 21-1 24 3' fill='none' stroke='#FDF6EC' stroke-width='2' stroke-linecap='round'/><path d='M248 88c-4-11 0-19 6-25' fill='none' stroke='#DCC7C2' stroke-width='2' stroke-linecap='round' opacity='.8'/><path d='M258 86c-4-9-1-16 5-21' fill='none' stroke='#DCC7C2' stroke-width='1.6' stroke-linecap='round' opacity='.6'/><path d='M28 116c6-15 4-30-2-40 13 6 21 17 22 29 5-12 14-19 24-22-8 12-11 25-8 36Z' fill='#A9BFA8' opacity='.9'/><path d='M24 116h46c-2 13-6 21-11 23H35c-5-2-9-10-11-23Z' fill='#E0C7B4'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "6:10am. Kitchen light on.",
+   "text": "A chatbot can be kind at midnight. It still can't examine you. Follow @aiforheratx.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCE7D6'/><stop offset='.5' stop-color='#FDF1E2'/><stop offset='1' stop-color='#FEF9F1'/></linearGradient><radialGradient id='f2' cx='.72' cy='.28' r='.55'><stop offset='0' stop-color='#FFE9B8' stop-opacity='1'/><stop offset='1' stop-color='#FFE9B8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M182 14c36-6 76 2 98 16 8 46 4 66-4 78-38 8-76 2-102-8-8-28-6-62 8-86Z' fill='#FFF7E6' opacity='.95'/><ellipse cx='252' cy='58' rx='72' ry='58' fill='url(#f2)'/><path d='M190 22c32-5 66 3 86 14' fill='none' stroke='#D3BBBE' stroke-width='2.5' stroke-linecap='round'/><path d='M228 18c3 30 2 58-1 84' fill='none' stroke='#D3BBBE' stroke-width='2' stroke-linecap='round'/><circle cx='258' cy='56' r='15' fill='#FFEFC0'/><path d='M-2 128c60-12 118 6 176-2 52-7 100 4 148 2v74H-2Z' fill='#F0DBC3'/><path d='M104 110c14-4 27-2 30 5 3 11-4 24-12 27-11 3-23 0-26-9-2-9 1-21 8-23Z' fill='#F1D6CE'/><path d='M106 116c13-3 22-1 25 4' fill='none' stroke='#FEF9F1' stroke-width='2' stroke-linecap='round'/><path d='M117 102c-4-11 0-20 6-26' fill='none' stroke='#DCC7C2' stroke-width='2' stroke-linecap='round' opacity='.8'/><path d='M127 100c-5-9-1-17 5-22' fill='none' stroke='#DCC7C2' stroke-width='1.6' stroke-linecap='round' opacity='.6'/><path d='M36 126c7-16 5-32-2-43 14 7 23 18 24 31 6-13 15-21 26-24-9 13-12 27-9 38Z' fill='#A9BFA8' opacity='.92'/><path d='M32 126h48c-2 14-6 22-11 24H43c-5-2-9-10-11-24Z' fill='#E0C7B4'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
