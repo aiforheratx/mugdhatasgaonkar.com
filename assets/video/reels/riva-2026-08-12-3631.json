@@ -1,0 +1,81 @@
+{
+ "title": "Myth flip — nobody splits the noticing (mental load, work+family juggle)",
+ "caption": "Myth: the juggle is a chore-split problem. The invisible half is the noticing and the follow-up, and that's the half women hold (Daminger, ASR 2019). Hand off a whole category, not one task.\nWhich myth next? 👇\nwww.aiforheratx.org\n#mentalload #invisiblelabour #workingmoms #womenshealth #fairplay",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "he helped. still exhausted.",
+   "text": "He did the dishes. So why is she still *fried* at 9 PM?",
+   "suggest": "→ Split the *monitoring*, not the chores (ASR 2019)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s1sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#DCE2E8'/><stop offset='1' stop-color='#F7EADC'/></linearGradient><linearGradient id='s1pane' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#AEBCC9'/><stop offset='1' stop-color='#CDD8DE'/></linearGradient><radialGradient id='s1glow' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F9E6C4' stop-opacity='0.9'/><stop offset='1' stop-color='#F9E6C4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s1sky)'/><path d='M170 6 C214 2 258 10 302 16 C306 60 304 96 300 128 C256 135 210 133 168 126 C163 92 165 44 170 6 Z' fill='url(#s1pane)' opacity='0.92'/><path d='M234 32 C247 29 256 41 253 53 C250 65 238 71 229 64 C239 60 244 45 234 32 Z' fill='#F4EEE0' opacity='0.85'/><path d='M168 126 C210 133 256 135 300 128' fill='none' stroke='#9FB0BE' stroke-width='2' opacity='0.7'/><path d='M158 2 C177 30 169 80 181 131 C160 133 149 96 149 60 C149 31 152 12 158 2 Z' fill='#F3D9DA' opacity='0.88'/><path d='M0 150 C70 139 152 142 320 133 L320 200 L0 200 Z' fill='#EBD6BE'/><path d='M0 150 C70 139 152 142 320 133' fill='none' stroke='#D9BFA3' stroke-width='2'/><ellipse cx='208' cy='142' rx='48' ry='26' fill='url(#s1glow)'/><path d='M193 125 C194 121 216 121 219 125 C221 136 220 147 217 151 C207 153 197 152 192 149 C190 141 191 131 193 125 Z' fill='#FBF3E4' stroke='#CBB79E' stroke-width='1.5'/><path d='M52 118 C52 111 97 111 97 118 C96 137 90 147 74 147 C58 147 53 137 52 118 Z' fill='#D98C8C'/><path d='M97 122 C111 120 113 139 98 140' fill='none' stroke='#C57C7C' stroke-width='4'/><path d='M56 119 C63 115 87 115 94 119 C87 123 63 123 56 119 Z' fill='#8A6A5B' opacity='0.55'/><path d='M270 149 C283 146 297 146 307 149 C305 161 301 172 288 172 C276 172 272 161 270 149 Z' fill='#C98F6E'/><path d='M287 147 C279 131 267 120 254 115 C267 122 277 134 283 147 Z' fill='#A9BFA8'/><path d='M291 147 C297 128 307 115 318 108 C307 119 301 132 297 147 Z' fill='#93AE93'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Neha, 38 — 6:40 AM",
+   "text": "Neha, 38: he did the dishes, and she still *tracked* every deadline in her head.",
+   "phrases": [
+    "He did bath time, no complaints.",
+    "But I'm the one who knew about the permission slip.",
+    "By 8 PM I'm running on cold chai and fumes."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s2wall' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE1D2'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s2light' cx='0.12' cy='0.18' r='0.66'><stop offset='0' stop-color='#FBEED6' stop-opacity='0.95'/><stop offset='1' stop-color='#FBEED6' stop-opacity='0'/></radialGradient><linearGradient id='s2coat' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E2A0A0'/><stop offset='1' stop-color='#CE8484'/></linearGradient></defs><rect width='320' height='200' fill='url(#s2wall)'/><rect width='320' height='200' fill='url(#s2light)'/><path d='M0 152 C80 143 170 147 320 138 L320 200 L0 200 Z' fill='#E7D3BC'/><path d='M0 152 C80 143 170 147 320 138' fill='none' stroke='#D3B695' stroke-width='2'/><path d='M96 60 C118 54 142 56 160 62 C164 92 162 118 158 140 C136 144 116 143 100 139 C94 116 93 84 96 60 Z' fill='#DCC7AE' opacity='0.75'/><path d='M100 62 C124 52 148 56 162 64 C168 92 158 122 150 146 C132 152 116 150 106 144 C98 120 96 86 100 62 Z' fill='url(#s2coat)'/><path d='M104 66 C122 60 142 62 158 68' fill='none' stroke='#F0C2C2' stroke-width='3' opacity='0.8'/><path d='M112 148 C112 168 114 182 116 190' fill='none' stroke='#C0A184' stroke-width='5'/><path d='M150 146 C152 166 152 180 152 190' fill='none' stroke='#C0A184' stroke-width='5'/><path d='M206 118 C232 110 258 112 274 120 C280 142 278 162 272 174 C250 180 226 179 210 172 C202 156 202 132 206 118 Z' fill='#B9C4CE'/><path d='M226 116 C232 100 250 100 256 116' fill='none' stroke='#98A6B3' stroke-width='4'/><path d='M210 140 C232 134 254 135 272 141' fill='none' stroke='#A5B2BE' stroke-width='3'/><path d='M30 172 C46 166 62 168 70 176 C64 184 44 186 32 182 C28 179 28 175 30 172 Z' fill='#C8926E'/><path d='M58 182 C74 176 90 178 98 186 C92 193 72 195 60 191 C56 188 56 185 58 182 Z' fill='#B9825F'/><path d='M296 150 C304 130 310 118 318 108 C312 124 308 138 306 152 Z' fill='#A9BFA8' opacity='0.9'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the myth vs the research",
+   "text": "Everybody splits the chores. Almost nobody splits the *noticing*, which is the part that wears her out.",
+   "phrases": [
+    "Household work has four stages.",
+    "Anticipate. Weigh options. Decide. Monitor.",
+    "Couples split the deciding pretty evenly.",
+    "Anticipating and monitoring stay hers (Daminger, ASR 2019)."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s3room' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E4E0D9'/><stop offset='1' stop-color='#FBF2E6'/></linearGradient><linearGradient id='s3pane' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#B4C1CD'/><stop offset='1' stop-color='#D4DCE2'/></linearGradient><radialGradient id='s3screen' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FDF0D4' stop-opacity='0.95'/><stop offset='1' stop-color='#FDF0D4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s3room)'/><path d='M14 10 C56 5 100 10 138 18 C142 56 140 88 136 114 C98 120 54 118 16 110 C11 78 11 40 14 10 Z' fill='url(#s3pane)' opacity='0.9'/><path d='M16 110 C54 118 98 120 136 114' fill='none' stroke='#A0AFBC' stroke-width='2' opacity='0.7'/><path d='M140 6 C158 34 150 82 160 118 C142 120 132 84 132 54 C132 28 135 14 140 6 Z' fill='#F3D9DA' opacity='0.85'/><path d='M0 142 C80 132 176 136 320 126 L320 200 L0 200 Z' fill='#EBD6BE'/><path d='M0 142 C80 132 176 136 320 126' fill='none' stroke='#D9BFA3' stroke-width='2'/><ellipse cx='214' cy='134' rx='66' ry='30' fill='url(#s3screen)'/><path d='M182 92 C206 86 234 88 250 94 C252 110 250 124 246 132 C222 137 198 135 182 130 C178 118 178 102 182 92 Z' fill='#FBF3E4' stroke='#C9B69C' stroke-width='1.6'/><path d='M176 132 C204 126 236 127 258 134 C238 144 198 144 176 132 Z' fill='#DFCBB2'/><path d='M60 128 C82 122 106 123 122 129 C118 141 112 148 92 149 C72 149 62 141 60 128 Z' fill='#F6EEE0' stroke='#D6C3A8' stroke-width='1.4'/><path d='M92 126 C92 136 92 143 92 148' fill='none' stroke='#D6C3A8' stroke-width='1.4'/><path d='M104 120 C114 110 124 104 134 100' fill='none' stroke='#8A6A5B' stroke-width='3'/><path d='M276 106 C276 100 306 100 306 106 C305 121 300 130 291 130 C280 130 277 121 276 106 Z' fill='#D98C8C'/><path d='M306 110 C316 109 317 123 307 124' fill='none' stroke='#C57C7C' stroke-width='3.5'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "ILO, 64 countries, 2018",
+   "number": "76.2%",
+   "text": "Women do 76.2% of the world's unpaid care work, about *3.2x* what men do. She isn't disorganised.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s4sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E4D8'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s4sun' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F6C9A8' stop-opacity='0.95'/><stop offset='1' stop-color='#F6C9A8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s4sky)'/><ellipse cx='236' cy='64' rx='74' ry='58' fill='url(#s4sun)'/><path d='M212 58 C226 50 244 54 250 68 C254 82 244 94 230 94 C214 94 205 78 212 58 Z' fill='#EFB79B' opacity='0.85'/><path d='M0 138 C58 124 122 132 190 122 C248 114 288 118 320 114 L320 200 L0 200 Z' fill='#C9D6C4' opacity='0.85'/><path d='M0 160 C64 148 130 156 196 148 C254 141 290 146 320 142 L320 200 L0 200 Z' fill='#A9BFA8'/><path d='M0 182 C72 172 148 178 220 172 C268 168 296 170 320 168 L320 200 L0 200 Z' fill='#8FA98F' opacity='0.9'/><path d='M14 92 C90 76 200 82 306 70' fill='none' stroke='#C4A98C' stroke-width='2'/><path d='M56 86 C72 84 84 85 92 88 C90 106 84 118 74 120 C62 121 55 108 56 86 Z' fill='#F3D9DA'/><path d='M120 84 C136 82 148 83 156 86 C155 102 148 114 138 116 C126 117 119 105 120 84 Z' fill='#FBF3E4'/><path d='M196 80 C212 78 224 79 232 82 C231 98 224 110 214 112 C202 113 195 101 196 80 Z' fill='#E7C9A8'/><path d='M262 158 C258 140 254 128 248 118 C258 128 266 142 270 158 Z' fill='#7E9A80' opacity='0.9'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, one card",
+   "text": "Hand off one whole *category* tonight, the noticing and remembering included. Then take a 20-minute walk.",
+   "phrases": [
+    "Pick one category: school forms.",
+    "He owns all of it — spotting it, planning it, doing it.",
+    "Not a task he does when reminded. The whole thing.",
+    "Then walk 20 minutes. WHO asks for 150 a week."
+   ],
+   "attribution": "— Eve Rodsky, Fair Play",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s5room' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E3CB'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s5lamp' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FBE3B4' stop-opacity='0.95'/><stop offset='1' stop-color='#FBE3B4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s5room)'/><ellipse cx='240' cy='84' rx='86' ry='72' fill='url(#s5lamp)'/><path d='M216 34 C232 26 254 28 266 40 C252 48 230 49 216 42 C212 39 213 36 216 34 Z' fill='#E6B37E'/><path d='M240 46 C241 66 241 88 241 106' fill='none' stroke='#C08F62' stroke-width='4'/><path d='M222 108 C232 104 250 104 260 109 C250 114 232 114 222 108 Z' fill='#C08F62'/><path d='M0 144 C82 134 178 138 320 128 L320 200 L0 200 Z' fill='#EBD6BE'/><path d='M0 144 C82 134 178 138 320 128' fill='none' stroke='#D9BFA3' stroke-width='2'/><path d='M52 132 C76 124 106 125 126 132 C124 148 116 158 90 159 C66 159 54 148 52 132 Z' fill='#FBF5E9' stroke='#DCC7AC' stroke-width='1.6'/><path d='M89 128 C89 140 89 150 89 158' fill='none' stroke='#DCC7AC' stroke-width='1.6'/><path d='M62 138 C70 135 80 135 84 137' fill='none' stroke='#C7B49B' stroke-width='2'/><path d='M62 146 C70 143 80 143 84 145' fill='none' stroke='#C7B49B' stroke-width='2'/><path d='M96 140 C104 137 114 137 120 139' fill='none' stroke='#C7B49B' stroke-width='2'/><path d='M112 124 C124 112 134 104 144 98' fill='none' stroke='#8A6A5B' stroke-width='3.4'/><path d='M164 112 C164 106 200 106 200 112 C199 130 194 141 182 141 C169 141 165 130 164 112 Z' fill='#D98C8C'/><path d='M200 116 C212 115 214 131 201 132' fill='none' stroke='#C57C7C' stroke-width='3.6'/><path d='M176 100 C170 90 178 82 174 72' fill='none' stroke='#E8D2BE' stroke-width='3' opacity='0.9'/><path d='M188 100 C194 90 186 80 191 70' fill='none' stroke='#E8D2BE' stroke-width='3' opacity='0.75'/><path d='M282 146 C293 144 306 144 315 146 C313 158 309 168 298 168 C287 168 283 158 282 146 Z' fill='#C98F6E'/><path d='M298 144 C291 128 281 118 270 112 C281 119 290 131 295 144 Z' fill='#A9BFA8'/><path d='M302 144 C308 126 316 114 320 108 C312 120 307 131 305 144 Z' fill='#93AE93'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "the chai's warm this time",
+   "text": "Follow @aiforheratx for women's health, explained. Send this to the friend who *notices* everything.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='s6sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F8DFC4'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><linearGradient id='s6pane' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F7CFA6'/><stop offset='1' stop-color='#FBEAD3'/></linearGradient><radialGradient id='s6rise' cx='0.5' cy='0.6' r='0.5'><stop offset='0' stop-color='#F9C79C' stop-opacity='0.95'/><stop offset='1' stop-color='#F9C79C' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s6sky)'/><path d='M150 6 C196 2 244 10 292 18 C296 60 294 96 290 124 C244 131 194 129 148 122 C143 88 145 42 150 6 Z' fill='url(#s6pane)' opacity='0.95'/><ellipse cx='222' cy='96' rx='62' ry='44' fill='url(#s6rise)'/><path d='M196 74 C212 64 236 68 244 84 C248 100 236 112 220 112 C202 112 190 94 196 74 Z' fill='#F3B58C' opacity='0.8'/><path d='M148 122 C194 129 244 131 290 124' fill='none' stroke='#DDBC98' stroke-width='2'/><path d='M138 4 C157 32 149 82 161 124 C142 126 132 90 132 56 C132 28 134 12 138 4 Z' fill='#F3D9DA' opacity='0.9'/><path d='M0 146 C80 136 176 140 320 130 L320 200 L0 200 Z' fill='#EBD6BE'/><path d='M0 146 C80 136 176 140 320 130' fill='none' stroke='#D9BFA3' stroke-width='2'/><path d='M78 118 C78 111 124 111 124 118 C123 138 117 149 101 149 C84 149 79 138 78 118 Z' fill='#D98C8C'/><path d='M124 122 C139 120 141 140 125 141' fill='none' stroke='#C57C7C' stroke-width='4'/><path d='M94 106 C87 94 97 84 92 72' fill='none' stroke='#EAD6C2' stroke-width='3.2'/><path d='M108 106 C115 94 105 82 111 70' fill='none' stroke='#EAD6C2' stroke-width='3.2' opacity='0.8'/><path d='M252 148 C264 145 279 145 289 148 C287 161 283 172 270 172 C258 172 253 161 252 148 Z' fill='#C98F6E'/><path d='M269 146 C261 129 249 118 236 112 C249 119 259 132 265 146 Z' fill='#A9BFA8'/><path d='M273 146 C280 127 291 114 302 106 C291 118 284 131 279 146 Z' fill='#93AE93'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
