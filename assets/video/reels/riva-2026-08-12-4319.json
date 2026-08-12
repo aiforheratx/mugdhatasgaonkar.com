@@ -1,0 +1,81 @@
+{
+ "title": "Dating overwhelm — Nadia, 36, and the 48-hour no",
+ "caption": "Not knowing hurts more than a no. Stress peaks at 50/50 odds, not at bad news (Nature Comms, 2016).\nGive it 48 hours, then call it. Send this to her.\nHow many apps are you on?\nwww.aiforheratx.org\n#datingapps #ghosting #womensmentalhealth #datingfatigue #womenshealth #anxiety",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "11:40 pm. Read at 6:12.",
+   "text": "He didn't say no. He said *nothing*. Not knowing wrecks you more than a no.",
+   "suggest": "→ Call it a *no* at 48h (Nature Comms 2016)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF0E7'/><stop offset='1' stop-color='#F2DCD6'/></linearGradient><radialGradient id='a2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF3D6' stop-opacity='.9'/><stop offset='1' stop-color='#FFF3D6' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E2D9'/><stop offset='1' stop-color='#E7C6BE'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M0 0 C70 18 120 -6 180 12 C240 30 280 8 320 22 L320 0 Z' fill='#F6E6DC' opacity='.8'/><path d='M244 0 C256 44 240 84 252 126 C260 158 248 180 256 200 L320 200 L320 0 Z' fill='#EFD4CB' opacity='.7'/><ellipse cx='96' cy='104' rx='96' ry='66' fill='url(#a2)'/><path d='M0 132 C48 112 92 146 140 134 C196 120 236 152 320 138 L320 200 L0 200 Z' fill='url(#a3)'/><path d='M18 156 C64 140 104 168 148 158' fill='none' stroke='#DFB9B0' stroke-width='3' stroke-linecap='round' opacity='.7'/><path d='M150 178 C202 162 244 186 306 172' fill='none' stroke='#DFB9B0' stroke-width='3' stroke-linecap='round' opacity='.55'/><ellipse cx='104' cy='128' rx='40' ry='24' fill='#FFF6E2' opacity='.75'/><path d='M92 112 C90 108 92 105 96 105 L118 108 C122 109 123 112 122 116 L114 142 C113 146 110 148 106 147 L86 142 C82 141 81 138 82 134 Z' fill='#F8EFE3' stroke='#C99B95' stroke-width='2'/><path d='M95 113 L118 117' stroke='#EBD3C6' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Nadia, 36 · third app",
+   "text": "Nadia is 36, divorced two years, and she's read his last message nine times.",
+   "phrases": [
+    "Nadia's 36. Divorced two years, back on the apps since March.",
+    "She's read his last message nine times. It says 'haha yeah'.",
+    "By 1 a.m. she's editing herself: too keen, too dull, too much?",
+    "She's not sad about him. She's worn out from guessing."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAEEE6'/><stop offset='1' stop-color='#F1DBD4'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFD9CF'/><stop offset='1' stop-color='#E3C2B9'/></linearGradient><radialGradient id='b3' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF4DA' stop-opacity='.85'/><stop offset='1' stop-color='#FFF4DA' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M28 16 C96 6 168 14 236 8 C246 44 244 82 238 108 C168 116 96 110 30 116 C22 82 22 48 28 16 Z' fill='#EEDBD3' opacity='.75'/><path d='M40 100 C110 86 170 104 228 92' fill='none' stroke='#E0BDB4' stroke-width='2' opacity='.7'/><ellipse cx='214' cy='150' rx='92' ry='44' fill='url(#b3)'/><path d='M0 138 C70 126 150 146 226 132 C270 124 300 132 320 128 L320 200 L0 200 Z' fill='url(#b2)'/><path d='M62 140 C58 136 60 130 66 130 L98 131 C104 131 106 136 104 141 L96 166 C94 172 90 174 84 173 L70 171 C65 170 62 167 61 162 Z' fill='#FBF3E8' stroke='#C99B95' stroke-width='2'/><path d='M104 138 C114 136 118 144 112 150 C109 153 106 154 103 154' fill='none' stroke='#C99B95' stroke-width='2'/><path d='M196 128 C193 124 195 120 199 120 L219 123 C223 124 224 128 223 131 L216 156 C215 160 212 161 208 160 L192 156 C188 155 187 152 188 148 Z' fill='#FFF7E4' stroke='#C99B95' stroke-width='2'/><path d='M262 148 C258 126 268 108 284 96' fill='none' stroke='#9DAE8F' stroke-width='3' stroke-linecap='round'/><path d='M266 128 C252 122 246 110 250 100 C262 100 272 110 274 122' fill='#A9BD97' opacity='.9'/><path d='M276 116 C288 106 300 106 306 112 C300 124 286 128 276 124' fill='#94AA83' opacity='.85'/><path d='M252 150 C254 142 274 142 276 150 C278 164 274 172 264 172 C254 172 250 164 252 150 Z' fill='#E4CBB6'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat replies",
+   "text": "Being ignored runs on the brain's pain circuitry (Science, 2003). She isn't being dramatic.",
+   "phrases": [
+    "Just delete the apps lol",
+    "You're overthinking it, he's busy",
+    "Maybe don't text first next time",
+    "I don't want him. I want to stop refreshing."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E9E6'/><stop offset='1' stop-color='#EFDAD6'/></linearGradient><radialGradient id='c2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFEFC9' stop-opacity='.8'/><stop offset='1' stop-color='#FFEFC9' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAD6D2'/><stop offset='1' stop-color='#DFC3BD'/></linearGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M36 12 C120 4 208 8 288 10 C294 60 292 112 286 156 C206 162 118 160 38 158 C32 112 30 60 36 12 Z' fill='#F7EAE3' opacity='.9'/><ellipse cx='96' cy='60' rx='26' ry='20' fill='url(#c2)'/><ellipse cx='200' cy='46' rx='20' ry='16' fill='url(#c2)'/><ellipse cx='250' cy='96' rx='24' ry='18' fill='url(#c2)'/><path d='M70 18 C66 54 74 92 68 150' fill='none' stroke='#E0C4BE' stroke-width='2' opacity='.8'/><path d='M124 14 C120 46 128 90 122 152' fill='none' stroke='#E0C4BE' stroke-width='2' opacity='.6'/><path d='M178 16 C174 52 182 96 176 154' fill='none' stroke='#E0C4BE' stroke-width='2' opacity='.7'/><path d='M232 12 C228 48 236 90 230 150' fill='none' stroke='#E0C4BE' stroke-width='2' opacity='.5'/><path d='M0 158 C80 150 180 166 320 152 L320 200 L0 200 Z' fill='url(#c3)'/><path d='M138 158 C135 152 137 148 142 148 L168 151 C173 152 175 156 174 160 L170 176 C169 181 165 183 160 182 L140 178 C135 177 133 173 134 169 Z' fill='#FFF6E0' stroke='#C79892' stroke-width='2'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "Nature Comms, 2016 · UCL",
+   "text": "Stress peaked at *50/50* odds — higher than when bad news was certain.",
+   "number": "50/50",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF3E7'/><stop offset='.55' stop-color='#F8E3DA'/><stop offset='1' stop-color='#F1D6CE'/></linearGradient><radialGradient id='d2' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFF0C8'/><stop offset='1' stop-color='#FFF0C8' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFD5CD'/><stop offset='1' stop-color='#E2BEB6'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='160' cy='128' rx='120' ry='70' fill='url(#d2)' opacity='.9'/><path d='M0 54 C70 34 120 66 190 50 C246 38 286 58 320 46 L320 0 L0 0 Z' fill='#FBEBDF' opacity='.7'/><path d='M0 92 C60 78 108 104 168 94 C230 84 276 102 320 92 L320 132 L0 132 Z' fill='#F4DED2' opacity='.6'/><circle cx='160' cy='124' r='26' fill='#FFE9BE' opacity='.95'/><path d='M0 134 C64 126 128 142 196 134 C252 128 292 138 320 132 L320 200 L0 200 Z' fill='url(#d3)'/><path d='M22 156 C74 148 118 162 168 154' fill='none' stroke='#F6E1D6' stroke-width='3' stroke-linecap='round' opacity='.8'/><path d='M150 176 C204 168 250 180 302 170' fill='none' stroke='#F6E1D6' stroke-width='3' stroke-linecap='round' opacity='.6'/><path d='M214 58 C220 52 226 52 230 58 C234 52 240 52 246 58' fill='none' stroke='#B58C86' stroke-width='2.5' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tomorrow, 7:20 am",
+   "text": "Tonight: no reply in 48 hours counts as a no. Archive the chat and go to bed.",
+   "phrases": [
+    "48 hours, no reply? Call it a no and archive the chat.",
+    "Keep 3 conversations, max — more options make us choose worse (Psych Science, 2010).",
+    "Then take a 20-minute walk tomorrow; WHO says 150 minutes a week."
+   ],
+   "attribution": "— Kristin Neff, Self-Compassion",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FEF6EA'/><stop offset='1' stop-color='#F6E3D6'/></linearGradient><linearGradient id='e2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EEDAC7'/><stop offset='1' stop-color='#E1C4AC'/></linearGradient><radialGradient id='e3' cx='.5' cy='.4' r='.6'><stop offset='0' stop-color='#FFF6D8' stop-opacity='.95'/><stop offset='1' stop-color='#FFF6D8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M18 0 C60 40 92 92 108 168 L0 176 L0 0 Z' fill='#FFF7E1' opacity='.75'/><ellipse cx='150' cy='96' rx='130' ry='72' fill='url(#e3)'/><path d='M0 136 C74 124 158 144 240 130 C280 123 306 130 320 126 L320 200 L0 200 Z' fill='url(#e2)'/><path d='M96 134 C92 126 96 120 104 120 L166 124 C174 125 177 130 175 137 L170 152 C168 158 163 160 156 159 L100 152 C94 151 91 147 92 142 Z' fill='#FDF7EC' stroke='#C9A184' stroke-width='2'/><path d='M108 132 C124 130 146 133 160 134' fill='none' stroke='#E3CDB6' stroke-width='3' stroke-linecap='round'/><path d='M106 142 C120 141 138 143 150 144' fill='none' stroke='#E3CDB6' stroke-width='3' stroke-linecap='round'/><path d='M212 126 C208 120 211 115 217 115 L242 118 C248 119 250 124 248 129 L242 152 C240 158 236 160 230 159 L214 156 C209 155 206 151 207 146 Z' fill='#FFFAF0' stroke='#C9A184' stroke-width='2'/><path d='M248 124 C258 122 262 130 256 136 C253 139 250 140 246 140' fill='none' stroke='#C9A184' stroke-width='2'/><path d='M220 108 C214 100 226 94 220 84' fill='none' stroke='#DCC3B0' stroke-width='2.5' stroke-linecap='round' opacity='.9'/><path d='M232 110 C226 102 238 96 232 86' fill='none' stroke='#DCC3B0' stroke-width='2.5' stroke-linecap='round' opacity='.7'/><path d='M42 170 C46 158 66 156 74 164 C82 172 96 172 98 178 C100 186 84 190 66 188 C50 186 40 180 42 170 Z' fill='#C9A79C'/><path d='M18 182 C22 172 40 170 48 178 C56 186 70 186 72 191 C74 198 58 200 40 198 C26 196 16 190 18 182 Z' fill='#B8958A'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "before you refresh again",
+   "text": "He never wrote back. Nadia wrote the ending herself. Follow *@aiforheratx*.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FEF4E4'/><stop offset='1' stop-color='#F7DFD2'/></linearGradient><radialGradient id='f2' cx='.5' cy='.45' r='.55'><stop offset='0' stop-color='#FFE9B8'/><stop offset='1' stop-color='#FFE9B8' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F0D9CB'/><stop offset='1' stop-color='#E4C0B0'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M62 14 C142 6 218 10 262 14 C268 66 266 118 260 160 C216 164 142 164 64 158 C58 112 56 62 62 14 Z' fill='#FFF6E3'/><ellipse cx='162' cy='84' rx='84' ry='62' fill='url(#f2)'/><circle cx='168' cy='92' r='24' fill='#FFDFA4' opacity='.9'/><path d='M64 118 C118 108 200 122 260 112' fill='none' stroke='#E9C9B8' stroke-width='2.5' opacity='.8'/><path d='M62 14 C90 40 78 84 96 118 C108 142 96 152 84 158 C70 158 62 120 62 14 Z' fill='#F6DED0' opacity='.9'/><path d='M262 14 C240 44 254 88 236 122 C226 142 240 152 252 158 C264 156 268 116 262 14 Z' fill='#F6DED0' opacity='.8'/><path d='M0 158 C78 150 176 168 320 152 L320 200 L0 200 Z' fill='url(#f3)'/><path d='M52 152 C48 130 58 112 74 100' fill='none' stroke='#9DAE8F' stroke-width='3' stroke-linecap='round'/><path d='M56 130 C42 124 36 112 40 102 C52 102 62 112 64 124' fill='#A9BD97'/><path d='M66 118 C78 108 90 108 96 114 C90 126 76 130 66 126' fill='#94AA83' opacity='.9'/><path d='M40 152 C42 144 64 144 66 152 C68 168 64 176 53 176 C42 176 38 168 40 152 Z' fill='#E4CBB6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
