@@ -1,0 +1,80 @@
+{
+ "title": "Postpartum — baby blues that never lifted (EPDS)",
+ "caption": "Baby blues should lift by two weeks. Hers didn't.\nPast two weeks, ask for the EPDS — 10 questions, ACOG 2018.\nSend this to a new mom. How many weeks postpartum?\nwww.aiforheratx.org\n#postpartumdepression #maternalmentalhealth #ppdawareness #fourthtrimester #newmom #womenshealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "Nadia, 33. 11 weeks in.",
+   "text": "Baby blues are supposed to lift by two weeks. *Eleven* weeks in, hers hadn't.",
+   "suggest": "→ Ask for the *EPDS* screen (ACOG 2018)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE3D6'/><stop offset='1' stop-color='#DFCEBD'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#C7D2DC'/><stop offset='1' stop-color='#E7DACB'/></linearGradient><radialGradient id='a3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#FFF7E9' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF7E9' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M104 20 C154 12 212 15 232 24 C240 62 239 112 231 140 C188 149 138 148 100 139 C94 102 96 54 104 20 Z' fill='url(#a2)'/><circle cx='198' cy='58' r='40' fill='url(#a3)'/><path d='M186 46 C196 40 210 43 214 54 C218 66 210 76 199 76 C205 66 199 50 186 46 Z' fill='#FFF6E4' opacity='0.95'/><path d='M104 22 C118 46 112 96 106 140 C96 140 92 96 96 44 Z' fill='#E9D9C8' opacity='0.85'/><path d='M226 20 C238 60 236 112 228 142 C240 140 246 96 242 40 Z' fill='#E9D9C8' opacity='0.7'/><path d='M0 148 C90 138 230 140 320 150 L320 200 L0 200 Z' fill='#E2CFBC'/><path d='M52 168 C48 132 60 112 84 110 C108 108 122 126 120 152 C118 170 108 178 92 178 C74 178 56 178 52 168 Z' fill='#C6A894'/><path d='M56 110 C60 90 74 82 92 84 C110 86 118 100 116 114 C100 106 74 104 56 110 Z' fill='#B39682'/><path d='M46 178 C60 186 108 188 128 176' stroke='#A98B77' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M100 112 C118 108 136 116 140 132 C126 130 110 124 100 112 Z' fill='#EDD9DC' opacity='0.9'/><path d='M262 150 C258 130 266 116 274 112 C272 128 272 140 276 150 Z' fill='#9FB39A'/><path d='M276 150 C284 132 296 126 304 128 C296 138 288 146 284 152 Z' fill='#ACC0A6'/><path d='M266 150 C272 146 286 146 292 152 C290 168 288 176 286 180 C276 180 270 172 266 150 Z' fill='#CBB49F'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the pediatrician's lot",
+   "text": "She cried in the parking lot, fixed her face in the mirror, and carried him in smiling.",
+   "phrases": [
+    "She cried in the parking lot.",
+    "Fixed her face in the mirror.",
+    "Then carried him in, smiling."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E4D6C6'/><stop offset='1' stop-color='#D6C3B0'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#C9D4DD'/><stop offset='1' stop-color='#EADCCB'/></linearGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF2E7'/><stop offset='1' stop-color='#EADACB'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M18 16 C110 8 220 10 300 20 C306 62 304 106 298 138 C210 148 96 147 22 136 C14 100 12 54 18 16 Z' fill='url(#b2)'/><path d='M22 130 C90 110 150 118 200 104 C244 92 276 96 300 104 C302 122 300 132 298 138 C210 148 96 147 22 136 Z' fill='#B9C6D0' opacity='0.75'/><path d='M60 22 C64 60 62 104 58 138' stroke='#DCCBBA' stroke-width='5' fill='none' opacity='0.7'/><path d='M160 14 C164 58 162 106 158 142' stroke='#DCCBBA' stroke-width='5' fill='none' opacity='0.7'/><path d='M258 16 C262 60 260 106 256 140' stroke='#DCCBBA' stroke-width='5' fill='none' opacity='0.7'/><path d='M0 146 C100 136 226 138 320 148 L320 200 L0 200 Z' fill='#CFB9A4'/><path d='M74 172 C72 156 80 148 96 147 C112 146 120 154 119 172 C118 184 108 190 96 190 C84 190 75 184 74 172 Z' fill='#F6EDE2'/><path d='M119 158 C132 156 136 166 128 172 C124 174 120 172 119 168 Z' fill='#F6EDE2'/><path d='M76 158 C88 152 108 152 118 158 C110 162 86 163 76 158 Z' fill='#C9A79A' opacity='0.7'/><path d='M170 190 C168 166 174 146 184 140 C194 146 198 166 196 190 Z' fill='#F2E5D6'/><path d='M178 140 C180 132 188 132 190 140 C186 143 182 143 178 140 Z' fill='#E3C3C6'/><path d='M172 168 C180 164 188 164 195 168' stroke='#D9C3B1' stroke-width='3' fill='none'/><path d='M244 190 C240 168 246 152 256 148 C266 152 270 168 268 190 Z' fill='#DCE3E7' opacity='0.9'/><path d='M248 158 C256 154 262 154 266 158' stroke='#C6D0D6' stroke-width='3' fill='none'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 6:40 AM",
+   "text": "Everyone told her she was tired. What she actually felt was scared of herself.",
+   "phrases": [
+    "\"You're just tired, that's all.\"",
+    "\"Every new mom feels like this.\"",
+    "\"I'm not tired. I'm scared of myself.\""
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#D9CDC0'/><stop offset='1' stop-color='#C8B9AA'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F4EEE5'/><stop offset='1' stop-color='#DFD3C6'/></linearGradient><radialGradient id='c3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F6E9D2' stop-opacity='0.9'/><stop offset='1' stop-color='#F6E9D2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 40 C80 26 240 28 320 42 L320 200 L0 200 Z' fill='url(#c2)'/><path d='M8 92 C70 68 150 66 210 78 C266 89 300 104 320 118 L320 200 L0 200 Z' fill='#E7DACC'/><path d='M22 128 C70 100 140 96 196 108 C250 120 292 140 320 158 L320 200 L0 200 Z' fill='#DCCCBC'/><path d='M60 172 C74 140 118 128 158 136 C196 144 214 164 210 186 C160 194 96 190 60 172 Z' fill='#EFE4D6'/><circle cx='196' cy='120' r='40' fill='url(#c3)'/><path d='M176 96 C190 90 208 94 212 106 C216 120 210 140 200 146 C188 150 174 142 172 128 C170 114 172 100 176 96 Z' fill='#EDE2D4'/><path d='M180 100 C190 96 204 99 207 108 C210 118 205 134 198 138 C190 141 180 135 179 124 C178 114 178 102 180 100 Z' fill='#F7EFDF'/><path d='M246 186 C242 160 248 142 258 138 C268 142 274 160 270 186 Z' fill='#B8C6BE' opacity='0.85'/><path d='M254 142 C248 128 250 116 258 112 C264 118 264 132 260 142 Z' fill='#9FB4A6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "she wasn't imagining it",
+   "text": "About *1 in 8* new mothers report postpartum depression symptoms (CDC, PRAMS).",
+   "number": "1 in 8",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6EADB'/><stop offset='1' stop-color='#E6D4C1'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF4EA'/><stop offset='1' stop-color='#EADDCD'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M0 52 C90 38 230 40 320 54 L320 128 C226 116 92 116 0 130 Z' fill='#F1E5D4' opacity='0.8'/><path d='M0 128 C92 114 226 114 320 128 L320 200 L0 200 Z' fill='#DCC7B1'/><g fill='url(#d2)'><path d='M42 96 C42 84 50 78 60 78 C70 78 78 84 78 96 C78 110 70 118 60 118 C50 118 42 110 42 96 Z'/><path d='M96 94 C96 82 104 76 114 76 C124 76 132 82 132 94 C132 108 124 116 114 116 C104 116 96 108 96 94 Z'/><path d='M150 96 C150 84 158 78 168 78 C178 78 186 84 186 96 C186 110 178 118 168 118 C158 118 150 110 150 96 Z'/><path d='M204 94 C204 82 212 76 222 76 C232 76 240 82 240 94 C240 108 232 116 222 116 C212 116 204 108 204 94 Z'/><path d='M258 96 C258 84 266 78 276 78 C286 78 294 84 294 96 C294 110 286 118 276 118 C266 118 258 110 258 96 Z'/><path d='M70 148 C70 138 77 132 86 132 C95 132 102 138 102 148 C102 160 95 166 86 166 C77 166 70 160 70 148 Z'/><path d='M232 148 C232 138 239 132 248 132 C257 132 264 138 264 148 C264 160 257 166 248 166 C239 166 232 160 232 148 Z'/></g><path d='M150 150 C150 138 158 132 168 132 C178 132 186 138 186 150 C186 164 178 172 168 172 C158 172 150 164 150 150 Z' fill='#D89AA0'/><path d='M186 144 C196 143 199 152 191 157 C188 158 186 156 186 153 Z' fill='#D89AA0'/><path d='M168 128 C170 118 176 112 184 112 C180 122 174 128 168 130 Z' fill='#B4C4AC'/><path d='M78 90 C88 89 91 98 83 103 C80 104 78 102 78 99 Z' fill='url(#d2)'/><path d='M240 88 C250 87 253 96 245 101 C242 102 240 100 240 97 Z' fill='url(#d2)'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she did that week",
+   "text": "Tonight: say one scary thought out loud, and walk ten minutes with the stroller.",
+   "phrases": [
+    "Ask for the EPDS at your next visit — 10 questions (ACOG 2018).",
+    "Say one scary thought out loud; naming it takes the power out.",
+    "Lentils or spinach with a squeeze of lemon absorbs more iron (NIH ODS).",
+    "Ten minutes with the stroller counts toward WHO's 150 a week."
+   ],
+   "attribution": "— Karen Kleiman, Good Moms Have Scary Thoughts",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF0E2'/><stop offset='1' stop-color='#EBD9C5'/></linearGradient><linearGradient id='e2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF3DE'/><stop offset='1' stop-color='#F6DCC6'/></linearGradient><radialGradient id='e3' cx='0.5' cy='0.4' r='0.6'><stop offset='0' stop-color='#FFF0D2' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF0D2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M100 18 C152 10 214 13 236 22 C244 60 242 110 234 138 C190 147 138 146 98 137 C92 100 94 52 100 18 Z' fill='url(#e2)'/><circle cx='170' cy='62' r='52' fill='url(#e3)'/><path d='M100 20 C114 44 108 96 102 138 C94 138 90 96 94 42 Z' fill='#EFDCC8' opacity='0.9'/><path d='M234 20 C244 60 242 110 234 140 C246 138 250 94 246 40 Z' fill='#EFDCC8' opacity='0.8'/><path d='M0 142 C96 132 228 134 320 144 L320 200 L0 200 Z' fill='#E0C8AE'/><path d='M62 186 C60 166 68 156 84 155 C100 154 108 164 107 186 C106 194 96 198 84 198 C72 198 63 194 62 186 Z' fill='#FFF8EE'/><path d='M107 166 C122 164 126 176 116 182 C112 184 108 182 107 178 Z' fill='#FFF8EE'/><path d='M74 148 C70 136 76 128 80 122 C84 130 80 140 82 148 Z' fill='#F0E0CE' opacity='0.9'/><path d='M90 146 C86 134 92 126 96 120 C100 128 96 138 98 146 Z' fill='#F0E0CE' opacity='0.75'/><path d='M148 196 C146 180 154 172 180 170 C206 168 220 174 222 190 C200 198 168 200 148 196 Z' fill='#FBF3E7'/><path d='M152 182 C170 176 196 175 214 180' stroke='#E5CDB3' stroke-width='3' fill='none'/><path d='M158 190 C176 184 200 183 214 188' stroke='#E5CDB3' stroke-width='3' fill='none'/><path d='M226 172 C242 162 254 158 262 158 C254 168 240 178 230 182 Z' fill='#C9A18C'/><path d='M270 190 C266 168 272 152 282 148 C292 152 296 168 292 190 Z' fill='#CBB49F'/><path d='M278 150 C272 134 276 120 286 114 C292 124 290 140 284 150 Z' fill='#A9BCA2'/><path d='M286 152 C296 142 308 140 314 142 C306 152 296 158 288 158 Z' fill='#BACFB2'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "share this with her",
+   "text": "Eleven weeks was too long to wait. Follow *@aiforheratx* — women's health, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF2E0'/><stop offset='0.55' stop-color='#F8DFC9'/><stop offset='1' stop-color='#EFCFC4'/></linearGradient><radialGradient id='f2' cx='0.62' cy='0.55' r='0.5'><stop offset='0' stop-color='#FFF4DA' stop-opacity='1'/><stop offset='1' stop-color='#FFF4DA' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><circle cx='198' cy='110' r='76' fill='url(#f2)'/><path d='M172 96 C186 88 206 92 212 106 C218 122 206 136 190 136 C176 136 166 124 168 110 C169 104 170 98 172 96 Z' fill='#FFF6E2' opacity='0.95'/><path d='M0 120 C60 108 118 116 168 126 C226 138 280 136 320 128 L320 200 L0 200 Z' fill='#E7C9B4'/><path d='M0 148 C70 136 130 146 190 154 C246 162 292 158 320 152 L320 200 L0 200 Z' fill='#D8B49F'/><path d='M0 176 C80 164 160 172 236 180 C276 184 302 184 320 180 L320 200 L0 200 Z' fill='#C69C88'/><path d='M46 178 C42 152 50 132 62 126 C74 132 80 152 76 178 Z' fill='#B98C77' opacity='0.9'/><path d='M58 130 C50 112 54 96 66 88 C74 98 72 118 64 130 Z' fill='#9FB79C'/><path d='M64 128 C76 112 92 106 102 108 C92 122 78 132 68 136 Z' fill='#B3C9AB'/><path d='M52 122 C40 112 34 98 36 88 C48 96 56 110 58 122 Z' fill='#A8BFA0'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  }
+ ]
+}
