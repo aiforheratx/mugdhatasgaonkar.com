@@ -1,0 +1,79 @@
+{
+ "title": "GLP-1 myth flip — the pill + tirzepatide label",
+ "caption": "Myth: your GLP-1 doesn't touch your birth control. Tirzepatide (Mounjaro/Zepbound) label says an oral pill can work less well — back it up for 4 weeks after starting and after each dose bump. Ask your pharmacist.\nWhich myth next? 👇\nwww.aiforheratx.org\n#glp1 #womenshealth #birthcontrol #zepbound #mounjaro #womenshealthmatters",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "dose went up Tuesday",
+   "text": "On *Zepbound* — is my pill still protecting me? The label says maybe not.",
+   "suggest": "→ Use a barrier *4 weeks* (FDA label)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDE4EE'/><stop offset='0.6' stop-color='#F8EEE6'/><stop offset='1' stop-color='#FBF4EC'/></linearGradient><radialGradient id='moon1' cx='0.74' cy='0.18' r='0.55'><stop offset='0' stop-color='#FFFFFF' stop-opacity='0.9'/><stop offset='1' stop-color='#FFFFFF' stop-opacity='0'/></radialGradient><linearGradient id='shelf1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E8D2BC'/><stop offset='1' stop-color='#D3B49B'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky1)'/><circle cx='236' cy='40' r='90' fill='url(#moon1)'/><circle cx='236' cy='40' r='17' fill='#FFFBF3' opacity='0.85'/><path d='M0 0 C22 34 12 74 26 112 C36 142 20 172 30 200 L0 200 Z' fill='#E2D3E0' opacity='0.75'/><path d='M30 0 C50 40 38 82 52 124 C62 156 48 178 56 200 L30 200 C20 168 36 140 26 110 C14 72 24 34 6 0 Z' fill='#EADCE6' opacity='0.7'/><path d='M96 138 C160 132 232 134 300 138 C302 145 302 150 300 156 C232 152 160 150 96 156 Z' fill='url(#shelf1)'/><path d='M118 108 C118 100 124 96 132 96 L176 96 C184 96 189 101 188 109 L187 133 C187 138 182 140 176 139 L128 139 C121 139 117 136 118 129 Z' fill='#F6D9DC'/><circle cx='134' cy='110' r='5' fill='#FBF4EC'/><circle cx='150' cy='110' r='5' fill='#FBF4EC'/><circle cx='166' cy='110' r='5' fill='#FBF4EC'/><circle cx='134' cy='126' r='5' fill='#FBF4EC'/><circle cx='150' cy='126' r='5' fill='#FBF4EC'/><circle cx='166' cy='126' r='5' fill='#FBF4EC'/><path d='M214 138 C210 120 214 96 220 78 C223 69 233 68 237 77 C243 96 245 120 242 138 Z' fill='#DCE3E9'/><path d='M222 90 C227 88 234 88 239 90 L238 100 C233 98 227 98 223 100 Z' fill='#C98A6B' opacity='0.8'/><path d='M276 138 C272 126 274 116 280 110 C288 116 290 128 288 138 Z' fill='#E2D8CD'/><path d='M284 112 C292 100 302 96 310 98 C304 108 294 114 284 116 Z' fill='#BFCBB5'/><path d='M282 112 C274 102 268 92 268 84 C278 88 284 98 286 110 Z' fill='#AFC0A6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "11:40 pm, kitchen counter",
+   "text": "Renee is 34, two kids, one loud dog. Nobody at the clinic mentioned her birth control.",
+   "phrases": [
+    "Renee's 34. Two kids, one loud dog.",
+    "Her dose went up Tuesday.",
+    "Nobody mentioned her birth control."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9E1EC'/><stop offset='0.55' stop-color='#F6ECE4'/><stop offset='1' stop-color='#FBF4EC'/></linearGradient><radialGradient id='glow2' cx='0.5' cy='0.72' r='0.42'><stop offset='0' stop-color='#FFF0D8' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF0D8' stop-opacity='0'/></radialGradient><linearGradient id='counter2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D1BA'/><stop offset='1' stop-color='#CFAF93'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky2)'/><path d='M0 0 C60 6 120 2 180 8 C240 14 288 8 320 12 L320 96 C250 90 180 94 110 90 C70 88 30 92 0 88 Z' fill='#E4DAE6' opacity='0.55'/><ellipse cx='160' cy='146' rx='120' ry='58' fill='url(#glow2)'/><path d='M0 148 C90 140 210 140 320 148 L320 200 L0 200 Z' fill='url(#counter2)'/><path d='M104 150 C100 126 104 104 112 90 C130 84 156 84 174 90 C182 105 186 128 182 150 Z' fill='#EFE0CE'/><path d='M112 90 C130 82 156 82 174 90 C158 96 128 96 112 90 Z' fill='#E0CBB2'/><path d='M124 108 C140 104 156 104 168 108 L166 132 C154 129 138 129 126 132 Z' fill='#F6D9DC' opacity='0.85'/><path d='M204 150 C202 136 206 126 212 122 C220 126 224 137 222 150 Z' fill='#DDE6EA'/><path d='M210 122 C214 118 220 118 222 122 C218 124 213 124 210 122 Z' fill='#EFF5F7'/><path d='M244 150 C240 142 240 130 246 124 C256 122 268 126 272 134 C274 141 272 147 268 150 Z' fill='#E8DDD0'/><rect x='250' y='128' width='20' height='14' rx='4' fill='#F9F0E4'/><path d='M60 150 C56 140 58 128 64 122 C72 126 76 138 74 150 Z' fill='#BFCBB5'/><path d='M64 122 C60 110 62 100 68 94 C74 102 74 114 70 124 Z' fill='#AFC0A6'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "why it happens",
+   "text": "Tirzepatide slows how fast your stomach empties. A swallowed pill can absorb less because of it.",
+   "phrases": [
+    "The shot slows your stomach down.",
+    "That's part of how it keeps you full.",
+    "A swallowed pill can absorb less."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7EDE2'/><stop offset='1' stop-color='#FCF5EC'/></linearGradient><radialGradient id='sun3' cx='0.22' cy='0.2' r='0.5'><stop offset='0' stop-color='#FFF3DC' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF3DC' stop-opacity='0'/></radialGradient><linearGradient id='honey3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9B579'/><stop offset='1' stop-color='#D89658'/></linearGradient><linearGradient id='table3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9D4BD'/><stop offset='1' stop-color='#D2B295'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky3)'/><ellipse cx='70' cy='40' rx='120' ry='90' fill='url(#sun3)'/><path d='M188 0 C196 40 192 88 200 132 L300 132 C306 88 302 40 310 0 Z' fill='#F1E3D3' opacity='0.7'/><path d='M0 152 C100 144 220 144 320 152 L320 200 L0 200 Z' fill='url(#table3)'/><path d='M118 60 C118 50 126 44 138 44 C150 44 158 50 158 60 C158 72 152 80 148 88 C144 96 143 104 143 110 L133 110 C133 102 132 94 128 86 C124 78 118 71 118 60 Z' fill='#F6E7D2' opacity='0.9'/><path d='M136 110 C136 122 134 134 132 146 C131 150 135 152 137 148 C140 134 142 122 142 110 Z' fill='url(#honey3)'/><ellipse cx='137' cy='150' rx='7' ry='4' fill='#E9B579'/><path d='M180 152 C176 132 178 116 186 106 C202 100 224 100 238 108 C244 122 246 138 242 152 Z' fill='#F3DFC8'/><path d='M186 106 C202 98 224 98 238 108 C222 114 200 114 186 106 Z' fill='#E6CDB0'/><path d='M204 100 C200 88 202 78 208 72 C212 80 212 92 208 102 Z' fill='#E7D7C2' opacity='0.8'/><path d='M214 100 C214 86 218 76 226 70 C228 82 224 94 218 102 Z' fill='#EFE1CE' opacity='0.8'/><path d='M268 152 C264 142 266 130 272 124 C282 126 288 138 286 152 Z' fill='#BFCBB5'/><path d='M272 124 C270 110 274 100 282 94 C286 104 284 118 278 126 Z' fill='#AFC0A6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "FDA label · tirzepatide",
+   "number": "4 weeks",
+   "text": "Back up the pill for four weeks after you start, and four weeks after every dose increase.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF0E2'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='sun4' cx='0.78' cy='0.24' r='0.55'><stop offset='0' stop-color='#FFEFD4' stop-opacity='0.95'/><stop offset='1' stop-color='#FFEFD4' stop-opacity='0'/></radialGradient><linearGradient id='pot4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E3A98A'/><stop offset='1' stop-color='#C9835F'/></linearGradient><linearGradient id='sill4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAD6C0'/><stop offset='1' stop-color='#D0B096'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky4)'/><ellipse cx='244' cy='48' rx='120' ry='96' fill='url(#sun4)'/><path d='M60 0 C64 40 60 92 66 140 L262 140 C268 92 264 40 268 0 Z' fill='#F6E9DA' opacity='0.85'/><path d='M162 0 C164 46 162 96 164 140' stroke='#E3CDB4' stroke-width='4' fill='none'/><path d='M0 154 C100 146 220 146 320 154 L320 200 L0 200 Z' fill='url(#sill4)'/><path d='M126 154 C122 140 124 128 130 122 C146 118 168 118 182 124 C188 132 188 146 184 154 Z' fill='url(#pot4)'/><path d='M154 122 C150 106 152 92 158 82 C166 90 168 106 162 122 Z' fill='#B8C8AC'/><path d='M158 96 C146 88 136 78 134 66 C148 68 158 78 164 92 Z' fill='#C6D3B8'/><path d='M160 92 C172 82 184 76 196 76 C190 88 178 96 166 100 Z' fill='#AEC0A2'/><path d='M156 112 C144 108 134 100 130 90 C142 90 152 98 160 108 Z' fill='#C0D0B4'/><path d='M46 154 C42 146 44 136 50 132 C58 136 62 146 60 154 Z' fill='#E7DACB'/><path d='M254 154 C250 146 252 134 260 130 C270 132 276 144 274 154 Z' fill='#F1DDD9'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what Renee did that night",
+   "text": "Ask your pharmacist about a non-oral backup. Add two strength sessions this week.",
+   "phrases": [
+    "Ask the pharmacist for a non-oral backup.",
+    "Then two strength sessions this week.",
+    "Muscle is worth protecting on these meds."
+   ],
+   "attribution": "— FDA tirzepatide label · WHO activity guidelines, 2020",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDECE0'/><stop offset='0.6' stop-color='#FCF2E6'/><stop offset='1' stop-color='#FDF7F0'/></linearGradient><radialGradient id='sun5' cx='0.3' cy='0.24' r='0.6'><stop offset='0' stop-color='#FFE7C6' stop-opacity='0.95'/><stop offset='1' stop-color='#FFE7C6' stop-opacity='0'/></radialGradient><linearGradient id='mat5' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#F0C7C7'/><stop offset='1' stop-color='#E4A6A6'/></linearGradient><linearGradient id='floor5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDD9C2'/><stop offset='1' stop-color='#D6B79A'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky5)'/><ellipse cx='96' cy='50' rx='130' ry='100' fill='url(#sun5)'/><path d='M0 20 C60 10 120 26 180 18 C240 10 290 22 320 16 L320 100 C260 106 200 96 140 102 C90 107 40 98 0 104 Z' fill='#F7E6D6' opacity='0.6'/><path d='M0 150 C100 142 220 142 320 150 L320 200 L0 200 Z' fill='url(#floor5)'/><path d='M116 150 C112 132 118 118 130 112 C146 108 166 110 176 118 C184 128 186 140 182 150 Z' fill='#F5E2CC'/><path d='M176 118 C188 116 196 122 194 130 C192 138 184 140 178 138 Z' fill='#F5E2CC'/><path d='M132 108 C130 96 134 88 140 82 C144 90 142 100 138 110 Z' fill='#F3E7DA' opacity='0.85'/><path d='M148 106 C148 92 154 82 162 78 C164 90 158 102 152 110 Z' fill='#F7EDE2' opacity='0.8'/><path d='M40 150 C36 138 44 130 60 128 C78 126 92 134 92 146 C92 149 90 150 88 150 Z' fill='url(#mat5)'/><path d='M226 150 C222 142 226 134 234 134 C242 134 246 142 244 150 Z' fill='#C9C0B4'/><path d='M244 142 C256 138 268 138 278 142 C282 144 282 148 278 150 C266 152 254 152 244 150 Z' fill='#B9AFA3'/><path d='M280 150 C276 142 280 134 288 134 C296 134 300 142 298 150 Z' fill='#C9C0B4'/><path d='M22 150 C18 140 20 128 26 122 C34 126 38 138 36 150 Z' fill='#BFCBB5'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "myth flipped",
+   "text": "Which myth should we flip next? Follow @aiforheratx for women's health, explained plainly.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDE8DA'/><stop offset='0.55' stop-color='#FCF1E6'/><stop offset='1' stop-color='#FDF7F0'/></linearGradient><radialGradient id='sun6' cx='0.72' cy='0.26' r='0.55'><stop offset='0' stop-color='#FFDFBE' stop-opacity='0.95'/><stop offset='1' stop-color='#FFDFBE' stop-opacity='0'/></radialGradient><linearGradient id='sill6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EBD7C1'/><stop offset='1' stop-color='#D4B396'/></linearGradient></defs><rect width='320' height='200' fill='url(#sky6)'/><ellipse cx='230' cy='52' rx='128' ry='98' fill='url(#sun6)'/><circle cx='230' cy='52' r='20' fill='#FFF6E8' opacity='0.9'/><path d='M320 0 C298 36 308 76 294 114 C284 144 300 172 290 200 L320 200 Z' fill='#F6E0D2' opacity='0.7'/><path d='M290 0 C270 42 282 84 268 126 C258 158 272 180 264 200 L290 200 C300 168 284 140 294 110 C306 72 296 34 314 0 Z' fill='#F9E9DC' opacity='0.65'/><path d='M0 150 C100 142 220 142 320 150 L320 200 L0 200 Z' fill='url(#sill6)'/><path d='M78 150 C74 134 78 122 86 116 C104 112 126 114 136 122 C142 132 142 142 138 150 Z' fill='#F7E6D2'/><path d='M136 122 C148 120 156 126 154 134 C152 142 144 144 138 142 Z' fill='#F7E6D2'/><path d='M96 112 C94 100 98 90 104 84 C108 92 106 104 102 114 Z' fill='#F4E9DC' opacity='0.85'/><path d='M112 110 C112 96 118 86 126 82 C128 94 122 106 116 114 Z' fill='#F8EFE4' opacity='0.8'/><path d='M172 150 C170 140 176 132 190 130 C206 128 218 134 218 142 C218 146 216 150 212 150 Z' fill='#F6D9DC'/><path d='M190 130 C196 122 206 120 212 124 C208 130 200 132 192 132 Z' fill='#EFC6CB'/><path d='M36 150 C32 140 34 128 40 122 C48 126 52 138 50 150 Z' fill='#BFCBB5'/><path d='M40 122 C36 110 38 100 44 94 C50 102 50 114 46 124 Z' fill='#AFC0A6'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
