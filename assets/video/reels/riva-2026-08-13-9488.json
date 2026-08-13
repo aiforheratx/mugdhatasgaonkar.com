@@ -1,0 +1,81 @@
+{
+ "title": "Not bad enough for therapy — Nandini, 36 (USPSTF 2019)",
+ "caption": "\"I'm not bad enough for therapy.\" US guidelines say otherwise: counseling (CBT or IPT) is recommended BEFORE crisis, not after (USPSTF, 2019).\nSend this to her — and tell me, who told you to wait?\nwww.aiforheratx.org\n#womensmentalhealth #postpartumsupport #therapyworks #maternalmentalhealth #womenshealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "7 months postpartum. 2 a.m.",
+   "text": "I'm not *bad enough* for therapy.",
+   "suggest": "→ Ask for *CBT or IPT* (USPSTF 2019)",
+   "mood": "dim",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"h1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#ece4f0\"/><stop offset=\"1\" stop-color=\"#faf2e8\"/></linearGradient><radialGradient id=\"h2\" cx=\"0.74\" cy=\"0.26\" r=\"0.55\"><stop offset=\"0\" stop-color=\"#fff7e4\" stop-opacity=\"0.95\"/><stop offset=\"1\" stop-color=\"#fff7e4\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"h3\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#e8dbe8\"/><stop offset=\"1\" stop-color=\"#d2bdd0\"/></linearGradient><linearGradient id=\"h4\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f7e9e6\"/><stop offset=\"1\" stop-color=\"#eddad6\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#h1)\"/><path d=\"M188 16q52-9 104 3 10 46 2 96-56 9-108 2-8-52 2-101z\" fill=\"#e6edf3\" opacity=\"0.95\"/><circle cx=\"254\" cy=\"54\" r=\"16\" fill=\"#fdf6e5\"/><path d=\"M188 16q52-9 104 3 10 46 2 96-56 9-108 2-8-52 2-101z\" fill=\"url(#h2)\"/><path d=\"M240 18q3 48 0 97\" stroke=\"#c9b6c6\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\"/><path d=\"M184 12q18 52-5 104-15-6-12-54 3-36 17-50z\" fill=\"url(#h3)\" opacity=\"0.9\"/><path d=\"M14 152q58-30 128-14 34 8 34 28-98 16-172 4z\" fill=\"url(#h4)\"/><path d=\"M30 146q40-18 84-10\" stroke=\"#e0c6c2\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\"/><path d=\"M40 128q20-16 42-10 16 5 14 18-28 8-56-8z\" fill=\"#fbf1ea\"/><path d=\"M196 158q14-6 26 0 2 20-2 26-12 4-24 0-2-16 0-26z\" fill=\"#efe3d6\"/><path d=\"M200 162q10-4 18 0 1 9 0 12-9 3-18 0-1-8 0-12z\" fill=\"#fdf3d8\" opacity=\"0.95\"/><path d=\"M296 170q-4-26 4-42 8 10 4 42z\" fill=\"#b7c5aa\"/><path d=\"M300 140q12-10 18-4-8 10-18 8z\" fill=\"#c6d2b6\"/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the family group chat",
+   "text": "Everyone told her to wait until it got bad. Eleven months later, it did.",
+   "phrases": [
+    "You're just tired. Everyone's tired.",
+    "Wait till it gets really bad, then go.",
+    "She waited. Nothing about waiting helped."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"c1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#eae2ee\"/><stop offset=\"1\" stop-color=\"#f9f1e7\"/></linearGradient><radialGradient id=\"c2\" cx=\"0.3\" cy=\"0.62\" r=\"0.45\"><stop offset=\"0\" stop-color=\"#fdf2c9\" stop-opacity=\"0.85\"/><stop offset=\"1\" stop-color=\"#fdf2c9\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"c3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f6e8e5\"/><stop offset=\"1\" stop-color=\"#e9d5d1\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#c1)\"/><path d=\"M196 14q50-8 100 2 9 44 2 92-54 8-104 2-8-50 2-96z\" fill=\"#e6edf3\" opacity=\"0.9\"/><circle cx=\"258\" cy=\"48\" r=\"13\" fill=\"#fdf6e5\" opacity=\"0.9\"/><path d=\"M192 10q17 50-5 100-14-6-11-52 3-34 16-48z\" fill=\"#e0d2e0\" opacity=\"0.85\"/><path d=\"M0 128q60 22 140 10 90-14 180 6v56H0z\" fill=\"url(#c3)\"/><path d=\"M60 156q34-14 56 6 4 26-6 34-38 8-54-8-6-18 4-32z\" fill=\"url(#c2)\"/><path d=\"M74 108q26-8 40 4 3 40-2 54-24 8-42-2-3-42 4-56z\" fill=\"#f4ecdf\" stroke=\"#e0d0c4\" stroke-width=\"1.5\"/><path d=\"M80 116q22-6 30 2 2 32-2 42-18 6-30-2-2-32 2-42z\" fill=\"#fdf5d6\"/><path d=\"M232 150q22-6 34 4 2 16-2 22-20 6-34-2-2-16 2-24z\" fill=\"#fbf2ea\" opacity=\"0.95\"/><path d=\"M240 176q-6 10-12 12 2-8 2-12z\" fill=\"#fbf2ea\" opacity=\"0.95\"/><path d=\"M282 168q-4-24 4-38 8 10 3 38z\" fill=\"#b7c5aa\"/><path d=\"M286 142q11-9 17-3-8 9-17 7z\" fill=\"#c6d2b6\"/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "the wait nobody names",
+   "text": "The median wait from first symptoms to first treatment is 6 to 8 years for mood disorders.",
+   "number": "6-8 years",
+   "mood": "neutral",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"s1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f2eaf0\"/><stop offset=\"1\" stop-color=\"#fbf3e8\"/></linearGradient><radialGradient id=\"s2\" cx=\"0.7\" cy=\"0.34\" r=\"0.6\"><stop offset=\"0\" stop-color=\"#fff2cf\" stop-opacity=\"0.9\"/><stop offset=\"1\" stop-color=\"#fff2cf\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"s3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f0ded8\"/><stop offset=\"1\" stop-color=\"#e2c9c2\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#s1)\"/><path d=\"M190 12q54-8 106 4 10 48 2 98-58 8-110 2-8-54 2-104z\" fill=\"#eaf0f4\"/><path d=\"M190 12q54-8 106 4 10 48 2 98-58 8-110 2-8-54 2-104z\" fill=\"url(#s2)\"/><path d=\"M244 14q3 50 0 100\" stroke=\"#cbb9c6\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/><path d=\"M186 8q18 54-6 108-14-6-11-56 3-36 17-52z\" fill=\"#e3d5e2\" opacity=\"0.85\"/><path d=\"M0 140q70 16 156 6 84-10 164 8v46H0z\" fill=\"#f6ead9\"/><path d=\"M56 148q10-40 34-40 24 0 32 40-32 10-66 0z\" fill=\"url(#s3)\"/><path d=\"M62 148q34 6 58 0 6 22 2 38-32 8-64 0-2-18 4-38z\" fill=\"#efdcd4\"/><path d=\"M80 108q6-14 12-14 6 0 10 12-10 6-22 2z\" fill=\"#d9bcb4\"/><path d=\"M264 172q-6-34 5-54 10 14 4 54z\" fill=\"#b3c3a4\"/><path d=\"M268 134q14-12 22-4-10 12-22 9z\" fill=\"#c6d2b6\"/><path d=\"M266 148q-14-10-22-3 10 10 22 6z\" fill=\"#c6d2b6\" opacity=\"0.9\"/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "therapist number two",
+   "text": "Her first therapist felt wrong, so she switched. The fit itself predicts whether therapy works.",
+   "phrases": [
+    "The first one felt like a form to fill in.",
+    "She almost decided therapy wasn't for her.",
+    "She booked a different one instead.",
+    "Across ~300 studies, the bond predicts the outcome (Psychotherapy, 2018)."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"t1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f6eeee\"/><stop offset=\"1\" stop-color=\"#fbf4e9\"/></linearGradient><radialGradient id=\"t2\" cx=\"0.72\" cy=\"0.3\" r=\"0.55\"><stop offset=\"0\" stop-color=\"#ffefc9\" stop-opacity=\"0.9\"/><stop offset=\"1\" stop-color=\"#ffefc9\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"t3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#e9d3ce\"/><stop offset=\"1\" stop-color=\"#d9bcb6\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#t1)\"/><path d=\"M196 10q52-8 104 4 9 46 1 94-56 8-108 2-8-52 3-100z\" fill=\"#ecf1f4\"/><path d=\"M196 10q52-8 104 4 9 46 1 94-56 8-108 2-8-52 3-100z\" fill=\"url(#t2)\"/><path d=\"M192 6q18 52-6 104-14-6-11-54 3-35 17-50z\" fill=\"#e6d8e4\" opacity=\"0.8\"/><path d=\"M0 132q66 18 150 8 82-10 170 8v52H0z\" fill=\"#f4e7d7\"/><path d=\"M24 116q20-26 42-24 22 2 26 26-2 40-8 52-30 8-58 0-6-22-2-54z\" fill=\"url(#t3)\"/><path d=\"M118 122q20-24 40-22 20 2 24 24-2 36-8 48-28 8-54 0-6-20-2-50z\" fill=\"#e6d0cb\"/><path d=\"M78 158q26-8 42 0 2 14-2 20-22 6-42-2-2-12 2-18z\" fill=\"#efe0cd\"/><path d=\"M92 148q10-4 16 0 0 8-2 10-8 3-15 0-1-7 1-10z\" fill=\"#fdf7e6\"/><path d=\"M96 138q4-10 10-9-1 7-4 10z\" fill=\"#e7ddd0\" opacity=\"0.9\"/><path d=\"M112 148q9-4 15 0 0 8-2 10-8 3-14 0-1-7 1-10z\" fill=\"#fdf7e6\"/><path d=\"M290 170q-6-30 4-48 10 12 4 48z\" fill=\"#b3c3a4\"/><path d=\"M294 138q13-11 20-4-9 11-20 8z\" fill=\"#c6d2b6\"/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, before you talk yourself out",
+   "text": "Book one 15-minute consult call and ask, \"Do you do CBT or IPT?\" You do not have to be in crisis first.",
+   "phrases": [
+    "Book one free 15-minute consult call.",
+    "Ask her straight: do you do CBT or IPT?",
+    "If the fit feels wrong, switch — that is allowed.",
+    "Walk 20 minutes tomorrow; WHO asks for 150 a week."
+   ],
+   "attribution": "— Lori Gottlieb, Maybe You Should Talk to Someone",
+   "mood": "warm",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"k1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#fbeee2\"/><stop offset=\"1\" stop-color=\"#fdf5ea\"/></linearGradient><radialGradient id=\"k2\" cx=\"0.74\" cy=\"0.3\" r=\"0.6\"><stop offset=\"0\" stop-color=\"#ffe6b4\" stop-opacity=\"0.95\"/><stop offset=\"1\" stop-color=\"#ffe6b4\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"k3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f7e6df\"/><stop offset=\"1\" stop-color=\"#e6c9bd\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#k1)\"/><path d=\"M198 8q50-8 100 4 9 46 1 94-54 8-104 2-8-52 3-100z\" fill=\"#f3eee2\"/><path d=\"M198 8q50-8 100 4 9 46 1 94-54 8-104 2-8-52 3-100z\" fill=\"url(#k2)\"/><circle cx=\"258\" cy=\"46\" r=\"18\" fill=\"#ffe9b8\" opacity=\"0.9\"/><path d=\"M194 4q18 52-6 104-14-6-11-54 3-35 17-50z\" fill=\"#eddbd2\" opacity=\"0.85\"/><path d=\"M0 138q70 14 152 4 84-10 168 10v48H0z\" fill=\"#f0dcc6\"/><path d=\"M44 152q30-10 54 0 4 24-2 34-30 8-56 0-4-22 4-34z\" fill=\"url(#k3)\"/><path d=\"M98 160q14-6 18 4-2 10-16 10z\" fill=\"#e3c6b8\"/><path d=\"M60 138q-6-18 4-30 4 14-1 30z\" fill=\"#e8d9c9\" opacity=\"0.9\"/><path d=\"M76 136q-4-20 8-32 3 16-4 32z\" fill=\"#e8d9c9\" opacity=\"0.8\"/><path d=\"M150 158q22-6 34 4 2 18-2 24-22 6-36-2-2-16 4-26z\" fill=\"#fbf3e6\"/><path d=\"M156 164q12-4 20 0 1 12 0 15-11 3-21 0-1-11 1-15z\" fill=\"#fdf8dd\"/><path d=\"M286 172q-6-32 5-50 10 12 4 50z\" fill=\"#a9bd99\"/><path d=\"M290 140q14-12 21-4-9 11-21 8z\" fill=\"#c2d0b0\"/><path d=\"M288 154q-14-10-22-2 10 10 22 5z\" fill=\"#c2d0b0\" opacity=\"0.9\"/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "you were never 'not bad enough'",
+   "text": "Follow @aiforheratx for women's health, explained plainly.",
+   "mood": "warm",
+   "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"z1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#fdeee0\"/><stop offset=\"1\" stop-color=\"#fdf6ec\"/></linearGradient><radialGradient id=\"z2\" cx=\"0.68\" cy=\"0.32\" r=\"0.65\"><stop offset=\"0\" stop-color=\"#ffdfa4\" stop-opacity=\"0.95\"/><stop offset=\"1\" stop-color=\"#ffdfa4\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"z3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f8e2da\"/><stop offset=\"1\" stop-color=\"#e9c6b8\"/></linearGradient></defs><path d=\"M0 0h320v200H0z\" fill=\"url(#z1)\"/><path d=\"M186 6q60-8 118 4 10 48 2 98-64 8-122 2-8-54 2-104z\" fill=\"#f6f0e2\"/><path d=\"M186 6q60-8 118 4 10 48 2 98-64 8-122 2-8-54 2-104z\" fill=\"url(#z2)\"/><circle cx=\"250\" cy=\"52\" r=\"22\" fill=\"#ffe3a8\"/><path d=\"M182 2q18 54-6 108-14-6-11-56 3-36 17-52z\" fill=\"#efdcd2\" opacity=\"0.85\"/><path d=\"M0 142q74 12 156 2 82-10 164 12v44H0z\" fill=\"#eeda c2\" opacity=\"0\"/><path d=\"M0 142q74 12 156 2 82-10 164 12v44H0z\" fill=\"#efd9c1\"/><path d=\"M30 120q24-26 50-22 24 4 28 30-2 40-8 52-36 8-70 0-6-26 0-60z\" fill=\"url(#z3)\"/><path d=\"M36 150q42 10 70 0 4 18 0 30-38 8-74 0-2-16 4-30z\" fill=\"#e7c9bb\" opacity=\"0.7\"/><path d=\"M138 160q22-6 34 4 2 18-2 24-22 6-36-2-2-16 4-26z\" fill=\"#fbf3e6\"/><path d=\"M144 166q12-4 20 0 1 12 0 15-11 3-21 0-1-11 1-15z\" fill=\"#fdf8dd\"/><path d=\"M292 174q-6-34 5-54 10 14 4 54z\" fill=\"#a9bd99\"/><path d=\"M296 140q14-12 21-4-9 12-21 8z\" fill=\"#c2d0b0\"/><path d=\"M294 156q-14-10-22-2 10 10 22 5z\" fill=\"#c2d0b0\" opacity=\"0.9\"/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
