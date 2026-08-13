@@ -1,0 +1,80 @@
+{
+ "title": "Panic myth flip — aisle 7 (Meera, 36)",
+ "caption": "Myth: a panic attack means your heart is failing. Actually it's a false alarm that peaks in minutes, then falls (DSM-5-TR 2022; Klein 1993). Which myth should we flip next? 👇\nwww.aiforheratx.org\n#panicattacks #anxietyrelief #womensmentalhealth #anxietysupport #nervoussystem #womenshealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "aisle 7. 7:14 pm.",
+   "text": "\"I thought I was *dying* by the frozen peas.\"",
+   "suggest": "→ Try *cyclic sighing*: long exhale (Stanford, 2023)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s1a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDE6F0'/><stop offset='1' stop-color='#FBF3EA'/></linearGradient><linearGradient id='s1b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E2ECF1'/><stop offset='1' stop-color='#F6E9E8'/></linearGradient><radialGradient id='s1c' cx='.45' cy='.45' r='.55'><stop offset='0' stop-color='#FFFFFF' stop-opacity='.95'/><stop offset='1' stop-color='#FFFFFF' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s1a)'/><path d='M0 150 C70 141 120 147 180 138 C240 129 290 136 320 130 L320 200 L0 200 Z' fill='#EFE2E4' opacity='.85'/><path d='M96 34 C96 26 105 22 118 22 C150 21 176 23 196 27 C206 29 208 35 207 45 L204 148 C203 156 196 158 186 158 L112 156 C102 155 98 151 98 143 Z' fill='url(#s1b)' opacity='.95'/><path d='M150 27 C154 62 152 112 150 156' stroke='#D9CBD6' stroke-width='2' fill='none' opacity='.65'/><ellipse cx='150' cy='92' rx='94' ry='80' fill='url(#s1c)'/><path d='M112 60 C125 51 142 56 139 67 C136 77 117 79 112 70 Z' fill='#FFFFFF' opacity='.6'/><path d='M163 97 C178 88 197 95 190 105 C183 115 166 113 163 105 Z' fill='#FFFFFF' opacity='.5'/><path d='M36 158 C44 132 53 128 75 130 C93 132 97 146 92 160 C87 172 73 176 59 174 C45 172 32 170 36 158 Z' fill='#E3D5E2' opacity='.9'/><path d='M30 172 C49 179 78 179 97 172' stroke='#C9B7C8' stroke-width='3' fill='none' stroke-linecap='round'/><circle cx='48' cy='186' r='6' fill='#C9B7C8' opacity='.75'/><circle cx='87' cy='186' r='6' fill='#C9B7C8' opacity='.75'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "what nobody told her",
+   "text": "Panic peaks within minutes and then comes down — that's part of its actual definition (DSM-5-TR, 2022).",
+   "phrases": [
+    "Meera, 36. Cart half full, kid waiting in the car.",
+    "Her heart went to 140 somewhere near the yogurt.",
+    "It peaked. Then, slowly, it dropped.",
+    "Panic peaks in minutes and falls — that's the definition (DSM-5-TR)."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s2a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EAE3F0'/><stop offset='.6' stop-color='#F6ECEA'/><stop offset='1' stop-color='#FBF3EA'/></linearGradient><linearGradient id='s2b' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#CBD9E4'/><stop offset='1' stop-color='#E7D6DC'/></linearGradient></defs><rect width='320' height='200' fill='url(#s2a)'/><circle cx='238' cy='50' r='21' fill='#FDF6E7' opacity='.92'/><circle cx='238' cy='50' r='36' fill='#FDF6E7' opacity='.22'/><path d='M0 128 C40 126 66 120 92 100 C118 78 139 61 159 66 C179 71 191 96 215 116 C241 137 282 134 320 128 L320 200 L0 200 Z' fill='url(#s2b)' opacity='.95'/><path d='M0 140 C46 138 74 130 104 114 C132 99 149 86 163 91 C179 96 191 112 217 128 C245 145 284 146 320 142' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='.7'/><path d='M0 163 C60 158 111 169 170 164 C229 159 281 168 320 163' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='.5'/><path d='M148 59 C155 49 167 52 168 62' stroke='#FFFFFF' stroke-width='3' fill='none' stroke-linecap='round' opacity='.85'/><path d='M22 178 C70 174 120 182 176 178' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='.35'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, later",
+   "text": "It wasn't her heart. Her brain misread normal CO2 as suffocating — Donald Klein named that false alarm in 1993.",
+   "phrases": [
+    "Just stress, probably?",
+    "You look completely fine now though.",
+    "It wasn't stress. My brain read normal CO2 as suffocating (Klein, 1993)."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s3a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDE6F0'/><stop offset='1' stop-color='#FBF1E9'/></linearGradient><radialGradient id='s3b' cx='.62' cy='.55' r='.5'><stop offset='0' stop-color='#FFF6DF' stop-opacity='.95'/><stop offset='1' stop-color='#FFF6DF' stop-opacity='0'/></radialGradient><linearGradient id='s3c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E4E4'/><stop offset='1' stop-color='#E2CFD6'/></linearGradient></defs><rect width='320' height='200' fill='url(#s3a)'/><path d='M0 132 C80 126 150 130 224 124 C266 121 296 124 320 121 L320 200 L0 200 Z' fill='#EADBC8' opacity='.85'/><ellipse cx='196' cy='118' rx='96' ry='62' fill='url(#s3b)'/><path d='M172 74 C172 68 178 65 186 65 C196 65 205 67 208 71 C212 76 214 100 212 122 C210 136 204 140 194 139 C182 138 174 134 172 124 C170 110 170 88 172 74 Z' fill='#F7EFE2' opacity='.97'/><path d='M176 76 C182 72 200 73 206 78 C209 92 209 112 206 126 C198 132 184 131 177 126 C174 110 174 90 176 76 Z' fill='#FDF8EC' opacity='.9'/><path d='M74 128 C72 112 78 105 92 104 C108 103 118 108 118 124 C118 136 112 144 98 145 C84 146 76 140 74 128 Z' fill='url(#s3c)'/><path d='M118 116 C128 114 132 118 131 124 C130 130 124 132 118 130' fill='none' stroke='#D9BFC6' stroke-width='4' stroke-linecap='round'/><path d='M74 146 C86 152 108 152 118 146' stroke='#D9BFC6' stroke-width='3' fill='none' stroke-linecap='round' opacity='.8'/><path d='M88 96 C86 86 92 82 90 74' stroke='#D9C9D2' stroke-width='3' fill='none' stroke-linecap='round' opacity='.5'/><path d='M104 96 C102 88 108 84 106 76' stroke='#D9C9D2' stroke-width='3' fill='none' stroke-linecap='round' opacity='.35'/><path d='M28 150 C36 140 52 138 60 148 C66 156 60 164 48 164 C36 164 24 158 28 150 Z' fill='#CFDCD2' opacity='.8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "not rare, not dramatic",
+   "number": "2×",
+   "text": "Women are diagnosed with panic disorder about twice as often as men (NIMH).",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s4a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9E1EE'/><stop offset='1' stop-color='#F9EFE6'/></linearGradient><linearGradient id='s4b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E3D6DE'/><stop offset='1' stop-color='#EFE0DA'/></linearGradient><radialGradient id='s4c' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#FFE9BC' stop-opacity='.95'/><stop offset='1' stop-color='#FFE9BC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s4a)'/><circle cx='60' cy='44' r='16' fill='#FDF6E7' opacity='.75'/><path d='M18 196 C16 140 20 116 40 112 C62 108 76 116 78 138 C80 160 78 180 76 196 Z' fill='url(#s4b)' opacity='.95'/><path d='M96 196 C94 128 100 98 130 94 C160 90 176 104 178 134 C180 162 178 182 176 196 Z' fill='url(#s4b)'/><path d='M198 196 C196 148 202 124 226 120 C252 116 268 128 270 152 C272 172 270 186 268 196 Z' fill='url(#s4b)' opacity='.9'/><path d='M288 196 C286 160 292 142 308 140 C320 139 322 148 322 160 L322 196 Z' fill='url(#s4b)' opacity='.75'/><ellipse cx='128' cy='132' rx='46' ry='36' fill='url(#s4c)'/><path d='M110 124 C110 118 116 116 124 116 C132 116 138 119 138 125 C138 133 132 137 124 137 C115 137 110 132 110 124 Z' fill='#FFE7B4' opacity='.95'/><path d='M148 152 C148 146 154 144 161 144 C168 144 173 147 173 153 C173 160 167 163 160 163 C152 163 148 159 148 152 Z' fill='#FFE7B4' opacity='.8'/><path d='M36 148 C36 143 41 141 47 141 C54 141 58 144 58 149 C58 155 53 158 47 158 C40 158 36 154 36 148 Z' fill='#FFE7B4' opacity='.7'/><path d='M226 146 C226 140 232 138 239 138 C246 138 251 141 251 147 C251 154 245 157 238 157 C231 157 226 152 226 146 Z' fill='#FFE7B4' opacity='.85'/><path d='M0 196 C80 190 200 192 320 188' stroke='#D9C7C0' stroke-width='2' fill='none' opacity='.5'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, small and doable",
+   "text": "Tonight: five cyclic sighs, a 20-minute walk tomorrow, and tell a therapist about the aisle-7 one.",
+   "phrases": [
+    "1. Five cyclic sighs: two inhales in, one long slow exhale out.",
+    "2. Walk 20 minutes tomorrow — the WHO asks for 150 a week.",
+    "3. Tell a therapist about aisle 7. That is exactly what they are for."
+   ],
+   "attribution": "— Balban et al., Cell Reports Medicine, 2023",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s5a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEDE0'/><stop offset='1' stop-color='#FCF4EA'/></linearGradient><radialGradient id='s5b' cx='.72' cy='.35' r='.55'><stop offset='0' stop-color='#FFDFA8' stop-opacity='.9'/><stop offset='1' stop-color='#FFDFA8' stop-opacity='0'/></radialGradient><linearGradient id='s5c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFFFF'/><stop offset='1' stop-color='#F0DFDD'/></linearGradient></defs><rect width='320' height='200' fill='url(#s5a)'/><ellipse cx='226' cy='72' rx='108' ry='74' fill='url(#s5b)'/><path d='M0 146 C74 140 152 144 226 138 C268 135 298 138 320 135 L320 200 L0 200 Z' fill='#EADBC8'/><path d='M0 152 C80 147 168 151 240 145' stroke='#DCC7AE' stroke-width='2' fill='none' opacity='.6'/><path d='M118 108 C118 100 126 96 140 96 C155 96 163 100 163 109 C163 122 157 134 140 134 C124 134 118 122 118 108 Z' fill='url(#s5c)'/><path d='M163 108 C176 106 181 112 179 120 C177 128 170 130 162 128' fill='none' stroke='#E7D0CD' stroke-width='5' stroke-linecap='round'/><path d='M110 140 C124 147 156 147 170 140' stroke='#E1CCC6' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M132 88 C128 78 138 74 134 62' stroke='#EBD9C6' stroke-width='4' fill='none' stroke-linecap='round' opacity='.85'/><path d='M148 88 C144 80 153 76 150 66' stroke='#EBD9C6' stroke-width='4' fill='none' stroke-linecap='round' opacity='.6'/><path d='M232 142 C230 122 236 112 250 112 C264 112 270 122 268 142 Z' fill='#DFC7B2'/><path d='M250 112 C246 96 236 90 226 86 C238 88 248 94 251 104 C254 92 264 84 278 80 C266 88 256 98 254 112 Z' fill='#A8BCA1'/><path d='M251 106 C252 92 258 82 268 74' stroke='#8FA98C' stroke-width='2' fill='none'/><path d='M46 142 C44 126 50 118 62 118 C74 118 79 128 77 142 Z' fill='#F1DED4' opacity='.9'/><path d='M40 142 C52 148 72 148 83 142' stroke='#E0C9BC' stroke-width='3' fill='none' stroke-linecap='round'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "next time, aisle 7",
+   "text": "Follow @aiforheratx so the next one scares you a little *less*.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s6a' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCEFE1'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s6b' cx='.5' cy='.42' r='.5'><stop offset='0' stop-color='#FFD9A0' stop-opacity='.95'/><stop offset='1' stop-color='#FFD9A0' stop-opacity='0'/></radialGradient><linearGradient id='s6c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF3DE'/><stop offset='1' stop-color='#F7E4D6'/></linearGradient></defs><rect width='320' height='200' fill='url(#s6a)'/><path d='M84 30 C84 20 94 14 116 13 C154 11 196 13 218 17 C230 19 234 26 233 40 L230 160 C229 172 220 176 206 175 L108 172 C94 171 88 165 88 152 Z' fill='url(#s6c)'/><ellipse cx='160' cy='94' rx='86' ry='72' fill='url(#s6b)'/><circle cx='160' cy='84' r='24' fill='#FFE6B6' opacity='.95'/><path d='M88 132 C120 124 150 130 182 122 C204 117 220 120 232 117' stroke='#EBD3B7' stroke-width='3' fill='none' opacity='.8'/><path d='M92 150 C130 142 168 148 232 140' stroke='#EBD3B7' stroke-width='2' fill='none' opacity='.55'/><path d='M216 16 C230 40 232 90 226 140 C222 168 212 176 200 176 C214 158 218 120 216 82 C215 54 212 32 216 16 Z' fill='#F3DCD8' opacity='.9'/><path d='M0 176 C80 170 170 176 240 170 C280 167 306 170 320 168 L320 200 L0 200 Z' fill='#EADBC8'/><path d='M48 170 C46 152 52 142 64 142 C76 142 82 152 80 170 Z' fill='#DFC7B2'/><path d='M64 142 C60 126 52 120 42 116 C54 118 64 124 66 134 C70 122 80 114 94 110 C82 118 72 128 70 142 Z' fill='#A8BCA1'/><path d='M66 136 C68 122 74 112 84 104' stroke='#8FA98C' stroke-width='2' fill='none'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
