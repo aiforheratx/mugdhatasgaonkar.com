@@ -1,0 +1,87 @@
+{
+ "title": "The too-busy life — Meera, 38, cortisol & the 10-minute walk",
+ "caption": "Too busy to be tired, still tired at 3pm? Ask your clinician about a morning cortisol test — it's drawn before 9am for a reason (Endocrine Society).\nA 10-min walk after lunch blunts the crash (WHO: 150 min/wk).\nSave this for your 3pm self.\nWhat's your 3pm like? 3 words.\nwww.aiforheratx.org\n#womenshealth #burnout #cortisol #workingmoms #perimenopause #mentalhealth #stressrelief",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "3:07 pm. cold chai again.",
+   "text": "I'm *busy*, not tired. So why does 3pm flatten me every day?",
+   "suggest": "→ Ask for a *morning cortisol* test (Endocrine Society)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#f6e7dc'/><stop offset='100%' stop-color='#e8d3c6'/></linearGradient><linearGradient id='desk' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#e3c8b4'/><stop offset='100%' stop-color='#d3b09a'/></linearGradient><radialGradient id='lamp' cx='0.75' cy='0.25'><stop offset='0%' stop-color='#fff3e2' stop-opacity='0.9'/><stop offset='100%' stop-color='#fff3e2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#sky)'/><path d='M0 118 C 70 108, 150 126, 220 114 C 265 106, 300 112, 320 108 L320 200 L0 200 Z' fill='url(#desk)'/><circle cx='240' cy='50' r='70' fill='url(#lamp)'/><path d='M196 44 C 196 28, 214 22, 226 30 C 238 22, 254 30, 252 46 C 250 60, 232 66, 224 60 C 210 66, 196 58, 196 44 Z' fill='#f3ded0' opacity='0.55'/><path d='M96 116 C 92 96, 104 84, 122 84 C 140 84, 152 96, 148 116 Z' fill='#f2e2d5'/><path d='M148 92 C 160 90, 166 100, 156 106' fill='none' stroke='#e0c3ac' stroke-width='4' stroke-linecap='round'/><path d='M112 78 C 108 68, 116 62, 118 54' fill='none' stroke='#cdae9a' stroke-width='3' stroke-linecap='round' opacity='0.7'/><path d='M126 76 C 124 66, 130 60, 130 52' fill='none' stroke='#cdae9a' stroke-width='3' stroke-linecap='round' opacity='0.5'/><path d='M214 116 C 210 104, 220 98, 232 100 C 244 102, 248 112, 244 116 Z' fill='#e6cdbb'/><path d='M40 116 C 36 100, 46 92, 58 94 C 70 96, 74 108, 70 116 Z' fill='#dfc4b0' opacity='0.8'/><path d='M56 94 C 50 82, 58 74, 66 78 C 60 84, 60 90, 58 94' fill='#c9b39c' opacity='0.9'/><path d='M0 128 C 80 120, 180 134, 320 122' fill='none' stroke='#c9a68f' stroke-width='1.5' opacity='0.5'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "Meera, 38",
+   "text": "Two kids, a 7am standup, dinner at 8. She calls it busy. Her body calls it something else.",
+   "phrases": [
+    "Up at 5:40.",
+    "Coffee, standup, school run.",
+    "By 3pm her hands shake a little.",
+    "She's not lazy — she's running on empty."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w2' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#f4e3d8'/><stop offset='100%' stop-color='#e6cebe'/></linearGradient><linearGradient id='fl2' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#e0c2ac'/><stop offset='100%' stop-color='#cfa88f'/></linearGradient><radialGradient id='glow2' cx='0.2' cy='0.3'><stop offset='0%' stop-color='#fff0df' stop-opacity='0.85'/><stop offset='100%' stop-color='#fff0df' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#w2)'/><circle cx='70' cy='60' r='80' fill='url(#glow2)'/><path d='M0 132 C 80 122, 170 140, 320 126 L320 200 L0 200 Z' fill='url(#fl2)'/><path d='M28 44 C 26 32, 40 26, 52 30 C 66 24, 82 34, 78 48 C 74 62, 50 66, 40 58 C 30 62, 26 54, 28 44 Z' fill='#f6e6d8' opacity='0.6'/><path d='M120 132 C 116 108, 128 92, 150 92 C 172 92, 186 108, 182 132 Z' fill='#f1dfd0'/><path d='M182 106 C 196 104, 202 116, 190 122' fill='none' stroke='#dbbca4' stroke-width='4' stroke-linecap='round'/><path d='M132 92 C 130 76, 142 68, 154 72 C 166 76, 168 90, 158 94' fill='#e9d2c0'/><path d='M226 132 C 222 116, 232 106, 246 108 C 260 110, 264 124, 258 132 Z' fill='#e2c7b3'/><path d='M240 108 C 234 94, 244 84, 252 90 C 246 96, 244 102, 242 108' fill='#c8b199'/><path d='M252 132 C 254 118, 266 112, 274 120 C 282 128, 276 132, 272 132 Z' fill='#d9bda7' opacity='0.85'/><path d='M60 130 C 58 120, 68 114, 78 118 C 88 122, 86 130, 82 132 Z' fill='#dcbfa9'/><path d='M0 140 C 90 132, 200 148, 320 134' fill='none' stroke='#c6a48c' stroke-width='1.5' opacity='0.45'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the school WhatsApp group",
+   "text": "Everyone tells her the same thing. She starts believing it's just her being dramatic.",
+   "phrases": [
+    "\"You're just doing too much!\"",
+    "\"Same, honestly. Coffee helps.\"",
+    "\"Have you tried sleeping earlier?\"",
+    "*She types \"haha same\" and puts the phone face down.*"
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w3' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#f3e0d6'/><stop offset='100%' stop-color='#e4cabb'/></linearGradient><radialGradient id='ph' cx='0.5' cy='0.6'><stop offset='0%' stop-color='#fff6ea' stop-opacity='0.95'/><stop offset='100%' stop-color='#fff6ea' stop-opacity='0'/></radialGradient><linearGradient id='bed' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#e8cfbd'/><stop offset='100%' stop-color='#d2ab92'/></linearGradient></defs><rect width='320' height='200' fill='url(#w3)'/><path d='M0 126 C 90 116, 190 134, 320 120 L320 200 L0 200 Z' fill='url(#bed)'/><path d='M40 128 C 70 112, 120 118, 150 126 C 130 136, 70 138, 40 128 Z' fill='#f2ded0' opacity='0.9'/><circle cx='196' cy='124' r='62' fill='url(#ph)'/><path d='M180 108 C 178 102, 184 98, 192 98 C 202 98, 210 102, 210 110 C 210 122, 204 130, 194 130 C 184 130, 180 120, 180 108 Z' fill='#fdf3e6'/><path d='M60 96 C 58 84, 70 78, 80 82 C 92 76, 104 86, 100 98 C 96 110, 74 112, 66 106 C 58 108, 58 102, 60 96 Z' fill='#f5e5d7' opacity='0.55'/><path d='M258 126 C 254 108, 266 96, 280 100 C 294 104, 296 120, 288 126 Z' fill='#e0c5b0'/><path d='M272 100 C 266 86, 278 76, 286 84 C 278 90, 276 94, 274 100' fill='#c6ad95'/><path d='M0 136 C 100 128, 210 146, 320 130' fill='none' stroke='#c3a089' stroke-width='1.5' opacity='0.45'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the turn",
+   "text": "Cortisol peaks 30-45 min after waking, so the test is drawn before 9am — timing is the whole point (Endocrine Society).",
+   "phrases": [
+    "She asked for one blood draw.",
+    "Before 9am, because timing is the point.",
+    "Cortisol peaks 30-45 min after you wake up.",
+    "Normal or not, she finally had a number instead of a shrug."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w4' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#fdeee1'/><stop offset='100%' stop-color='#f0d6c4'/></linearGradient><radialGradient id='sun4' cx='0.7' cy='0.2'><stop offset='0%' stop-color='#fff8ec' stop-opacity='1'/><stop offset='100%' stop-color='#fff8ec' stop-opacity='0'/></radialGradient><linearGradient id='sill' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#e6cab4'/><stop offset='100%' stop-color='#d4ac92'/></linearGradient></defs><rect width='320' height='200' fill='url(#w4)'/><circle cx='224' cy='40' r='86' fill='url(#sun4)'/><path d='M224 44 C 212 44, 204 34, 210 24 C 216 14, 234 14, 240 24 C 246 34, 236 44, 224 44 Z' fill='#fbe6cd' opacity='0.9'/><path d='M0 134 C 80 124, 190 142, 320 128 L320 200 L0 200 Z' fill='url(#sill)'/><path d='M74 134 C 68 106, 82 88, 104 88 C 126 88, 138 106, 132 134 Z' fill='#f3e1d2'/><path d='M132 106 C 148 104, 154 118, 140 124' fill='none' stroke='#ddbda4' stroke-width='4' stroke-linecap='round'/><path d='M86 88 C 84 70, 96 62, 108 66 C 120 70, 122 84, 112 90' fill='#ecd6c4'/><path d='M212 134 C 208 116, 218 104, 232 106 C 246 108, 250 122, 244 134 Z' fill='#e9d0bc'/><path d='M226 106 C 220 92, 230 82, 238 88 C 232 94, 230 100, 228 106' fill='#c9b29a'/><path d='M262 134 C 260 118, 272 110, 284 116 C 296 122, 292 134, 286 134 Z' fill='#dcbea8' opacity='0.9'/><path d='M0 142 C 100 134, 210 152, 320 136' fill='none' stroke='#c4a189' stroke-width='1.5' opacity='0.45'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Ask for a morning cortisol draw before 9am. Then walk 10 minutes after lunch, most days.",
+   "phrases": [
+    "1. Book the cortisol draw — before 9am.",
+    "2. Walk 10 min after lunch (WHO: 150 min/week).",
+    "3. Eat protein at breakfast, not just chai.",
+    "Then the two-minute breathing space, before bed. — Mark Williams, Mindfulness"
+   ],
+   "attribution": "— Mark Williams, Mindfulness: An Eight-Week Plan",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w5' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#fdf1e6'/><stop offset='100%' stop-color='#f6dcc8'/></linearGradient><radialGradient id='warm5' cx='0.5' cy='0.35'><stop offset='0%' stop-color='#fff7ea' stop-opacity='0.95'/><stop offset='100%' stop-color='#fff7ea' stop-opacity='0'/></radialGradient><linearGradient id='path5' x1='0' y1='0' x2='1' y2='0'><stop offset='0%' stop-color='#e8cdb6'/><stop offset='100%' stop-color='#d9b295'/></linearGradient></defs><rect width='320' height='200' fill='url(#w5)'/><circle cx='160' cy='72' r='96' fill='url(#warm5)'/><path d='M0 138 C 90 128, 200 146, 320 132 L320 200 L0 200 Z' fill='#eed7c2'/><path d='M20 190 C 80 160, 170 176, 316 146' fill='none' stroke='url(#path5)' stroke-width='12' stroke-linecap='round' opacity='0.85'/><path d='M128 136 C 122 110, 136 94, 156 94 C 176 94, 188 110, 182 136 Z' fill='#f4e2d1'/><path d='M182 110 C 196 108, 202 120, 190 126' fill='none' stroke='#dcbba1' stroke-width='4' stroke-linecap='round'/><path d='M140 94 C 138 78, 150 70, 162 74 C 174 78, 174 92, 164 96' fill='#eed8c6'/><path d='M42 138 C 36 118, 48 104, 62 108 C 76 112, 80 128, 72 138 Z' fill='#dcc0a8'/><path d='M56 108 C 48 92, 60 80, 70 88 C 62 94, 58 100, 58 108' fill='#c3ac94'/><path d='M258 138 C 254 122, 266 110, 280 114 C 294 118, 296 132, 288 138 Z' fill='#e2c7b1'/><path d='M272 114 C 266 100, 278 90, 286 98 C 278 104, 276 108, 274 114' fill='#c7b099'/><path d='M0 146 C 100 138, 210 156, 320 140' fill='none' stroke='#c5a289' stroke-width='1.5' opacity='0.4'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "3:07 pm, six weeks later",
+   "text": "The chai's still cold, but she knows why 3pm hits. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w6' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#fdf2e8'/><stop offset='100%' stop-color='#f8e0cd'/></linearGradient><radialGradient id='warm6' cx='0.72' cy='0.28'><stop offset='0%' stop-color='#fff8ee' stop-opacity='0.95'/><stop offset='100%' stop-color='#fff8ee' stop-opacity='0'/></radialGradient><linearGradient id='desk6' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#ead0b9'/><stop offset='100%' stop-color='#d8b096'/></linearGradient></defs><rect width='320' height='200' fill='url(#w6)'/><circle cx='232' cy='56' r='84' fill='url(#warm6)'/><path d='M0 122 C 70 112, 152 130, 222 118 C 266 110, 300 116, 320 112 L320 200 L0 200 Z' fill='url(#desk6)'/><path d='M96 120 C 92 100, 104 88, 122 88 C 140 88, 152 100, 148 120 Z' fill='#f5e4d5'/><path d='M148 96 C 162 94, 168 106, 156 112' fill='none' stroke='#e0c1a8' stroke-width='4' stroke-linecap='round'/><path d='M114 82 C 110 72, 118 66, 120 58' fill='none' stroke='#d3b49e' stroke-width='3' stroke-linecap='round' opacity='0.75'/><path d='M128 80 C 126 70, 132 64, 132 56' fill='none' stroke='#d3b49e' stroke-width='3' stroke-linecap='round' opacity='0.55'/><path d='M206 48 C 206 34, 222 28, 234 34 C 246 28, 260 36, 258 50 C 256 62, 240 68, 232 62 C 220 68, 206 60, 206 48 Z' fill='#fbeada' opacity='0.6'/><path d='M40 120 C 34 102, 46 90, 60 94 C 74 98, 78 112, 70 120 Z' fill='#e0c6ae'/><path d='M54 94 C 48 80, 58 70, 66 78 C 58 84, 56 88, 56 94' fill='#c6af97'/><path d='M244 120 C 240 106, 250 98, 262 102 C 274 106, 276 116, 270 120 Z' fill='#e6ccb7' opacity='0.9'/><path d='M0 130 C 90 122, 200 140, 320 124' fill='none' stroke='#c8a58c' stroke-width='1.5' opacity='0.45'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  }
+ ]
+}
