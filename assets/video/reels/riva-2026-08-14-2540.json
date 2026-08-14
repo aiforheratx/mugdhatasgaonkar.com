@@ -1,0 +1,81 @@
+{
+ "title": "PMDD — the two-cycle record (Ritu, 36)",
+ "caption": "\"Just PMS\" is how PMDD gets missed for years.\nDSM-5 wants daily ratings across 2 cycles — memory doesn't count (DRSP, 2006).\nSave this for the week you don't feel like you.\nWhich cycle day hits hardest?\nwww.aiforheratx.org\n#pmdd #pmddawareness #womenshealth #cycletracking #lutealphase",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 23. again.",
+   "text": "Two good weeks. Then I *hate* everyone.",
+   "suggest": "→ Rate symptoms daily on the *DRSP* (DSM-5)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3D3D8'/><stop offset='1' stop-color='#F7E3CE'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#ECDCC9'/></linearGradient><radialGradient id='a3' cx='0.68' cy='0.3' r='0.55'><stop offset='0' stop-color='#F6C9A6' stop-opacity='.65'/><stop offset='1' stop-color='#F6C9A6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a2)'/><path d='M150 18 q0-8 9-8 h122 q9 0 9 9 v96 q0 9-9 9 h-122 q-9 0-9-9 z' fill='url(#a1)'/><path d='M150 92 q30-16 58-6 t54-10 q14-4 28 2 v34 q0 9-9 9 h-122 q-9 0-9-9 z' fill='#D9A9A6' opacity='.5'/><circle cx='232' cy='52' r='13' fill='#F7CBA0' opacity='.85'/><rect width='320' height='200' fill='url(#a3)'/><path d='M0 150 q80-10 160-6 t160 4 v52 h-320 z' fill='#E3CDB4'/><path d='M118 12 q14 40 6 74 q-4 18-16 34 q10-46 4-72 q-4-20-10-36 z' fill='#EAD3C4' opacity='.9'/><path d='M58 148 h10 l-2 16 h-6 z' fill='#C9A98C'/><path d='M60 148 q-4-20 6-30 q8-8 18-6 q-14 8-16 22 q-1 8-2 14 z' fill='#A9BBA5'/><path d='M62 148 q6-18 22-22 q-12 12-14 22 z' fill='#93A98F'/><path d='M212 150 q-2-16 12-16 h20 q14 0 12 16 q-1 12-12 12 h-20 q-11 0-12-12 z' fill='#FBF3E8'/><path d='M256 139 q12 2 12 10 q0 8-12 10' fill='none' stroke='#E8D2BB' stroke-width='4'/><path d='M224 128 q-6-10 2-16 q7-6 2-14' fill='none' stroke='#D9C3B0' stroke-width='2.5' opacity='.8'/><path d='M236 126 q-5-9 2-14 q6-5 2-12' fill='none' stroke='#D9C3B0' stroke-width='2.5' opacity='.55'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "what she keeps hearing",
+   "text": "Everyone calls it PMS, so she starts wondering if she's just *difficult*.",
+   "phrases": [
+    "“Sounds like PMS, honestly.”",
+    "“Have you tried yoga?”",
+    "So she blames herself for a week, every month."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#E9D7C4'/></linearGradient><linearGradient id='b2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3D3D8'/><stop offset='1' stop-color='#EBD3C6'/></linearGradient><radialGradient id='b3' cx='0.32' cy='0.62' r='0.42'><stop offset='0' stop-color='#F7E0C2' stop-opacity='.85'/><stop offset='1' stop-color='#F7E0C2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M196 6 q0-6 7-6 h104 q7 0 7 7 v72 q0 7-7 7 h-104 q-7 0-7-7 z' fill='url(#b2)' opacity='.85'/><path d='M196 62 q26-12 50-4 t61-8 v22 q0 7-7 7 h-104 q-7 0-7-7 z' fill='#D9A9A6' opacity='.45'/><path d='M0 138 q90-12 172-6 t148 6 v62 h-320 z' fill='#E0C9AE'/><rect width='320' height='200' fill='url(#b3)'/><path d='M74 96 q-3-12 9-12 h26 q12 0 9 12 q-2 42-2 54 q0 10-11 10 h-18 q-11 0-11-10 q0-12-2-54 z' fill='#FDF7EE'/><path d='M78 96 q-2-8 8-8 h22 q10 0 8 8 q-2 38-2 48 q0 6-8 6 h-18 q-8 0-8-6 q0-10-2-48 z' fill='#F0DCE1'/><path d='M46 154 q-6-22 8-32 q10-8 22-5 q-16 8-19 24 q-1 7-2 13 z' fill='#A9BBA5' opacity='.9'/><path d='M44 154 h11 l-2 18 h-7 z' fill='#C9A98C'/><path d='M228 118 q-2-10 9-10 h48 q11 0 9 10 q-1 10-10 10 h-40 q-8 0-8 6 q-4-4-8-8 q-1-5 0-8 z' fill='#FBF3E8' opacity='.9'/><path d='M186 150 q-2-9 9-9 h44 q10 0 9 9 q-1 9-10 9 h-36 q-7 0-7 6 q-4-4-8-7 q-2-4-1-8 z' fill='#EFDCC9' opacity='.9'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "the actual criteria",
+   "number": "2 cycles",
+   "text": "PMDD is confirmed by *daily* ratings across two cycles — not by memory (DSM-5).",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#F3E1D2'/></linearGradient><radialGradient id='c2' cx='0.36' cy='0.5' r='0.5'><stop offset='0' stop-color='#F0C7CD' stop-opacity='.75'/><stop offset='1' stop-color='#F0C7CD' stop-opacity='0'/></radialGradient><radialGradient id='c3' cx='0.66' cy='0.54' r='0.5'><stop offset='0' stop-color='#E8CFAF' stop-opacity='.8'/><stop offset='1' stop-color='#E8CFAF' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><rect width='320' height='200' fill='url(#c2)'/><rect width='320' height='200' fill='url(#c3)'/><path d='M22 168 q70-16 148-10 t128 12 v30 h-276 z' fill='#E4D0B7' opacity='.8'/><path d='M40 176 q-5-20 8-29 q10-7 21-4 q-15 8-18 23 q-1 6-2 10 z' fill='#A9BBA5' opacity='.85'/><path d='M262 60 q22 4 24 24 q2 20-18 27 q14-14 11-28 q-3-14-17-23 z' fill='#EAD3C4' opacity='.9'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "week three, 9pm, kitchen table",
+   "text": "Ritu, 36, rated her symptoms nightly and found out her hormones were *normal*.",
+   "phrases": [
+    "Ritu, 36. Payroll job, two kids.",
+    "She rated three symptoms every night, cycle day next to it.",
+    "Her hormones came back normal —",
+    "her brain just reacts hard to the shift (NEJM, 1998)."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#EBD8C4'/></linearGradient><linearGradient id='d2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6DCE0'/><stop offset='1' stop-color='#F7E6D0'/></linearGradient><radialGradient id='d3' cx='0.24' cy='0.28' r='0.45'><stop offset='0' stop-color='#F9D9A8' stop-opacity='.85'/><stop offset='1' stop-color='#F9D9A8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M206 12 q0-7 8-7 h94 q8 0 8 8 v70 q0 8-8 8 h-94 q-8 0-8-8 z' fill='url(#d2)' opacity='.9'/><path d='M206 66 q24-12 48-4 t62-8 v22 q0 8-8 8 h-94 q-8 0-8-8 z' fill='#D9A9A6' opacity='.4'/><rect width='320' height='200' fill='url(#d3)'/><path d='M0 132 q92-12 168-6 t152 8 v66 h-320 z' fill='#E2CBB0'/><path d='M52 44 q14-16 30-2 q10 9 4 20 q-6 10-18 8 q-16-3-16-26 z' fill='#F7D9A6' opacity='.85'/><path d='M62 70 h14 l4 44 h-22 z' fill='#D9BE9F'/><path d='M50 118 q22-8 42 0 q-20 6-42 0 z' fill='#C9A98C'/><path d='M108 152 q-4-14 10-18 l86-16 q14-3 16 10 l3 16 q2 12-12 14 l-84 12 q-14 2-16-10 z' fill='#FDF8EF'/><path d='M156 130 l8 44' fill='none' stroke='#E4D5C2' stroke-width='2'/><path d='M124 148 h22 M124 158 h30 M176 138 h26 M176 150 h20' fill='none' stroke='#D9A9A6' stroke-width='3' stroke-linecap='round' opacity='.75'/><path d='M228 150 q-14 6-22-4 q-6-8 2-14 q10-6 20 6 z' fill='#A9BBA5' opacity='.85'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, five minutes",
+   "text": "Rate your top three symptoms 1–6 with the cycle day, every night for two cycles.",
+   "phrases": [
+    "Tonight: three symptoms, rated 1 to 6.",
+    "Write the cycle day beside them.",
+    "Two cycles of that, then bring the page to your doctor.",
+    "And walk 30 minutes most days — WHO asks for 150 a week."
+   ],
+   "attribution": "— Daily Record of Severity of Problems, Endicott et al. (2006)",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#F1DEC9'/></linearGradient><linearGradient id='e2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAE3D6'/><stop offset='1' stop-color='#F6DCE0'/></linearGradient><radialGradient id='e3' cx='0.74' cy='0.24' r='0.52'><stop offset='0' stop-color='#FBD9A4' stop-opacity='.9'/><stop offset='1' stop-color='#FBD9A4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M188 6 q0-6 7-6 h112 q7 0 7 7 v80 q0 7-7 7 h-112 q-7 0-7-7 z' fill='url(#e2)'/><path d='M188 70 q28-14 56-6 t70-10 v26 q0 7-7 7 h-112 q-7 0-7-7 z' fill='#CDBFA0' opacity='.5'/><path d='M226 74 q26-16 54-6 q-20 12-54 6 z' fill='#A9BBA5' opacity='.5'/><circle cx='240' cy='36' r='14' fill='#F9CE96' opacity='.9'/><rect width='320' height='200' fill='url(#e3)'/><path d='M0 140 q94-14 170-8 t150 8 v60 h-320 z' fill='#E5D0B6'/><path d='M96 158 q-4-14 10-17 l70-12 q14-2 16 11 l2 14 q2 12-12 14 l-68 10 q-14 2-16-10 z' fill='#FDF8EF'/><path d='M112 152 q6 8 10 12 q10-14 22-24' fill='none' stroke='#A9BBA5' stroke-width='4' stroke-linecap='round'/><path d='M154 146 h30 M154 158 h22' fill='none' stroke='#E0C4C9' stroke-width='3.5' stroke-linecap='round'/><path d='M40 150 q-5-24 9-34 q11-8 23-5 q-17 9-20 26 q-1 8-2 13 z' fill='#9DB399'/><path d='M38 150 h12 l-3 20 h-7 z' fill='#C9A98C'/><path d='M234 138 q-4-12 10-12 h22 q14 0 10 12 q-2 14-12 14 h-18 q-10 0-12-14 z' fill='#FDF8EF'/><path d='M246 118 q-6-10 2-16 q7-6 2-13' fill='none' stroke='#DCC6B2' stroke-width='2.5' opacity='.8'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "the week you don't recognize",
+   "text": "That week has a *name*, and your own daily record is what proves it. Follow @aiforheratx.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EC'/><stop offset='1' stop-color='#F0DCC7'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE0D2'/><stop offset='1' stop-color='#F7E7CF'/></linearGradient><radialGradient id='f3' cx='0.5' cy='0.34' r='0.6'><stop offset='0' stop-color='#FBD8A2' stop-opacity='.8'/><stop offset='1' stop-color='#FBD8A2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M76 14 q0-8 9-8 h150 q9 0 9 9 v92 q0 9-9 9 h-150 q-9 0-9-9 z' fill='url(#f2)'/><circle cx='160' cy='54' r='19' fill='#F9CD92' opacity='.92'/><path d='M76 84 q34-18 72-8 t92-12 v40 q0 9-9 9 h-150 q-9 0-9-9 z' fill='#CFC0A2' opacity='.45'/><path d='M108 92 q34-18 78-8 q-34 14-78 8 z' fill='#A9BBA5' opacity='.55'/><rect width='320' height='200' fill='url(#f3)'/><path d='M0 146 q96-14 172-8 t148 8 v54 h-320 z' fill='#E6D2B9'/><path d='M258 156 q-6-26 10-37 q12-9 26-5 q-19 10-22 29 q-2 8-3 13 z' fill='#9DB399'/><path d='M256 156 h13 l-3 22 h-8 z' fill='#C9A98C'/><path d='M52 154 q-3-14 11-14 h24 q14 0 11 14 q-2 12-12 12 h-22 q-10 0-12-12 z' fill='#FDF8EF'/><path d='M64 134 q-6-10 2-16 q7-6 2-13' fill='none' stroke='#DCC6B2' stroke-width='2.5' opacity='.75'/></svg>"
+  }
+ ]
+}
