@@ -1,0 +1,80 @@
+{
+ "title": "The dose that took 21 years — research gap reel",
+ "caption": "Ambien sold 21 years before the FDA halved women's bedtime dose (2013). We clear it slower.\nAsk if yours is sex-specific.\nSend this to your foggiest friend. Groggy mornings — you too?\nwww.aiforheratx.org\n#womenshealth #perimenopause #insomnia #medicationsafety #researchgap",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "9:40am. school parking lot",
+   "text": "I took the *normal* dose. Nine hours later I'm still driving like I'm half asleep.",
+   "suggest": "→ Ask: is my dose *sex-specific*? (FDA 2013)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e6d4da'/><stop offset='1' stop-color='#f7ece3'/></linearGradient><radialGradient id='a2' cx='0.26' cy='0.28' r='0.6'><stop offset='0' stop-color='#fae4cb' stop-opacity='.9'/><stop offset='1' stop-color='#fae4cb' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6e5d6'/><stop offset='1' stop-color='#e8d2cc'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M40 24 C40 12 66 6 84 11 C102 16 108 30 107 44 L104 112 C82 120 56 118 38 110 Z' fill='url(#a3)'/><path d='M46 34 C58 30 78 32 98 38' stroke='#d9bfc4' stroke-width='2' fill='none' opacity='.7'/><path d='M104 12 C124 30 128 74 116 118 C110 138 96 142 92 132 C100 96 104 52 96 18 Z' fill='#dcc2c7' opacity='.85'/><rect width='320' height='200' fill='url(#a2)'/><path d='M0 138 C64 124 122 148 196 134 C252 124 288 132 320 126 L320 200 L0 200 Z' fill='#e0c8cd' opacity='.75'/><path d='M0 158 C70 150 130 166 200 158 C258 152 292 158 320 154 L320 200 L0 200 Z' fill='#cfb3ba' opacity='.6'/><path d='M198 116 C196 106 208 100 218 101 C229 102 236 109 234 118 L230 152 C228 160 202 160 201 152 Z' fill='#f6e9dd' opacity='.95'/><path d='M203 124 C212 121 226 122 231 126 L229 150 C222 154 209 154 204 150 Z' fill='#e9d6c8' opacity='.8'/><path d='M252 128 C250 120 258 115 266 116 C275 117 279 123 277 130 L273 152 C271 158 254 158 253 152 Z' fill='#ecd6d9'/><path d='M256 112 C258 107 271 107 272 113 C273 118 256 118 256 112 Z' fill='#d8bcc2'/><path d='M120 150 C150 144 190 146 214 152' stroke='#c9aeb6' stroke-width='2' fill='none' opacity='.5'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 6am",
+   "text": "Everyone told her it was stress. Nobody asked whether the dose was built for her body.",
+   "phrases": [
+    "Same pill, same box, same dose.",
+    "\"Everyone's groggy, it's fine.\"",
+    "\"You're just doing too much.\"",
+    "Nadia, 47, wasn't imagining it."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8d6da'/><stop offset='1' stop-color='#f7ede4'/></linearGradient><radialGradient id='b2' cx='0.72' cy='0.42' r='0.5'><stop offset='0' stop-color='#f7dfc6' stop-opacity='.85'/><stop offset='1' stop-color='#f7dfc6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 120 C70 108 140 128 214 116 C266 108 292 116 320 110 L320 200 L0 200 Z' fill='#e2cad0' opacity='.7'/><path d='M0 146 C80 138 148 156 226 148 C272 143 298 148 320 145 L320 200 L0 200 Z' fill='#d3b8c0' opacity='.55'/><rect width='320' height='200' fill='url(#b2)'/><path d='M186 78 C184 68 194 62 206 63 C219 64 226 72 224 82 L216 138 C214 148 186 148 185 138 Z' fill='#f7ebdf'/><path d='M190 92 C200 88 216 89 221 94 L215 134 C206 139 192 139 189 134 Z' fill='#e3c8b7' opacity='.85'/><path d='M198 56 C200 46 208 42 210 34 C212 44 204 50 204 58' stroke='#ded0c6' stroke-width='3' fill='none' opacity='.8' stroke-linecap='round'/><path d='M214 56 C217 47 224 44 226 37 C228 46 221 51 220 58' stroke='#ded0c6' stroke-width='2' fill='none' opacity='.6' stroke-linecap='round'/><path d='M62 86 C60 78 66 72 76 72 C86 72 92 78 91 86 L88 140 C87 148 62 148 61 140 Z' fill='#efdde2'/><path d='M66 82 C74 78 84 79 87 83' stroke='#dcc0c8' stroke-width='2' fill='none'/><path d='M68 94 C74 90 84 91 88 95 L86 128 C79 132 70 132 67 128 Z' fill='#fdf6ee' opacity='.9'/><path d='M112 128 C120 118 138 116 150 122 C160 127 158 140 148 143 C132 148 112 142 112 128 Z' fill='#e6d3cf' opacity='.8'/><path d='M126 148 C150 143 178 145 196 150' stroke='#c8adb6' stroke-width='2' fill='none' opacity='.5'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "1992 → 2013",
+   "number": "21 years",
+   "text": "Zolpidem sold for 21 years before the FDA halved the recommended bedtime dose for women.",
+   "mood": "neutral",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#efdcd9'/><stop offset='1' stop-color='#f9efe4'/></linearGradient><radialGradient id='c2' cx='0.2' cy='0.24' r='0.62'><stop offset='0' stop-color='#fbe2c2' stop-opacity='.95'/><stop offset='1' stop-color='#fbe2c2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 96 C64 84 128 104 200 92 C256 83 292 90 320 86 L320 200 L0 200 Z' fill='#ecd6cd' opacity='.8'/><rect width='320' height='200' fill='url(#c2)'/><path d='M0 128 C72 118 138 138 212 128 C264 121 294 127 320 124 L320 200 L0 200 Z' fill='#e0c4c3' opacity='.7'/><path d='M40 130 C120 122 210 130 300 124' stroke='#cdaeae' stroke-width='2' fill='none' opacity='.6'/><path d='M96 96 C94 86 104 80 116 81 C129 82 136 90 134 100 L128 128 C126 136 98 136 97 128 Z' fill='#f8ecdf'/><path d='M100 104 C110 100 126 101 131 106 L127 124 C118 129 105 129 101 124 Z' fill='#e7cfbc' opacity='.85'/><path d='M104 74 C106 68 124 68 125 75 C126 81 104 81 104 74 Z' fill='#d9bbb9'/><path d='M134 128 C176 118 232 120 268 130 C240 138 168 140 134 128 Z' fill='#d8b9b6' opacity='.45'/><path d='M212 118 C210 110 216 104 224 105 C233 106 237 112 235 119 L232 128 C230 133 214 133 213 128 Z' fill='#f5e3e2'/><path d='M244 92 C250 78 264 74 272 82 C280 90 276 106 264 112 C256 116 246 108 244 92 Z' fill='#dfd0bd' opacity='.9'/><path d='M262 112 C262 120 260 124 258 128' stroke='#c6b39f' stroke-width='3' fill='none' stroke-linecap='round'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "why it took so long",
+   "text": "Until 1993, FDA policy kept women of childbearing age out of most early drug trials.",
+   "phrases": [
+    "Women clear zolpidem more slowly.",
+    "So morning levels stayed high enough to impair driving.",
+    "She wasn't fragile. The data was."
+   ],
+   "mood": "neutral",
+   "motion": "pan-right",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f2e0d6'/><stop offset='1' stop-color='#faf0e5'/></linearGradient><radialGradient id='d2' cx='0.74' cy='0.3' r='0.55'><stop offset='0' stop-color='#fce0bd' stop-opacity='.9'/><stop offset='1' stop-color='#fce0bd' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M0 104 C70 92 136 112 208 100 C260 91 294 98 320 94 L320 200 L0 200 Z' fill='#eed8ca' opacity='.8'/><rect width='320' height='200' fill='url(#d2)'/><path d='M228 40 C244 30 262 36 266 52 C270 70 258 84 242 82 C226 80 216 60 228 40 Z' fill='#fae7c6' opacity='.85'/><path d='M0 134 C76 124 146 142 220 132 C268 126 296 131 320 128 L320 200 L0 200 Z' fill='#e6c9c2' opacity='.75'/><path d='M62 130 C74 112 108 106 140 112 C172 118 186 128 184 134 C150 142 94 142 62 130 Z' fill='#f9efe2'/><path d='M84 126 C104 120 138 120 158 126' stroke='#d9c1ae' stroke-width='2' fill='none' opacity='.7'/><path d='M92 118 C110 113 140 113 156 118' stroke='#d9c1ae' stroke-width='2' fill='none' opacity='.5'/><path d='M198 106 C196 96 206 90 218 91 C231 92 238 100 236 110 L230 134 C228 141 200 141 199 134 Z' fill='#f7e9e4'/><path d='M203 114 C213 110 228 111 233 116 L229 130 C220 135 207 135 203 130 Z' fill='#e6cfc4' opacity='.8'/><path d='M212 84 C214 76 218 72 216 64 C222 72 220 80 219 86' stroke='#dfd0c4' stroke-width='3' fill='none' opacity='.8' stroke-linecap='round'/><path d='M40 132 C36 116 44 100 58 96 C52 110 50 122 52 132 Z' fill='#cfd8c2' opacity='.9'/><path d='M58 132 C68 118 82 114 92 118 C80 122 70 128 66 134 Z' fill='#c3d0b4' opacity='.85'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight",
+   "text": "Write down the drug and the dose, then ask your prescriber one question at the refill.",
+   "phrases": [
+    "1. Ask: \"Is this dose different for women?\" (FDA, 2013)",
+    "2. Ask about CBT-I — first-line for chronic insomnia.",
+    "3. A 20-minute daylight walk counts toward WHO's 150 min/week."
+   ],
+   "attribution": "— American College of Physicians, 2016 insomnia guideline",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fbe5cd'/><stop offset='1' stop-color='#fdf3e7'/></linearGradient><radialGradient id='e2' cx='0.24' cy='0.22' r='0.66'><stop offset='0' stop-color='#ffe6bd' stop-opacity='.95'/><stop offset='1' stop-color='#ffe6bd' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M0 100 C68 88 132 108 206 96 C258 87 294 94 320 90 L320 200 L0 200 Z' fill='#f6dfc4' opacity='.8'/><rect width='320' height='200' fill='url(#e2)'/><path d='M0 132 C74 122 144 140 218 130 C266 124 296 129 320 126 L320 200 L0 200 Z' fill='#eecfb6' opacity='.8'/><path d='M70 130 C82 112 122 106 158 112 C192 118 206 128 202 134 C164 144 104 144 70 130 Z' fill='#fdf6ea'/><path d='M92 124 C114 118 152 118 172 124' stroke='#e0c6a8' stroke-width='2' fill='none' opacity='.7'/><path d='M100 116 C120 111 152 111 170 116' stroke='#e0c6a8' stroke-width='2' fill='none' opacity='.5'/><path d='M186 100 C204 92 216 100 214 112 C212 124 196 130 188 124 C180 118 178 106 186 100 Z' fill='#f3d9d2' opacity='.9'/><path d='M232 106 C230 96 240 90 252 91 C265 92 272 100 270 110 L264 132 C262 139 234 139 233 132 Z' fill='#fbeee0'/><path d='M237 114 C247 110 262 111 267 116 L263 128 C254 133 241 133 237 128 Z' fill='#e9d2b8' opacity='.8'/><path d='M246 84 C248 76 252 72 250 64 C256 72 254 80 253 86' stroke='#e7d8c6' stroke-width='3' fill='none' opacity='.85' stroke-linecap='round'/><path d='M38 132 C32 114 40 96 56 90 C48 106 46 120 48 132 Z' fill='#cdd9bd' opacity='.95'/><path d='M54 132 C64 116 80 112 92 116 C78 121 66 128 62 134 Z' fill='#c0cfae' opacity='.9'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "still foggy at 9:40?",
+   "text": "Follow @aiforheratx — women's health, explained. Then go ask about your dose.",
+   "mood": "warm",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fde3c6'/><stop offset='1' stop-color='#fdf5ea'/></linearGradient><radialGradient id='f2' cx='0.3' cy='0.26' r='0.68'><stop offset='0' stop-color='#ffe3b4' stop-opacity='.95'/><stop offset='1' stop-color='#ffe3b4' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fff3df'/><stop offset='1' stop-color='#f7dcbe'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M44 22 C44 10 72 4 92 10 C112 16 118 30 117 44 L114 116 C90 124 62 122 42 114 Z' fill='url(#f3)'/><path d='M50 36 C64 31 88 33 110 40' stroke='#eccfa8' stroke-width='2' fill='none' opacity='.7'/><path d='M114 10 C136 30 140 76 126 122 C120 142 104 146 100 136 C110 98 114 50 106 16 Z' fill='#f4d6b6' opacity='.85'/><rect width='320' height='200' fill='url(#f2)'/><path d='M0 136 C76 126 146 144 220 134 C268 128 296 133 320 130 L320 200 L0 200 Z' fill='#f0d2b4' opacity='.8'/><path d='M0 158 C78 150 148 166 224 158 C270 153 298 158 320 155 L320 200 L0 200 Z' fill='#e3bfa2' opacity='.6'/><path d='M206 108 C204 98 216 92 228 93 C242 94 249 102 247 112 L241 140 C239 148 208 148 207 140 Z' fill='#fdf4e6'/><path d='M211 118 C222 113 238 114 244 120 L239 136 C229 141 215 141 211 136 Z' fill='#ecd4b8' opacity='.8'/><path d='M220 84 C222 74 227 70 225 60 C232 70 229 79 228 87' stroke='#ecdcc8' stroke-width='3' fill='none' opacity='.85' stroke-linecap='round'/><path d='M56 136 C48 118 58 98 76 92 C66 110 64 124 66 136 Z' fill='#cbd9b8' opacity='.95'/><path d='M74 136 C86 118 104 114 118 118 C102 124 88 130 84 138 Z' fill='#bccfa9' opacity='.9'/></svg>"
+  }
+ ]
+}
