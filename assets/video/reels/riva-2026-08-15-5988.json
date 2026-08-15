@@ -1,0 +1,80 @@
+{
+ "title": "Reel · HRT myth flip — the 10-year window",
+ "caption": "Myth: hormone therapy is just too risky. The 2002 WHI trial's average woman was 63 — a decade past menopause. NAMS 2022 says under 60 or within 10 years, the math is different.\nWhich myth next? 👇\nwww.aiforheratx.org\n#menopause #perimenopause #hormonetherapy #womenshealth #hrtfacts #midlifewomen",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "3 a.m. since March",
+   "text": "You were told hormone therapy is *too risky*. That warning is from 2002 headlines.",
+   "suggest": "→ Ask about the *10-year window* (NAMS 2022)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFE0D2'/><stop offset='1' stop-color='#DFC8B6'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#B9A6BE'/><stop offset='0.55' stop-color='#E3C4BE'/><stop offset='1' stop-color='#F6DEC6'/></linearGradient><radialGradient id='a3' cx='0.5' cy='0.55' r='0.58'><stop offset='0' stop-color='#F8DCAE' stop-opacity='0.55'/><stop offset='1' stop-color='#F8DCAE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M70 18 C120 12 210 12 252 19 C258 62 257 116 250 140 C200 147 118 147 70 140 C63 112 63 48 70 18 Z' fill='url(#a2)'/><path d='M70 106 C110 94 138 118 172 105 C208 92 236 112 252 103 C253 122 252 133 250 140 C200 147 118 147 70 140 C68 129 68 117 70 106 Z' fill='#C7B2C0' opacity='0.7'/><circle cx='206' cy='56' r='12' fill='#FBEBD2' opacity='0.85'/><path d='M56 140 C120 136 206 136 268 140 C268 146 268 148 268 149 C206 152 120 152 56 149 Z' fill='#D8BFA9'/><path d='M118 118 C114 128 116 137 122 140 L152 140 C158 136 160 127 156 118 Z' fill='#F5EAE0'/><path d='M157 122 C167 121 169 132 159 133' fill='none' stroke='#F5EAE0' stroke-width='4' stroke-linecap='round'/><path d='M132 108 C126 100 138 96 132 87' fill='none' stroke='#E8D5C6' stroke-width='3' stroke-linecap='round' opacity='0.9'/><path d='M143 110 C138 102 148 98 143 90' fill='none' stroke='#E8D5C6' stroke-width='3' stroke-linecap='round' opacity='0.65'/><path d='M232 140 C226 128 228 112 240 103 C246 116 244 132 238 140 Z' fill='#A8BFA3'/><path d='M240 103 C252 99 263 107 260 119 C249 125 239 117 240 103 Z' fill='#93AE90'/><path d='M228 138 C236 136 246 136 251 138 C251 141 251 142 251 143 C246 145 236 145 228 143 Z' fill='#C39C82'/><rect width='320' height='200' fill='url(#a3)'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 11:48 pm",
+   "text": "Priya is 52, hasn't slept a full night since March, and everyone has an opinion.",
+   "phrases": [
+    "\"Just push through it.\"",
+    "\"My mum did it without anything.\"",
+    "\"Isn't that stuff dangerous now?\"",
+    "So she stopped asking anyone, including her doctor."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#C6B4C0'/><stop offset='1' stop-color='#E9D6C8'/></linearGradient><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F2E4D6'/><stop offset='1' stop-color='#DCC5B4'/></linearGradient><radialGradient id='b2' cx='0.66' cy='0.66' r='0.34'><stop offset='0' stop-color='#F0E6F4' stop-opacity='0.9'/><stop offset='1' stop-color='#F0E6F4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#b1)'/><circle cx='58' cy='44' r='15' fill='#F3E6D8' opacity='0.5'/><path d='M0 118 C58 102 120 128 182 119 C242 110 292 126 320 116 L320 200 L0 200 Z' fill='url(#b3)'/><path d='M0 134 C48 126 96 148 142 139 C152 158 147 176 138 188 C88 192 34 190 0 184 Z' fill='#E6D0C2'/><path d='M18 120 C34 104 78 104 93 117 C99 130 84 140 57 140 C31 140 14 132 18 120 Z' fill='#F5E8DC'/><path d='M196 128 C196 121 203 117 211 117 C221 117 227 121 227 128 C228 143 225 153 221 157 C211 159 202 158 198 155 C195 148 195 138 196 128 Z' fill='#4A4351'/><path d='M201 126 C201 123 205 122 211 122 C218 122 222 123 222 126 C222 139 220 147 218 150 C211 152 205 151 203 149 C201 144 201 134 201 126 Z' fill='#EFE3F2'/><path d='M258 156 C252 142 254 124 266 114 C273 128 271 146 264 156 Z' fill='#9DB29A'/><rect width='320' height='200' fill='url(#b2)'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "what she read that night",
+   "text": "The trial that scared everyone off studied women a decade past menopause, not women at 52.",
+   "phrases": [
+    "WHI, 2002. Every age pooled into one headline.",
+    "Re-analysed by age group (Manson, JAMA 2013).",
+    "The 50-somethings' numbers didn't look like the 70-somethings'."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFDFD0'/><stop offset='1' stop-color='#E0C9B5'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FBF3E8'/><stop offset='1' stop-color='#EADCCB'/></linearGradient><radialGradient id='c3' cx='0.24' cy='0.18' r='0.6'><stop offset='0' stop-color='#FFF0CE' stop-opacity='0.7'/><stop offset='1' stop-color='#FFF0CE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M0 0 C70 18 96 60 78 118 C56 186 18 196 0 200 Z' fill='#FBEBD0' opacity='0.55'/><path d='M0 128 C80 116 220 118 320 108 L320 200 L0 200 Z' fill='#CFAE93'/><path d='M62 96 C120 84 200 86 254 96 C262 122 258 148 248 160 C190 170 116 168 66 158 C58 138 56 112 62 96 Z' fill='url(#c2)'/><path d='M254 96 C266 100 272 112 268 124 C260 122 254 112 254 96 Z' fill='#E2D2BF'/><path d='M84 116 C130 110 192 110 232 116' fill='none' stroke='#C9B49E' stroke-width='4' stroke-linecap='round'/><path d='M84 132 C120 127 168 127 200 132' fill='none' stroke='#D6C4B0' stroke-width='3' stroke-linecap='round'/><path d='M84 146 C118 141 160 141 190 146' fill='none' stroke='#D6C4B0' stroke-width='3' stroke-linecap='round'/><path d='M268 150 C258 148 252 156 258 162 C266 168 280 164 282 154 C283 146 276 142 268 150 Z' fill='#E8CDB6' opacity='0.8'/><path d='M22 166 C34 152 56 152 66 162 C60 172 40 176 22 166 Z' fill='#A8BFA3' opacity='0.85'/><rect width='320' height='200' fill='url(#c3)'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "average age in that trial",
+   "number": "63",
+   "text": "The average woman in the 2002 WHI trial was 63 — over ten years past menopause.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E6D4'/><stop offset='0.6' stop-color='#F6D9C2'/><stop offset='1' stop-color='#EDC9B4'/></linearGradient><radialGradient id='d2' cx='0.72' cy='0.3' r='0.42'><stop offset='0' stop-color='#FFE9B8' stop-opacity='0.9'/><stop offset='1' stop-color='#FFE9B8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#d1)'/><circle cx='232' cy='60' r='22' fill='#FBE3B4' opacity='0.8'/><path d='M0 150 C52 128 104 152 156 142 C212 131 268 148 320 134 L320 200 L0 200 Z' fill='#DFC0A6' opacity='0.75'/><path d='M0 170 C64 156 132 178 196 168 C252 159 292 174 320 166 L320 200 L0 200 Z' fill='#C9A88E'/><path d='M76 168 C72 152 74 132 84 122 C94 132 96 152 92 168 Z' fill='#93AE90'/><path d='M84 122 C74 110 78 96 90 92 C98 102 96 116 84 122 Z' fill='#A8BFA3'/><path d='M84 124 C96 112 110 114 114 126 C104 134 90 132 84 124 Z' fill='#9DB29A'/><rect width='320' height='200' fill='url(#d2)'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "before the appointment",
+   "text": "She wrote two lines in her notes app so she wouldn't freeze in the room.",
+   "phrases": [
+    "Top 2 symptoms + the date of your last period.",
+    "Ask out loud: \"Am I inside the 10-year window?\"",
+    "For bone: WHO says 150 min a week plus 2 strength sessions."
+   ],
+   "attribution": "— Jen Gunter, The Menopause Manifesto",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEEDD'/><stop offset='1' stop-color='#EFD8C2'/></linearGradient><linearGradient id='e2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FFF8EE'/><stop offset='1' stop-color='#F0E1CE'/></linearGradient><radialGradient id='e3' cx='0.78' cy='0.22' r='0.55'><stop offset='0' stop-color='#FFE2A8' stop-opacity='0.75'/><stop offset='1' stop-color='#FFE2A8' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M320 0 C260 26 250 78 268 128 C282 168 306 188 320 196 Z' fill='#FDEBC8' opacity='0.6'/><path d='M0 138 C90 126 230 130 320 120 L320 200 L0 200 Z' fill='#D9BBA0'/><path d='M52 104 C110 94 176 94 224 104 C232 130 228 154 218 166 C160 176 96 174 56 164 C48 144 46 118 52 104 Z' fill='url(#e2)'/><path d='M138 98 C142 122 142 148 138 172' fill='none' stroke='#E0CDB6' stroke-width='3'/><path d='M72 122 C94 118 118 118 128 122' fill='none' stroke='#D3BCA3' stroke-width='4' stroke-linecap='round'/><path d='M72 140 C92 136 114 136 126 140' fill='none' stroke='#DCC8B2' stroke-width='3' stroke-linecap='round'/><path d='M152 124 C176 120 200 120 212 124' fill='none' stroke='#DCC8B2' stroke-width='3' stroke-linecap='round'/><path d='M232 158 C240 128 252 104 268 88 C274 94 268 112 254 138 C248 150 240 158 232 158 Z' fill='#C98F76'/><path d='M266 88 C272 84 278 88 276 94 C272 98 266 96 266 88 Z' fill='#8A6A5A'/><path d='M40 166 C34 148 36 126 48 114 C56 128 54 152 48 166 Z' fill='#A8BFA3'/><path d='M48 114 C60 108 70 116 66 128 C56 132 47 126 48 114 Z' fill='#93AE90'/><rect width='320' height='200' fill='url(#e3)'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "morning, curtains open",
+   "text": "Follow @aiforheratx — the myths, flipped, with the actual evidence named.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEADA'/><stop offset='1' stop-color='#F0D6C0'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFE7B8'/><stop offset='0.55' stop-color='#FBD9C0'/><stop offset='1' stop-color='#F6E4CE'/></linearGradient><radialGradient id='f3' cx='0.5' cy='0.42' r='0.62'><stop offset='0' stop-color='#FFF0C4' stop-opacity='0.8'/><stop offset='1' stop-color='#FFF0C4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M70 18 C120 12 210 12 252 19 C258 62 257 116 250 140 C200 147 118 147 70 140 C63 112 63 48 70 18 Z' fill='url(#f2)'/><circle cx='160' cy='72' r='24' fill='#FFF1CE' opacity='0.9'/><path d='M70 112 C108 100 138 120 174 108 C210 96 236 114 252 106 C253 124 252 134 250 140 C200 147 118 147 70 140 C68 130 68 120 70 112 Z' fill='#E4C6AE' opacity='0.7'/><path d='M78 20 C96 46 92 92 76 138 C70 140 66 138 64 134 C74 96 76 54 70 20 Z' fill='#FBEFE2' opacity='0.9'/><path d='M244 20 C226 52 232 100 250 140 C256 140 260 136 260 130 C246 96 240 54 246 20 Z' fill='#FBEFE2' opacity='0.85'/><path d='M56 140 C120 136 206 136 268 140 C268 146 268 148 268 149 C206 152 120 152 56 149 Z' fill='#DDC0A6'/><path d='M228 138 C222 126 224 110 236 102 C242 114 240 130 234 138 Z' fill='#A8BFA3'/><path d='M236 102 C248 98 258 106 255 118 C245 124 235 116 236 102 Z' fill='#93AE90'/><rect width='320' height='200' fill='url(#f3)'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
