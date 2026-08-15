@@ -1,0 +1,86 @@
+{
+ "title": "Priya, 36 — the raise that shrank after leave",
+ "caption": "The gap doesn't start at the hire. It starts at the first baby — about 20% of her earnings, long-term (Kleven, AEJ: Applied 2019).\nAsk for the written promo criteria (Bohnet, 2016).\nSend this to her.\nwww.aiforheratx.org\n#motherhoodpenalty #workingmoms #womenatwork #womenshealth #careerandfamily",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "back 5 months. same band.",
+   "text": "Back from leave, doing more, and my raise *shrank*.",
+   "suggest": "→ Ask for the written *promo criteria* (Bohnet 2016)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s1sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D6DC'/><stop offset='1' stop-color='#FBF2E7'/></linearGradient><radialGradient id='s1lamp' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#F8DDAE' stop-opacity='.95'/><stop offset='1' stop-color='#F8DDAE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s1sky)'/><path d='M18 14 q52-8 96 2 q6 44 0 88 q-48 8-96 0 q-6-46 0-90z' fill='#DCC9D2' opacity='.55'/><circle cx='92' cy='44' r='13' fill='#FBF0DA' opacity='.9'/><path d='M0 128 q84-18 168-6 q86 12 152 2 l0 76 l-320 0z' fill='#E6D3C4'/><ellipse cx='196' cy='96' rx='96' ry='58' fill='url(#s1lamp)'/><path d='M150 132 q46-6 92 0 q-8-26-6-40 q-40-6-80 0 q2 16-6 40z' fill='#EFE0D2'/><path d='M156 130 q40-5 80 0 q-6-22-5-34 q-35-5-70 0 q1 12-5 34z' fill='#F9E7C9'/><path d='M104 128 q10-4 18 0 q2 12-1 18 q-9 3-17 0 q-3-7 0-18z' fill='#D9A9B4'/><path d='M104 132 q9 4 18 0' stroke='#C08E9C' stroke-width='2' fill='none'/><path d='M40 176 q10-10 20 0 q-9 8-20 0z' fill='#CBB6A6'/><path d='M262 120 q6-30 14-40 q4 16-2 40z' fill='#A8B79A' opacity='.8'/><path d='M268 118 q8-4 14 2 q-4 12-14 10z' fill='#B9C6A9'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the 1:1, week two",
+   "text": "Nobody asked Priya what she wanted. They just decided it out loud.",
+   "phrases": [
+    "\"You're on the mommy track now, yeah?\"",
+    "\"We figured you'd want something lighter.\"",
+    "\"I shipped the release. With cold chai.\"",
+    "Nobody actually asked her."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s2bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9DAE0'/><stop offset='1' stop-color='#FAF1E9'/></linearGradient><linearGradient id='s2win' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#D9CBD6'/><stop offset='1' stop-color='#EFE2DC'/></linearGradient></defs><rect width='320' height='200' fill='url(#s2bg)'/><path d='M170 16 q60-6 120 4 q8 60 0 118 q-58 8-118 2 q-8-62-2-124z' fill='url(#s2win)'/><path d='M196 30 q-8 30-2 60 M226 24 q-10 40-4 74 M256 34 q-8 34-2 62' stroke='#CBBCC8' stroke-width='2' fill='none' opacity='.8'/><path d='M0 140 q80-14 160-4 q80 10 160 0 l0 64 l-320 0z' fill='#E7D5C6'/><path d='M60 138 q34-6 62 2 q4 26-2 46 q-30 6-58 0 q-6-24-2-48z' fill='#DFC9BE'/><path d='M64 134 q30-30 58-2 q-28-8-58 2z' fill='#C9A8B2'/><path d='M96 88 q22-10 30 8 q6 20-8 36 q-16 4-26-8 q-8-20 4-36z' fill='#D3B0BB' opacity='.9'/><path d='M118 168 q14-6 26 0 q-12 8-26 0z' fill='#CDB8A8'/><path d='M18 132 q6-26 12-36 q6 18 0 36z' fill='#A8B79A' opacity='.85'/><path d='M22 130 q10-6 16 2 q-6 12-16 8z' fill='#BAC7AA'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "Denmark, 1980–2013",
+   "number": "20%",
+   "text": "Women's pay drops about *20%* at the first baby and stays down. Men's barely moves.",
+   "phrases": [
+    "Her pay dropped. His didn't.",
+    "It's the birth, not the hire.",
+    "Kleven, AEJ: Applied, 2019."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s3sky' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E6E0'/><stop offset='1' stop-color='#FCF4EA'/></linearGradient></defs><rect width='320' height='200' fill='url(#s3sky)'/><circle cx='250' cy='52' r='26' fill='#F8DEBE' opacity='.75'/><path d='M0 148 q70-40 140-14 q76 28 180 0 l0 66 l-320 0z' fill='#E9D6C6'/><path d='M0 168 q90-24 170-6 q74 16 150 4 l0 34 l-320 0z' fill='#DCC5B4'/><path d='M24 118 q60-30 116-34 q60-4 156-16' stroke='#A8B79A' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M24 122 q52-12 96 10 q46 22 172 18' stroke='#D28C9C' stroke-width='5' fill='none' stroke-linecap='round'/><circle cx='120' cy='132' r='6' fill='#C7788A'/><path d='M118 140 q4 10 2 18' stroke='#C7788A' stroke-width='2' fill='none' opacity='.7'/><path d='M282 176 q8-8 16 0 q-8 6-16 0z' fill='#CDB8A8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the email she finally sent",
+   "text": "She stopped arguing about vibes and asked for the promotion bar in writing.",
+   "phrases": [
+    "\"Can I get the promo criteria in writing?\"",
+    "Six lines came back. Six things to hit.",
+    "Written rules are much harder to bend."
+   ],
+   "attribution": "— Iris Bohnet, What Works",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s4bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FAEDE2'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s4glow' cx='.2' cy='.2' r='.8'><stop offset='0' stop-color='#F9DFB4' stop-opacity='.85'/><stop offset='1' stop-color='#F9DFB4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s4bg)'/><ellipse cx='70' cy='40' rx='120' ry='90' fill='url(#s4glow)'/><path d='M0 130 q86-16 172-4 q76 10 148 0 l0 74 l-320 0z' fill='#E8D4C2'/><path d='M96 118 q56-10 112 2 q6 28-2 54 q-58 8-114-2 q-6-28 4-54z' fill='#FBF4E8'/><path d='M112 134 q40-6 78 2 M112 148 q34-5 66 2 M112 162 q26-4 50 2' stroke='#D8C3B4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M200 108 q22 18 34 40' stroke='#C7889A' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M232 148 q6 4 6 10 q-8-1-10-6z' fill='#8A6B78'/><path d='M40 122 q12-6 24 2 q2 22-4 36 q-14 4-24-2 q-2-20 4-36z' fill='#D9A9B4'/><path d='M40 128 q12 6 24-2' stroke='#BE8A98' stroke-width='2' fill='none'/><path d='M282 118 q4-30 12-40 q6 20-4 42z' fill='#A8B79A'/><path d='M286 116 q10-6 16 2 q-6 12-16 8z' fill='#B9C6A9'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-right"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "tonight, twenty minutes",
+   "text": "Write 3 things you shipped this quarter, with *dates*. Then go walk after dinner.",
+   "phrases": [
+    "Three wins, with dates, in your notes app.",
+    "Bring them to your next 1:1 — documented beats remembered (Iris Bohnet, What Works).",
+    "Then a 20-minute walk: WHO says 150 minutes a week, and this is how it adds up."
+   ],
+   "attribution": "— Iris Bohnet, What Works",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s5bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCEAD8'/><stop offset='1' stop-color='#FDF7EF'/></linearGradient></defs><rect width='320' height='200' fill='url(#s5bg)'/><circle cx='262' cy='44' r='30' fill='#F7DDB2' opacity='.6'/><path d='M0 136 q84-14 166-4 q80 10 154 0 l0 68 l-320 0z' fill='#E9D6C4'/><path d='M44 120 q46-10 92 2 q6 26-2 48 q-48 8-94-2 q-4-26 4-48z' fill='#FBF4E8'/><path d='M58 136 q34-6 66 2 M58 150 q28-5 54 2' stroke='#D9C4B4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M190 130 q16-6 30 2 q2 26-6 38 q-16 4-26-4 q-4-20 2-36z' fill='#D9A9B4'/><path d='M220 140 q14 4 10 16 q-4 6-12 4' fill='none' stroke='#C08E9C' stroke-width='4'/><path d='M198 118 q4-14 10-20 q4 12-2 20 M210 116 q6-12 12-16 q2 12-6 18' stroke='#E0CBBE' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M254 168 q16-14 34-6 q10 4 8 12 q-22 4-42 2z' fill='#C9D3BC'/><path d='M258 164 q12-10 26-4' stroke='#A8B79A' stroke-width='3' fill='none'/><path d='M18 128 q6-34 14-44 q6 22-4 46z' fill='#A8B79A'/><path d='M22 126 q12-8 18 2 q-8 14-18 8z' fill='#BAC7AA'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "for Priya, and for you",
+   "text": "Your raise didn't shrink because you had a baby. Follow *@aiforheratx*.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200'><defs><linearGradient id='s6bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE8DC'/><stop offset='1' stop-color='#FDF6EC'/></linearGradient><radialGradient id='s6sun' cx='.5' cy='.5' r='.5'><stop offset='0' stop-color='#F9D9A6' stop-opacity='.95'/><stop offset='1' stop-color='#F9D9A6' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#s6bg)'/><path d='M18 14 q52-8 96 2 q6 44 0 88 q-48 8-96 0 q-6-46 0-90z' fill='#F6E2CE'/><ellipse cx='70' cy='60' rx='60' ry='46' fill='url(#s6sun)'/><circle cx='72' cy='58' r='15' fill='#F7C98E' opacity='.9'/><path d='M0 130 q86-16 170-4 q78 10 150 0 l0 74 l-320 0z' fill='#E9D6C4'/><path d='M196 116 q18-8 34 2 q2 28-6 42 q-18 4-30-4 q-4-22 2-40z' fill='#D9A9B4'/><path d='M230 128 q16 6 10 18 q-5 8-14 6' fill='none' stroke='#C08E9C' stroke-width='4'/><path d='M204 104 q4-16 10-22 q4 14-2 22 M216 102 q6-12 12-16 q2 12-6 18' stroke='#E6D2C4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M118 126 q6-32 14-42 q6 22-4 44z' fill='#A8B79A'/><path d='M122 124 q12-8 18 2 q-8 14-18 8z' fill='#BAC7AA'/><path d='M262 172 q10-10 22 0 q-11 8-22 0z' fill='#CDB8A8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
