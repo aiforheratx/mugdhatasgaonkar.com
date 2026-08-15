@@ -1,0 +1,81 @@
+{
+ "title": "Reel · Myth Flip — \"Just relax\" and IVF (FertiQoL ask)",
+ "caption": "Myth: stress is why IVF fails. A BMJ 2011 review pooled 14 studies — no link. Ask your clinic for the FertiQoL questionnaire + a counsellor; ESHRE calls that standard care, not a favour.\nWhich myth should we flip next? 👇\nwww.aiforheratx.org\n#ivf #infertility #ivfsupport #womensmentalhealth #fertilitycare #ttccommunity",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "transfer 2. day 9.",
+   "text": "\"Just *relax* and it'll happen.\" Stress is not why IVF fails.",
+   "suggest": "→ Ask for *FertiQoL* (ESHRE 2015)",
+   "mood": "dim",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EDE0D8'/><stop offset='1' stop-color='#FBF2EA'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9D6CC' stop-opacity='.9'/><stop offset='1' stop-color='#F6E4DA' stop-opacity='.5'/></linearGradient><radialGradient id='a3' cx='.5' cy='.5'><stop offset='0' stop-color='#F7DCC2' stop-opacity='.9'/><stop offset='1' stop-color='#F7DCC2' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M46 14 C120 6 206 10 274 18 C280 62 279 98 274 128 C200 134 118 133 44 126 C39 88 41 48 46 14 Z' fill='url(#a2)'/><path d='M46 14 C120 6 206 10 274 18 C280 62 279 98 274 128' fill='none' stroke='#D9BFB2' stroke-width='2' opacity='.7'/><path d='M60 16 C74 52 70 96 62 126 C82 124 96 120 104 114 C110 78 108 42 100 15 Z' fill='#F3DED2' opacity='.85'/><path d='M262 18 C250 54 252 96 260 127 C244 126 232 122 224 116 C218 80 220 44 228 17 Z' fill='#F3DED2' opacity='.85'/><ellipse cx='160' cy='96' rx='78' ry='46' fill='url(#a3)'/><path d='M18 138 C90 130 232 130 304 140 C306 152 306 164 304 176 C220 170 100 170 16 178 C14 164 14 150 18 138 Z' fill='#DCC3B4'/><path d='M108 122 C112 112 130 110 134 120 C136 132 134 140 132 140 C122 141 112 140 110 139 C107 134 106 128 108 122 Z' fill='#E9AE9C' opacity='.95'/><path d='M114 108 C116 102 128 102 130 108 C130 112 114 112 114 108 Z' fill='#C98D7C'/><path d='M176 118 C190 114 204 116 208 122 C210 132 206 140 198 141 C186 142 176 138 174 132 C172 126 173 120 176 118 Z' fill='#FBF6F0'/><path d='M208 124 C216 122 218 132 210 134' fill='none' stroke='#D9BFB2' stroke-width='3'/><path d='M186 108 C184 100 190 96 188 90' fill='none' stroke='#D9BFB2' stroke-width='2' opacity='.8'/><path d='M194 106 C193 99 198 96 196 91' fill='none' stroke='#D9BFB2' stroke-width='2' opacity='.6'/><path d='M232 126 C246 122 260 124 262 132 C263 138 254 142 244 142 C234 142 230 134 232 126 Z' fill='#C7A08F' opacity='.55'/></svg>"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 6:12 AM",
+   "text": "Everyone had advice. Nobody asked how she was actually holding up.",
+   "phrases": [
+    "\"Have you tried yoga?\"",
+    "\"My cousin relaxed and got pregnant.\"",
+    "\"You're overthinking it, honestly.\"",
+    "She read all three, put the phone face down, and went to work."
+   ],
+   "mood": "dim",
+   "motion": "pan-left",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E9DCD5'/><stop offset='1' stop-color='#FAF0E8'/></linearGradient><radialGradient id='b2' cx='.5' cy='.45'><stop offset='0' stop-color='#F6E0C9' stop-opacity='.95'/><stop offset='1' stop-color='#F6E0C9' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F4DFD5'/><stop offset='1' stop-color='#E7C9BC'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M0 118 C70 104 150 100 214 104 C266 107 302 114 320 122 L320 200 L0 200 Z' fill='url(#b3)'/><path d='M0 118 C70 104 150 100 214 104 C266 107 302 114 320 122' fill='none' stroke='#DDBFB0' stroke-width='2' opacity='.6'/><path d='M28 132 C90 122 170 118 250 122 C244 140 236 154 226 164 C160 160 96 160 40 166 C32 156 28 144 28 132 Z' fill='#EFDACE' opacity='.75'/><ellipse cx='150' cy='108' rx='84' ry='46' fill='url(#b2)'/><path d='M126 74 C128 62 146 58 160 60 C176 62 182 70 180 82 C178 100 172 118 166 128 C150 130 134 126 128 118 C124 106 124 88 126 74 Z' fill='#FBF6F0' stroke='#E0C4B6' stroke-width='2'/><path d='M136 78 C148 74 164 75 170 79' fill='none' stroke='#E3A899' stroke-width='4' stroke-linecap='round'/><path d='M136 92 C150 88 166 89 172 93' fill='none' stroke='#D9BFB2' stroke-width='4' stroke-linecap='round'/><path d='M136 106 C146 103 158 104 162 107' fill='none' stroke='#D9BFB2' stroke-width='4' stroke-linecap='round'/><path d='M232 92 C244 84 262 86 268 96 C274 108 268 122 256 126 C244 130 234 124 232 114 C230 106 228 96 232 92 Z' fill='#BCC7B6' opacity='.85'/><path d='M250 126 C252 138 254 150 252 160' fill='none' stroke='#A8B79F' stroke-width='3'/><path d='M42 108 C56 100 72 104 74 114 C76 126 66 134 54 132 C44 130 38 118 42 108 Z' fill='#E9AE9C' opacity='.5'/></svg>"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "4:40 AM — injection alarm",
+   "text": "Priya, 36, kept a private list of everything she'd done wrong. None of it was the reason.",
+   "phrases": [
+    "Priya is 36. Second transfer.",
+    "Cold chai on the counter, again.",
+    "She'd written a list: the coffee, the work stress, the crying.",
+    "She was auditing herself for a failure that was never hers."
+   ],
+   "mood": "dim",
+   "motion": "zoom-out",
+   "enter": "slide-up",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7DAD3'/><stop offset='1' stop-color='#FAF0E7'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F6E7DC'/><stop offset='1' stop-color='#E3CBBD'/></linearGradient><radialGradient id='c3' cx='.35' cy='.4'><stop offset='0' stop-color='#F9DEC4' stop-opacity='.85'/><stop offset='1' stop-color='#F9DEC4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M182 6 C230 4 276 10 316 20 C318 60 316 96 312 124 C272 118 226 116 184 118 C180 84 179 44 182 6 Z' fill='#EBD9D0' opacity='.8'/><path d='M182 6 C230 4 276 10 316 20' fill='none' stroke='#D9BFB2' stroke-width='2'/><path d='M196 22 C204 54 202 88 198 114' fill='none' stroke='#D9BFB2' stroke-width='1.5' opacity='.7'/><ellipse cx='120' cy='108' rx='96' ry='54' fill='url(#c3)'/><path d='M0 126 C80 114 200 112 320 124 L320 200 L0 200 Z' fill='url(#c2)'/><path d='M0 126 C80 114 200 112 320 124' fill='none' stroke='#D6B7A7' stroke-width='2' opacity='.6'/><path d='M56 108 C60 96 88 94 92 106 C96 122 94 136 90 142 C76 145 62 144 58 140 C54 130 53 118 56 108 Z' fill='#FBF6F0' stroke='#DEC0B1' stroke-width='2'/><path d='M92 112 C104 110 106 126 94 128' fill='none' stroke='#DEC0B1' stroke-width='3'/><path d='M60 112 C70 108 82 109 88 112 C86 122 82 130 76 134 C68 133 62 126 60 112 Z' fill='#C79A83' opacity='.7'/><path d='M148 128 C176 122 214 122 238 128 C240 144 238 158 234 166 C204 162 176 162 150 166 C146 154 146 138 148 128 Z' fill='#FCF7F1' stroke='#E3CDC0' stroke-width='2'/><path d='M160 140 C180 136 208 137 224 140' fill='none' stroke='#E3A899' stroke-width='3' stroke-linecap='round'/><path d='M160 150 C178 147 204 148 218 150' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M160 159 C174 157 194 157 206 159' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M268 106 C280 98 296 102 298 114 C300 128 288 136 276 132 C266 128 262 112 268 106 Z' fill='#BCC7B6' opacity='.8'/><path d='M284 132 C286 142 288 152 286 162' fill='none' stroke='#A8B79F' stroke-width='3'/></svg>"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "what the research actually found",
+   "number": "14 studies",
+   "text": "A BMJ 2011 review pooled 14 studies. Distress before treatment did not change pregnancy odds.",
+   "mood": "neutral",
+   "motion": "zoom-in",
+   "enter": "slide-left",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F3E6DC'/><stop offset='1' stop-color='#FCF4EC'/></linearGradient><radialGradient id='d2' cx='.5' cy='.42'><stop offset='0' stop-color='#FBE4C8' stop-opacity='.95'/><stop offset='1' stop-color='#FBE4C8' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FDFAF5'/><stop offset='1' stop-color='#F0E0D4'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><ellipse cx='162' cy='96' rx='110' ry='62' fill='url(#d2)'/><path d='M0 132 C90 120 220 118 320 130 L320 200 L0 200 Z' fill='#EBD8CB'/><path d='M0 132 C90 120 220 118 320 130' fill='none' stroke='#DCBEAE' stroke-width='2' opacity='.6'/><path d='M96 82 C130 70 176 68 214 76 C222 96 224 118 220 134 C180 128 132 129 96 136 C92 118 92 96 96 82 Z' fill='url(#d3)' stroke='#E0C6B7' stroke-width='2'/><path d='M158 72 C160 96 160 116 158 135' fill='none' stroke='#E0C6B7' stroke-width='2'/><path d='M110 94 C124 90 140 90 148 93' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M110 106 C124 102 140 102 146 105' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M110 118 C120 115 132 115 138 117' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M170 90 C186 86 202 87 210 90' fill='none' stroke='#E3A899' stroke-width='3' stroke-linecap='round'/><path d='M170 102 C186 99 200 99 208 102' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M170 114 C182 111 196 111 204 113' fill='none' stroke='#D9BFB2' stroke-width='3' stroke-linecap='round'/><path d='M240 66 C254 56 272 60 276 74 C280 90 268 100 254 98 C242 96 234 76 240 66 Z' fill='#BCC7B6' opacity='.85'/><path d='M258 98 C260 110 262 122 260 132' fill='none' stroke='#A8B79F' stroke-width='3'/><path d='M46 108 C58 100 74 104 76 116 C78 128 66 136 54 132 C44 128 40 114 46 108 Z' fill='#E9AE9C' opacity='.45'/></svg>"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what Priya does this week",
+   "text": "Ask your clinic for the FertiQoL questionnaire and a counsellor referral, then walk most days.",
+   "phrases": [
+    "Say it out loud at the next appointment: \"I'd like the FertiQoL questionnaire.\"",
+    "Ask for a fertility counsellor — ESHRE 2015 calls this standard care, not a favour.",
+    "Then 20 minutes of walking, most days (WHO: 150 min a week) — for your mood, not your odds."
+   ],
+   "attribution": "— Alice Domar, Conquering Infertility",
+   "mood": "warm",
+   "motion": "zoom-in",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE6D2'/><stop offset='1' stop-color='#FDF5EC'/></linearGradient><radialGradient id='e2' cx='.42' cy='.34'><stop offset='0' stop-color='#FCD9AC' stop-opacity='.95'/><stop offset='1' stop-color='#FCD9AC' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F6E2D5'/><stop offset='1' stop-color='#E7C7B5'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M34 8 C118 2 214 6 288 16 C292 58 291 96 286 124 C210 118 116 117 32 124 C27 88 29 44 34 8 Z' fill='#FDF3E7' opacity='.9'/><path d='M34 8 C118 2 214 6 288 16 C292 58 291 96 286 124' fill='none' stroke='#E2BE9F' stroke-width='2' opacity='.8'/><ellipse cx='134' cy='72' rx='72' ry='44' fill='url(#e2)'/><path d='M44 96 C90 84 150 82 200 88 C238 92 268 100 288 108 C288 116 287 120 286 124 C210 118 116 117 32 124 C34 112 38 102 44 96 Z' fill='#F7DCC0' opacity='.7'/><path d='M0 128 C86 116 216 114 320 126 L320 200 L0 200 Z' fill='url(#e3)'/><path d='M0 128 C86 116 216 114 320 126' fill='none' stroke='#D9B49E' stroke-width='2' opacity='.6'/><path d='M66 112 C70 100 96 98 100 110 C104 124 102 138 98 144 C82 147 68 146 64 142 C60 132 62 122 66 112 Z' fill='#FDF8F2' stroke='#E0BFA9' stroke-width='2'/><path d='M100 116 C114 114 116 130 100 132' fill='none' stroke='#E0BFA9' stroke-width='3'/><path d='M78 92 C76 82 84 78 82 70' fill='none' stroke='#E7C4A8' stroke-width='2.5'/><path d='M88 90 C87 81 94 77 92 69' fill='none' stroke='#E7C4A8' stroke-width='2.5' opacity='.7'/><path d='M204 90 C218 76 242 80 248 96 C254 114 240 128 224 126 C208 124 196 102 204 90 Z' fill='#BCC7B6'/><path d='M226 60 C238 68 244 82 242 96' fill='none' stroke='#A8B79F' stroke-width='3'/><path d='M226 126 C228 140 230 152 228 162' fill='none' stroke='#A8B79F' stroke-width='4'/><path d='M206 162 C216 156 240 156 250 162 C252 172 248 178 240 179 C226 180 212 178 206 174 C203 170 203 165 206 162 Z' fill='#D8B39B'/><path d='M144 146 C158 138 178 140 182 150 C186 162 176 172 162 170 C150 168 140 154 144 146 Z' fill='#E9AE9C' opacity='.8'/><path d='M160 170 C162 176 163 182 162 186' fill='none' stroke='#C98D7C' stroke-width='3'/></svg>"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "no \"just relax\" here",
+   "text": "Follow @aiforheratx for women's health said plainly — and never blamed on you.",
+   "mood": "warm",
+   "motion": "pan-right",
+   "enter": "fade",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBDFC6'/><stop offset='1' stop-color='#FDF6EE'/></linearGradient><radialGradient id='f2' cx='.62' cy='.3'><stop offset='0' stop-color='#FFD9A4' stop-opacity='.95'/><stop offset='1' stop-color='#FFD9A4' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F7E3D4'/><stop offset='1' stop-color='#E8C9B6'/></linearGradient></defs><rect width='320' height='200' fill='url(#f1)'/><ellipse cx='206' cy='58' rx='108' ry='60' fill='url(#f2)'/><path d='M0 96 C70 84 140 84 196 92 C252 100 296 110 320 118 L320 200 L0 200 Z' fill='url(#f3)'/><path d='M0 96 C70 84 140 84 196 92 C252 100 296 110 320 118' fill='none' stroke='#DBB49B' stroke-width='2' opacity='.7'/><path d='M0 126 C80 116 200 116 320 128 L320 200 L0 200 Z' fill='#EFD9C6' opacity='.85'/><path d='M74 104 C88 88 116 92 122 110 C128 130 112 146 94 143 C76 140 64 118 74 104 Z' fill='#BCC7B6'/><path d='M98 74 C112 84 120 98 118 112' fill='none' stroke='#A8B79F' stroke-width='3'/><path d='M96 143 C98 158 100 170 98 180' fill='none' stroke='#A8B79F' stroke-width='4'/><path d='M74 180 C86 174 112 174 122 180 C124 190 118 196 108 197 C94 198 80 196 74 192 C71 188 71 183 74 180 Z' fill='#D8B39B'/><path d='M212 120 C230 112 254 116 258 128 C262 142 248 152 232 150 C218 148 206 128 212 120 Z' fill='#E9AE9C' opacity='.85'/><path d='M236 150 C238 162 240 172 238 180' fill='none' stroke='#C98D7C' stroke-width='3'/><path d='M164 132 C178 126 194 128 196 138 C198 148 188 156 176 154 C166 152 160 138 164 132 Z' fill='#F3D3C2' opacity='.9'/><path d='M258 46 C266 40 278 42 280 50 C282 60 272 66 264 63 C256 60 254 50 258 46 Z' fill='#FBF2E6' opacity='.9'/></svg>"
+  }
+ ]
+}
