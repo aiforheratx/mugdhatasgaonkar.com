@@ -1,0 +1,80 @@
+{
+ "title": "Kōnenki — the word her family never said (menopause stigma across cultures)",
+ "caption": "Only 6.8% of US medical residents felt ready to manage menopause (Mayo Clinic Proceedings, 2019). Ask for a menopause-certified clinician. Send this to your mum.\nTold it's just age?\nwww.aiforheratx.org\n#menopause #perimenopause #womenshealth #menopausestigma #midlifewomen",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "Meera, 49. Third top today.",
+   "text": "Drenched at 2pm, and told it's *nothing*.",
+   "suggest": "→ Ask for a *menopause-certified* clinician (Mayo 2019)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF5EA'/><stop offset='1' stop-color='#F3DAD2'/></linearGradient><linearGradient id='a2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FAE5C6'/><stop offset='1' stop-color='#F1C7BE'/></linearGradient><radialGradient id='a3' cx='0.7' cy='0.28' r='0.6'><stop offset='0' stop-color='#F8D6A4' stop-opacity='0.7'/><stop offset='1' stop-color='#F8D6A4' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M188 20 C232 13 270 22 292 36 C297 76 296 110 290 134 C258 144 218 144 186 134 C179 98 180 54 188 20 Z' fill='url(#a2)'/><path d='M188 20 C232 13 270 22 292 36 C297 76 296 110 290 134 C258 144 218 144 186 134 C179 98 180 54 188 20 Z' fill='none' stroke='#DFB6A2' stroke-width='2.5'/><path d='M185 90 C218 82 259 82 292 90' stroke='#DFB6A2' stroke-width='2' fill='none'/><path d='M176 16 C168 54 172 96 164 138 C158 150 148 152 142 146 C154 108 156 58 166 18 Z' fill='#EBD3C6' opacity='0.85'/><rect width='320' height='200' fill='url(#a3)'/><path d='M0 152 C92 141 220 143 320 152 L320 200 L0 200 Z' fill='#EAD3B9'/><path d='M0 152 C92 141 220 143 320 152' stroke='#D6B79A' stroke-width='2' fill='none'/><path d='M118 110 C131 105 147 105 159 110 C157 132 152 148 148 154 C140 158 132 158 126 154 C122 148 119 132 118 110 Z' fill='#F7EADD' stroke='#C6A48A' stroke-width='2'/><path d='M159 118 C171 116 175 128 166 134' fill='none' stroke='#C6A48A' stroke-width='2'/><path d='M132 100 C125 90 139 84 132 70' fill='none' stroke='#D9A49B' stroke-width='2.5' stroke-linecap='round' opacity='0.75'/><path d='M145 102 C139 93 150 88 145 78' fill='none' stroke='#D9A49B' stroke-width='2.5' stroke-linecap='round' opacity='0.55'/><path d='M40 152 C49 149 63 149 71 152 C69 166 66 175 62 179 C56 181 51 181 46 179 C42 175 41 166 40 152 Z' fill='#D79A82'/><path d='M56 149 C53 137 57 124 64 116' fill='none' stroke='#9DAF92' stroke-width='2.5'/><path d='M64 116 C74 110 84 114 86 124 C76 130 66 126 64 116 Z' fill='#A8B79A'/><path d='M57 130 C47 124 38 128 37 138 C47 143 56 139 57 130 Z' fill='#B6C4A6'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "1:04 AM, kitchen light on",
+   "text": "The women in my family carried this quietly. I didn't know I could ask for *help*.",
+   "phrases": [
+    "\"Just your age, beta.\"",
+    "\"We didn't discuss such things.\"",
+    "So I googled it at 1am, alone, again."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCF2E7'/><stop offset='1' stop-color='#F0D6CF'/></linearGradient><radialGradient id='b2' cx='0.34' cy='0.62' r='0.42'><stop offset='0' stop-color='#FBE6BE' stop-opacity='0.9'/><stop offset='1' stop-color='#FBE6BE' stop-opacity='0'/></radialGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F3C9C1'/><stop offset='1' stop-color='#DE9E8C'/></linearGradient></defs><rect width='320' height='200' fill='url(#b1)'/><path d='M226 18 C258 12 286 20 300 32 C304 66 303 96 298 118 C274 127 246 127 224 118 C218 86 219 46 226 18 Z' fill='#EFD9CE' opacity='0.8'/><path d='M0 148 C94 138 222 140 320 149 L320 200 L0 200 Z' fill='#E8D0B6'/><path d='M0 148 C94 138 222 140 320 149' stroke='#D4B396' stroke-width='2' fill='none'/><path d='M74 146 C86 96 92 66 104 44 C126 40 148 46 160 58 C150 92 140 122 136 148 Z' fill='url(#b3)' opacity='0.9'/><path d='M104 44 C126 40 148 46 160 58' fill='none' stroke='#C9836F' stroke-width='2'/><path d='M136 148 C142 160 140 172 132 180' fill='none' stroke='#C9836F' stroke-width='2.5'/><rect width='320' height='200' fill='url(#b2)'/><path d='M182 122 C196 118 214 118 228 122 C231 140 230 156 226 166 C212 170 196 170 182 166 C178 154 178 136 182 122 Z' fill='#FBF3E8' stroke='#C9A48C' stroke-width='2'/><path d='M188 132 C200 129 213 129 223 132' stroke='#E2B7AE' stroke-width='3' stroke-linecap='round' fill='none'/><path d='M188 143 C197 141 206 141 214 143' stroke='#E2B7AE' stroke-width='3' stroke-linecap='round' fill='none'/><path d='M188 154 C198 152 210 152 220 154' stroke='#EBD0B4' stroke-width='3' stroke-linecap='round' fill='none'/><path d='M256 150 C265 147 278 147 286 150 C284 163 281 171 277 175 C271 177 266 177 262 175 C258 171 257 163 256 150 Z' fill='#F7EADD' stroke='#C6A48A' stroke-width='2'/><path d='M270 142 C264 134 274 129 269 120' fill='none' stroke='#D9A49B' stroke-width='2.5' stroke-linecap='round' opacity='0.6'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "the appointment, 11 minutes",
+   "text": "Only *6.8%* of US medical residents felt ready to manage menopause — Mayo Clinic Proceedings, 2019.",
+   "number": "6.8%",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCF4EA'/><stop offset='1' stop-color='#EFDCCB'/></linearGradient><linearGradient id='c2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FAE3BF'/><stop offset='1' stop-color='#F2CDBC'/></linearGradient><radialGradient id='c3' cx='0.5' cy='0.5' r='0.6'><stop offset='0' stop-color='#FBE9CC' stop-opacity='0.85'/><stop offset='1' stop-color='#FBE9CC' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#c1)'/><path d='M126 14 C160 10 192 14 210 22 C214 74 213 128 208 172 C186 180 154 181 128 176 C121 124 120 62 126 14 Z' fill='url(#c2)'/><path d='M126 14 C160 10 192 14 210 22 C214 74 213 128 208 172 C186 180 154 181 128 176 C121 124 120 62 126 14 Z' fill='none' stroke='#D9B49A' stroke-width='2.5'/><path d='M132 96 C140 94 148 96 150 102 C148 108 140 110 133 107' fill='#E7C7A6'/><rect width='320' height='200' fill='url(#c3)'/><path d='M0 176 C96 168 226 169 320 177 L320 200 L0 200 Z' fill='#E5CDB2'/><path d='M34 176 C32 148 36 128 44 116 C58 110 74 112 82 120 C86 140 86 160 84 176' fill='#EFD8C6' stroke='#CBA88C' stroke-width='2.5'/><path d='M44 116 C58 110 74 112 82 120' fill='none' stroke='#CBA88C' stroke-width='2'/><path d='M40 176 C38 184 38 190 40 196' fill='none' stroke='#CBA88C' stroke-width='2.5'/><path d='M80 176 C82 184 82 190 80 196' fill='none' stroke='#CBA88C' stroke-width='2.5'/><path d='M254 176 C252 158 256 142 264 134 C274 130 284 134 286 144 C286 158 284 168 282 176 Z' fill='#D89B83' opacity='0.9'/><path d='M270 132 C266 118 272 104 282 96' fill='none' stroke='#9DAF92' stroke-width='2.5'/><path d='M282 96 C293 92 302 98 302 108 C292 113 283 107 282 96 Z' fill='#A8B79A'/><path d='M271 112 C261 106 252 111 252 121 C262 126 270 121 271 112 Z' fill='#B7C5A7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "a library book, borrowed",
+   "text": "Japan has no single word for menopause. The silence is *cultural*, not proof that you're fine.",
+   "phrases": [
+    "Margaret Lock compared Japan and Canada, 1993.",
+    "Japanese women reported far fewer hot flashes.",
+    "Culture writes the script; her body was still real."
+   ],
+   "attribution": "— Margaret Lock, Encounters with Aging (1993)",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FCF3E9'/><stop offset='1' stop-color='#F0DCCE'/></linearGradient><radialGradient id='d2' cx='0.72' cy='0.3' r='0.45'><stop offset='0' stop-color='#FDF0D6' stop-opacity='0.95'/><stop offset='1' stop-color='#FDF0D6' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#FBF4EA'/><stop offset='1' stop-color='#F2E3D2'/></linearGradient></defs><rect width='320' height='200' fill='url(#d1)'/><path d='M212 16 C246 10 278 18 296 30 C300 62 299 90 294 110 C270 119 242 119 218 110 C210 80 206 44 212 16 Z' fill='#F5E2D2'/><path d='M212 16 C246 10 278 18 296 30 C300 62 299 90 294 110 C270 119 242 119 218 110 C210 80 206 44 212 16 Z' fill='none' stroke='#DDB9A2' stroke-width='2.5'/><path d='M252 40 C264 36 274 44 272 56 C262 62 250 55 252 40 Z' fill='#FBEBC8'/><rect width='320' height='200' fill='url(#d2)'/><path d='M0 140 C96 130 224 132 320 141 L320 200 L0 200 Z' fill='#E7CFB6'/><path d='M0 140 C96 130 224 132 320 141' stroke='#D2B094' stroke-width='2' fill='none'/><path d='M46 146 C74 132 108 130 134 140 C132 158 130 168 128 176 C104 168 72 170 48 180 C46 168 46 156 46 146 Z' fill='url(#d3)' stroke='#CBA88C' stroke-width='2'/><path d='M134 140 C160 130 194 132 222 146 C222 156 222 168 220 180 C196 170 164 168 140 176 C138 168 136 158 134 140 Z' fill='url(#d3)' stroke='#CBA88C' stroke-width='2'/><path d='M134 140 C133 154 133 166 134 176' fill='none' stroke='#C39D80' stroke-width='2.5'/><path d='M62 150 C82 143 104 142 122 148' fill='none' stroke='#E0C8AE' stroke-width='2.5' stroke-linecap='round'/><path d='M62 160 C80 154 100 153 116 157' fill='none' stroke='#E0C8AE' stroke-width='2.5' stroke-linecap='round'/><path d='M150 148 C170 142 192 143 208 150' fill='none' stroke='#E0C8AE' stroke-width='2.5' stroke-linecap='round'/><path d='M150 158 C168 153 186 153 200 158' fill='none' stroke='#E0C8AE' stroke-width='2.5' stroke-linecap='round'/><path d='M268 138 C266 126 270 116 278 110 C288 108 296 114 296 124 C295 132 293 137 292 141' fill='#D89B83'/><path d='M282 108 C278 96 284 84 294 78' fill='none' stroke='#9DAF92' stroke-width='2.5'/><path d='M294 78 C305 75 313 82 312 92 C302 96 294 89 294 78 Z' fill='#A8B79A'/></svg>",
+   "motion": "pan-right",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Tonight: start a 2-week log of flashes, sleep and mood, and *bring* it to the appointment.",
+   "phrases": [
+    "Log flashes, sleep and mood for 2 weeks.",
+    "Ask the clinic: \"Is anyone here menopause-certified?\"",
+    "150 min of brisk walking a week (WHO); 1,200 mg calcium daily after 51 (NIH ODS)."
+   ],
+   "attribution": "— The Menopause Society · WHO · NIH Office of Dietary Supplements",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FEF8EE'/><stop offset='1' stop-color='#F7E0D4'/></linearGradient><radialGradient id='e2' cx='0.24' cy='0.24' r='0.55'><stop offset='0' stop-color='#FDEBC4' stop-opacity='0.95'/><stop offset='1' stop-color='#FDEBC4' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FBF4E9'/><stop offset='1' stop-color='#F0DFCB'/></linearGradient></defs><rect width='320' height='200' fill='url(#e1)'/><path d='M22 12 C58 6 92 14 112 26 C116 58 115 86 110 106 C86 115 56 115 30 106 C20 76 16 40 22 12 Z' fill='#FAE7C8'/><path d='M22 12 C58 6 92 14 112 26 C116 58 115 86 110 106 C86 115 56 115 30 106 C20 76 16 40 22 12 Z' fill='none' stroke='#E2BFA4' stroke-width='2.5'/><rect width='320' height='200' fill='url(#e2)'/><path d='M0 144 C96 134 224 136 320 145 L320 200 L0 200 Z' fill='#EBD4BA'/><path d='M0 144 C96 134 224 136 320 145' stroke='#D5B597' stroke-width='2' fill='none'/><path d='M108 148 C140 138 178 138 208 148 C206 168 204 180 202 190 C176 182 140 182 112 190 C110 178 108 162 108 148 Z' fill='url(#e3)' stroke='#C9A78B' stroke-width='2'/><path d='M124 158 C148 151 176 151 196 157' fill='none' stroke='#E1C9AF' stroke-width='3' stroke-linecap='round'/><path d='M124 170 C146 164 170 163 188 167' fill='none' stroke='#E1C9AF' stroke-width='3' stroke-linecap='round'/><path d='M214 142 C230 128 244 118 254 114 C260 116 262 122 258 128 C248 138 234 150 222 160 C216 160 213 152 214 142 Z' fill='#D89B83'/><path d='M52 156 C63 152 78 152 87 156 C85 172 82 182 78 187 C71 190 66 190 60 187 C56 182 53 172 52 156 Z' fill='#FAEEE1' stroke='#C6A48A' stroke-width='2'/><path d='M67 146 C61 137 72 131 67 121' fill='none' stroke='#DCA79E' stroke-width='2.5' stroke-linecap='round' opacity='0.65'/><path d='M244 176 C246 164 254 158 266 158 C278 158 286 164 288 176 C276 182 258 182 244 176 Z' fill='#C98A72'/><path d='M266 158 C266 150 272 146 280 148' fill='none' stroke='#B87A62' stroke-width='2.5'/><path d='M288 174 C296 166 304 164 312 168' fill='none' stroke='#A8B79A' stroke-width='3' stroke-linecap='round'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "share this with your mum",
+   "text": "Follow @aiforheratx — so the next 2pm sweat never feels like *your* fault again.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFAF1'/><stop offset='1' stop-color='#F8E2D6'/></linearGradient><linearGradient id='f2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#FDEFD0'/><stop offset='1' stop-color='#F6D3C6'/></linearGradient><radialGradient id='f3' cx='0.68' cy='0.26' r='0.62'><stop offset='0' stop-color='#FCE3AE' stop-opacity='0.9'/><stop offset='1' stop-color='#FCE3AE' stop-opacity='0'/></radialGradient></defs><rect width='320' height='200' fill='url(#f1)'/><path d='M188 20 C232 13 270 22 292 36 C297 76 296 110 290 134 C258 144 218 144 186 134 C179 98 180 54 188 20 Z' fill='url(#f2)'/><path d='M188 20 C232 13 270 22 292 36 C297 76 296 110 290 134 C258 144 218 144 186 134 C179 98 180 54 188 20 Z' fill='none' stroke='#E0B8A4' stroke-width='2.5'/><path d='M185 90 C218 82 259 82 292 90' stroke='#E0B8A4' stroke-width='2' fill='none'/><path d='M228 46 C244 40 258 50 255 66 C241 74 225 63 228 46 Z' fill='#FDF3D6'/><rect width='320' height='200' fill='url(#f3)'/><path d='M0 152 C92 141 220 143 320 152 L320 200 L0 200 Z' fill='#EEDABF'/><path d='M0 152 C92 141 220 143 320 152' stroke='#D8BB9E' stroke-width='2' fill='none'/><path d='M118 110 C131 105 147 105 159 110 C157 132 152 148 148 154 C140 158 132 158 126 154 C122 148 119 132 118 110 Z' fill='#FDF5EA' stroke='#C6A48A' stroke-width='2'/><path d='M159 118 C171 116 175 128 166 134' fill='none' stroke='#C6A48A' stroke-width='2'/><path d='M132 100 C125 90 139 84 132 70' fill='none' stroke='#DBAA9F' stroke-width='2.5' stroke-linecap='round' opacity='0.7'/><path d='M40 152 C49 149 63 149 71 152 C69 166 66 175 62 179 C56 181 51 181 46 179 C42 175 41 166 40 152 Z' fill='#D89B83'/><path d='M56 149 C53 137 57 124 64 116' fill='none' stroke='#9DAF92' stroke-width='2.5'/><path d='M64 116 C74 110 84 114 86 124 C76 130 66 126 64 116 Z' fill='#A8B79A'/><path d='M57 130 C47 124 38 128 37 138 C47 143 56 139 57 130 Z' fill='#BCC9AB'/><path d='M84 96 C92 92 100 96 100 104 C93 108 84 104 84 96 Z' fill='#F0C8BC' opacity='0.8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-up"
+  }
+ ]
+}
