@@ -1,0 +1,80 @@
+{
+ "title": "Day 23 — she snaps, then it lifts (PMDD)",
+ "caption": "Two good weeks, then you're a stranger to yourself? That's PMDD — about 1 in 20 women (IAPMD). Track mood + cycle day for 2 cycles; that record is what gets you care. Send this to her. Which day hits hardest?\nwww.aiforheratx.org\n#pmdd #pmddawareness #womenshealth #cycletracking #hormonehealth",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "day 23. again.",
+   "text": "Two good weeks. Then I *snap* at everyone I love.",
+   "suggest": "→ Track daily, 2 cycles → ask about *PMDD* (DSM-5)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='r1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F6E7DA'/><stop offset='1' stop-color='#E8D3C6'/></linearGradient><linearGradient id='w1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#CFC3D4'/><stop offset='1' stop-color='#F0DCD8'/></linearGradient><radialGradient id='g1' cx='0.7' cy='0.3' r='0.7'><stop offset='0' stop-color='#FBEFE2' stop-opacity='0.9'/><stop offset='1' stop-color='#FBEFE2' stop-opacity='0'/></radialGradient></defs><path d='M0 0h320v200H0z' fill='url(#r1)'/><path d='M176 22c40-6 78-4 118 2 3 40 3 78 0 116-40 6-78 6-118 1-4-40-4-79 0-119z' fill='url(#w1)' opacity='0.95'/><path d='M176 22c40-6 78-4 118 2' fill='none' stroke='#C9AFA2' stroke-width='2' stroke-linecap='round' opacity='0.7'/><path d='M232 24c2 39 2 78 0 117' fill='none' stroke='#C9AFA2' stroke-width='1.5' opacity='0.5'/><path d='M0 0h320v200H0z' fill='url(#g1)'/><path d='M20 150c60-10 210-12 300-2v52H14z' fill='#D9BFAE' opacity='0.85'/><path d='M64 118c-9 1-15 7-15 16 0 12 6 21 17 22 12 1 19-9 19-22 0-9-6-16-21-16z' fill='#F7E6E7'/><path d='M84 128c8-2 13 3 12 9-1 6-7 8-13 6' fill='none' stroke='#F7E6E7' stroke-width='4' stroke-linecap='round'/><path d='M60 106c-3-8 4-11 2-19M70 104c-2-7 5-10 3-17' fill='none' stroke='#C9AFA2' stroke-width='2.5' stroke-linecap='round' opacity='0.65'/><path d='M262 152c-3-16 1-30 9-41 2 14-1 30-9 41z' fill='#9DB39B' opacity='0.9'/><path d='M266 150c-9-9-14-20-14-31 10 6 18 18 14 31z' fill='#8CA48B' opacity='0.85'/><path d='M258 150h18l-3 14h-13z' fill='#C98E7E' opacity='0.9'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "parked outside her own house",
+   "text": "Nadia is 34. Two kids, a spreadsheet job, and one week a month she does not recognize herself.",
+   "phrases": [
+    "Nadia, 34. Two kids, a spreadsheet job.",
+    "Day 23: she cries in the car before going in.",
+    "Day 1: her period starts and she's herself again."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='n2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#CFC3D4'/><stop offset='0.6' stop-color='#E6D2CE'/><stop offset='1' stop-color='#E8D3C6'/></linearGradient><radialGradient id='l2' cx='0.28' cy='0.34' r='0.42'><stop offset='0' stop-color='#F8E4C8' stop-opacity='0.95'/><stop offset='1' stop-color='#F8E4C8' stop-opacity='0'/></radialGradient><linearGradient id='gl2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F1E2DC' stop-opacity='0.7'/><stop offset='1' stop-color='#D9C6C4' stop-opacity='0.5'/></linearGradient></defs><path d='M0 0h320v200H0z' fill='url(#n2)'/><path d='M0 0h320v200H0z' fill='url(#l2)'/><path d='M26 92c30-30 72-44 118-42 44 2 82 18 110 46 6 40 4 70-2 104H24c-6-36-6-70 2-108z' fill='#B7A7B8' opacity='0.55'/><path d='M46 100c26-24 62-35 100-33 36 2 68 14 92 35 4 18 3 32 0 44-62-8-130-8-196 1-3-14-3-29 4-47z' fill='url(#gl2)'/><path d='M52 118c22 26 66 34 96 22' fill='none' stroke='#F3E6DE' stroke-width='3' stroke-linecap='round' opacity='0.6'/><path d='M84 128c-4 14-3 26 3 36-12-2-20-12-21-24 0-8 7-13 18-12z' fill='#8E7C86' opacity='0.85'/><path d='M96 122c-8-2-14 3-14 10 0 8 5 13 12 13s12-6 11-14c-1-6-4-8-9-9z' fill='#8E7C86' opacity='0.9'/><path d='M228 96c-2 20-2 40 0 62M244 100c-1 18-1 36 0 54' fill='none' stroke='#F6EAE0' stroke-width='2' stroke-linecap='round' opacity='0.55'/><path d='M0 172c70-12 250-12 320-2v30H0z' fill='#C3A899' opacity='0.9'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "it has a name",
+   "text": "About 1 in 20 women live with PMDD — a listed diagnosis, not a bad attitude. (IAPMD)",
+   "number": "1 in 20",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F7E9DE'/><stop offset='1' stop-color='#F2DCD6'/></linearGradient><radialGradient id='h3' cx='0.5' cy='0.55' r='0.55'><stop offset='0' stop-color='#FFF6EA' stop-opacity='0.95'/><stop offset='1' stop-color='#FFF6EA' stop-opacity='0'/></radialGradient></defs><path d='M0 0h320v200H0z' fill='url(#b3)'/><path d='M0 0h320v200H0z' fill='url(#h3)'/><g fill='#DCC8BC' opacity='0.85'><path d='M40 54c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M84 48c8-8 18-7 20 3 1 9-7 15-16 13-8-2-9-10-4-16z'/><path d='M128 52c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-9-5-16z'/><path d='M172 46c8-8 18-7 20 3 2 9-6 15-15 13-8-1-10-10-5-16z'/><path d='M216 52c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M40 106c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M84 100c8-8 18-7 20 3 1 9-7 15-16 13-8-2-9-10-4-16z'/><path d='M172 104c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M216 98c8-8 18-7 20 3 2 9-6 15-15 13-8-2-10-10-5-16z'/><path d='M40 152c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M84 146c8-8 18-7 20 3 1 9-7 15-16 13-8-2-9-10-4-16z'/><path d='M128 150c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-9-5-16z'/><path d='M172 146c8-8 18-7 20 3 2 9-6 15-15 13-8-1-10-10-5-16z'/><path d='M216 152c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M260 50c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M260 106c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M260 152c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z'/><path d='M128 106c8-9 18-8 20 2 2 9-6 16-15 14-8-2-10-10-5-16z' opacity='0'/></g><path d='M124 98c11-12 25-10 28 3 3 12-8 22-21 19-11-2-14-13-7-22z' fill='#C97B84'/><path d='M132 92c-2-9 4-13 3-21' fill='none' stroke='#C97B84' stroke-width='2.5' stroke-linecap='round' opacity='0.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "her labs came back fine",
+   "text": "In a 1998 NEJM trial, women with PMS had normal hormone levels — their brains reacted differently to normal shifts.",
+   "phrases": [
+    "Her bloodwork was normal. Of course it was.",
+    "Researchers switched hormones off — symptoms lifted.",
+    "Added them back and the symptoms returned.",
+    "Normal levels, a brain that reacts. NEJM, 1998."
+   ],
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBEEDF'/><stop offset='1' stop-color='#EFDACE'/></linearGradient><linearGradient id='sk4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#E7D9E0'/><stop offset='1' stop-color='#F9DFC9'/></linearGradient><radialGradient id='sun4' cx='0.72' cy='0.26' r='0.4'><stop offset='0' stop-color='#FFF0D2' stop-opacity='1'/><stop offset='1' stop-color='#FFF0D2' stop-opacity='0'/></radialGradient></defs><path d='M0 0h320v200H0z' fill='url(#d4)'/><path d='M168 14c42-5 82-4 124 2 4 44 4 84 0 122-42 5-82 5-124 0-4-42-4-82 0-124z' fill='url(#sk4)'/><path d='M168 14c42-5 82-4 124 2 4 44 4 84 0 122-42 5-82 5-124 0-4-42-4-82 0-124z' fill='url(#sun4)'/><path d='M176 118c26-16 52-22 78-16 14 3 26 9 38 16-38 5-78 5-116 0z' fill='#D8C0AE' opacity='0.7'/><path d='M0 140c62-12 258-12 320-2v62H0z' fill='#E3CBB6'/><path d='M36 138c34-8 76-9 112-2 5 14 5 26 2 38-40 6-80 6-118 0-2-12-1-24 4-36z' fill='#FDF6EC'/><path d='M92 136c1 24 1 38 0 38' fill='none' stroke='#DCC7B6' stroke-width='2'/><path d='M48 150c14-3 28-3 34-1M48 160c14-3 28-3 34-1M104 150c14-3 28-3 34-1M104 160c14-3 28-3 34-1' fill='none' stroke='#C9AFA2' stroke-width='2' stroke-linecap='round' opacity='0.7'/><path d='M146 172c14-8 24-14 30-24' fill='none' stroke='#C97B84' stroke-width='3' stroke-linecap='round'/><path d='M242 150c-4-18 0-34 10-46 3 16-1 34-10 46z' fill='#9DB39B'/><path d='M246 150c-10-10-16-22-15-35 11 7 20 21 15 35z' fill='#8CA48B'/><path d='M238 148h18l-3 16h-13z' fill='#C98E7E'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Tonight: rate mood 1-10 with your cycle day in your notes app, and walk 20 minutes tomorrow.",
+   "phrases": [
+    "Tonight: mood 1-10 + cycle day, in your notes app.",
+    "Keep it for two cycles — that record is what a doctor can act on.",
+    "Add 20 min of walking most days (WHO: 150 min a week)."
+   ],
+   "attribution": "— IAPMD symptom-tracking guidance; WHO 2020 activity guidelines",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='w5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF1E2'/><stop offset='1' stop-color='#F5DFD3'/></linearGradient><radialGradient id='lamp5' cx='0.3' cy='0.28' r='0.5'><stop offset='0' stop-color='#FFE9BF' stop-opacity='0.95'/><stop offset='1' stop-color='#FFE9BF' stop-opacity='0'/></radialGradient></defs><path d='M0 0h320v200H0z' fill='url(#w5)'/><path d='M0 0h320v200H0z' fill='url(#lamp5)'/><path d='M0 138c66-12 254-12 320-4v66H0z' fill='#E6CDB7'/><path d='M60 44c14-14 34-12 40 4 5 14-6 22-22 22-14 0-26-14-18-26z' fill='#F5D9A8' opacity='0.9'/><path d='M78 70c2 22 2 46 0 68' fill='none' stroke='#C9AFA2' stroke-width='4' stroke-linecap='round'/><path d='M62 140c12-4 24-4 34 0-10 4-24 4-34 0z' fill='#C9AFA2'/><path d='M124 132c34-6 68-6 100 0 4 10 4 18 2 26-36 5-70 5-104 0-2-8-2-16 2-26z' fill='#FDF8F0'/><path d='M136 144c18-3 38-3 50-1M136 152c18-3 38-3 50-1' fill='none' stroke='#C97B84' stroke-width='2.5' stroke-linecap='round' opacity='0.8'/><path d='M222 150c10-10 18-18 22-28' fill='none' stroke='#8A6A5C' stroke-width='3' stroke-linecap='round'/><path d='M252 138c-6-16-4-32 4-44 6 14 6 32-4 44z' fill='#9DB39B'/><path d='M256 138c-12-8-20-20-20-33 13 6 24 19 20 33z' fill='#8CA48B'/><path d='M246 136h20l-4 16h-13z' fill='#C98E7E'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "day 23 isn't your personality",
+   "text": "Follow @aiforheratx — women's health, explained. Send this to the friend who cries in the car.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='m6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF3E6'/><stop offset='1' stop-color='#F6E0D6'/></linearGradient><linearGradient id='sky6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FBE3C6'/><stop offset='1' stop-color='#F6D9DA'/></linearGradient><radialGradient id='glow6' cx='0.6' cy='0.3' r='0.55'><stop offset='0' stop-color='#FFF3DC' stop-opacity='1'/><stop offset='1' stop-color='#FFF3DC' stop-opacity='0'/></radialGradient></defs><path d='M0 0h320v200H0z' fill='url(#m6)'/><path d='M74 18c58-8 116-6 174 3 5 46 5 88 0 130-58 8-116 8-174 1-6-44-6-88 0-134z' fill='url(#sky6)'/><path d='M74 18c58-8 116-6 174 3 5 46 5 88 0 130-58 8-116 8-174 1-6-44-6-88 0-134z' fill='url(#glow6)'/><path d='M96 118c34-20 66-26 96-18 20 5 36 12 52 20-50 6-100 6-148-2z' fill='#E3C3A8' opacity='0.65'/><path d='M162 20c2 44 2 88 0 132' fill='none' stroke='#EBD3C2' stroke-width='2.5' opacity='0.8'/><path d='M0 150c68-12 252-12 320-4v58H0z' fill='#E8D0BA'/><path d='M52 158c-10 2-16 8-16 17 0 11 7 19 18 19 11 0 17-9 17-20 0-9-7-16-19-16z' fill='#F7E6E7'/><path d='M72 168c8-2 13 3 12 9-1 6-7 8-13 6' fill='none' stroke='#F7E6E7' stroke-width='4' stroke-linecap='round'/><path d='M46 146c-3-9 4-12 2-20M58 144c-2-8 5-11 3-18' fill='none' stroke='#D3B7A6' stroke-width='2.5' stroke-linecap='round' opacity='0.7'/><path d='M268 154c-6-18-2-36 8-48 6 16 4 36-8 48z' fill='#9DB39B'/><path d='M272 154c-14-8-22-22-22-36 15 7 27 21 22 36z' fill='#8CA48B'/><path d='M260 152h22l-4 18h-14z' fill='#C98E7E'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
