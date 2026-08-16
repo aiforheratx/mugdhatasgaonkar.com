@@ -1,0 +1,80 @@
+{
+ "title": "Myth Flip — 'I'm just a bad sleeper now' (Nisha, 44 · CBT-I)",
+ "caption": "Myth: bad sleep at 44 is just stress. First-line care for chronic insomnia is CBT-I, not a pill (ACP 2016).\nWhich myth should we flip next? 👇\nwww.aiforheratx.org\n#perimenopause #insomnia #cbti #womenshealth #sleephealth #menopausesupport",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "3:40 AM. again.",
+   "text": "\"I'm just a *bad sleeper* now.\" Nisha, 44, has been awake since 3:40.",
+   "suggest": "→ Ask for *CBT-I*, not a pill (ACP 2016)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ded0d8'/><stop offset='1' stop-color='#f7efe8'/></linearGradient><linearGradient id='s1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#b9a6bd'/><stop offset='1' stop-color='#e3d2d6'/></linearGradient><radialGradient id='g1'><stop offset='0' stop-color='#fff8e9' stop-opacity='.9'/><stop offset='1' stop-color='#fff8e9' stop-opacity='0'/></radialGradient><linearGradient id='b1' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f8eeec'/><stop offset='1' stop-color='#dfc9d2'/></linearGradient></defs><rect width='320' height='200' fill='url(#a1)'/><path d='M168 16 C216 8 262 12 292 20 C296 62 296 104 290 142 C250 148 206 148 166 140 C158 100 158 56 168 16 Z' fill='url(#s1)'/><circle cx='234' cy='58' r='46' fill='url(#g1)'/><path d='M216 40 C230 32 248 40 248 56 C248 71 233 81 219 75 C207 70 204 47 216 40 Z' fill='#fdf7e6'/><path d='M158 10 C177 46 173 98 156 150 C142 152 130 149 122 143 C137 96 139 46 130 10 Z' fill='#ece1e4' opacity='.92'/><path d='M0 200 C42 150 122 131 202 138 C260 143 302 153 320 169 L320 200 Z' fill='url(#b1)'/><path d='M38 179 C92 156 162 149 240 159' stroke='#cdb6c0' stroke-width='2' fill='none' opacity='.75'/><path d='M26 155 C48 137 86 137 98 152 C106 163 84 173 56 171 C35 169 20 163 26 155 Z' fill='#fbf3ec'/><path d='M258 170 C258 161 280 161 280 170 C280 181 275 187 269 187 C262 187 258 180 258 170 Z' fill='#f2e0d3'/><path d='M267 157 C274 150 261 145 268 137' stroke='#e0ced6' stroke-width='2' fill='none' opacity='.85'/></svg>",
+   "motion": "zoom-in",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "the year it started",
+   "text": "Nothing about her life changed. Her sleep did, right when *perimenopause* started.",
+   "phrases": [
+    "Same bed. Same 10 PM.",
+    "Same cold chai on the nightstand.",
+    "Her sleep cracked open at *perimenopause*."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#dccfd9'/><stop offset='1' stop-color='#f7f0e9'/></linearGradient><linearGradient id='s2' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ad9cb4'/><stop offset='1' stop-color='#e7d6d6'/></linearGradient><radialGradient id='g2'><stop offset='0' stop-color='#fff6e6' stop-opacity='.8'/><stop offset='1' stop-color='#fff6e6' stop-opacity='0'/></radialGradient><linearGradient id='b2' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f7ebe9'/><stop offset='1' stop-color='#ddc6d0'/></linearGradient></defs><rect width='320' height='200' fill='url(#a2)'/><path d='M96 14 C150 6 216 10 254 20 C258 60 258 100 252 136 C204 144 146 144 96 134 C88 96 88 52 96 14 Z' fill='url(#s2)'/><circle cx='196' cy='54' r='42' fill='url(#g2)'/><path d='M182 40 C194 33 210 40 210 54 C210 68 197 76 185 71 C174 66 172 46 182 40 Z' fill='#fdf6e5' opacity='.92'/><path d='M88 8 C106 48 102 98 86 148 C72 150 60 147 52 141 C67 96 69 44 60 8 Z' fill='#ebe0e3' opacity='.9'/><path d='M262 148 C260 126 264 106 272 90 C276 82 286 80 290 88 C296 102 294 128 288 150 Z' fill='#cfd8c4'/><path d='M272 96 C262 86 250 84 244 88 C252 98 264 102 272 98 Z' fill='#c2cfb5'/><path d='M282 84 C286 70 296 62 306 62 C304 76 294 86 284 88 Z' fill='#c7d3ba'/><path d='M0 200 C46 156 128 138 208 144 C264 148 302 158 320 172 L320 200 Z' fill='url(#b2)'/><path d='M44 182 C98 160 168 154 244 164' stroke='#c9b2be' stroke-width='2' fill='none' opacity='.7'/><path d='M14 168 C22 158 46 156 56 164 C64 171 50 180 32 180 C20 180 10 174 14 168 Z' fill='#fbf3ec'/></svg>",
+   "motion": "pan-left",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "the group chat, 6 AM",
+   "text": "Everyone had a fix. Nobody asked what was actually happening at 3:40 AM.",
+   "phrases": [
+    "\"Everyone's tired, honestly.\"",
+    "\"Have you tried melatonin?\"",
+    "\"Cut the coffee, maybe.\"",
+    "She started to think she was making it up."
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#d9ccd6'/><stop offset='1' stop-color='#f6efe9'/></linearGradient><radialGradient id='g3'><stop offset='0' stop-color='#fdf3d9' stop-opacity='.95'/><stop offset='1' stop-color='#fdf3d9' stop-opacity='0'/></radialGradient><linearGradient id='p3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fdf6e8'/><stop offset='1' stop-color='#efdfd8'/></linearGradient><linearGradient id='b3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f4e7e7'/><stop offset='1' stop-color='#dcc5ce'/></linearGradient></defs><rect width='320' height='200' fill='url(#a3)'/><path d='M0 138 C60 120 150 112 230 118 C276 121 306 128 320 136 L320 200 L0 200 Z' fill='url(#b3)'/><circle cx='160' cy='108' r='72' fill='url(#g3)'/><path d='M132 60 C132 52 142 48 160 48 C178 48 188 52 188 60 C190 88 190 118 188 140 C186 148 174 152 160 152 C144 152 134 148 132 140 C130 118 130 88 132 60 Z' fill='url(#p3)'/><path d='M140 66 C140 62 148 60 160 60 C172 60 180 62 180 66 C181 90 181 116 180 134 C179 139 171 141 160 141 C148 141 141 139 140 134 C139 116 139 90 140 66 Z' fill='#fffaf0' opacity='.95'/><path d='M58 158 C58 150 76 148 88 152 C96 155 94 164 84 166 C72 169 58 165 58 158 Z' fill='#f7ece6' opacity='.9'/><path d='M242 150 C240 141 258 136 272 140 C282 143 280 154 268 157 C256 160 243 157 242 150 Z' fill='#f2e2dd' opacity='.9'/><path d='M264 172 C264 163 288 163 288 172 C288 184 283 190 276 190 C269 190 264 182 264 172 Z' fill='#eddcd0'/><path d='M274 159 C281 152 268 147 275 139' stroke='#dfcdd4' stroke-width='2' fill='none' opacity='.8'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "so, not in her head",
+   "number": "2×",
+   "text": "Insomnia roughly *doubles* the risk of depression later (Baglioni, 2011). She wasn't imagining it.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e6d8d6'/><stop offset='1' stop-color='#faf2e8'/></linearGradient><linearGradient id='s4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#c8b4bd'/><stop offset='1' stop-color='#f6ddc6'/></linearGradient><radialGradient id='g4'><stop offset='0' stop-color='#ffeccb' stop-opacity='.95'/><stop offset='1' stop-color='#ffeccb' stop-opacity='0'/></radialGradient><linearGradient id='b4' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#f8ebe5'/><stop offset='1' stop-color='#e0c8cd'/></linearGradient></defs><rect width='320' height='200' fill='url(#a4)'/><path d='M92 12 C150 4 220 8 258 18 C262 58 262 100 256 138 C206 146 144 146 92 136 C84 96 84 50 92 12 Z' fill='url(#s4)'/><circle cx='176' cy='120' r='58' fill='url(#g4)'/><path d='M96 124 C124 106 148 116 176 106 C204 96 228 104 256 92 C258 108 257 124 254 138 C204 146 144 146 96 136 Z' fill='#e9c9b4' opacity='.7'/><path d='M84 6 C102 46 98 98 82 148 C68 150 56 147 48 141 C63 96 65 44 56 6 Z' fill='#efe3e0' opacity='.9'/><path d='M0 200 C50 160 130 144 210 150 C266 154 302 162 320 174 L320 200 Z' fill='url(#b4)'/><path d='M40 184 C96 164 166 158 242 168' stroke='#cdb3bb' stroke-width='2' fill='none' opacity='.65'/><path d='M266 166 C266 157 290 157 290 166 C290 178 285 185 278 185 C271 185 266 177 266 166 Z' fill='#f0dccc'/><path d='M276 153 C283 146 270 141 277 133' stroke='#ddc9cf' stroke-width='2' fill='none' opacity='.8'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Tonight: a 10-minute worry list at 8 PM. Still awake at 20 minutes? Leave the bed.",
+   "phrases": [
+    "8 PM: ten minutes, worry list, on paper.",
+    "Awake past 20 minutes? Get out of bed.",
+    "Tomorrow, a daylight walk. WHO's target is 150 minutes a week."
+   ],
+   "attribution": "— stimulus control, Richard Bootzin (CBT-I)",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f6ddc8'/><stop offset='1' stop-color='#fdf5ea'/></linearGradient><radialGradient id='g5'><stop offset='0' stop-color='#ffe6b8' stop-opacity='.95'/><stop offset='1' stop-color='#ffe6b8' stop-opacity='0'/></radialGradient><linearGradient id='b5' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fbeee3'/><stop offset='1' stop-color='#eed3ce'/></linearGradient><linearGradient id='n5' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#fffaf1'/><stop offset='1' stop-color='#f5e7dc'/></linearGradient></defs><rect width='320' height='200' fill='url(#a5)'/><circle cx='250' cy='54' r='68' fill='url(#g5)'/><path d='M226 30 C244 18 268 26 272 46 C276 66 258 80 240 74 C224 68 214 40 226 30 Z' fill='#ffd9a1' opacity='.7'/><path d='M0 200 C48 152 132 134 214 140 C268 144 302 154 320 168 L320 200 Z' fill='url(#b5)'/><path d='M62 178 C72 148 100 128 132 126 C160 124 178 138 176 158 C174 174 140 186 104 186 C82 186 60 184 62 178 Z' fill='url(#n5)'/><path d='M78 160 C102 150 130 148 158 152' stroke='#e0c6b6' stroke-width='2.5' fill='none' opacity='.8'/><path d='M84 170 C106 161 132 159 156 162' stroke='#e6cfc0' stroke-width='2.5' fill='none' opacity='.75'/><path d='M170 130 C190 118 208 110 222 108 C224 114 210 124 190 136 C182 141 170 138 170 130 Z' fill='#d8b7a4'/><path d='M28 190 C26 170 30 152 38 140 C42 133 52 132 56 140 C62 152 60 174 54 192 Z' fill='#cdd8bd'/><path d='M40 146 C30 136 18 134 12 138 C20 148 32 152 40 148 Z' fill='#bfcdae'/><path d='M258 176 C258 166 284 166 284 176 C284 189 278 196 271 196 C263 196 258 188 258 176 Z' fill='#f1dcc6'/><path d='M268 162 C275 155 262 150 269 142' stroke='#e6cdbb' stroke-width='2' fill='none' opacity='.85'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "for the 3:40 AM club",
+   "text": "Ask your clinician for *CBT-I* by name. Follow @aiforheratx for women's health, explained.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f7dfcb'/><stop offset='1' stop-color='#fdf6ec'/></linearGradient><linearGradient id='s6' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ffd9a6'/><stop offset='1' stop-color='#fdefdc'/></linearGradient><radialGradient id='g6'><stop offset='0' stop-color='#fff0c9' stop-opacity='.98'/><stop offset='1' stop-color='#fff0c9' stop-opacity='0'/></radialGradient><linearGradient id='b6' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#fcf0e6'/><stop offset='1' stop-color='#eed5cf'/></linearGradient></defs><rect width='320' height='200' fill='url(#a6)'/><path d='M168 16 C216 8 262 12 292 20 C296 62 296 104 290 142 C250 148 206 148 166 140 C158 100 158 56 168 16 Z' fill='url(#s6)'/><circle cx='232' cy='96' r='54' fill='url(#g6)'/><path d='M212 84 C224 72 246 76 252 92 C258 108 242 120 226 116 C212 112 204 94 212 84 Z' fill='#ffe0a4'/><path d='M166 122 C196 112 224 120 252 112 C270 107 284 108 290 112 C290 126 289 136 288 142 C250 148 206 148 166 140 Z' fill='#f2cdb0' opacity='.65'/><path d='M158 10 C177 46 173 98 156 150 C142 152 130 149 122 143 C137 96 139 46 130 10 Z' fill='#f6e6dd' opacity='.92'/><path d='M0 200 C42 154 122 136 202 142 C260 146 302 156 320 170 L320 200 Z' fill='url(#b6)'/><path d='M36 180 C92 160 162 154 240 164' stroke='#dcbdb2' stroke-width='2' fill='none' opacity='.7'/><path d='M22 158 C44 141 82 141 94 155 C102 166 80 176 52 174 C31 172 16 165 22 158 Z' fill='#fffaf1'/><path d='M96 190 C94 172 98 156 105 145 C109 138 118 138 122 145 C127 156 125 176 120 194 Z' fill='#cfd9be'/><path d='M107 152 C97 143 86 141 80 145 C88 154 99 158 107 154 Z' fill='#c2cfae'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
