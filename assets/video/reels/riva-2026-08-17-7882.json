@@ -1,0 +1,80 @@
+{
+ "title": "Myth flip — awareness went backwards (Nadia, 46, and the stairs)",
+ "caption": "Myth: awareness only goes up. In the US it fell — 65% of women knew heart disease was their #1 killer in 2009, 44% by 2019 (AHA, Circulation 2021).\nWhich myth should we flip next? 👇\nwww.aiforheratx.org\n#womensheart #heartdisease #womenshealth #hearthealth #healthmyths",
+ "music_query": "emotional ambient piano",
+ "scenes": [
+  {
+   "kind": "hook",
+   "eyebrow": "week three of the stairs",
+   "text": "Chest tightness on the stairs. Two doctors called it *anxiety*.",
+   "suggest": "→ Ask for your *ASCVD* risk score (AHA/ACC)",
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='a1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF7F0'/><stop offset='1' stop-color='#F1DECB'/></linearGradient><radialGradient id='a2' cx='0.76' cy='0.22' r='0.62'><stop offset='0' stop-color='#F6D2A0' stop-opacity='0.85'/><stop offset='1' stop-color='#F6D2A0' stop-opacity='0'/></radialGradient><linearGradient id='a3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#EAD5BF'/><stop offset='1' stop-color='#D9BCA3'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#a1)'/><path d='M198 28 C198 19 205 12 214 12 L276 12 C285 12 292 19 292 28 L292 94 C292 103 285 110 276 110 L214 110 C205 110 198 103 198 94 Z' fill='#FBEEDA'/><path d='M245 13 C245 45 245 78 245 109' stroke='#E4CFB6' stroke-width='2' fill='none'/><path d='M199 61 C230 60 262 60 291 61' stroke='#E4CFB6' stroke-width='2' fill='none'/><path d='M0 0 H320 V200 H0 Z' fill='url(#a2)'/><path d='M-6 201 C34 198 64 187 90 171 C120 153 151 138 198 133 L210 201 Z' fill='url(#a3)'/><path d='M6 180 C20 178 31 174 43 168' stroke='#F7EBDA' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M44 167 C58 162 68 156 80 149' stroke='#F7EBDA' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M84 147 C99 141 111 137 126 135' stroke='#F7EBDA' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M130 134 C146 132 160 132 176 133' stroke='#F7EBDA' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M0 164 C44 154 92 135 152 112' stroke='#C49B80' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M30 172 C31 166 31 161 32 156' stroke='#C9A88F' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M70 156 C71 150 71 145 72 140' stroke='#C9A88F' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M112 141 C113 135 113 131 114 126' stroke='#C9A88F' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M236 201 C233 187 236 178 243 175 L271 175 C278 179 280 188 277 201 Z' fill='#DDBAA3'/><path d='M257 175 C248 160 245 146 252 131 C259 145 261 160 257 175 Z' fill='#A9B99E'/><path d='M256 176 C244 168 236 158 236 145 C247 151 254 163 256 176 Z' fill='#B8C6AC'/><path d='M259 176 C270 170 277 161 277 150 C267 155 260 165 259 176 Z' fill='#9DAE92'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "chat",
+   "eyebrow": "Nadia, 46 · the family chat",
+   "text": "Everyone had a reason for it. Nobody had a *test*.",
+   "phrases": [
+    "You're stressed. Everyone's stressed.",
+    "You're too young for heart stuff, na?",
+    "Then why does it stop the second I sit down?"
+   ],
+   "mood": "dim",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='b1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EE'/><stop offset='1' stop-color='#F0DCC9'/></linearGradient><radialGradient id='b2' cx='0.22' cy='0.24' r='0.6'><stop offset='0' stop-color='#F6D2A0' stop-opacity='0.8'/><stop offset='1' stop-color='#F6D2A0' stop-opacity='0'/></radialGradient><radialGradient id='b3' cx='0.5' cy='0.5' r='0.5'><stop offset='0' stop-color='#F3CFC6' stop-opacity='0.95'/><stop offset='1' stop-color='#F3CFC6' stop-opacity='0'/></radialGradient><linearGradient id='b4' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EBD6C0'/><stop offset='1' stop-color='#DCBFA7'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#b1)'/><path d='M26 26 C26 17 33 10 42 10 L104 10 C113 10 120 17 120 26 L120 92 C120 101 113 108 104 108 L42 108 C33 108 26 101 26 92 Z' fill='#FBEEDA'/><path d='M73 11 C73 43 73 76 73 107' stroke='#E4CFB6' stroke-width='2' fill='none'/><path d='M0 0 H320 V200 H0 Z' fill='url(#b2)'/><path d='M-4 140 C70 132 160 128 250 132 C290 134 315 138 324 142 L324 201 L-4 201 Z' fill='url(#b4)'/><path d='M-4 141 C70 133 160 129 250 133 C290 135 315 139 324 143' stroke='#F6E8D6' stroke-width='3' fill='none'/><path d='M150 100 H230 V160 H150 Z' fill='url(#b3)' opacity='0.9'/><path d='M176 121 C176 116 180 112 185 112 L212 112 C217 112 221 116 221 121 L221 133 C221 138 217 141 212 141 L185 141 C180 141 176 138 176 133 Z' fill='#EFE2D2' transform='rotate(-8 198 127)'/><path d='M180 118 C180 116 182 115 184 115 L212 115 C214 115 216 116 216 118 L216 136 C216 138 214 139 212 139 L184 139 C182 139 180 138 180 136 Z' fill='#F7EFE3' transform='rotate(-8 198 127)'/><path d='M74 140 C70 126 72 118 78 116 L104 116 C110 118 112 126 108 140 Z' fill='#EFDCC8'/><path d='M108 122 C118 120 122 126 118 132 C116 135 112 136 109 135' stroke='#D8BCA4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M75 122 C86 126 96 126 107 122' stroke='#C9A88F' stroke-width='2' fill='none'/><path d='M266 140 C262 128 265 121 271 119 L292 119 C298 122 300 129 296 140 Z' fill='#DDBAA3'/><path d='M282 119 C275 107 274 96 280 86 C286 96 287 108 282 119 Z' fill='#A9B99E'/><path d='M281 120 C272 115 267 107 268 98 C276 103 281 111 281 120 Z' fill='#B8C6AC'/></svg>",
+   "motion": "pan-left",
+   "enter": "fade"
+  },
+  {
+   "kind": "story",
+   "eyebrow": "what nobody told her",
+   "text": "In women a heart attack often arrives as jaw ache, nausea, or flat *exhaustion*.",
+   "phrases": [
+    "The myth: heart trouble is a man's illness.",
+    "It is the leading cause of death in women.",
+    "And in women it often looks like jaw ache, nausea, or flat exhaustion."
+   ],
+   "attribution": "— Nieca Goldberg, MD, Women Are Not Small Men",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='c1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF7F1'/><stop offset='1' stop-color='#F3DFCD'/></linearGradient><radialGradient id='c2' cx='0.78' cy='0.2' r='0.55'><stop offset='0' stop-color='#F9DDB0' stop-opacity='0.95'/><stop offset='1' stop-color='#F9DDB0' stop-opacity='0'/></radialGradient><linearGradient id='c3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F8EFE2'/><stop offset='1' stop-color='#E7D3BC'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#c1)'/><path d='M0 0 H320 V200 H0 Z' fill='url(#c2)'/><path d='M244 44 C236 34 240 22 252 20 C264 18 272 28 268 40 C266 47 260 52 254 52' fill='#F1CFC5' opacity='0.75'/><path d='M254 52 C254 74 254 96 254 118' stroke='#D9BCA4' stroke-width='3' fill='none'/><path d='M238 122 C238 116 245 112 254 112 C263 112 270 116 270 122 Z' fill='#DDBAA3'/><path d='M-6 148 C60 138 140 133 216 137 C266 140 306 145 326 150 L326 201 L-6 201 Z' fill='url(#c3)'/><path d='M60 146 C82 128 108 126 124 140 C140 126 166 128 188 146 C166 154 140 152 124 146 C108 152 82 154 60 146 Z' fill='#FBF3E7'/><path d='M124 140 C124 144 124 145 124 146' stroke='#D9BCA4' stroke-width='2' fill='none'/><path d='M76 142 C92 136 108 136 120 142' stroke='#E5CDB4' stroke-width='1.5' fill='none'/><path d='M128 142 C142 136 158 136 172 142' stroke='#E5CDB4' stroke-width='1.5' fill='none'/><path d='M32 148 C28 136 31 129 37 127 L58 127 C64 130 66 137 62 148 Z' fill='#EFDCC8'/><path d='M36 126 C34 116 38 108 46 104 C50 112 48 121 42 126' fill='#E8CFB6' opacity='0.7'/><path d='M226 148 C222 136 225 128 232 126 L256 126 C262 129 264 137 260 148 Z' fill='#E4C4AC' opacity='0'/></svg>",
+   "motion": "zoom-out",
+   "enter": "slide-left"
+  },
+  {
+   "kind": "stat",
+   "eyebrow": "United States, 2009 → 2019",
+   "number": "65% → 44%",
+   "text": "US women who knew heart disease was their top killer dropped from 65% to 44%.",
+   "mood": "neutral",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='d1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FDF6EE'/><stop offset='1' stop-color='#F2DFCE'/></linearGradient><radialGradient id='d2' cx='0.2' cy='0.26' r='0.5'><stop offset='0' stop-color='#F8D6A4' stop-opacity='0.9'/><stop offset='1' stop-color='#F8D6A4' stop-opacity='0'/></radialGradient><linearGradient id='d3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#EFDCC7'/><stop offset='1' stop-color='#DFC2A9'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#d1)'/><path d='M0 0 H320 V200 H0 Z' fill='url(#d2)'/><path d='M-8 168 C60 150 130 146 200 156 C254 164 300 176 328 186 L328 201 L-8 201 Z' fill='url(#d3)'/><path d='M-8 176 C64 160 138 157 206 167 C258 175 302 186 328 194' stroke='#F7EADA' stroke-width='3' fill='none' opacity='0.8'/><path d='M56 52 C60 44 70 42 76 48 C82 54 80 64 72 68 C64 72 56 66 56 58 Z' fill='#F2CCC2' opacity='0.85'/><path d='M74 66 C104 84 132 108 154 138' stroke='#DDB9A4' stroke-width='2.5' fill='none' stroke-dasharray='5 7' stroke-linecap='round'/><path d='M154 138 C150 132 152 126 158 125 C164 124 168 129 166 135 C165 139 160 141 156 140 Z' fill='#E8B7AE' opacity='0.9'/><path d='M264 130 C258 118 260 110 266 108 L288 108 C294 111 296 119 290 130 Z' fill='#DDBAA3'/><path d='M278 108 C270 96 268 84 274 74 C281 84 283 97 278 108 Z' fill='#A9B99E'/><path d='M277 109 C267 104 261 96 262 87 C270 92 276 100 277 109 Z' fill='#B8C6AC'/></svg>",
+   "motion": "zoom-in",
+   "enter": "slide-up"
+  },
+  {
+   "kind": "takeaway",
+   "eyebrow": "what she does tonight",
+   "text": "Write the two symptoms and the times they hit, then ask for the *score*.",
+   "phrases": [
+    "Write down the two symptoms and the exact times they hit.",
+    "Take that page in and ask for your ASCVD 10-year risk score.",
+    "Walk 22 minutes a day — that adds up to the WHO's 150 a week."
+   ],
+   "attribution": "— American Heart Association, Go Red for Women · WHO activity guideline",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='e1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFF9F2'/><stop offset='1' stop-color='#F6E3D0'/></linearGradient><radialGradient id='e2' cx='0.7' cy='0.2' r='0.62'><stop offset='0' stop-color='#FBE0B2' stop-opacity='0.95'/><stop offset='1' stop-color='#FBE0B2' stop-opacity='0'/></radialGradient><linearGradient id='e3' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#F0DDC8'/><stop offset='1' stop-color='#E0C4AB'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#e1)'/><path d='M0 0 H320 V200 H0 Z' fill='url(#e2)'/><path d='M-6 132 C70 122 160 118 244 124 C288 127 316 132 328 136 L328 201 L-6 201 Z' fill='url(#e3)'/><path d='M-6 133 C70 123 160 119 244 125 C288 128 316 133 328 137' stroke='#FBF0E0' stroke-width='3' fill='none'/><path d='M48 168 C70 150 100 148 118 162 C136 148 166 150 188 168 C164 176 136 174 118 168 C100 174 70 176 48 168 Z' fill='#FDF7EC'/><path d='M118 162 C118 165 118 166 118 168' stroke='#DCC0A8' stroke-width='2' fill='none'/><path d='M66 164 C82 158 98 158 112 164' stroke='#E6CFB6' stroke-width='1.5' fill='none'/><path d='M126 164 C142 158 158 158 172 164' stroke='#E6CFB6' stroke-width='1.5' fill='none'/><path d='M156 156 C176 146 192 138 206 132' stroke='#C49B80' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M232 172 C227 158 230 148 237 146 L264 146 C271 149 273 159 268 172 Z' fill='#EFDCC8'/><path d='M268 152 C280 150 285 157 280 164 C277 168 272 169 268 168' stroke='#D8BCA4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M243 142 C238 132 245 126 241 116' stroke='#E7CFB8' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M256 142 C251 130 259 124 254 112' stroke='#E7CFB8' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M14 122 C10 108 13 98 20 96 L40 96 C46 100 48 110 44 122 Z' fill='#DDBAA3'/><path d='M30 96 C22 82 21 68 28 58 C36 69 37 84 30 96 Z' fill='#A9B99E'/><path d='M29 97 C18 92 12 82 13 72 C22 78 28 87 29 97 Z' fill='#B8C6AC'/></svg>",
+   "motion": "pan-right",
+   "enter": "fade"
+  },
+  {
+   "kind": "cta",
+   "eyebrow": "back on those stairs",
+   "text": "Now she knows her number. Follow *@aiforheratx* — women's health, explained plainly.",
+   "mood": "warm",
+   "svg": "<svg viewBox='0 0 320 200' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='f1' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#FFFAF3'/><stop offset='1' stop-color='#F7E4D0'/></linearGradient><radialGradient id='f2' cx='0.76' cy='0.22' r='0.66'><stop offset='0' stop-color='#FBDCA6' stop-opacity='1'/><stop offset='1' stop-color='#FBDCA6' stop-opacity='0'/></radialGradient><linearGradient id='f3' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F1DCC5'/><stop offset='1' stop-color='#E2C4AA'/></linearGradient></defs><path d='M0 0 H320 V200 H0 Z' fill='url(#f1)'/><path d='M198 28 C198 19 205 12 214 12 L276 12 C285 12 292 19 292 28 L292 94 C292 103 285 110 276 110 L214 110 C205 110 198 103 198 94 Z' fill='#FFF6E4'/><path d='M245 13 C245 45 245 78 245 109' stroke='#EBD8C0' stroke-width='2' fill='none'/><path d='M199 61 C230 60 262 60 291 61' stroke='#EBD8C0' stroke-width='2' fill='none'/><path d='M0 0 H320 V200 H0 Z' fill='url(#f2)'/><path d='M-6 201 C34 198 64 187 90 171 C120 153 151 138 198 133 L210 201 Z' fill='url(#f3)'/><path d='M6 180 C20 178 31 174 43 168' stroke='#FEF4E4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M44 167 C58 162 68 156 80 149' stroke='#FEF4E4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M84 147 C99 141 111 137 126 135' stroke='#FEF4E4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M130 134 C146 132 160 132 176 133' stroke='#FEF4E4' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M0 164 C44 154 92 135 152 112' stroke='#C99F82' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M30 172 C31 166 31 161 32 156' stroke='#D2AC92' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M70 156 C71 150 71 145 72 140' stroke='#D2AC92' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M112 141 C113 135 113 131 114 126' stroke='#D2AC92' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M232 201 C230 187 232 178 238 174 L268 174 C274 178 276 187 274 201 Z' fill='#E0BDA5'/><path d='M252 174 C243 157 240 142 247 126 C255 141 257 158 252 174 Z' fill='#A9B99E'/><path d='M251 175 C238 167 230 156 230 143 C242 149 249 162 251 175 Z' fill='#B8C6AC'/><path d='M254 175 C266 168 274 158 274 146 C263 152 255 163 254 175 Z' fill='#9DAE92'/><path d='M150 46 C154 38 164 37 170 43 C176 49 173 59 165 62 C157 65 149 59 150 51 Z' fill='#F4D2C8' opacity='0.7'/></svg>",
+   "motion": "zoom-out",
+   "enter": "fade"
+  }
+ ]
+}
